@@ -6560,7 +6560,6 @@ guiders
 gentianales
 glandarious
 grandaddy
-genesiac
 gpcd
 glaziest
 gemminess
@@ -7113,6 +7112,7 @@ gopherberry
 guernsey
 gopherberries
 garbologist
+genesiac
 goatherd
 gothics
 glaucously
