@@ -9521,7 +9521,6 @@ dynamogeny
 dialysers
 demiurge
 decontaminated
-digital
 drunkest
 digitalin
 dispergator
@@ -15465,6 +15464,7 @@ dope
 divinities
 dompteuse
 doms
+digital
 derve
 don
 dona
