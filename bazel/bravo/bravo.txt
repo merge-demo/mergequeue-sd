@@ -7048,6 +7048,7 @@ biodegrade
 barbute
 billiardist
 besouth
+basidiomycetes
 blaming
 bedazzlement
 bespangle
@@ -8913,7 +8914,6 @@ bioecologically
 balatong
 bioelectrical
 bioengineering
-basidiomycetes
 bioethic
 beaverpelt
 bromyrite
