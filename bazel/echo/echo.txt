@@ -7845,7 +7845,6 @@ ejaculator
 eddish
 epigoni
 entomotaxy
-epigonic
 expletive
 excardination
 encrinoid
@@ -13027,6 +13026,7 @@ existentially
 esophagectomy
 entocornea
 ergotic
+epigonic
 estafette
 electrocauteries
 ethos

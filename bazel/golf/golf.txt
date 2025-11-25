@@ -3124,6 +3124,7 @@ gurglet
 grees
 geopolar
 grips
+glochines
 goan
 golandaas
 gooseherd
@@ -5814,7 +5815,6 @@ gloveman
 gumtrees
 growthy
 glover
-glochines
 genos
 glave
 guanidin
