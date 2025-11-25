@@ -910,6 +910,7 @@ electrostrictive
 episedia
 encomiastic
 excommunicators
+epidermical
 endosporous
 eriodictyon
 ectotoxin
@@ -7738,7 +7739,6 @@ everyness
 erythraea
 epirogeny
 epidermic
-epidermical
 enteroplasty
 erechtheus
 electropolish
