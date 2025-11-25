@@ -6318,7 +6318,6 @@ dermatozzoa
 dermatrophia
 disgrade
 dephlegmatory
-dermenchysis
 delacrimation
 dermestid
 dermatoneural
@@ -8732,6 +8731,7 @@ diathesis
 dirl
 dimps
 diatoma
+dermenchysis
 diapase
 deems
 diastase
