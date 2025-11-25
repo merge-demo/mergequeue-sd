@@ -86,6 +86,7 @@ filching
 faces
 folkright
 flattening
+filionymic
 flowerfence
 foliobranch
 fiendish
@@ -5526,7 +5527,6 @@ furrower
 furnit
 fisc
 faked
-filionymic
 forbearingness
 frowzy
 furbelowing
