@@ -2289,7 +2289,6 @@ derby
 decemviral
 deepish
 decemvirship
-decayer
 decene
 depurator
 decennial
@@ -2669,6 +2668,7 @@ dasylirion
 doorkeeper
 decompiler
 decomposable
+decayer
 diceman
 deviceful
 decomposer
