@@ -980,6 +980,7 @@ brogueful
 boohooed
 burnous
 boat
+braziery
 bayamos
 brownier
 brigand
@@ -5714,7 +5715,6 @@ badman
 beliers
 blemishing
 belies
-braziery
 believers
 beamful
 bloomery
