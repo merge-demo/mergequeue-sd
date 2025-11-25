@@ -23506,7 +23506,6 @@ cartographies
 calelectric
 churled
 consolidator
-cric
 contestee
 chace
 contestingly
@@ -24399,6 +24398,7 @@ carbonic
 cooncans
 coonhound
 calcigenous
+cric
 coonhounds
 coony
 chloracetate
