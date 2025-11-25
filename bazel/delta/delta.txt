@@ -834,6 +834,7 @@ danic
 dingthrift
 dwell
 dams
+drivelling
 dyscrystalline
 danoranja
 disembalm
@@ -14622,7 +14623,6 @@ demoralised
 divulge
 divulged
 diminuted
-drivelling
 despite
 dyslalia
 divulger
