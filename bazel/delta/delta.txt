@@ -3824,6 +3824,7 @@ donkey
 dialyzator
 dienes
 dicier
+deliquiesce
 disjecting
 duplexed
 dropped
@@ -12820,7 +12821,6 @@ downhaul
 dyemaking
 daubs
 devolutive
-deliquiesce
 demiparadise
 dismals
 dithalous
