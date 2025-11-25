@@ -72,7 +72,6 @@ bilimbi
 balata
 boycotts
 barouches
-bluestoner
 babelism
 blepharoblennorrhea
 balanite
@@ -5899,6 +5898,7 @@ belonging
 basisphenoid
 bailiffship
 believing
+bluestoner
 belongs
 bicameral
 bugdom
