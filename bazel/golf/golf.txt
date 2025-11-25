@@ -4649,6 +4649,7 @@ goatbush
 gammarid
 gentility
 gunlocks
+gingerwork
 gaudy
 guerinet
 glossitic
@@ -7802,7 +7803,6 @@ greeny
 grubworm
 gulleys
 gillstoup
-gingerwork
 glycolipine
 gargoylish
 gisant
