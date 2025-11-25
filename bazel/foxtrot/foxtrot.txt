@@ -3473,6 +3473,7 @@ frag
 franklinist
 forswearer
 flaccidly
+famished
 firmisternial
 figgiest
 fraternisation
@@ -5445,7 +5446,6 @@ faunal
 flavorers
 figurativeness
 formulator
-famished
 foresummer
 feridjee
 furfuration
