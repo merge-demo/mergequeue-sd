@@ -1359,7 +1359,6 @@ efferents
 effervescency
 eights
 epode
-endoskeletal
 essentialness
 exomis
 evasional
@@ -12459,6 +12458,7 @@ explorate
 exfiltrate
 equilibrial
 electrolysing
+endoskeletal
 exhuming
 epifaunal
 enthronization
