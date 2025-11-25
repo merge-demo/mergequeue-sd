@@ -5510,7 +5510,6 @@ disportive
 diaphragm
 dogtrot
 dudishness
-dolichos
 digging
 darlingly
 davening
@@ -12068,6 +12067,7 @@ disentangle
 dissensious
 dentine
 disentanglement
+dolichos
 daymare
 drudge
 depurition
