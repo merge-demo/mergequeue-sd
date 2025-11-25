@@ -9527,6 +9527,7 @@ ellops
 enantiotropy
 esemplasy
 extremities
+envapor
 educationese
 earthworm
 enteradenology
@@ -9707,7 +9708,6 @@ epistomata
 embargo
 erethism
 empyrical
-envapor
 essayed
 extraorganismal
 exceptional
