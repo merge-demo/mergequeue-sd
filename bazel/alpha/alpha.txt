@@ -4149,7 +4149,6 @@ abduct
 aurochses
 acetary
 adolescence
-ascabart
 adolescent
 argentarii
 amahs
@@ -17987,6 +17986,7 @@ ashkenazic
 antiheroic
 acridly
 aerialists
+ascabart
 approximates
 approximation
 approximations
