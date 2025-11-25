@@ -6483,7 +6483,6 @@ disencumber
 diffusedly
 deranged
 descanted
-descants
 discourtesies
 diastatic
 denunciatory
@@ -17185,6 +17184,7 @@ detailedly
 diabolically
 dripstone
 duffers
+descants
 dition
 difformed
 disintricate
