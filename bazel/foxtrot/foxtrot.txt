@@ -310,6 +310,7 @@ foaming
 filar
 flexuosity
 fraternation
+filical
 feints
 fag
 feint
@@ -6106,7 +6107,6 @@ fortnights
 fervidity
 freighter
 frettation
-filical
 folksinging
 fundmongering
 freebies
