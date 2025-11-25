@@ -5032,7 +5032,6 @@ feathers
 faineantise
 falsificate
 formalisms
-firman
 flammation
 forepad
 flipping
@@ -8812,6 +8811,7 @@ firry
 flashtube
 frustula
 feoffing
+firman
 flunks
 favorably
 falcinellus
