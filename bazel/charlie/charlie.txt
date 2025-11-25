@@ -16838,7 +16838,6 @@ clubfist
 clubfisted
 cenotaph
 clubfoot
-clubfooted
 clubhand
 clubhands
 cerebralgia
@@ -18676,6 +18675,7 @@ coypous
 conversance
 coypus
 coirs
+clubfooted
 colicker
 coislander
 clogs
