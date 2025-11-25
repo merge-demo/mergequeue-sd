@@ -1930,7 +1930,6 @@ gulped
 gastromycosis
 geal
 garnetwork
-garnet
 gynecocratic
 gnomesque
 gravewards
@@ -5661,6 +5660,7 @@ groma
 glooms
 gokuraku
 goodbye
+garnet
 gratefuller
 glasses
 glassrope
