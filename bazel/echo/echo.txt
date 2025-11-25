@@ -1886,6 +1886,7 @@ endocarps
 einkorn
 einsteinian
 equatability
+enameler
 encomiast
 eyoty
 elapsed
@@ -12546,7 +12547,6 @@ exculpative
 extoolitic
 enactable
 esonarthex
-enameler
 electrofusion
 extant
 existlessness
