@@ -5346,6 +5346,7 @@ featherweight
 flayflint
 fleabag
 fusillade
+featherman
 faintheart
 furciform
 fleabags
@@ -7935,7 +7936,6 @@ frisket
 forgivenesses
 foreshadowed
 flugelman
-featherman
 flammivomous
 footles
 fishhold
