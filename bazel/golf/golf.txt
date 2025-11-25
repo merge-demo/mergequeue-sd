@@ -5204,7 +5204,6 @@ gharial
 gleamingly
 garroters
 gaviiformes
-gastrologically
 gabbiest
 gnosticizer
 gunated
@@ -9370,6 +9369,7 @@ germanhood
 germigenous
 grannyknot
 garnishry
+gastrologically
 gloved
 galenobismutite
 gobelin
