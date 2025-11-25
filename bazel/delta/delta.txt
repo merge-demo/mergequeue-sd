@@ -1393,7 +1393,6 @@ dartoid
 david
 definitised
 defroster
-davidian
 davidic
 davidical
 davidist
@@ -16650,6 +16649,7 @@ dragbolt
 dawdle
 dogging
 drainers
+davidian
 drainfield
 disvelop
 drainman
