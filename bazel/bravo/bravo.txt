@@ -13565,7 +13565,6 @@ barie
 ballproof
 bibliokleptomania
 bodgery
-baroco
 bismutosmaltite
 berapt
 biomagnetic
@@ -14657,6 +14656,7 @@ blackishness
 bigmouth
 betusked
 brasiletto
+baroco
 brasilin
 bibliomancy
 balustrade
