@@ -2507,7 +2507,6 @@ flerry
 fudging
 fainthearted
 faction
-farted
 facinorousness
 fluxgraph
 fatihah
@@ -3511,6 +3510,7 @@ figurae
 forebowels
 flusk
 formulism
+farted
 fictionalizes
 farness
 fermentology
