@@ -12674,7 +12674,6 @@ boysenberry
 bororo
 benthamite
 boogies
-biotechnology
 bordures
 bubbles
 bulbine
@@ -17175,6 +17174,7 @@ bullition
 bar
 boggin
 bulletproof
+biotechnology
 bullnose
 beewinged
 bullnoses
