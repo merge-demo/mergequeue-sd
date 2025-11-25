@@ -5258,6 +5258,7 @@ fossilage
 fstore
 flot
 fissiped
+fruitade
 figgery
 flavoured
 flavourful
@@ -11372,7 +11373,6 @@ factish
 focalizing
 fluorindin
 fibropolypus
-fruitade
 faute
 furnacelike
 firetraps
