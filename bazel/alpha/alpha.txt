@@ -2431,7 +2431,6 @@ autoriser
 atrochal
 arbitry
 archaizing
-arisings
 acknowledged
 adoxography
 aconic
@@ -4737,6 +4736,7 @@ alveolarly
 ambrotype
 aeolist
 aeolus
+arisings
 anacrustically
 aeonicaeonist
 aeonist
