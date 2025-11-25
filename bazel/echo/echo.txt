@@ -2597,6 +2597,7 @@ etua
 enantioblastous
 eruginous
 eighteenthly
+enframe
 ensnarl
 exhilarator
 empididae
@@ -8618,7 +8619,6 @@ equilateral
 eriogonum
 equilibrant
 extractively
-enframe
 electrodynamometer
 elinguating
 ectal
