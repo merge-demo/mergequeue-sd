@@ -2427,7 +2427,6 @@ fatigate
 freemasons
 fractur
 frizzle
-fingered
 frisco
 farandola
 foils
@@ -4047,6 +4046,7 @@ finish
 flatling
 fletchings
 fungoid
+fingered
 finishable
 firker
 fabrication
