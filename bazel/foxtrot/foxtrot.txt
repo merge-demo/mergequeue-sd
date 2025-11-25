@@ -4922,6 +4922,7 @@ frequentable
 flambeau
 foamier
 fixate
+forebay
 fossilist
 finisher
 floreat
@@ -7498,7 +7499,6 @@ foreassurance
 forecabin
 feedingstuff
 footpace
-forebay
 fragmentization
 feathering
 flocked
