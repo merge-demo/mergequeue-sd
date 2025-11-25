@@ -7973,7 +7973,6 @@ grandiosity
 gudok
 gothonic
 ganglionectomy
-globing
 glottologies
 gnomonologically
 goldenmouthed
@@ -9884,6 +9883,7 @@ gustless
 guanin
 gagate
 ghoom
+globing
 glycerose
 guanize
 gamasid
