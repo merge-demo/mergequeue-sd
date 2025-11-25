@@ -696,6 +696,7 @@ dylan
 danagla
 dibromid
 dashing
+daikon
 delinquently
 dusio
 dolefish
@@ -2362,7 +2363,6 @@ decadally
 devocalising
 decessit
 decerebrating
-daikon
 disagreeably
 dechemicalize
 doctorfish

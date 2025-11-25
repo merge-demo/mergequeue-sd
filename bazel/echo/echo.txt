@@ -5239,7 +5239,6 @@ equipluve
 equilibrate
 endomitosis
 endomorphy
-exta
 ekebergite
 either
 endoneurium
@@ -5500,6 +5499,7 @@ entitledness
 edematous
 energical
 energid
+exta
 epitendineum
 ensuing
 endoplasmic
