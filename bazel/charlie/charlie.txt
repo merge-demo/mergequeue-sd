@@ -19159,7 +19159,6 @@ cattan
 concrescences
 collophane
 collophanite
-colloquial
 calcareously
 coadapted
 cineritious
@@ -23045,6 +23044,7 @@ crown
 chowderhead
 curtest
 consortable
+colloquial
 consorter
 consortia
 cavel
