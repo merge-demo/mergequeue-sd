@@ -9171,6 +9171,7 @@ duodenas
 dihexahedron
 daubry
 dipsaceae
+diascordium
 decapods
 dreamfully
 dowses
@@ -11188,7 +11189,6 @@ dodecagon
 deprecatoriness
 dammaret
 disbelievers
-diascordium
 droich
 devocalise
 dazingly
