@@ -2024,6 +2024,7 @@ disregardable
 dasypodidae
 dogleg
 dogwoods
+desmosome
 decagynous
 dinornis
 dearling
@@ -12944,7 +12945,6 @@ discolor
 disaffectedness
 differed
 disoperculate
-desmosome
 dicephalous
 demons
 decatholicize
