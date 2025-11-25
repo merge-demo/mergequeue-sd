@@ -9366,7 +9366,6 @@ cumbrance
 colds
 chavante
 chavantean
-chavel
 chavender
 confirmment
 compart
@@ -15385,6 +15384,7 @@ clapnest
 clapnet
 concentered
 cricketed
+chavel
 cen
 clappe
 conidiiferous
