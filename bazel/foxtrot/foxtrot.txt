@@ -6780,6 +6780,7 @@ fitcher
 fold
 fantasy
 fleechment
+flote
 fluoroscopic
 frosts
 frosteds
@@ -8743,7 +8744,6 @@ forehands
 flavonols
 fortuitous
 furrieries
-flote
 faussebraie
 fala
 frizzled
