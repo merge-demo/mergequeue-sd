@@ -11793,7 +11793,6 @@ coexecutrices
 contemperate
 chondrosternal
 chondrotomy
-chonk
 collaborate
 calfhood
 chontaquiro
@@ -21496,6 +21495,7 @@ cemetary
 cluster
 concorporate
 culverts
+chonk
 concorporated
 compartimento
 concourse
