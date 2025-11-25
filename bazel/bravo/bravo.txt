@@ -2897,7 +2897,6 @@ bottleful
 broadcasts
 broadthroat
 biverbal
-beclatter
 bestride
 badinage
 barrater
@@ -3295,6 +3294,7 @@ branchway
 boobyism
 bookwork
 basipetal
+beclatter
 basipodite
 blank
 basipterygium
