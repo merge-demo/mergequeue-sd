@@ -20520,6 +20520,7 @@ cambalo
 canonlike
 compearant
 crimes
+corticolous
 compeering
 corinthianesque
 checkerspot
@@ -25925,7 +25926,6 @@ corticium
 corticoafferent
 corticoline
 calories
-corticolous
 corticose
 corticosteroids
 clandestinity
