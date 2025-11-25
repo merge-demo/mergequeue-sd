@@ -1959,7 +1959,6 @@ feeb
 feeblemindedly
 femaleness
 flowerlike
-festshrifts
 francia
 fainaiguing
 forbite
@@ -4413,6 +4412,7 @@ factually
 fearers
 fraus
 fealties
+festshrifts
 feinschmeckers
 fishes
 filibranchiate
