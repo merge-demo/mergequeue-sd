@@ -4028,7 +4028,6 @@ exogens
 eyeblack
 endometritis
 expresser
-elucidations
 emphysema
 endobronchitis
 emphyteutic
@@ -11257,6 +11256,7 @@ exserts
 earthquake
 exundate
 ectoloph
+elucidations
 entelluses
 ethnologic
 eeling
