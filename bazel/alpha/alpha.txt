@@ -2944,6 +2944,7 @@ actaea
 aphanes
 austerer
 actaeon
+amaurotic
 actg
 actualised
 algometric
@@ -13526,7 +13527,6 @@ azeotropism
 amoebida
 amputated
 annotative
-amaurotic
 accuses
 annotatively
 ablate

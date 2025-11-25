@@ -27859,7 +27859,6 @@ cordwainery
 craals
 crabbedness
 crescendoed
-crabber
 crabbery
 carnivaler
 crabby
@@ -31645,6 +31644,7 @@ curvograph
 cancelier
 curvometer
 cheeker
+crabber
 carduelis
 conscripttion
 curvulate
