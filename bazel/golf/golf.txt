@@ -7255,7 +7255,6 @@ governorate
 gourmands
 glassmaker
 generosity
-gribble
 gleby
 gingernut
 gemination
@@ -10583,6 +10582,7 @@ garnisher
 grilly
 gymnogene
 geologic
+gribble
 gelds
 gens
 greaser
