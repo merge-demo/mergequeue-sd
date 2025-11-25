@@ -3703,6 +3703,7 @@ gnathite
 goalmouth
 gyrencephalic
 ghostier
+gedackt
 galah
 geodetically
 glumelike
@@ -10747,7 +10748,6 @@ geocentrically
 galewort
 gymnosophical
 gypsyry
-gedackt
 geckotoid
 globulin
 gorsebird
