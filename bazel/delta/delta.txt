@@ -3894,6 +3894,7 @@ dissect
 disp
 dyscrasite
 deerdog
+decrial
 demihogshead
 dewy
 damone
@@ -14319,7 +14320,6 @@ disseminates
 decardinalize
 dispassionate
 didymoid
-decrial
 defervescent
 dittying
 denizen
