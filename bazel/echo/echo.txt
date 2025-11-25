@@ -528,7 +528,6 @@ entosphenal
 echeneidae
 echevaria
 endobiotic
-endonucleolus
 evocate
 electrophorus
 elaborated
@@ -9263,6 +9262,7 @@ eulogist
 endosmos
 electropism
 esdras
+endonucleolus
 erred
 errhines
 encyclopedize
