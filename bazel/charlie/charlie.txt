@@ -10102,7 +10102,6 @@ ceonocyte
 chetrum
 chlorohydrin
 consanguinities
-chetvert
 centrifugalise
 crazies
 cyrtosis
@@ -13931,6 +13930,7 @@ cynophobia
 counterchange
 cynopithecidae
 cynopithecoid
+chetvert
 cynorrhoda
 cynorrhodon
 cynosure
