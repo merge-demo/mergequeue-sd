@@ -2046,6 +2046,7 @@ faucalize
 fireboat
 flindosa
 forwander
+figurative
 flatlander
 faunlike
 fogbows
@@ -4226,7 +4227,6 @@ foolishest
 fluviatile
 fridge
 furtherly
-figurative
 fallotomy
 firelight
 flab
