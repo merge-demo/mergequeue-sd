@@ -1611,6 +1611,7 @@ accoutres
 accredit
 argenteum
 accreditate
+amphoric
 accreditations
 absentmindedness
 autogenuous
@@ -21713,7 +21714,6 @@ assentors
 acarocecidia
 asself
 ayyubid
-amphoric
 assembl
 assemblable
 assemblance
