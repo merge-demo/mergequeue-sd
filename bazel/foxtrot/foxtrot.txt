@@ -4105,7 +4105,6 @@ fylgjur
 foolship
 finnicize
 fluctisonant
-fenestellid
 finitely
 fratery
 felicitously
@@ -11096,6 +11095,7 @@ furivae
 fessewise
 frostwork
 flatter
+fenestellid
 functionalist
 fundamentalist
 fistful
