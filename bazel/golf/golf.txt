@@ -3929,6 +3929,7 @@ graphomotor
 gigasecond
 glamorously
 galleried
+gelechia
 gisla
 guidance
 ghat
@@ -5047,7 +5048,6 @@ glariness
 gregarinae
 gatch
 grutched
-gelechia
 guards
 gaedown
 glycogen

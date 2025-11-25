@@ -10493,7 +10493,6 @@ diphthonging
 diphthongisation
 deisticalness
 dozent
-dalar
 daglock
 disembodies
 diphthongize
@@ -11968,6 +11967,7 @@ disembodiment
 deducer
 disembogued
 diarian
+dalar
 deceases
 disembowel
 deliciate
