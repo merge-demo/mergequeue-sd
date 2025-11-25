@@ -17048,7 +17048,6 @@ confervalike
 checkup
 coacher
 counterdistinction
-conventually
 coaches
 caprylin
 cornroot
@@ -31471,6 +31470,7 @@ currently
 camerieri
 cardicentesis
 currentness
+conventually
 currentwise
 calalu
 curry
