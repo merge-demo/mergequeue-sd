@@ -6157,7 +6157,6 @@ cancan
 cattleyak
 cattleman
 conhydrin
-cattlemen
 cattleship
 catullian
 clamshells
@@ -8414,6 +8413,7 @@ chamecephalic
 chamecephalous
 chamecephalus
 cannibals
+cattlemen
 chameleon
 chameleonlike
 cantilena
