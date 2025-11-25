@@ -1684,6 +1684,7 @@ dearborn
 dumortierite
 dearest
 derides
+decapper
 dyne
 deposition
 deadeners
@@ -7526,7 +7527,6 @@ directions
 daemonology
 disrupting
 dentiloquy
-decapper
 deuterium
 deinocephalia
 declaimed
