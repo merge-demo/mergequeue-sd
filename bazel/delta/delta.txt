@@ -11899,7 +11899,6 @@ daguerreotypic
 disdein
 dardani
 doubleheader
-dephlegmate
 disbecome
 disdenominationalize
 dishonorableness
@@ -12834,6 +12833,7 @@ dismarket
 dispence
 dunnages
 dicotyledon
+dephlegmate
 devotionally
 dominial
 destructor
