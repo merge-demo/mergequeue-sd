@@ -2072,7 +2072,6 @@ gutlessness
 glutted
 gherkins
 gavots
-glycerophosphoric
 gomari
 giftless
 glossers
@@ -6978,6 +6977,7 @@ glyconeogenesis
 grasseye
 grapevine
 goodwives
+glycerophosphoric
 germander
 garrigue
 garhwali
