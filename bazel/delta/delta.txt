@@ -8655,6 +8655,7 @@ dactylus
 dato
 doomlike
 delfs
+dungbred
 diascope
 domed
 distracted
@@ -9692,7 +9693,6 @@ dispense
 daphnias
 devilward
 ditting
-dungbred
 diageotropy
 deinoceras
 dilactic
