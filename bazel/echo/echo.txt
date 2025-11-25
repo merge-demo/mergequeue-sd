@@ -5652,7 +5652,6 @@ egling
 exiguities
 enforces
 endent
-endocentric
 encouraging
 eirene
 epilogation
@@ -11660,6 +11659,7 @@ exaction
 enfire
 exactitude
 electrohydraulic
+endocentric
 eleusinian
 endopolyploid
 exactness
