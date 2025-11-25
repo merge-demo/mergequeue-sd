@@ -10817,6 +10817,7 @@ cutgrasses
 clavicylinder
 counterwave
 chinooks
+curn
 centerpieces
 chinotoxine
 cleverishly
@@ -26479,7 +26480,6 @@ crub
 cotsetland
 cotswold
 calctuff
-curn
 cottae
 cubature
 chatelains
