@@ -4302,6 +4302,7 @@ gabfests
 granulate
 glyptotherium
 goboes
+gallicanism
 glabellum
 gynecophorous
 gynecratic
@@ -5628,7 +5629,6 @@ glossocomium
 gruelingly
 guidebook
 gruidae
-gallicanism
 gastrasthenia
 game
 gunstick
