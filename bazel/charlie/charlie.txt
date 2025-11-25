@@ -18350,7 +18350,6 @@ cogitates
 cogitation
 centrosomic
 cogitativity
-comparer
 curvle
 cogitator
 cogito
@@ -27363,6 +27362,7 @@ climacterics
 courtal
 courtbred
 chattelization
+comparer
 courtcraft
 colonise
 cetacean
