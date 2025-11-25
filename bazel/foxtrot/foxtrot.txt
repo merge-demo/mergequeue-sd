@@ -1693,6 +1693,7 @@ fleeching
 fingertip
 foreordaining
 forehandsel
+foothold
 floridian
 fearsomeness
 foreshape
@@ -4202,7 +4203,6 @@ federals
 ferfathmur
 felonries
 featherstitch
-foothold
 flittermmice
 featurish
 froe
