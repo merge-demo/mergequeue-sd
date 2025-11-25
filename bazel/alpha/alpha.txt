@@ -7856,7 +7856,6 @@ alectoria
 agroof
 aprosopia
 arbors
-allez
 anatto
 apachism
 alectoromachy
@@ -16730,6 +16729,7 @@ anterointerior
 accur
 ametaboly
 anthophagy
+allez
 aciculums
 aphemia
 attal
