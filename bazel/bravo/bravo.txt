@@ -1740,6 +1740,7 @@ berogue
 baluch
 bitripinnatifid
 broquery
+bonnyclabber
 baronnes
 becollier
 buses
@@ -14580,7 +14581,6 @@ brandling
 bayardly
 bority
 binomy
-bonnyclabber
 boopic
 brandon
 branchful
