@@ -3625,6 +3625,7 @@ embraceries
 evangelized
 embracingly
 engravement
+epistemic
 embraid
 emotions
 embrail
@@ -8311,7 +8312,6 @@ eluxate
 ependytes
 embrown
 epigyny
-epistemic
 epitheliolytic
 egyptians
 estragole

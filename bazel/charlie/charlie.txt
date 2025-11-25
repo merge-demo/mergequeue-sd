@@ -6222,7 +6222,6 @@ cassolette
 cystiferous
 concise
 calanthe
-caudle
 caudles
 caudocephalad
 ceile
@@ -18224,6 +18223,7 @@ consentively
 coenosarc
 cottonade
 chingma
+caudle
 coffeeberries
 concocts
 catacumba
