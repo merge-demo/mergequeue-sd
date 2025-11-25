@@ -14079,7 +14079,6 @@ brachyfacial
 brachyglossal
 blase
 burgul
-baring
 blusterously
 brachygnathia
 brachygnathism
@@ -14558,6 +14557,7 @@ balladeer
 branchlet
 branchman
 brandenburg
+baring
 brandenburger
 brandenburgh
 brandy
