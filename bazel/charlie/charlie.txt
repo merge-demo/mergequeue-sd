@@ -6887,6 +6887,7 @@ celtiform
 consortiums
 celtis
 celtish
+cormoid
 celtism
 celtium
 cotyla
@@ -17065,7 +17066,6 @@ canceling
 cultureless
 coachmen
 contestably
-cormoid
 chorobates
 countertrench
 colpostat
