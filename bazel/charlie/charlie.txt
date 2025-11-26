@@ -2190,7 +2190,6 @@ cynicist
 coffeecup
 campyloneuron
 cakey
-campylotropal
 campylotropous
 campimeter
 conches
@@ -19945,6 +19944,7 @@ coruler
 crepidoma
 commandment
 chronophotographic
+campylotropal
 cozzes
 croquis
 cassideous

@@ -8856,6 +8856,7 @@ dialyzable
 deg
 dichotomal
 dentatocillitate
+deluging
 desirelessness
 dibenzophenazine
 desilver
@@ -14071,7 +14072,6 @@ decretum
 dragnets
 dryopithecinae
 dispensable
-deluging
 distributionist
 divariant
 deservingness
