@@ -11408,6 +11408,7 @@ ampul
 admonitory
 anhydremia
 apodosis
+airship
 ampullary
 ampullate
 aqueoigneous
@@ -17402,7 +17403,6 @@ aphidophagous
 archdioceses
 arbitrement
 applot
-airship
 adiate
 antiarchi
 apothegmatically
