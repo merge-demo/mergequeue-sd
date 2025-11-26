@@ -302,6 +302,7 @@ day
 distributed
 dayabhaga
 dreed
+debarks
 demisheath
 depolarized
 dayanim
@@ -12299,7 +12300,6 @@ disgracer
 dipicrate
 disenchanted
 delicacies
-debarks
 disgracious
 diplegias
 durbar
