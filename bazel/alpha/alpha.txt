@@ -814,6 +814,7 @@ acropolises
 anathematising
 abscision
 abruption
+adenophyllous
 addedly
 arachnoiditis
 abruptness
@@ -11558,7 +11559,6 @@ assewer
 auxiliarly
 aper
 appositions
-adenophyllous
 aulas
 anabolism
 ammophilous
