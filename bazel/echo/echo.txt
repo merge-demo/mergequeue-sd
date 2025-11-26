@@ -5161,6 +5161,7 @@ existentialistic
 enterocoel
 emergencies
 entogenous
+entail
 enteroptotic
 extrudability
 eisell
@@ -6540,7 +6541,6 @@ endostosis
 ephyra
 exactly
 extratension
-entail
 entomophthora
 elaphodus
 endurant
