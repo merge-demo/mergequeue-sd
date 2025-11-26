@@ -8852,7 +8852,6 @@ amidrazone
 acadia
 asyntrophy
 anglicist
-allocatur
 acanthocephalan
 astound
 albahaca
@@ -21600,6 +21599,7 @@ arthrosia
 adjudgment
 automolite
 alkyl
+allocatur
 allegement
 antiphonaries
 angary
