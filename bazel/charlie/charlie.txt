@@ -12517,7 +12517,6 @@ coadjacency
 chromoscopy
 capacitances
 coobah
-chromosomally
 celoscope
 cornercap
 collophore
@@ -28948,6 +28947,7 @@ cricetidae
 chrysal
 chaityas
 curtseyed
+chromosomally
 crancelin
 crimmy
 cricetids
