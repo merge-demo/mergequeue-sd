@@ -9718,6 +9718,7 @@ desiderate
 dilatants
 dilatate
 decremented
+dismissing
 discutient
 dilatative
 demimentoniere
@@ -12886,7 +12887,6 @@ dismissals
 dismissed
 distemperate
 dismisses
-dismissing
 dismissory
 discographically
 dysmnesia
