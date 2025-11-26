@@ -4610,7 +4610,6 @@ footnoting
 fistwise
 fit
 fontally
-fringilliform
 fitchee
 fibrocalcareous
 filagrees
@@ -5769,6 +5768,7 @@ foge
 freckliness
 foehns
 finebent
+fringilliform
 finings
 fulth
 ferrochrome

@@ -1195,7 +1195,6 @@ couture
 celluloses
 calculuses
 callipered
-caldaria
 calden
 calderas
 casuistic
@@ -23757,6 +23756,7 @@ compressional
 coadmires
 contrapuntally
 contrapuntist
+caldaria
 concilium
 contrapunto
 contraregularity
