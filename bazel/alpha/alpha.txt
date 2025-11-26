@@ -9738,6 +9738,7 @@ ayen
 apiology
 arcked
 argentina
+aniseikonia
 amabel
 atbash
 amabile
@@ -14353,7 +14354,6 @@ anthol
 anodes
 apiaceous
 antireaction
-aniseikonia
 antholite
 anthological
 anthologically
