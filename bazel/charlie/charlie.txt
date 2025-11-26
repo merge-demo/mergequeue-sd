@@ -945,6 +945,7 @@ canterburies
 calaboose
 cycloidei
 canelle
+coerces
 calabrian
 calabrians
 calabur
@@ -21511,7 +21512,6 @@ concrescence
 cephalohumeral
 concrescive
 colocentesis
-coerces
 concreted
 concretely
 concreter
