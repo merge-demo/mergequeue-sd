@@ -233,7 +233,6 @@ cacam
 cacanapa
 cacara
 chthonophagia
-cacas
 cacatuidae
 cacatuinae
 coactions
@@ -21730,6 +21729,7 @@ cruiserweight
 cuna
 condoler
 coaxers
+cacas
 coleuses
 clumproot
 casteism
