@@ -5618,7 +5618,6 @@ faddiest
 freebooty
 florescent
 flightier
-foster
 facund
 foetor
 fernery
@@ -6494,6 +6493,7 @@ fakes
 flustery
 filiciform
 fondnesses
+foster
 fario
 factionist
 fluxes
