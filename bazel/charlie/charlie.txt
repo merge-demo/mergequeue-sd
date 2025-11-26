@@ -9177,7 +9177,6 @@ chirruped
 constipating
 chass
 chasse
-cauliculus
 chassed
 chromatopathic
 chasseing
@@ -27520,6 +27519,7 @@ covellite
 certie
 conceptualistic
 corpus
+cauliculus
 cocas
 canephoros
 covenance
