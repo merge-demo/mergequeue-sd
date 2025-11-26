@@ -314,7 +314,6 @@ espousage
 exserting
 extortionate
 expedient
-ebon
 eradicate
 esotericism
 extrema
@@ -5025,6 +5024,7 @@ executional
 escalop
 encapsule
 enfoncee
+ebon
 encamp
 erogeneity
 eggplants
