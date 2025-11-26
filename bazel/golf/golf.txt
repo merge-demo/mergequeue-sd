@@ -4633,6 +4633,7 @@ gastronomist
 gillhooter
 germanyl
 gruys
+glomerulose
 glost
 grister
 gutium
@@ -5345,7 +5346,6 @@ glassmen
 greener
 galiongee
 glycollate
-glomerulose
 geometricist
 generalised
 glaucus
