@@ -8461,6 +8461,7 @@ fittily
 foxes
 formations
 footwall
+fevery
 fatbrained
 formazan
 formee
@@ -9718,7 +9719,6 @@ forestick
 flycaster
 fanworts
 fuchsins
-fevery
 ficoideae
 fretworks
 flexile
