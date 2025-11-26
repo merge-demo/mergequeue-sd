@@ -3740,6 +3740,7 @@ fecundates
 fillmore
 forwear
 fiscally
+facingly
 fosse
 foujdary
 fourierian
@@ -7796,7 +7797,6 @@ fatelike
 footrail
 fleshier
 flung
-facingly
 forjudges
 formosan
 fluorescigenic
