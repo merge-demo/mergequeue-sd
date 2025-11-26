@@ -12707,7 +12707,6 @@ arthrography
 antiquarism
 apodioxis
 awarrant
-anoretic
 acalyptrate
 angelomachy
 arragonite
@@ -24881,6 +24880,7 @@ avower
 amphithect
 astronavigation
 autocoherer
+anoretic
 acknown
 antinoness
 aponeurotome
