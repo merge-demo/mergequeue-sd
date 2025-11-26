@@ -6044,6 +6044,7 @@ differentiative
 darkrooms
 dipyramidal
 dodge
+diamagnetometer
 deputational
 driegh
 dandiprat
@@ -18207,7 +18208,6 @@ depersonalize
 delights
 ditetragonal
 dentatocostate
-diamagnetometer
 disfellowship
 detonatability
 deadlocks
