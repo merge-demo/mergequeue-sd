@@ -1467,6 +1467,7 @@ emunct
 exenteritis
 epipleural
 envelop
+embolon
 enfarce
 euxanthate
 euhemerism
@@ -1713,7 +1714,6 @@ echolocate
 endogenicity
 ejaculating
 enterosyphilis
-embolon
 employ
 epistilbite
 ejective
