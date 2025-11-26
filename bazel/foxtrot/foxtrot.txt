@@ -67,6 +67,7 @@ fabulously
 facebar
 facebow
 fenchone
+ferriage
 feudalization
 faceharden
 flagships
@@ -6377,7 +6378,6 @@ foetal
 fudgy
 fluorenes
 fluctuability
-ferriage
 foveolar
 fixup
 fluvio
