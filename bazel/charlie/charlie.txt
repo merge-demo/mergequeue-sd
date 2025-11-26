@@ -1563,6 +1563,7 @@ cenotaphic
 communising
 chemostat
 callisto
+cid
 callithrix
 collegiant
 corruptibilities
@@ -8533,7 +8534,6 @@ cardiacea
 chanceless
 cestoda
 chancelloress
-cid
 copybook
 chancellors
 califates
