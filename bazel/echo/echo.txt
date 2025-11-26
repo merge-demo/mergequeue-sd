@@ -6490,6 +6490,7 @@ ectodermic
 ensphering
 enlister
 enstar
+enphytotic
 enrapturing
 espanoles
 elocation
@@ -13665,7 +13666,6 @@ epithem
 elfic
 encomiendas
 eject
-enphytotic
 endorsors
 erratum
 epistolizable
