@@ -2691,7 +2691,6 @@ frizziness
 fervence
 fortnightlies
 futilize
-ferventness
 frighteningness
 floodwall
 fishify
@@ -3651,6 +3650,7 @@ fretsaws
 footwarmers
 filigrained
 fiftieths
+ferventness
 fibrillar
 freshed
 foretype
