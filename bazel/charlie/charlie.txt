@@ -6845,6 +6845,7 @@ cornicular
 cathro
 cellules
 cellulifugal
+consequency
 crevasse
 clamor
 cellulin
@@ -22825,7 +22826,6 @@ consentment
 consents
 catchiness
 causticized
-consequency
 combinableness
 cheirotherium
 consequent
