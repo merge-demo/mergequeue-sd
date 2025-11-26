@@ -1905,7 +1905,6 @@ fruitless
 feta
 fleeceless
 fremescent
-flitched
 fainly
 filicologist
 flowerlessness
@@ -10211,6 +10210,7 @@ finn
 flunkeydom
 frailer
 falcated
+flitched
 flaming
 frogman
 fluoroscopically
