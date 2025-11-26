@@ -8794,6 +8794,7 @@ collop
 chappin
 chartlet
 competes
+crinums
 cosmopolitic
 catchplate
 chaprasi
@@ -29137,7 +29138,6 @@ crinula
 callitrichaceae
 cnemides
 cerat
-crinums
 clausiliidae
 crowstep
 cryobiological
