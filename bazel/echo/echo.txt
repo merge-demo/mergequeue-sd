@@ -12085,7 +12085,6 @@ extrasensory
 enfolder
 excrescency
 eriophyid
-eccentric
 eris
 enfoldment
 excuseless
@@ -12107,6 +12106,7 @@ escuage
 enflames
 exploit
 editress
+eccentric
 echinologist
 eartag
 electromagnet
