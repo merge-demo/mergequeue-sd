@@ -5908,7 +5908,6 @@ belonidae
 bullions
 beprose
 blisses
-backslap
 belostomatidae
 besleeve
 bisnagas
@@ -10387,6 +10386,7 @@ bullism
 backwoodser
 brawer
 browman
+backslap
 bonesetting
 blandishing
 blandishments
