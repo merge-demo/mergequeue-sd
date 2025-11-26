@@ -2791,7 +2791,6 @@ encroach
 empalement
 elementalistic
 extrathoracic
-estrangements
 elementalize
 ephori
 elementaloid
@@ -6884,6 +6883,7 @@ expectative
 engle
 entomophila
 entomophobia
+estrangements
 earwaxes
 esthesiography
 eucryptite
