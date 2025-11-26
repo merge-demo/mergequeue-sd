@@ -1441,7 +1441,6 @@ amblyope
 atocha
 anagignoskomena
 acclaimer
-afterwrist
 acclamator
 acclimatable
 autecologically
@@ -10762,6 +10761,7 @@ amita
 apartmental
 adherends
 aplanatically
+afterwrist
 arthroses
 alterableness
 amitate
