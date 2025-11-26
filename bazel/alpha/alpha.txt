@@ -3454,7 +3454,6 @@ addibility
 arythmias
 antroversion
 addible
-addicent
 antiknocks
 addictedness
 addicting
@@ -4964,6 +4963,7 @@ aerolithology
 aerolitic
 aerological
 antepartum
+addicent
 aeromancer
 anthonomus
 aerometer
