@@ -73,6 +73,7 @@ flagships
 flecken
 facellite
 felonious
+frostwort
 furthers
 flysch
 fordeal
@@ -3235,7 +3236,6 @@ fictionalize
 fourcher
 foots
 friers
-frostwort
 flexionless
 fango
 fuchsone
