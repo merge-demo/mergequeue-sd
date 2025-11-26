@@ -185,6 +185,7 @@ gabarit
 gammacism
 groschen
 gavage
+geraniales
 gelled
 garred
 going
@@ -2832,7 +2833,6 @@ grayhair
 graminous
 graininess
 gypseian
-geraniales
 gentlemouthed
 galactorrhea
 glace
