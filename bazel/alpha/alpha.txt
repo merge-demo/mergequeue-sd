@@ -7178,6 +7178,7 @@ acidness
 aminoxylol
 algodoncillo
 aethrioscope
+aphoristic
 alack
 amole
 airworthiness
@@ -19121,7 +19122,6 @@ archvillainy
 assuages
 algorithm
 anisylidene
-aphoristic
 archwag
 archways
 arceuthobium
