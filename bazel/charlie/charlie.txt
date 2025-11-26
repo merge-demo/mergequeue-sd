@@ -295,7 +295,6 @@ cachrys
 cachua
 calicoback
 cachuchas
-cachunde
 comournful
 caci
 cacicus
@@ -1095,6 +1094,7 @@ codelight
 callipee
 cantboard
 calciform
+cachunde
 centesimos
 calcifugal
 calcifugous
