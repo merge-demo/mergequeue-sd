@@ -6128,6 +6128,7 @@ bolshevizing
 bitolyl
 backhaul
 baikalite
+bookcases
 boof
 budgereegah
 benighted
@@ -8877,7 +8878,6 @@ biocycle
 biocycles
 biocidal
 biocide
-bookcases
 bioclimatic
 bowwoman
 bioclimatician
