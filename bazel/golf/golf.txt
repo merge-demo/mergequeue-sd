@@ -196,6 +196,7 @@ gager
 governessdom
 gastronomic
 gaggery
+groupings
 greenage
 gambone
 gloxinias
@@ -765,7 +766,6 @@ gerkin
 galvanopuncture
 gummaker
 goutwort
-groupings
 gladsomer
 gawkily
 geometrically
