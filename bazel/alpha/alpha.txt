@@ -3154,6 +3154,7 @@ actiones
 abrazitic
 alkalifiable
 arrectary
+auscultates
 acclimatation
 auchenia
 anatomised
@@ -23746,7 +23747,6 @@ auscultascope
 adzes
 andropetalar
 academic
-auscultates
 athrong
 auscultating
 apism
