@@ -6405,7 +6405,6 @@ cauterizer
 cauterizes
 caution
 cautionary
-couve
 cerebromedullary
 calcareosiliceous
 coulterneb
@@ -31275,6 +31274,7 @@ carabid
 coagula
 curatrix
 curb
+couve
 citronellal
 calycanthine
 curbable
