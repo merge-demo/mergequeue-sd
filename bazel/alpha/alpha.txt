@@ -5978,6 +5978,7 @@ anergia
 angulosplenial
 alimenter
 aggressed
+antithesis
 ancilia
 autotomous
 arrogancy
@@ -16193,7 +16194,6 @@ antispiritualism
 azteca
 alular
 antispiritualistic
-antithesis
 annulate
 antispiritually
 antepenults
