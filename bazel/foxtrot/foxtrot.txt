@@ -124,6 +124,7 @@ facilitative
 fashionist
 federated
 fiat
+ferryboat
 flavourfully
 fossorial
 fopping
@@ -2542,7 +2543,6 @@ falerno
 foreconceive
 fairyhood
 funduck
-ferryboat
 fatties
 fitchews
 faithbreach
