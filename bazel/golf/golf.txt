@@ -691,6 +691,7 @@ gideon
 granulomatosis
 goneril
 gastronomer
+gogglers
 gallying
 gonfalon
 goniotropous
@@ -9962,7 +9963,6 @@ gigadoid
 greably
 gritless
 guarrau
-gogglers
 glegness
 glyptic
 googols
