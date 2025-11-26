@@ -4220,7 +4220,6 @@ extratheistic
 emptiers
 emptiness
 emptio
-externship
 emptor
 eccyclema
 eggeater
@@ -8783,6 +8782,7 @@ electrodepositable
 elegist
 erections
 eviller
+externship
 enterobiliary
 etcetera
 exemplificative
