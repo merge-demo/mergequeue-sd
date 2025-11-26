@@ -8603,7 +8603,6 @@ exect
 eutaxic
 equidiurnal
 eelpouts
-executor
 eleutheromania
 equidivision
 epigrammatising
@@ -12172,6 +12171,7 @@ ethaldehyde
 estrado
 electric
 excusefully
+executor
 exostome
 embergoose
 excuser
