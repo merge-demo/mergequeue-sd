@@ -11897,6 +11897,7 @@ deathblow
 dehypnotized
 dragoonade
 daguerreotypic
+dea
 disdein
 dardani
 doubleheader
@@ -15961,7 +15962,6 @@ dissonancies
 dotiest
 desponding
 dune
-dea
 dissocial
 dialogize
 dasein
