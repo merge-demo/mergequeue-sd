@@ -3954,6 +3954,7 @@ endosymbiosis
 emolumental
 extemporiser
 evader
+eccentrometer
 enstate
 emory
 exopathic
@@ -5412,7 +5413,6 @@ explicators
 esquiline
 empyreum
 eophyte
-eccentrometer
 endothermal
 endothermy
 ectopatagia

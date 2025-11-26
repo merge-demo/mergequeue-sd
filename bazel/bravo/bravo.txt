@@ -4452,7 +4452,6 @@ buriels
 boomeranged
 billard
 bromizer
-bebopper
 blackrag
 batteler
 behinds
@@ -17011,6 +17010,7 @@ blazoner
 baaing
 bulgari
 brachycranial
+bebopper
 bulge
 behemoth
 braziers
