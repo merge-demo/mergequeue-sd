@@ -106,7 +106,6 @@ fluxionally
 fabulists
 frangi
 fibrinous
-friendly
 futharc
 finnickier
 forrad
@@ -6993,6 +6992,7 @@ fondled
 fondles
 fainter
 formalazine
+friendly
 fumant
 flannels
 fineries
