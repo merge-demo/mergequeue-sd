@@ -1507,6 +1507,7 @@ garotted
 goutish
 gaolage
 gardenhood
+gravisphere
 groose
 guaxima
 glandless
@@ -8563,7 +8564,6 @@ gitana
 grandada
 glasslike
 grouped
-gravisphere
 guiltlessly
 gravitative
 glomeli
