@@ -2877,7 +2877,6 @@ fetterlock
 flatfish
 forewing
 foxship
-frisettes
 fantasize
 fogies
 formicarium
@@ -8151,6 +8150,7 @@ foregate
 forthwith
 fretless
 ferberite
+frisettes
 fructuosity
 fossilology
 foretrace
