@@ -14303,7 +14303,6 @@ ammiolite
 acetoacetanilide
 antiempirically
 angiotensin
-arabesk
 antherozoid
 antherozooidal
 anthers
@@ -17971,6 +17970,7 @@ allothigene
 authenticate
 amphidesmous
 azoformic
+arabesk
 alternariose
 aniliid
 anthypophora
