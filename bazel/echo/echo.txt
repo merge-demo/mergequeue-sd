@@ -3419,7 +3419,6 @@ emetophobia
 ephoral
 erinize
 embassadress
-exumbral
 elaine
 embassy
 eustomatous
@@ -12611,6 +12610,7 @@ epicardium
 electrostatics
 exocoelum
 epifascial
+exumbral
 empresa
 epistylis
 eustathian
