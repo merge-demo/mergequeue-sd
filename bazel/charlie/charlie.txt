@@ -15066,7 +15066,6 @@ cyclographer
 congenially
 combine
 carposperm
-cl
 clabber
 crossover
 clabbery
@@ -17894,6 +17893,7 @@ contingentiam
 carneous
 codol
 chants
+cl
 codominant
 crested
 crystallographical
