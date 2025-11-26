@@ -992,7 +992,6 @@ gundi
 gramercy
 gouge
 greasebush
-glyconin
 glycogenesis
 goldhammer
 ganderess
@@ -6952,6 +6951,7 @@ grassflower
 geologise
 grammy
 gorgeousness
+glyconin
 glumous
 gomeral
 galavanted
