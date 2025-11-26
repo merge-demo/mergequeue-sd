@@ -1869,6 +1869,7 @@ executrix
 eimak
 exulted
 eulima
+exilition
 euphonious
 eleutherodactyl
 ep
@@ -9368,7 +9369,6 @@ excommunicable
 ergonomics
 eupepsia
 escalated
-exilition
 eucti
 eulogistic
 esseda
