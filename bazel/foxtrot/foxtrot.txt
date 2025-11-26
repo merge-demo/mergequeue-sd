@@ -4040,7 +4040,6 @@ fluxibly
 fibrin
 finis
 fadelessly
-finish
 flatling
 fletchings
 fungoid
@@ -7373,6 +7372,7 @@ flyness
 findy
 forbidals
 fasted
+finish
 featous
 foobar
 forbiddenly
