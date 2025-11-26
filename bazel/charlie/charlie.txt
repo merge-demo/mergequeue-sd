@@ -1493,6 +1493,7 @@ citigrade
 callat
 conchologist
 callback
+cephalomenia
 closish
 conversus
 cryptoxanthin
@@ -3757,7 +3758,6 @@ carbamide
 cooperationist
 copunctal
 confusingly
-cephalomenia
 carbamyls
 carpodetus
 carbamine
