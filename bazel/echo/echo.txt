@@ -3055,7 +3055,6 @@ elaidin
 eurythmy
 embryotroph
 eumycetic
-elkslip
 enharbor
 elkuma
 elkwood
@@ -8864,6 +8863,7 @@ eventuation
 electrooptically
 erer
 erethisia
+elkslip
 excursively
 embossers
 eelworms
