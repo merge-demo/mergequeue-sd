@@ -164,7 +164,6 @@ enriched
 exequy
 earmarked
 eelbobber
-expiring
 expressive
 elses
 escallop
@@ -3455,6 +3454,7 @@ eutelegenic
 enchained
 encolden
 embers
+expiring
 estival
 enate
 epees
