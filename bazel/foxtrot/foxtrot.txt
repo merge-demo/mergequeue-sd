@@ -114,7 +114,6 @@ fingertips
 faciends
 featheredges
 fluidization
-facient
 furaldehyde
 facilitate
 forthcome
@@ -5306,6 +5305,7 @@ french
 flain
 fernwort
 fulyie
+facient
 fucaceous
 farrierlike
 formates
