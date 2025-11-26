@@ -519,7 +519,6 @@ ceremoniary
 chainmaking
 cadet
 canonize
-cadets
 cataleptoid
 cadetship
 counterstamp
@@ -28808,6 +28807,7 @@ concumbency
 cress
 cleanable
 cassena
+cadets
 countertail
 cresselle
 cringingness
