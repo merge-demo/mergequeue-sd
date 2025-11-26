@@ -6684,7 +6684,6 @@ frippery
 fairways
 fogdom
 fogfruit
-fibrins
 fruiteress
 flatterable
 flintlock
@@ -10539,6 +10538,7 @@ forcipiform
 frowze
 franking
 fluky
+fibrins
 flatus
 festivous
 fossilised
