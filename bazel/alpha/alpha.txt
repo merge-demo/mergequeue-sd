@@ -471,7 +471,6 @@ attently
 alfalfa
 apophysate
 abirritating
-abirritation
 akvavit
 antisocialistic
 abysmal
@@ -15312,6 +15311,7 @@ antihero
 amphoriskos
 azulejo
 anticonscriptive
+abirritation
 antihierarchy
 akimbo
 aidless
