@@ -2122,6 +2122,7 @@ edenite
 exudes
 emberiza
 effete
+exocoelic
 eberthella
 electrography
 ethicized
@@ -12601,7 +12602,6 @@ exocoelar
 exocoele
 excusing
 electrophoreses
-exocoelic
 explant
 epicardium
 electrostatics
