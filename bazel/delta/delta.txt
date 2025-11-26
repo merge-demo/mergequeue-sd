@@ -2026,7 +2026,6 @@ dimorphic
 desugars
 decaedron
 decaffeinate
-depicted
 disformity
 decaffeinize
 disregardable
@@ -10683,6 +10682,7 @@ danainae
 dinornithoid
 dawties
 dissipating
+depicted
 durned
 draws
 derivable
