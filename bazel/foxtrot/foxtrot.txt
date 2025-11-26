@@ -1596,7 +1596,6 @@ ferroaluminum
 formidability
 favosites
 fixings
-finer
 florae
 fiddlebow
 forereaching
@@ -9768,6 +9767,7 @@ fastiia
 fascists
 fencers
 frescoed
+finer
 fraxinella
 fresheners
 freshening
