@@ -7546,7 +7546,6 @@ employs
 exstemporaneous
 epauliere
 ectoprocta
-electroforming
 exocarp
 experienceable
 epicede
@@ -10539,6 +10538,7 @@ eucharistic
 eucharistically
 earthfall
 ephthalite
+electroforming
 empaper
 enswathed
 eucharists
