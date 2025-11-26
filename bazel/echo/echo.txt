@@ -6586,7 +6586,6 @@ electricity
 emigrates
 erysimum
 enhuile
-enwind
 exolemma
 emove
 eligenda
@@ -9592,6 +9591,7 @@ esophagean
 esophago
 esophagogastroscopy
 entrike
+enwind
 esophagometer
 emotionalized
 enticeable
