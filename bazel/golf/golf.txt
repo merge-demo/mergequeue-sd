@@ -1033,7 +1033,6 @@ gentlewomanliness
 germination
 geologer
 gloriette
-galvanoscopy
 geodist
 gleemen
 golp
@@ -7657,6 +7656,7 @@ gaucy
 girdler
 gopherwood
 gunsmithery
+galvanoscopy
 graded
 gorgonlike
 gool
