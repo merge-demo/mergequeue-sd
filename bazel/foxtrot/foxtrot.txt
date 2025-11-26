@@ -7591,6 +7591,7 @@ fatuity
 footslogs
 forestaller
 flacherie
+flory
 forjudgment
 fatimid
 foredoomer
@@ -7712,7 +7713,6 @@ fossa
 fidessa
 flinchingly
 foreignly
-flory
 fishy
 foreignness
 foreimpressed
