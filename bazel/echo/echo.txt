@@ -7883,6 +7883,7 @@ eireannach
 extincts
 executioner
 epihyal
+enterogram
 exogonium
 exanthema
 entogastric
@@ -12664,7 +12665,6 @@ encratism
 exogenously
 examplar
 exogyra
-enterogram
 effusion
 exognathite
 expunges
