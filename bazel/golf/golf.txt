@@ -1898,7 +1898,6 @@ gooma
 gamenesses
 grecale
 grubstake
-gating
 guaiocum
 gerontologists
 germ
@@ -5662,6 +5661,7 @@ gokuraku
 goodbye
 garnet
 gratefuller
+gating
 glasses
 glassrope
 glorifications
