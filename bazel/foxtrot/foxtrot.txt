@@ -4277,6 +4277,7 @@ fingerling
 footrill
 freudism
 fatiguability
+faunch
 fulsomely
 ferdwit
 foreshortens
@@ -9712,7 +9713,6 @@ fissionability
 festinate
 floatable
 footmanry
-faunch
 facework
 fluviograph
 flabs
