@@ -12871,6 +12871,7 @@ climb
 churchwoman
 churchwomen
 churel
+colombina
 churidars
 cyclized
 cupidity
@@ -19262,7 +19263,6 @@ clogging
 congerie
 carcinogeneses
 colombin
-colombina
 crimsonly
 colon
 colonate

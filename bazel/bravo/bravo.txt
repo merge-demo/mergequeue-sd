@@ -3091,7 +3091,6 @@ bealach
 barques
 bronteana
 bonitas
-boithrin
 butylene
 basculation
 bulbils
@@ -4247,6 +4246,7 @@ bathomania
 beautifier
 bishopbird
 banff
+boithrin
 beautiful
 blowball
 bellhanging
