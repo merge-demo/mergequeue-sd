@@ -6562,7 +6562,6 @@ endothelioma
 eclectic
 engroove
 entelechies
-entomologic
 engorging
 entendre
 epidermophytosis
@@ -8881,6 +8880,7 @@ evonymus
 estrangement
 ergative
 elmier
+entomologic
 ergatocrat
 epiblast
 embreastment
