@@ -2225,6 +2225,7 @@ bevesselled
 barbarically
 blandiloquous
 barbequing
+bellow
 bourage
 barricos
 buddler
@@ -6006,7 +6007,6 @@ becovet
 besaint
 blastoporic
 beautifulness
-bellow
 bemoan
 bookie
 bemoaned
