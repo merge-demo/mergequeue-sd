@@ -6175,7 +6175,6 @@ flowerers
 fumiferana
 future
 funnyman
-factoress
 fluohydric
 furnacemen
 flowerwork
@@ -6806,6 +6805,7 @@ forseeable
 fluidics
 foreshadowing
 ferme
+factoress
 fiendliness
 frontal
 flaccidity
