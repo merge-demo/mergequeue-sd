@@ -6617,6 +6617,7 @@ berets
 berewick
 biunity
 banquettes
+bepelt
 bergall
 bergamasche
 bergamask
@@ -8319,7 +8320,6 @@ biventral
 buttonholing
 biggish
 bayadeer
-bepelt
 bigheaded
 blastostylar
 balk
