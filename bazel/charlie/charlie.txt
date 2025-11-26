@@ -168,7 +168,6 @@ carbonizable
 cabob
 countervails
 caboceer
-cizar
 caboched
 cabocle
 caboclo
@@ -14905,6 +14904,7 @@ cytost
 conceit
 conveys
 counterpray
+cizar
 curding
 compactness
 coenogamete
