@@ -2075,6 +2075,7 @@ gutlessness
 glutted
 gherkins
 gavots
+garnered
 gomari
 giftless
 glossers
@@ -3017,7 +3018,6 @@ gaps
 goatherdess
 guildsmen
 geomancy
-garnered
 grumbled
 glosser
 gushingness
