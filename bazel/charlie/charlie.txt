@@ -6927,7 +6927,6 @@ cementite
 cannery
 cementitious
 carinaria
-claudicate
 cementmaker
 catapan
 candidly
@@ -18490,6 +18489,7 @@ cronk
 curr
 coherence
 cataractal
+claudicate
 coherent
 coherer
 cumberworld
