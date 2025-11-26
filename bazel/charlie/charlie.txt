@@ -13154,6 +13154,7 @@ cicatrization
 cott
 cicatrizer
 cicatrizing
+cropweed
 cicelies
 ciceronage
 ciceroni
@@ -29817,7 +29818,6 @@ cropplecrown
 crops
 cropshin
 cropsick
-cropweed
 calorimeters
 casekeeper
 criminalese
