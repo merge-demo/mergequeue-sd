@@ -8154,6 +8154,7 @@ elmy
 eclectically
 erudit
 echeveria
+edriophthalmian
 episcopate
 expulsions
 entosphere
@@ -13590,7 +13591,6 @@ extemporally
 electropotential
 elkanah
 eisegesis
-edriophthalmian
 exarteritis
 electropyrometer
 expulsory
