@@ -674,6 +674,7 @@ enhance
 envier
 excide
 eclogic
+exor
 extraocular
 eclogite
 eclosion
@@ -3079,7 +3080,6 @@ equated
 excreters
 eardrop
 ellfish
-exor
 esthetes
 endarterium
 entellus
