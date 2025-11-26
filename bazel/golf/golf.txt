@@ -8059,7 +8059,6 @@ gleeking
 glassier
 gratae
 granite
-gracy
 gypsydoms
 guttulae
 geminiflorous
@@ -10318,6 +10317,7 @@ girondin
 gamodesmic
 gymnostomous
 gigantostraca
+gracy
 geographized
 gastroenterology
 gridder
