@@ -11030,6 +11030,7 @@ aerobion
 agomphious
 adelphophagy
 amorphism
+adipometer
 amorphophallus
 armorician
 antisocially
@@ -20944,7 +20945,6 @@ ascaridae
 ascarides
 authoresses
 appertains
-adipometer
 altaic
 acclimated
 arter
