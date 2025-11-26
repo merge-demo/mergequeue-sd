@@ -3909,6 +3909,7 @@ bint
 brockage
 bazooka
 blunge
+bagatelle
 buckishly
 bamboos
 bbs
@@ -12593,7 +12594,6 @@ bonnwis
 bionomist
 bonorum
 bisector
-bagatelle
 bills
 brainchild
 blackballer
