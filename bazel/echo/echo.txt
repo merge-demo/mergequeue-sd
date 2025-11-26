@@ -5901,6 +5901,7 @@ edificing
 electorial
 epigeum
 ewest
+eutopian
 extrazodiacal
 epigramme
 exacerbescence
@@ -13471,7 +13472,6 @@ equivocated
 embraceorr
 enallachrome
 eyeservice
-eutopian
 eucrasite
 ethan
 ergophobic
