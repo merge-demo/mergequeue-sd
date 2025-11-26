@@ -1054,7 +1054,6 @@ eyeless
 endoskeleton
 eqpt
 edgar
-expatiatory
 edgeboned
 eringos
 eagerly
@@ -8617,6 +8616,7 @@ eriogonum
 equilibrant
 extractively
 enframe
+expatiatory
 electrodynamometer
 elinguating
 ectal
