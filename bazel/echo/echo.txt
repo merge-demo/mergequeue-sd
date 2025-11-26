@@ -3103,6 +3103,7 @@ extemporize
 elliptograph
 elliptoid
 extraparietal
+exite
 eke
 elm
 embarrassment
@@ -12561,7 +12562,6 @@ embezzle
 exit
 encrypted
 exsects
-exite
 eranist
 extinction
 envied
