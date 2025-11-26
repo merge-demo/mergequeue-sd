@@ -11721,7 +11721,6 @@ bumkins
 befop
 bolsterwork
 bosselated
-bobfloat
 bobierrite
 balaenid
 bobjerom
@@ -15446,6 +15445,7 @@ bullule
 bemusing
 brilliantly
 brilliantwise
+bobfloat
 brilliolette
 brills
 baculites
