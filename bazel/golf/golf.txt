@@ -3195,7 +3195,6 @@ geotilla
 grigs
 geotropy
 guardant
-glossolabiolaryngeal
 gametoid
 gambian
 ganglial
@@ -10433,6 +10432,7 @@ gilia
 goudy
 gesneraceous
 gomphodont
+glossolabiolaryngeal
 geobiologic
 gumdigging
 gumdrop
