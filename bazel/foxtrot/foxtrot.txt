@@ -3031,7 +3031,6 @@ friendliwise
 foreman
 floodage
 flogster
-fioriture
 fairyology
 firemanship
 feoffers
@@ -6836,6 +6835,7 @@ forger
 foliaged
 firetower
 fustigator
+fioriture
 fussify
 flipjack
 fourhanded
