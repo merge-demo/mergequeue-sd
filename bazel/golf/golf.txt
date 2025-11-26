@@ -1717,7 +1717,6 @@ gastrograph
 gamebag
 gazetteerish
 gordioidea
-glories
 gane
 grassquit
 gastrojejunostomy
@@ -9663,6 +9662,7 @@ gult
 gyroidally
 gastrojejunostomies
 grueled
+glories
 ghana
 guipures
 gamogony
