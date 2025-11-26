@@ -2718,7 +2718,6 @@ figpecker
 ficche
 fathomer
 fantasts
-fiefs
 farcicalness
 flagitate
 fimbriated
@@ -5770,6 +5769,7 @@ foehns
 finebent
 fringilliform
 finings
+fiefs
 fulth
 ferrochrome
 flitfold
