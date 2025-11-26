@@ -6247,7 +6247,6 @@ gastroenteroanastomosis
 gowkedly
 galactosan
 goatsbeard
-guestimate
 gavotting
 galloway
 glue
@@ -10745,6 +10744,7 @@ gournard
 gagers
 groggy
 gustiest
+guestimate
 geocentrically
 galewort
 gymnosophical
