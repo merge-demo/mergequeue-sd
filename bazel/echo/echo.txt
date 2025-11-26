@@ -5916,7 +5916,6 @@ expend
 enhaemospore
 epiplastron
 emphases
-explees
 ecarinate
 execrators
 exaggerativeness
@@ -11975,6 +11974,7 @@ encinal
 emirs
 ensilages
 exothermicity
+explees
 endurance
 enlist
 epithecate
