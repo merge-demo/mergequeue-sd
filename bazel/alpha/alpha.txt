@@ -3178,6 +3178,7 @@ activities
 amoristic
 assailability
 allogenic
+archipelagos
 alcoholized
 asterixis
 aid
@@ -23979,7 +23980,6 @@ antitypy
 apologiser
 aminolysis
 antiprohibition
-archipelagos
 autoboating
 autobuses
 autobusses
