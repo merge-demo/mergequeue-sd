@@ -1578,6 +1578,7 @@ bifurcate
 ballywack
 basalt
 brooder
+branchman
 benzanilide
 beclart
 bursati
@@ -14554,7 +14555,6 @@ bollocks
 bancales
 balladeer
 branchlet
-branchman
 brandenburg
 baring
 brandenburger
