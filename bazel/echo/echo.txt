@@ -4626,6 +4626,7 @@ exarchs
 egotists
 equinities
 enchyma
+embryologic
 estheticism
 exencephalus
 electorally
@@ -12926,7 +12927,6 @@ epinine
 enteradenographic
 extraprostatic
 eyrir
-embryologic
 erasmus
 expatiates
 expatiating

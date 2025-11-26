@@ -17798,7 +17798,6 @@ anthophoridae
 apportioning
 analphabetic
 agent
-assertory
 anastatic
 apposability
 anthranone
@@ -19688,6 +19687,7 @@ araroba
 affabrous
 amanuensis
 aristocratism
+assertory
 aristocrats
 adrectal
 aula
