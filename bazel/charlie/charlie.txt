@@ -3331,6 +3331,7 @@ chloroacetic
 capone
 caponette
 caponier
+commode
 caponiere
 cognominate
 caponiers
@@ -20193,7 +20194,6 @@ cunza
 coercends
 carosella
 commodatum
-commode
 commodes
 cobias
 cionotomy
