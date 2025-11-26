@@ -4194,7 +4194,6 @@ gaggles
 gundogs
 gauds
 gnathites
-gastroplication
 glaswegian
 gibbeted
 gelofre
@@ -5978,6 +5977,7 @@ gastroparesis
 garreted
 groucho
 gimmicked
+gastroplication
 gurneys
 glutaminic
 galliambus
