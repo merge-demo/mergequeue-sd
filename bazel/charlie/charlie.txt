@@ -6675,7 +6675,6 @@ crioceris
 cardiosymphysis
 cedula
 cee
-ceibas
 coracomorphic
 chard
 cursorial
@@ -16625,6 +16624,7 @@ clewed
 clos
 clodknocker
 curiologic
+ceibas
 closable
 closeable
 closecross
