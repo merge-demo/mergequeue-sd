@@ -2712,7 +2712,6 @@ acrylics
 arietta
 acipenserid
 arcabucero
-artifacts
 autolithography
 acrylonitrile
 attributes
@@ -13985,6 +13984,7 @@ allopolyploid
 ampalaya
 altogether
 astronomien
+artifacts
 actualising
 antarchist
 azoxazole
