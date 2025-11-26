@@ -6090,7 +6090,6 @@ edinburgh
 escheated
 enlaurel
 emancipatist
-exorableness
 enliveningly
 enlief
 evertebrate
@@ -7265,6 +7264,7 @@ electrocatalytic
 encephalomere
 epidemiology
 energetics
+exorableness
 eccaleobion
 ensealed
 eopalaeozoic
