@@ -5406,7 +5406,6 @@ glimmer
 graphometry
 groundswell
 generall
-glucosid
 gutwise
 glycaemic
 grimmer
@@ -6592,6 +6591,7 @@ groyne
 goulan
 ghostwrite
 gingivolabial
+glucosid
 gynandrian
 gelsemin
 guff
