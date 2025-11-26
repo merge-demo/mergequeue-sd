@@ -10482,7 +10482,6 @@ answerableness
 anaxagorize
 annotating
 anticlimactically
-amice
 anatriptic
 algomian
 aasvogels
@@ -24217,6 +24216,7 @@ awash
 aminities
 automated
 argentite
+amice
 automates
 agronomist
 aphetism
