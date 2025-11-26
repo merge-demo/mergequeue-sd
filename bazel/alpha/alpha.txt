@@ -12484,7 +12484,6 @@ amazed
 adar
 anelasticity
 augurship
-antirationalism
 anelectrode
 appui
 anelectrotonus
@@ -17640,6 +17639,7 @@ atlantad
 alerted
 aviate
 appetite
+antirationalism
 algaroth
 autographist
 albizia
