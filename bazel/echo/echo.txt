@@ -10060,6 +10060,7 @@ ethanedithiol
 enthalpy
 epicoeloma
 erythrophyllin
+ensembles
 encumbered
 export
 eyey
@@ -12791,7 +12792,6 @@ exosmotic
 explicative
 erotize
 edaphosaurid
-ensembles
 encounterable
 emancipative
 exospore
