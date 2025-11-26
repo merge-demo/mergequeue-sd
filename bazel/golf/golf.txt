@@ -7465,7 +7465,6 @@ ghbor
 gonococcal
 glub
 goldfish
-geologising
 gourded
 gospelist
 granuliferous
@@ -7804,6 +7803,7 @@ greeny
 grubworm
 gulleys
 gillstoup
+geologising
 glycolipine
 gargoylish
 gisant
