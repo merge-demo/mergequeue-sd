@@ -4452,7 +4452,6 @@ ginseng
 globigerinidae
 gynura
 goyazite
-gadsman
 glucuronide
 gobby
 giobertite
@@ -8376,6 +8375,7 @@ gladsomeness
 ganoid
 granites
 genro
+gadsman
 guisards
 gerundival
 gingerbread
