@@ -1423,6 +1423,7 @@ diligentia
 disintegrable
 dulcid
 dechoralize
+deperms
 deportation
 dawdling
 dibbed
@@ -5622,7 +5623,6 @@ diastrophe
 deperditely
 domain
 distinctest
-deperms
 disserves
 dichromatopsia
 depersonalise
