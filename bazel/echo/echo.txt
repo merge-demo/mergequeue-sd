@@ -1243,7 +1243,6 @@ enroot
 efficiently
 earthshock
 ethylidyne
-epigrammatise
 eelcake
 elsewheres
 exposition
@@ -8222,6 +8221,7 @@ equidominant
 equidistantly
 ergophobia
 enisling
+epigrammatise
 euthenic
 earlobe
 ethnomaniac
