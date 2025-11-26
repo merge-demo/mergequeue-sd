@@ -691,6 +691,7 @@ filmcards
 ferlie
 fanweed
 fanatico
+frumpish
 fleshlike
 forzandos
 fobs
@@ -8713,7 +8714,6 @@ foulmart
 favellidium
 fortifiers
 flaxwench
-frumpish
 fosset
 falsifies
 frisette
