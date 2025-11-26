@@ -5668,6 +5668,7 @@ fibrine
 freckles
 funeration
 forbearant
+flaking
 finite
 flancards
 friended
@@ -6415,7 +6416,6 @@ flyboat
 flisky
 fetches
 fitchet
-flaking
 fairm
 filiety
 flaggier
