@@ -1733,7 +1733,6 @@ exert
 ecdemic
 eyelet
 empaled
-ecstatic
 expwy
 exaggerates
 engining
@@ -12037,6 +12036,7 @@ enamelled
 epidialogue
 exclusivistic
 exclusivity
+ecstatic
 effluents
 excogitated
 emigrator
