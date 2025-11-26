@@ -69,7 +69,6 @@ gloiosiphonia
 gandum
 graftproof
 galliums
-grayish
 giddap
 glowing
 graticule
@@ -4911,6 +4910,7 @@ glairiest
 gladsomest
 globiocephalus
 guapinol
+grayish
 guardee
 gladwin
 gauffred
