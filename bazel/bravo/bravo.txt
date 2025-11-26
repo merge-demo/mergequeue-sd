@@ -5328,7 +5328,6 @@ bivariate
 beglide
 burkers
 bor
-beglooms
 begloze
 busti
 brokenly
@@ -11506,6 +11505,7 @@ bispore
 bethwack
 bombload
 blumes
+beglooms
 benighting
 blunderbuss
 borasqueborate
