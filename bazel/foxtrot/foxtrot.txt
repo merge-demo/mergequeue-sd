@@ -3253,7 +3253,6 @@ forcene
 fireballs
 fictitiousness
 fistularioid
-fable
 fortieths
 ftnerr
 frizziest
@@ -3405,6 +3404,7 @@ flighting
 foxish
 foresters
 firmation
+fable
 flowcharts
 fiascoes
 foretalk

@@ -6466,7 +6466,6 @@ gillaroo
 goldener
 gidgee
 guldens
-guary
 goldentop
 glochideous
 grapewise
@@ -8824,6 +8823,7 @@ glaciologic
 grazed
 geranomorphae
 grossularia
+guary
 grossest
 gauntleting
 germain
