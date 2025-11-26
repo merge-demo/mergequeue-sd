@@ -2524,7 +2524,6 @@ disaccommodation
 dove
 dubonnet
 deactivating
-declarations
 declarative
 deligation
 demieagle
@@ -4299,6 +4298,7 @@ designatory
 delustering
 deceleration
 delved
+declarations
 dermatopathology
 demimillionaire
 dysarthria
