@@ -1737,7 +1737,6 @@ gangwayman
 glossoscopy
 gadoids
 glycerinate
-gynocracy
 gympie
 goldstone
 genotypes
@@ -4316,6 +4315,7 @@ guinfo
 gelsemia
 germicide
 gynetype
+gynocracy
 gymnadenia
 glazieries
 glazings
