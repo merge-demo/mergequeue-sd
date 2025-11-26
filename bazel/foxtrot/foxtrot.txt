@@ -1607,7 +1607,6 @@ functionating
 fallalery
 faniente
 favouring
-footroom
 floriage
 frijol
 fervescence
@@ -4986,6 +4985,7 @@ forwarders
 fictionalized
 foraminate
 fact
+footroom
 forestcraft
 fadeaway
 fringiest
