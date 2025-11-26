@@ -130,6 +130,7 @@ brabantine
 basicranial
 bedimpled
 bedash
+bantayan
 boolian
 bacin
 bourne
@@ -2109,7 +2110,6 @@ brouillon
 barring
 borofluoride
 backframe
-bantayan
 buckshots
 bidstand
 bantam
