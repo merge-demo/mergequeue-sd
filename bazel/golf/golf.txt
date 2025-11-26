@@ -6066,6 +6066,7 @@ glovemen
 glycemia
 griddle
 gownsman
+generalizeable
 gullishly
 guttiest
 gairfowl
@@ -10651,7 +10652,6 @@ glyoxalase
 generableness
 gliding
 gonagra
-generalizeable
 gurgitation
 gasolines
 gametogony
