@@ -19013,6 +19013,7 @@ collectors
 circumscissile
 crisped
 creedless
+clarifications
 collegia
 collegialism
 churchmanly
@@ -29863,7 +29864,6 @@ cowslipped
 candys
 callow
 crossbeam
-clarifications
 crossbeams
 cosmorganic
 crossbelt
