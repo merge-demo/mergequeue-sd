@@ -1837,7 +1837,6 @@ feedbags
 flexographic
 frostnipped
 farcicality
-funambulate
 foreign
 febricant
 frilly
@@ -10419,6 +10418,7 @@ frontoauricular
 frontomallar
 frontomental
 fidibus
+funambulate
 folks
 foraminifera
 flodge
