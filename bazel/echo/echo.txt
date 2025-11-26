@@ -5795,6 +5795,7 @@ excl
 englobe
 empressements
 epigraphy
+exostosis
 expressions
 englobed
 enneahedral
@@ -12801,7 +12802,6 @@ eurycerotidae
 epomophorus
 exines
 extensional
-exostosis
 exarchist
 exostra
 ebullition

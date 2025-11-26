@@ -2721,6 +2721,7 @@ bogomile
 buoyantly
 branching
 barnumism
+beplumed
 bienne
 blitum
 betrothals
@@ -10801,7 +10802,6 @@ bullbeggar
 bugbeardom
 blepharomelasma
 blepharoncosis
-beplumed
 broses
 blepharoplastic
 bassan
