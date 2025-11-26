@@ -6710,7 +6710,6 @@ bossiest
 bathe
 bologna
 bermensch
-brith
 bermes
 bourgeoisify
 bagaudae
@@ -16616,6 +16615,7 @@ buccaning
 beraunite
 buccanned
 bent
+brith
 buccanning
 blastogeny
 bilaminated
