@@ -6038,7 +6038,6 @@ bemuddling
 bemurmur
 bondwoman
 butyral
-bemurmure
 bemurmuring
 bittier
 bemuses
@@ -7121,6 +7120,7 @@ booties
 backstick
 backsets
 brashest
+bemurmure
 bespray
 ballute
 bespreng
