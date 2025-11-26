@@ -5522,6 +5522,7 @@ garring
 gloams
 granadillo
 glutinously
+gestalter
 grudgeons
 greencoat
 glob
@@ -7085,7 +7086,6 @@ gunnage
 guelphic
 giottesque
 glaces
-gestalter
 gourounut
 gaus
 gunwales
