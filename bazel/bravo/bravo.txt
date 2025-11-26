@@ -2863,7 +2863,6 @@ biochemistry
 bulgarians
 buckwashing
 bursted
-barracouta
 brushlessness
 bicep
 blanketless
@@ -7228,6 +7227,7 @@ bestrew
 bearwoods
 bladdernut
 bestrewment
+barracouta
 besnow
 baconist
 bisporous
