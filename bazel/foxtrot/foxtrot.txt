@@ -5985,6 +5985,7 @@ forecasters
 footscald
 floodwood
 foisty
+fabrics
 fulah
 floricultural
 faitour
@@ -9741,7 +9742,6 @@ fraicheur
 folklorists
 frenzy
 foredays
-fabrics
 figurability
 factored
 fridges
