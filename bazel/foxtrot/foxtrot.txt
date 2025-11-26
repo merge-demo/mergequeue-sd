@@ -1750,7 +1750,6 @@ fantasmagoric
 frailero
 famatinite
 flattener
-featheredged
 fanzines
 forejudgment
 feldspathoidal
@@ -4388,6 +4387,7 @@ fishbolts
 flechette
 funt
 floorshifts
+featheredged
 flagged
 forbearances
 frenums
