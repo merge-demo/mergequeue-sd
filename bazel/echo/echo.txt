@@ -5763,6 +5763,7 @@ eyeglance
 extraverted
 extemporised
 endofaradism
+ethylation
 enolases
 exition
 ethicize
@@ -10256,7 +10257,6 @@ ethyne
 elucidatory
 endoscopist
 endosarcous
-ethylation
 entrust
 earlap
 embroiled
