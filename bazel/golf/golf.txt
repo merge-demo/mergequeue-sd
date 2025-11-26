@@ -8833,6 +8833,7 @@ generalize
 griddler
 galleys
 gentianaceous
+glueyness
 gallus
 globate
 griege
@@ -10163,7 +10164,6 @@ grandstands
 gabs
 gallnuts
 guide
-glueyness
 gigglement
 guidebooky
 gemlich

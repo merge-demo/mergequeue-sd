@@ -8058,7 +8058,6 @@ fellahs
 flash
 fluidises
 falconnoid
-foredevote
 felicitates
 fluidisation
 frustrate
@@ -9181,6 +9180,7 @@ forms
 fracturing
 filicide
 frenchiness
+foredevote
 foolify
 formicaria
 fraena
