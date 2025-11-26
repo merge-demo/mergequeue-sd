@@ -5719,7 +5719,6 @@ footed
 flirtatiously
 flosculariidae
 flirtatiousness
-fundament
 floodwater
 fitroot
 flippancies
@@ -10641,6 +10640,7 @@ frogstool
 filtrability
 facultate
 fegatella
+fundament
 flatulent
 fickly
 forcibly
