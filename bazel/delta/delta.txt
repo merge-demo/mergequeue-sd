@@ -9880,6 +9880,7 @@ doek
 desilicification
 dace
 dimensionally
+direxit
 dimensioning
 dimensum
 disangularize
@@ -13849,7 +13850,6 @@ dioxide
 differency
 dystaxias
 dedicational
-direxit
 dysteleologist
 dammers
 decemflorous
