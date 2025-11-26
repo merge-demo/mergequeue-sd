@@ -2363,6 +2363,7 @@ chaetognathous
 cicer
 canap
 consummator
+cutlasses
 cabriole
 cubitocutaneous
 celtologist
@@ -31840,7 +31841,6 @@ cutises
 cutiterebra
 controverse
 coloss
-cutlasses
 congealed
 cutlassfishes
 confusive
