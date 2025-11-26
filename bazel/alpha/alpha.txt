@@ -5758,7 +5758,6 @@ agapemonist
 agapetae
 aptenodytes
 aguacate
-abapical
 adduceable
 agnathous
 answers
@@ -21499,6 +21498,7 @@ anderun
 aspersively
 anosia
 axles
+abapical
 aspersoriums
 asperugo
 arrhal
