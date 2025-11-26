@@ -605,7 +605,6 @@ ecchymosed
 excommenge
 exostoses
 eciliate
-emporia
 emetics
 eurypharynx
 euro
@@ -13026,6 +13025,7 @@ embryonal
 ezba
 entastic
 existentially
+emporia
 esophagectomy
 entocornea
 ergotic
