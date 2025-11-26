@@ -16573,7 +16573,6 @@ clomp
 clomps
 clonal
 cloned
-cloner
 clanning
 caps
 collateralize
@@ -24826,6 +24825,7 @@ cor
 corabecan
 closkey
 complications
+cloner
 corach
 creutzer
 coracial
