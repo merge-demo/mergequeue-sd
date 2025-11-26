@@ -1485,7 +1485,6 @@ epizootically
 effused
 extemporaneously
 elasmobranchii
-explanatorily
 exonarthex
 epics
 endosiphonate
@@ -10666,6 +10665,7 @@ euergetes
 epimyth
 embryotrophe
 eunuchs
+explanatorily
 expediment
 easeless
 echolocation
