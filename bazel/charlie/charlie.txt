@@ -7305,6 +7305,7 @@ civ
 conchitis
 clincher
 commercer
+corallum
 constitution
 conicity
 carnelians
@@ -24911,7 +24912,6 @@ cephadia
 codices
 continuousness
 conciliationist
-corallum
 corals
 corymbiferous
 coram
