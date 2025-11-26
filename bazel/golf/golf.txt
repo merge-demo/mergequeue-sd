@@ -1945,6 +1945,7 @@ guttiness
 galopades
 glorifiers
 galliards
+gothite
 gauffered
 grayfishes
 groundwave
@@ -3284,7 +3285,6 @@ gutty
 ghawazee
 gerfalcon
 gudesake
-gothite
 gahnites
 gunrack
 geriatrician
