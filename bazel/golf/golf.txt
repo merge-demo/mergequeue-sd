@@ -450,7 +450,6 @@ gloominess
 galei
 gynecotelic
 glandlike
-garliclike
 gloating
 graphologic
 gaping
@@ -8527,6 +8526,7 @@ glycin
 geisha
 graveolent
 gymnoderinae
+garliclike
 gozzan
 gramineae
 graverobbing
