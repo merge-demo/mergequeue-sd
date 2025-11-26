@@ -1174,7 +1174,6 @@ edriophthalmatous
 extramental
 educand
 emulsive
-evanished
 educatability
 eident
 educatable
@@ -1772,6 +1771,7 @@ entophytically
 eyeservant
 eyeshade
 exolve
+evanished
 enticingness
 euglenales
 enterocentesis
