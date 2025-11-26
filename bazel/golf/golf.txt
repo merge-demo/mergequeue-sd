@@ -1695,6 +1695,7 @@ gibson
 gros
 gastroenteritis
 glycerolysis
+goggan
 gunrunning
 girting
 guadagnini
@@ -10868,7 +10869,6 @@ graphidiaceae
 gastrulation
 gils
 gyrophora
-goggan
 goaltending
 graperoot
 geniculated
