@@ -6529,6 +6529,7 @@ descent
 despert
 dekameter
 diffracting
+dementi
 deschool
 dirtbird
 dreggily
@@ -18489,7 +18490,6 @@ dendroica
 durably
 dissentiently
 discussants
-dementi
 driftlet
 declamator
 dyslogistically
