@@ -12844,6 +12844,7 @@ dunnages
 dicotyledon
 devotionally
 dominial
+duenas
 destructor
 dam
 dribblets
@@ -17886,7 +17887,6 @@ deterministically
 durance
 dejectedly
 donate
-duenas
 duenesses
 discandy
 disserted
