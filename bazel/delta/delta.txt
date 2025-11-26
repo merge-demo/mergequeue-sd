@@ -2043,7 +2043,6 @@ dichloramin
 decagram
 dourness
 decagrams
-declasse
 despised
 diverberate
 decahedron
@@ -15329,6 +15328,7 @@ dummel
 domains
 dativogerundial
 dissimilatory
+declasse
 diploglossata
 decarboxylate
 dromic
