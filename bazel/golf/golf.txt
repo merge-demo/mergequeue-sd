@@ -1736,7 +1736,6 @@ governail
 guaba
 gambado
 gangwayman
-glossoscopy
 gadoids
 glycerinate
 gympie
@@ -9089,6 +9088,7 @@ goadster
 gyres
 gease
 graveyards
+glossoscopy
 glaucomys
 glumal
 glires
