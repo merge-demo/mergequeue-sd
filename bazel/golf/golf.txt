@@ -3645,6 +3645,7 @@ gauntleted
 gillnetting
 gonadotropic
 ghostdom
+ganglionary
 gardenin
 gipsylike
 gaffkya
@@ -5878,7 +5879,6 @@ gravimetric
 goliards
 gallinaceous
 graphometrist
-ganglionary
 gallywasp
 gyle
 glucosaemia
