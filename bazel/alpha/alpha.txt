@@ -8614,6 +8614,7 @@ allegiancy
 admonitor
 apodeipna
 apoharmine
+antidotal
 aqueduct
 abandoners
 arboricultural
@@ -9906,7 +9907,6 @@ acromiosternal
 acetonization
 acceptive
 amateur
-antidotal
 arietid
 amateurishness
 aspergillaceae
