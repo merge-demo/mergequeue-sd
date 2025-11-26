@@ -5385,6 +5385,7 @@ folliculate
 flechettes
 flecked
 forkhead
+fanfoot
 fleckering
 franco
 fosterhood
@@ -8042,7 +8043,6 @@ footstools
 felsites
 ferroalloy
 faunally
-fanfoot
 fieldie
 favoured
 folksay

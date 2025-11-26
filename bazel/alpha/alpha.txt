@@ -16393,7 +16393,6 @@ antling
 airdates
 antlophobia
 antocular
-aeneous
 agitationist
 aurelius
 antodontalgic
@@ -21059,6 +21058,7 @@ asclepiadean
 airwaves
 asclepiadic
 autosender
+aeneous
 asclepian
 asclepidin
 asclepidoid
