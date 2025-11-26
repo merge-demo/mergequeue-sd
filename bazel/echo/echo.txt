@@ -914,7 +914,6 @@ exampled
 exegesist
 epilogistic
 enteritidis
-echinoids
 extropical
 encapsulating
 escalation
@@ -3969,6 +3968,7 @@ emotivity
 epileptology
 exorability
 epitases
+echinoids
 empaistic
 exilarch
 embroglio
