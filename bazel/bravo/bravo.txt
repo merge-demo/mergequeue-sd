@@ -11819,7 +11819,6 @@ bepity
 boeing
 brashes
 buttonless
-bodhisattwa
 barfly
 bodybending
 bodybuilder
@@ -15703,6 +15702,7 @@ broadsiding
 broadspread
 broadsword
 bamangwato
+bodhisattwa
 bromethyl
 brob
 betorcin
