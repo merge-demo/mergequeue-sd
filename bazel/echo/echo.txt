@@ -3809,7 +3809,6 @@ exscribe
 epistolizing
 eglandulose
 electroplax
-expendables
 emendandum
 extracolumella
 endodontically
@@ -4309,6 +4308,7 @@ epicarides
 ejectment
 exaltedness
 electrochemical
+expendables
 entangle
 exosmoses
 enflowered
