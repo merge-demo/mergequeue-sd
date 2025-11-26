@@ -6850,7 +6850,6 @@ exocentric
 eupolyzoan
 ensky
 etherification
-exceptionless
 epitome
 exterior
 embarque
@@ -9058,6 +9057,7 @@ evocatively
 etnean
 epicyclic
 europeans
+exceptionless
 enbranglement
 exordial
 eyases
