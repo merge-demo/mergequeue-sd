@@ -740,6 +740,7 @@ abrahamidae
 abrahamite
 alazor
 aedicula
+alkaligenous
 alpiniaceae
 abramis
 abranchious
@@ -8427,7 +8428,6 @@ alcoholometrical
 alkali
 alkalies
 aludel
-alkaligenous
 alkaline
 ankylostoma
 alkalinity
