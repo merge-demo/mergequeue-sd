@@ -1486,7 +1486,6 @@ gaseousness
 girllike
 grotesque
 garner
-gasher
 galaginae
 glumly
 gunmaker
@@ -3834,6 +3833,7 @@ geodaesia
 gorger
 girosol
 glarier
+gasher
 gonapophysal
 gesticulate
 grasps
