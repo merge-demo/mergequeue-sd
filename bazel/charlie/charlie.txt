@@ -8124,7 +8124,6 @@ cudgeller
 chagan
 chagga
 chagigah
-chagoma
 concubitant
 commiphora
 chagrining
@@ -11344,6 +11343,7 @@ chloromycetin
 curbed
 chiasmatype
 chloronitrate
+chagoma
 cruche
 colonizer
 chloropalladates
