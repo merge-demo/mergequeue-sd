@@ -1403,6 +1403,7 @@ grecize
 gaits
 ganyie
 gallotannin
+gekkonid
 gasified
 gausterer
 gearshift
@@ -2244,7 +2245,6 @@ grieced
 ghazies
 grisled
 genette
-gekkonid
 gristle
 gossipmongering
 galactase
