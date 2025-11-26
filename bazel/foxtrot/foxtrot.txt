@@ -5175,7 +5175,6 @@ favour
 farsakh
 flatulency
 flatfeet
-flatulencies
 fictions
 flameflower
 feeding
@@ -5651,6 +5650,7 @@ fud
 forethinking
 fulguration
 fluidising
+flatulencies
 fireable
 flimsiness
 fairleads
