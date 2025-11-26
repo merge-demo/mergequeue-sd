@@ -1132,7 +1132,6 @@ baisemain
 besmears
 benedictine
 bushwa
-brunets
 baiters
 banqueter
 bridges
@@ -17683,6 +17682,7 @@ bordage
 blackfin
 blueings
 bonuses
+brunets
 boomlets
 burleycue
 blisterous
