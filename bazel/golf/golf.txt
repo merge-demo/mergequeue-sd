@@ -9598,6 +9598,7 @@ gravimeters
 glandula
 graphite
 growliest
+grylle
 gnathobdellida
 gunbarrel
 grimmiaceous
@@ -9800,7 +9801,6 @@ galeche
 gumfield
 gitano
 glycidic
-grylle
 gonothecal
 gobstick
 gewgaw
