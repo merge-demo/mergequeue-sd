@@ -19817,7 +19817,6 @@ catachresti
 condescendingness
 chinchilla
 comestible
-cringles
 cradlesong
 cyclostrophic
 charade
@@ -25047,6 +25046,7 @@ costiferous
 celotex
 corduroying
 corduroys
+cringles
 chiliadic
 choppered
 cuprotungstite

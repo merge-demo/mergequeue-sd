@@ -10091,7 +10091,6 @@ eschatocol
 ebb
 erythrosin
 etheostominae
-elytroid
 exasperates
 esthetician
 encrinitic
@@ -10460,6 +10459,7 @@ electrodialytic
 erstwhile
 etypic
 ensheath
+elytroid
 equiponderation
 elytrtra
 enoplan
