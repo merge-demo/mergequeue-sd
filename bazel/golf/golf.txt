@@ -3846,7 +3846,6 @@ gonadal
 galled
 gryphons
 gameball
-gastroenterotomy
 grimsir
 giver
 goldang
@@ -7352,6 +7351,7 @@ groggery
 gossep
 graphs
 gaberlunzie
+gastroenterotomy
 gunation
 globe
 galactin
