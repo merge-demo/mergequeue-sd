@@ -13308,7 +13308,6 @@ brachioradialis
 botanizes
 bulbless
 balsamed
-bacterially
 bemat
 bradburya
 botaurus
@@ -15471,6 +15470,7 @@ brimly
 bifollicular
 banshees
 breakdowns
+bacterially
 brimmering
 bairam
 brims

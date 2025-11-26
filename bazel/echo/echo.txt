@@ -314,7 +314,6 @@ espousage
 exserting
 extortionate
 expedient
-eradicate
 esotericism
 extrema
 eirenarch
@@ -5381,6 +5380,7 @@ enmagazine
 epanody
 endothecal
 estrade
+eradicate
 ectozoans
 embowers
 elotillo
