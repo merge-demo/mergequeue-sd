@@ -11663,6 +11663,7 @@ cequi
 clerkdoms
 cardiopneumatic
 cholla
+clarenceux
 cryogen
 criniger
 chollas
@@ -15419,7 +15420,6 @@ corrodible
 clarence
 civilizational
 clarences
-clarenceux
 clarendon
 clares
 claret

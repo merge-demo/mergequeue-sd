@@ -19166,6 +19166,7 @@ adjiger
 allentiac
 arthropoda
 accessorized
+anthocyan
 arctan
 attendances
 abusable
@@ -19266,7 +19267,6 @@ arena
 arenaria
 annam
 auditives
-anthocyan
 accoyed
 antepasts
 aquarii
