@@ -8820,7 +8820,6 @@ dipala
 diazoma
 diazonium
 demethylation
-diazotype
 dromicia
 deluding
 disadvise
@@ -13529,6 +13528,7 @@ denaturized
 dolesome
 diocletian
 disseason
+diazotype
 disseat
 disgood
 diphyodont
