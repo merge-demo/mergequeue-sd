@@ -4860,6 +4860,7 @@ durableness
 demonise
 dactyliotheca
 dodlet
+deviancy
 deaneries
 ductile
 declive
@@ -7672,7 +7673,6 @@ deunam
 debell
 deviance
 dimples
-deviancy
 dogcatcher
 disquantity
 difform
