@@ -9086,7 +9086,6 @@ bioscopy
 bioscopic
 bioastronautical
 bedecorate
-ballistocardiograph
 biosensor
 bearishness
 binominated
@@ -9221,6 +9220,7 @@ bipetalous
 bucciniform
 badassed
 brended
+ballistocardiograph
 bobbinet
 besting
 biphenylene
