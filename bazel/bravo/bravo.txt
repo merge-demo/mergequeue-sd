@@ -2275,7 +2275,6 @@ branchiosaurian
 barbe
 bewearies
 baister
-birdcatching
 barbecuer
 barbellula
 bowwood
@@ -14919,6 +14918,7 @@ bungerly
 bitthead
 breaster
 breastfast
+birdcatching
 bura
 bearing
 balantidium
