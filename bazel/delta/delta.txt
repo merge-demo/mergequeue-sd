@@ -1514,6 +1514,7 @@ deformers
 diazines
 downlinked
 deacetylate
+declasses
 duststorm
 donas
 duppies
@@ -2556,7 +2557,6 @@ daneworts
 diplococcus
 declaring
 dwined
-declasses
 dorn
 disjudication
 declass
