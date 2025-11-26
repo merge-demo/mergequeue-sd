@@ -2441,7 +2441,6 @@ fulgourous
 feasters
 fullymart
 fringillid
-freebooty
 fibrously
 foh
 fingu
@@ -5620,6 +5619,7 @@ fleysome
 forehock
 funicular
 faddiest
+freebooty
 florescent
 flightier
 foster
