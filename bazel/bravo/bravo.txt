@@ -3993,7 +3993,6 @@ beglew
 buyback
 beslur
 bonyfish
-believer
 beacons
 buoyancy
 beadeye
@@ -14593,6 +14592,7 @@ broncobuster
 bellyband
 betrumpet
 behorn
+believer
 brangled
 beanies
 brank
