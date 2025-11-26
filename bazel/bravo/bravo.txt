@@ -1902,6 +1902,7 @@ bandoleros
 barouche
 bandor
 baaskaap
+bacchantic
 bifidate
 biotechs
 brevipen
@@ -12346,7 +12347,6 @@ bodysuits
 breakfasting
 bookmarker
 bombillas
-bacchantic
 blan
 beefsteaks
 bobfly

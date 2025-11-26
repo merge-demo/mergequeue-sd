@@ -13609,6 +13609,7 @@ amebic
 annunciations
 asininity
 ansated
+amplect
 airliner
 appendixes
 aglet
@@ -22345,7 +22346,6 @@ anhaline
 asperger
 aplanat
 autoreduction
-amplect
 atmologist
 astrocompass
 astrodiagnosis
