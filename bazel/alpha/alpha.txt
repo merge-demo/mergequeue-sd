@@ -10234,6 +10234,7 @@ attorneys
 appendaged
 abray
 amebiform
+arthrostome
 anteflexion
 ambitendent
 auximone
@@ -20650,7 +20651,6 @@ aeromagnetic
 adderwort
 albumen
 arthrospore
-arthrostome
 arthrostomy
 arthrotyphoid
 amputative
