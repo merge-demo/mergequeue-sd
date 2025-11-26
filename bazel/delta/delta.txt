@@ -1089,7 +1089,6 @@ dearticulation
 dartled
 dedecorate
 defuses
-dartling
 decanoyl
 downpour
 defluxion
@@ -1783,6 +1782,7 @@ divines
 decadently
 dustheaps
 doorpost
+dartling
 deaving
 decolorization
 drydenism
