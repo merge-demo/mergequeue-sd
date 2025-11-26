@@ -837,6 +837,7 @@ ashangos
 awanting
 ambiguities
 agaves
+autocollimate
 araeotic
 albright
 allergy
@@ -5498,7 +5499,6 @@ aftercome
 australasian
 acrostichic
 aftercooler
-autocollimate
 ack
 apological
 almoning
