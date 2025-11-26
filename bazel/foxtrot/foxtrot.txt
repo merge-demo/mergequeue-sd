@@ -5049,6 +5049,7 @@ flippantly
 flappable
 frankalmoin
 flappet
+fancies
 fermions
 figlike
 fishline
@@ -11033,7 +11034,6 @@ filiferous
 fumarate
 flammulated
 frontolysis
-fancies
 flanerie
 ferruminate
 fumishing
