@@ -2029,7 +2029,6 @@ exophasia
 elytrigerous
 emersion
 etherish
-ethiopic
 examinational
 elaenia
 elaeocarpaceae
@@ -7668,6 +7667,7 @@ epicrasis
 equinal
 eumenid
 enemylike
+ethiopic
 epithalamus
 encefalon
 enringed
