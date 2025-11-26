@@ -13447,7 +13447,6 @@ categoricalness
 calcomp
 casting
 cigaritos
-choloepus
 cautions
 consubstantialism
 cygnid
@@ -30902,6 +30901,7 @@ crassulaceous
 coralflower
 cultismo
 churchliness
+choloepus
 cultisms
 cultistic
 checkerbreast
