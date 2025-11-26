@@ -426,7 +426,6 @@ fibrotic
 festae
 fibroligamentous
 fauchards
-fur
 frockmaker
 fairship
 feal
@@ -5110,6 +5109,7 @@ funking
 forbidding
 forthy
 fireweed
+fur
 fishiest
 fainness
 flashgun
