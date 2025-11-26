@@ -10713,7 +10713,6 @@ dipodomys
 dipolar
 dingar
 dumbnesses
-diaculum
 depit
 dormin
 digitalize
@@ -15490,6 +15489,7 @@ daymen
 diapery
 disbands
 denunciant
+diaculum
 donator
 detergence
 discodactyl
