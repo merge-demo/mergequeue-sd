@@ -1761,7 +1761,6 @@ coyer
 calumniators
 calumnious
 calumniously
-canephor
 calusa
 calutron
 comporting
@@ -10226,6 +10225,7 @@ caracore
 cringed
 chiaus
 conoidical
+canephor
 chiauses
 comprehension
 chyazic
