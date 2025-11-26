@@ -2842,6 +2842,7 @@ eleostearic
 endoubt
 enseat
 electroluminescent
+eustatic
 explicans
 evenhanded
 enaluron
@@ -6181,7 +6182,6 @@ evagation
 entertainers
 entrancing
 eyepoints
-eustatic
 enneandrian
 etherealizing
 edacious
