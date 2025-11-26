@@ -11083,7 +11083,6 @@ codeless
 chiton
 cageling
 chitons
-cadence
 chitosamine
 chitosan
 committeeism
@@ -13160,6 +13159,7 @@ ciceronage
 ciceroni
 crossbreeds
 ciceronian
+cadence
 chiaroscuro
 clon
 ciceronianisms
