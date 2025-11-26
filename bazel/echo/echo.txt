@@ -2105,7 +2105,6 @@ extrovertedness
 extirpateo
 expropriatory
 enent
-emma
 emblematist
 enclosable
 enterolysis
@@ -8702,6 +8701,7 @@ equiproportionality
 egocentrism
 eluate
 escopet
+emma
 eked
 equisetaceous
 epicondylar
