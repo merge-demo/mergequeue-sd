@@ -2039,6 +2039,7 @@ gel
 gelatiniform
 gases
 gaveled
+groundswells
 gibbosities
 gnomologic
 greiges
@@ -7461,7 +7462,6 @@ gladstonianism
 germen
 goulash
 ghbor
-groundswells
 gonococcal
 glub
 goldfish
