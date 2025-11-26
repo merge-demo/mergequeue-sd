@@ -11521,7 +11521,6 @@ clinkstone
 congelifraction
 chokerman
 chalones
-chokers
 chokes
 counteraccusation
 carnaubyl
@@ -15709,6 +15708,7 @@ clavicorn
 clavicornes
 clavicotomy
 clavicular
+chokers
 clavicularium
 claviculate
 chrysohermidin
