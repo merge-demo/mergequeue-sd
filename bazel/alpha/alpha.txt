@@ -12342,6 +12342,7 @@ anders
 autoirrigation
 adipocerite
 americanism
+alexines
 alkenna
 apolytikion
 assiduous
@@ -24770,7 +24771,6 @@ avidin
 abacot
 angioasthenia
 aymara
-alexines
 adamine
 avidity
 arithmetized
