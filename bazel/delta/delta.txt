@@ -6734,6 +6734,7 @@ diatribes
 desiderta
 diptycas
 desidiose
+distichlis
 duckmole
 designable
 doughfoot
@@ -13889,7 +13890,6 @@ druthers
 distichal
 demisable
 diadelphia
-distichlis
 dephased
 dimerous
 discina
