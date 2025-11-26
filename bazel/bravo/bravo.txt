@@ -8823,7 +8823,6 @@ barfed
 benzol
 balsamiferous
 braeface
-bristle
 binomenclature
 binomially
 blondness
@@ -13480,6 +13479,7 @@ balderdash
 benefic
 bradyseismism
 bowyangs
+bristle
 basementward
 bioxide
 bricken
