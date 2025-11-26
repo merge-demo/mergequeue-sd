@@ -4883,7 +4883,6 @@ encrinic
 encrinidae
 encrinital
 elegance
-encroacher
 equalizing
 exponentiations
 elemental
@@ -13897,6 +13896,7 @@ extirpates
 extramatrical
 exculpating
 elations
+encroacher
 eledoisin
 ephymnium
 engineer
