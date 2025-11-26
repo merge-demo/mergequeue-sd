@@ -3726,6 +3726,7 @@ barnstorms
 battler
 battleships
 barrace
+budgerigar
 blushiness
 battlesome
 brigantes
@@ -11830,7 +11831,6 @@ browbeater
 bootlegging
 banking
 bodybuilding
-budgerigar
 bodice
 brainwashers
 bogged

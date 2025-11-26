@@ -3743,7 +3743,6 @@ dasymeter
 dichromism
 deglutinate
 depot
-domitic
 delegated
 disprove
 dehkan
@@ -16191,6 +16190,7 @@ droseras
 dihydrol
 duodiodepentode
 dominic
+domitic
 drupetum
 draconic
 dialector
