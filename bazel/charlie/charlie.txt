@@ -1387,7 +1387,6 @@ californian
 chinos
 chutneys
 chantages
-caliga
 caligate
 caligation
 caliginosity
@@ -29181,6 +29180,7 @@ criophore
 crannogs
 chlordiazepoxide
 crownband
+caliga
 cryoscopy
 colloblast
 candock
