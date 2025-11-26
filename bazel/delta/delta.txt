@@ -4396,7 +4396,6 @@ drused
 demasting
 dematerialisation
 dematerialised
-divinified
 donal
 disproportionation
 dioeciousness
@@ -15004,6 +15003,7 @@ dogeship
 dicentrine
 dustproof
 dunderhead
+divinified
 depressive
 dreamland
 dueler
