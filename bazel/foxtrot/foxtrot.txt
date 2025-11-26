@@ -1726,7 +1726,6 @@ fibrocyte
 flashflood
 feastfully
 forayers
-foist
 felonies
 feastraw
 fledgling
@@ -11152,6 +11151,7 @@ ferulae
 featurally
 flowerbed
 flintwork
+foist
 forefather
 funereally
 fiddly

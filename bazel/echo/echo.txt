@@ -11696,7 +11696,6 @@ expends
 erythrogenic
 estragons
 ecphasis
-entoplastic
 exaggeratively
 exagitate
 effluence
@@ -13981,6 +13980,7 @@ eodevonian
 espagnolette
 echinodermic
 eyepoint
+entoplastic
 equalising
 erythromania
 eisegetic
