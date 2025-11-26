@@ -2490,6 +2490,7 @@ grassing
 grewia
 grots
 guttersnipes
+galumphing
 gibbetwise
 genitalic
 grandity
@@ -3146,7 +3147,6 @@ glycosyl
 gnathal
 gnathobasic
 gnast
-galumphing
 garial
 grangousier
 galena
