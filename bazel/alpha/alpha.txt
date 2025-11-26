@@ -4840,6 +4840,7 @@ awedly
 authenticatable
 archlute
 aeroboat
+archvagabond
 aerobranchia
 appearing
 alditol
@@ -11895,7 +11896,6 @@ ankylenteron
 anamorphosis
 accurre
 acetarious
-archvagabond
 azocochineal
 aspermatous
 autochromy
