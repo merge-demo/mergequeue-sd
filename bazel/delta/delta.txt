@@ -6276,6 +6276,7 @@ duchesnea
 disfigured
 deutobromide
 dividable
+deprivative
 defenser
 dermatomere
 dermatomyces
@@ -13112,7 +13113,6 @@ dispensive
 daggered
 dispeople
 daresay
-deprivative
 declivities
 diversifying
 doozer
