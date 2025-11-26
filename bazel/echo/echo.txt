@@ -11639,6 +11639,7 @@ enforcibility
 embordering
 epulosis
 economics
+extensionality
 ew
 exacerbatingly
 etoiles
@@ -13107,7 +13108,6 @@ experientialism
 eschevin
 encarpuspi
 entosarc
-extensionality
 ergology
 euphonizing
 engarrison
