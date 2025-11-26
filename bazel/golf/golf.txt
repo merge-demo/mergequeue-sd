@@ -5398,7 +5398,6 @@ gracelessly
 glykopexic
 gastroduodenal
 greenest
-gurgled
 gona
 grates
 geoplana
@@ -8446,6 +8445,7 @@ grapestone
 gigas
 gravelroot
 gallstones
+gurgled
 gentisic
 goldbricks
 glaciarium
