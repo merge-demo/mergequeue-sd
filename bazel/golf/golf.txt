@@ -5507,6 +5507,7 @@ glisten
 guttering
 glimmery
 gigeria
+greystone
 glisteringly
 gorblimy
 grubble
@@ -6989,7 +6990,6 @@ generalism
 goof
 goofah
 guaniferous
-greystone
 gebanga
 guirlande
 gauntries
