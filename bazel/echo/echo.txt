@@ -8665,7 +8665,6 @@ equipages
 etherialism
 expositions
 eisenhower
-epipoditic
 eggcrate
 endnotes
 equipedal
@@ -10429,6 +10428,7 @@ earlduck
 echinate
 ethrogim
 ehatisaht
+epipoditic
 etymic
 ergosterin
 endomyces
