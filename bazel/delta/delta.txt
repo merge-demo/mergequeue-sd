@@ -10566,7 +10566,6 @@ dysaphia
 dbrn
 diplococcemia
 disleaf
-davach
 dermatomycosis
 digammate
 dashiki
@@ -18564,6 +18563,7 @@ durukuli
 disanimated
 dyslexic
 defortify
+davach
 decentration
 dush
 dusked
