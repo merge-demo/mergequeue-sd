@@ -2442,6 +2442,7 @@ fringillid
 fibrously
 foh
 fingu
+fontainea
 frontwise
 foreproduct
 fermentable
@@ -11032,7 +11033,6 @@ fora
 filiferous
 fumarate
 flammulated
-fontainea
 frontolysis
 fancies
 flanerie
