@@ -3600,6 +3600,7 @@ flank
 filers
 fructification
 felinity
+frugally
 floorway
 files
 fiddle
@@ -6717,7 +6718,6 @@ feast
 forelegs
 fogon
 fogproof
-frugally
 flaughter
 fellator
 frangulaceae
