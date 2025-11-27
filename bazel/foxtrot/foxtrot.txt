@@ -1239,6 +1239,7 @@ furbishment
 flagellosis
 fortuning
 foredeem
+fascia
 frizzily
 filipendula
 fluorography
@@ -5362,7 +5363,6 @@ feedbin
 fettles
 flanken
 feebleness
-fascia
 fruiteries
 ferulaic
 foldboater
