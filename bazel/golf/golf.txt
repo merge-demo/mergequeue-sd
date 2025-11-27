@@ -7813,7 +7813,6 @@ gospeler
 geococcyx
 garlandry
 glucase
-gunline
 globefishes
 gravidas
 gooiest
@@ -8505,6 +8504,7 @@ galleon
 geomorphological
 geotectonically
 gravelish
+gunline
 guardian
 geognostical
 gulpers
