@@ -1883,7 +1883,6 @@ everwho
 eightball
 eir
 eclat
-epurate
 eptatretidae
 entrepeneur
 eyrant
@@ -10456,6 +10455,7 @@ electrodialytic
 erstwhile
 etypic
 ensheath
+epurate
 elytroid
 equiponderation
 elytrtra
