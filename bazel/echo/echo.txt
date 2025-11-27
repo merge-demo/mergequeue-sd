@@ -2268,6 +2268,7 @@ extensometer
 enciente
 embryony
 embraceable
+entredeux
 encoach
 ethnarchies
 endothys
@@ -14150,7 +14151,6 @@ ecoles
 enigmatology
 escapists
 episcopising
-entredeux
 extrusory
 eof
 examinations
