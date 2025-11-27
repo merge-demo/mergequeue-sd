@@ -11612,6 +11612,7 @@ evulsions
 ewery
 exciding
 empires
+exundance
 ewes
 engraphia
 eucalypt
@@ -13971,7 +13972,6 @@ emceed
 embosked
 enwreathed
 endears
-exundance
 exsuperance
 extraperiosteal
 engem
