@@ -4632,7 +4632,6 @@ giro
 glossae
 gastronomist
 gillhooter
-germanyl
 gruys
 glomerulose
 girgasite
@@ -7085,6 +7084,7 @@ guignardia
 goyle
 gynandrarchy
 gunnage
+germanyl
 guelphic
 giottesque
 glaces
