@@ -3856,7 +3856,6 @@ emersed
 estivator
 eggcupful
 emersonianism
-emesa
 emeses
 effigiate
 epalpate
@@ -7911,6 +7910,7 @@ exotospore
 entomeric
 exuccous
 exarchic
+emesa
 eidola
 enlargement
 ethonone
