@@ -1323,7 +1323,6 @@ gargoyley
 grimier
 gested
 gheleem
-genies
 gieing
 gazaboes
 garroter
@@ -9421,6 +9420,7 @@ glues
 galloptious
 glycocholate
 gamble
+genies
 gingivoglossitis
 gramps
 gingerliness
