@@ -3061,6 +3061,7 @@ bedspreads
 bakerite
 bestials
 brahman
+barmy
 bacterization
 breachy
 barwal
@@ -4082,7 +4083,6 @@ brontosaurs
 bronchomucormycosis
 beriberic
 beaniest
-barmy
 bixaceae
 beaning
 bromoacetone
