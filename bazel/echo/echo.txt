@@ -2499,7 +2499,6 @@ electroing
 electrokinetic
 eluviate
 ecosphere
-epicanthic
 exterminative
 electrokinetics
 elasticum
@@ -13405,6 +13404,7 @@ express
 extralinguistic
 eudaemonical
 empire
+epicanthic
 earlship
 expressage
 edgily
