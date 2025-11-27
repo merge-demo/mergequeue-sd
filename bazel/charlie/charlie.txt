@@ -5995,7 +5995,6 @@ catspaws
 cathograph
 celia
 cathography
-cathole
 critics
 centraliser
 collatress
@@ -23523,6 +23522,7 @@ cornmonger
 clistocarpous
 cathood
 contextually
+cathole
 contextural
 chrysochlore
 comicodidactic
