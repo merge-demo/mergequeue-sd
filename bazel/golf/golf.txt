@@ -1714,7 +1714,6 @@ gentries
 gastrophilite
 grandly
 gastrograph
-gamebag
 gazetteerish
 gordioidea
 gane
@@ -8983,6 +8982,7 @@ gibbier
 gull
 gubbo
 germans
+gamebag
 giveaway
 gumbolike
 glaucopis
