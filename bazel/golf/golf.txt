@@ -1593,6 +1593,7 @@ gasterotheca
 gandermooner
 gymnetrous
 glabellar
+gurneys
 gougers
 gunreach
 grampus
@@ -5980,7 +5981,6 @@ garreted
 groucho
 gimmicked
 gastroplication
-gurneys
 glutaminic
 gimbri
 gome
