@@ -9468,7 +9468,6 @@ check
 communizing
 checkage
 capsulized
-checkback
 checkbite
 checkbits
 checkbook
@@ -13742,6 +13741,7 @@ cinemagoers
 cinemas
 cinematheque
 carsmith
+checkback
 cheeringly
 consumers
 comakers
