@@ -2670,7 +2670,6 @@ emong
 electrosurgery
 enventual
 epididymovasostomy
-egotist
 esophagism
 electrotactic
 eyra
@@ -12811,6 +12810,7 @@ elementary
 exostrae
 exoteric
 exoterica
+egotist
 elementalistically
 excitomotor
 embryology
