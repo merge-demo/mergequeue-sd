@@ -492,7 +492,6 @@ gess
 gadding
 gasifiers
 grunions
-geochronological
 girkin
 gravimetrical
 gelatin
@@ -9560,6 +9559,7 @@ gastornithidae
 groved
 greenskeeper
 gur
+geochronological
 groveled
 gridiron
 giustina
