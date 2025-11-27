@@ -9946,7 +9946,6 @@ cajuputs
 chequebook
 croup
 chequer
-chequered
 chequers
 creosoted
 chalukya
@@ -20123,6 +20122,7 @@ cuspids
 commingler
 commingles
 commingling
+chequered
 comminuted
 cybercultural
 comminution
