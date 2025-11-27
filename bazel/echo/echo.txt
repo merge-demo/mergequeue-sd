@@ -5361,6 +5361,7 @@ evilspeaking
 expatriations
 evzones
 endocline
+eunuchised
 epicrystalline
 encoring
 enarme
@@ -7881,7 +7882,6 @@ egis
 excitor
 epihydric
 elaeagnaceae
-eunuchised
 endolaryngeal
 expertizing
 extracurial
