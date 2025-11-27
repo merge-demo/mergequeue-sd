@@ -1098,6 +1098,7 @@ fleerish
 firehalls
 figulate
 forthcame
+forthteller
 flyings
 farruca
 farseer
@@ -7183,7 +7184,6 @@ formedon
 flection
 faecalith
 flites
-forthteller
 footless
 footlights
 fratries
