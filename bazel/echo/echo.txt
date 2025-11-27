@@ -10757,6 +10757,7 @@ excystation
 extrasystolic
 elderbush
 euphonic
+erodable
 enid
 ephemerae
 enclaret
@@ -12240,7 +12241,6 @@ epiphanizing
 extralateral
 elevener
 entally
-erodable
 edriasteroidea
 ergotine
 eskuara
