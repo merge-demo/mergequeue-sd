@@ -743,6 +743,7 @@ gollywog
 gonoplasm
 galvanoglyph
 gerbillinae
+ggr
 gar
 goniometric
 gnawer
@@ -780,7 +781,6 @@ gutter
 gluck
 gutturize
 galvanothermometer
-ggr
 galliformes
 ginneries
 goose
