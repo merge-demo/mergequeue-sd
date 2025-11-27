@@ -94,6 +94,7 @@ bumpity
 babied
 bumaloe
 bloodstock
+balagan
 bisyllabism
 boddhisattva
 bonsoir
@@ -8219,7 +8220,6 @@ balanocele
 berith
 bb
 bobstay
-balagan
 bullfist
 brothership
 bespurt
