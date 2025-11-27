@@ -8333,7 +8333,6 @@ facade
 forisfamiliation
 fontlet
 ferrotyping
-firmament
 fatherlike
 flapperish
 fittiest
@@ -9728,6 +9727,7 @@ frenetical
 fideicommissioner
 frigorifical
 factful
+firmament
 forgathered
 frenetically
 forlorner
