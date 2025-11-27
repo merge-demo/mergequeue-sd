@@ -5698,6 +5698,7 @@ eflagelliferous
 evomit
 eppie
 extraventricular
+enrut
 extras
 episcopalism
 egotisticalness
@@ -6325,7 +6326,6 @@ enrolls
 eumycetes
 equijacent
 embowed
-enrut
 euclidean
 ens
 emmenagogue
