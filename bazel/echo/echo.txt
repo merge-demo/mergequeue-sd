@@ -133,7 +133,6 @@ elocutioner
 embrew
 europocentric
 enderonic
-excellency
 epoxidize
 evaporativity
 economizes
@@ -12816,6 +12815,7 @@ excitomotor
 embryology
 epicystotomy
 equine
+excellency
 emajagua
 exoterical
 espials
