@@ -11303,7 +11303,6 @@ bedels
 blowproof
 blows
 bleachability
-barograms
 boneyard
 biologism
 bipunctate
@@ -15305,6 +15304,7 @@ blanquette
 bedrel
 bicarinate
 browsed
+barograms
 bolomen
 burseraceous
 bohawn
