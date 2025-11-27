@@ -5470,6 +5470,7 @@ goethite
 gentlest
 garancin
 gilenyie
+glossarize
 granddad
 gyrfalcons
 gonadic
@@ -5696,7 +5697,6 @@ glycerize
 gumboil
 gilbertianism
 glossalgy
-glossarize
 grieffully
 gnathonize
 gahrwali
