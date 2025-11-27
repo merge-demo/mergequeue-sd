@@ -1482,7 +1482,6 @@ greta
 gasolier
 ghostology
 granolith
-gaseousness
 girllike
 grotesque
 garner
@@ -1646,6 +1645,7 @@ grists
 grants
 gamobium
 glossophytia
+gaseousness
 gastroxynsis
 gourdy
 grassation
