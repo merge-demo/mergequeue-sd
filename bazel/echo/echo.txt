@@ -10676,7 +10676,6 @@ easternism
 eugenically
 eugenie
 eugenism
-epikouros
 elatedness
 erioglaucine
 elaterins
@@ -12951,6 +12950,7 @@ electrolysation
 enhaunt
 eulogiae
 expectancy
+epikouros
 endotherm
 epistemophilia
 ecologist
