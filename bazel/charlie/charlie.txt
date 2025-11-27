@@ -4897,7 +4897,6 @@ clomben
 carrotwood
 carrousel
 circumfused
-carrousels
 chaetodontid
 corallinaceae
 carageen
@@ -19682,6 +19681,7 @@ combasou
 combat
 criminal
 combatable
+carrousels
 chroma
 chrismale
 combatant
