@@ -12195,7 +12195,6 @@ eusol
 epigraphically
 eucolite
 enlistee
-empory
 exeat
 epigraphs
 exec
@@ -12639,6 +12638,7 @@ electrophore
 eranthemum
 extramurally
 emeus
+empory
 elephantidae
 equiaxial
 epexegeses
