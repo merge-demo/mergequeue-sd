@@ -6090,7 +6090,6 @@ encounters
 epilator
 enlightenedly
 enlistments
-erasion
 elastomeric
 encomienda
 electionary
@@ -12181,6 +12180,7 @@ estrado
 electric
 excusefully
 executor
+erasion
 exostome
 embergoose
 excuser
