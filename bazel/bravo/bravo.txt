@@ -15768,6 +15768,7 @@ biotin
 brogueries
 beneficence
 becaps
+beglare
 bove
 bedecks
 beauing
@@ -17117,7 +17118,6 @@ britchka
 bifold
 beseeming
 bullfighters
-beglare
 burliness
 brimfully
 bullfinches
