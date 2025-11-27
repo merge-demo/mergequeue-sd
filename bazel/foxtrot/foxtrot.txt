@@ -4969,7 +4969,6 @@ fan
 facepiece
 floorages
 flamingant
-flong
 foremarch
 flaminical
 fomenters
@@ -11091,6 +11090,7 @@ functors
 formational
 foulard
 functus
+flong
 furivae
 fessewise
 frostwork
