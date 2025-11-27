@@ -9153,7 +9153,6 @@ foolheaded
 fishberry
 fads
 filariasis
-fractostratus
 fiaschi
 florification
 feat
@@ -10879,6 +10878,7 @@ freestone
 flayer
 furore
 fullish
+fractostratus
 foeman
 frigorifico
 fulgurated

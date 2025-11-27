@@ -8465,6 +8465,7 @@ biosocial
 brevicauda
 bilimbing
 beaufin
+bepillared
 bilin
 boddagh
 brummer
@@ -15027,7 +15028,6 @@ breeders
 breedy
 byzantian
 brunneous
-bepillared
 bled
 brachyceric
 badon
