@@ -1954,7 +1954,6 @@ boardroom
 browns
 bronchoscopy
 brachydactyl
-byplace
 bulbous
 bombard
 ballocks
@@ -5109,6 +5108,7 @@ bodymaking
 beflagging
 babery
 bentwood
+byplace
 biquadrantal
 balanites
 beflannel
