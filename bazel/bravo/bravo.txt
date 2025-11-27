@@ -1348,6 +1348,7 @@ bhaiachari
 bibliotherapist
 brauronia
 baldachino
+briquette
 bride
 bootle
 bowers
@@ -13505,7 +13506,6 @@ botulisms
 brief
 brodequin
 bijouterie
-briquette
 bouch
 blacksmith
 boucharde
