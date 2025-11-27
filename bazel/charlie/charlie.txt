@@ -4037,7 +4037,6 @@ culpableness
 card
 chronal
 cardaissin
-chehalis
 convolutely
 cardamine
 catarrhinian
@@ -31251,6 +31250,7 @@ curaghs
 curaras
 casaba
 coenospecific
+chehalis
 curarines
 crossbanded
 curaris
