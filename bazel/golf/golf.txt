@@ -1268,6 +1268,7 @@ galvanologist
 garran
 gaia
 glenwood
+gnomonology
 granage
 ged
 gavall
@@ -2229,7 +2230,6 @@ gaster
 gastrocatarrhal
 goodbyes
 ganefs
-gnomonology
 generosities
 galactohemia
 gleit
