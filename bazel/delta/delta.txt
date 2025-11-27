@@ -8349,6 +8349,7 @@ darkishness
 damoclean
 ditrigonally
 dresses
+dhoti
 dockmaster
 dialectician
 dual
@@ -11038,7 +11039,6 @@ dentalising
 dieselized
 degusts
 disclosable
-dhoti
 dodderers
 dumfound
 dobbers
