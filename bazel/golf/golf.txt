@@ -7781,7 +7781,6 @@ gormed
 glee
 grainways
 granularly
-ginny
 grumbletonian
 gnomish
 gralline
@@ -9835,6 +9834,7 @@ guayabi
 guaiac
 goitcho
 gymnotid
+ginny
 guaiaconic
 glebous
 guesstimated
