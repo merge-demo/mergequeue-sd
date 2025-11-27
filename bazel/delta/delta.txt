@@ -12764,7 +12764,6 @@ drivecap
 detroit
 dodrans
 dupondii
-dakoits
 domesticize
 deer
 dysneuria
@@ -13297,6 +13296,7 @@ disprince
 destituted
 disprivacied
 dittay
+dakoits
 degradable
 diligentness
 disprizes
