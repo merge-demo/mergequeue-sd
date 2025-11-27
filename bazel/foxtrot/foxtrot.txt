@@ -5735,7 +5735,6 @@ favorers
 fathoms
 furnage
 fungistatic
-frequentation
 fractuosity
 fels
 figureheadless
@@ -10602,6 +10601,7 @@ furtive
 famular
 finched
 fructuate
+frequentation
 flucan
 fishifying
 festooned
