@@ -2641,7 +2641,6 @@ galores
 grayware
 graal
 glims
-gymnosophist
 gardy
 genethlic
 glossopetra
@@ -7302,6 +7301,7 @@ gunl
 goofing
 gamostelic
 garcon
+gymnosophist
 gassendist
 gortonite
 gauffer
