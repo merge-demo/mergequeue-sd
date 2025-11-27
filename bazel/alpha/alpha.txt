@@ -10667,7 +10667,6 @@ amin
 antimonarchial
 aminate
 amines
-avoy
 asok
 autogenously
 amphistylar
@@ -19685,6 +19684,7 @@ araroba
 affabrous
 amanuensis
 aristocratism
+avoy
 assertory
 aristocrats
 adrectal
