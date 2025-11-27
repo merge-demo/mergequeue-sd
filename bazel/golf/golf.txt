@@ -2461,7 +2461,6 @@ gloaming
 gaiting
 gemot
 goniac
-gabrielrache
 garbo
 gromwells
 garbure
@@ -3399,6 +3398,7 @@ gondolier
 gnatling
 gorkun
 galbe
+gabrielrache
 glaciable
 gyroscopic
 gainor

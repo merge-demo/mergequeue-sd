@@ -4153,6 +4153,7 @@ chronologists
 cardiogram
 cardiographer
 cardiographic
+chiapanec
 creels
 cardiographies
 cardiohepatic
@@ -10183,7 +10184,6 @@ chyack
 chianti
 chiao
 capsicum
-chiapanec
 chiapanecan
 chlorochrous
 compurgatory
