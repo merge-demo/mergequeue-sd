@@ -6824,7 +6824,6 @@ elix
 enl
 equestriennes
 ethnogenic
-emmenology
 epicranial
 exoticism
 entombs
@@ -11568,6 +11567,7 @@ estrange
 endites
 evernia
 expressman
+emmenology
 equipartisan
 evoking
 empetraceous
