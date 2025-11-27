@@ -3548,7 +3548,6 @@ fitweed
 forehearth
 featherhead
 formant
-frightful
 foulsome
 filamentary
 filament
@@ -10776,6 +10775,7 @@ footglove
 fustic
 fervent
 fatalism
+frightful
 feretrum
 fashious
 fascisticize
