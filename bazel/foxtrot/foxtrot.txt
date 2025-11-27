@@ -6604,7 +6604,6 @@ floodway
 fingerstone
 fascioliasis
 flagrante
-frogfish
 fundholder
 flapperism
 forestaffs
@@ -8810,6 +8809,7 @@ firman
 flunks
 favorably
 falcinellus
+frogfish
 frailes
 fetchers
 flotillas
