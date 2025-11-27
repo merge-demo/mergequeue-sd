@@ -4699,6 +4699,7 @@ demitint
 demitoilet
 deteriorated
 demitranslucence
+dyestuffs
 demits
 demitted
 denticulately
@@ -12337,7 +12338,6 @@ disguisay
 dyschiria
 disguisedly
 diplanar
-dyestuffs
 dulcimer
 displeasurably
 demagnetization
