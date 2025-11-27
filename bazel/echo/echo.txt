@@ -179,7 +179,6 @@ exploration
 elaps
 electromotion
 electrolier
-equipoising
 extraformal
 examiner
 estrogenic
@@ -13428,6 +13427,7 @@ ectogenic
 excitingly
 expressionists
 eventuality
+equipoising
 expressionlessness
 etchimin
 expresso
