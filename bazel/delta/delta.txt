@@ -5697,6 +5697,7 @@ devests
 dipl
 disrobe
 dentelliere
+doctorhood
 dawdled
 dolorousness
 drumler
@@ -14818,7 +14819,6 @@ deservingly
 doctorfishes
 decomponible
 demagogic
-doctorhood
 diethylenediamine
 doctorial
 disadjust
