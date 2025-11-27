@@ -1705,6 +1705,7 @@ galactopoietic
 geitjie
 gelatination
 gastightness
+gromil
 grudgefulness
 gryposis
 glyptodont
@@ -5311,7 +5312,6 @@ graveling
 geometries
 glycerin
 gamelan
-gromil
 glycerite
 gigmanism
 glycerolate
