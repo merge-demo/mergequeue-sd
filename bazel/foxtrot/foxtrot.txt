@@ -1231,6 +1231,7 @@ flinched
 fpsps
 fatuities
 feodatory
+frizzler
 freieslebenite
 funkias
 formene
@@ -6959,7 +6960,6 @@ fendy
 foisting
 feloniously
 firecracker
-frizzler
 flindosy
 flexographically
 faintling
