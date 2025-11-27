@@ -2296,6 +2296,7 @@ geomoroi
 grange
 granulosa
 gynarchy
+geswarp
 galante
 gumihan
 gestant
@@ -6988,7 +6989,6 @@ garrigue
 garhwali
 groundsman
 gastroepiploic
-geswarp
 generalism
 goof
 goofah
