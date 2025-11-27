@@ -1133,6 +1133,7 @@ bushwa
 baiters
 banqueter
 bridges
+blastula
 baitfish
 buffeter
 ballard
@@ -10529,7 +10530,6 @@ bromal
 buttonhold
 belligerent
 badasses
-blastula
 boswellia
 blastulation
 blachong
