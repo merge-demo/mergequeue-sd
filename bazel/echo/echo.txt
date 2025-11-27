@@ -2319,7 +2319,6 @@ excavated
 epicotyl
 errorful
 escalate
-encrypting
 eyras
 electroacoustic
 electroacoustical
@@ -13202,6 +13201,7 @@ exotica
 eremophyte
 emmantle
 expirations
+encrypting
 extruded
 elicited
 elapinae
