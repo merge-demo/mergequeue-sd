@@ -1808,6 +1808,7 @@ grippelike
 ghyll
 grs
 glutinate
+gavels
 gestalten
 granodioritic
 gangwaymen
@@ -2056,7 +2057,6 @@ grapeful
 gantry
 gazzetta
 gutterize
-gavels
 gavia
 geminiform
 gio
