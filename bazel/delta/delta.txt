@@ -2157,7 +2157,6 @@ demonianism
 detectors
 diabolology
 downtime
-disturbs
 diosmosis
 decantist
 decaffeinated
@@ -8570,6 +8569,7 @@ douglas
 diaphyseal
 discommodious
 dermographia
+disturbs
 diaphysis
 dracontiasis
 druggists
