@@ -7472,7 +7472,6 @@ coistrils
 cytogenetical
 ceratoglossal
 ceratohyal
-consentaneously
 ceratohyoid
 cartellist
 ceratonia
@@ -11961,6 +11960,7 @@ chorioidoiritis
 catcalling
 choriomata
 chorions
+consentaneously
 contemningly
 colleen
 crete
