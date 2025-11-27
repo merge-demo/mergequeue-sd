@@ -3972,7 +3972,6 @@ gastrological
 guested
 gnomically
 giggliest
-grindstones
 geds
 genospecies
 gynecocratical
@@ -8644,6 +8643,7 @@ grip
 gladdy
 grantee
 greaseproofness
+grindstones
 gastronomical
 gests
 grizzliness
