@@ -1084,6 +1084,7 @@ genoas
 granddaddy
 ghostliness
 groundway
+gonenesses
 gypsums
 gegenion
 glares
@@ -10809,7 +10810,6 @@ gibli
 guttlers
 gainly
 goblinism
-gonenesses
 glasshouse
 glibbery
 gossipping
