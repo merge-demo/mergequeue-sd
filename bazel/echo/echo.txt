@@ -3909,7 +3909,6 @@ exede
 examinability
 epiglottis
 endexine
-emissory
 emitting
 entamebas
 electropathic
@@ -8506,6 +8505,7 @@ erectility
 equal
 eosinlike
 equalises
+emissory
 erectness
 executorial
 enwrapping
