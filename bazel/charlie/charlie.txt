@@ -31026,6 +31026,7 @@ cuminic
 cuminol
 classes
 cryoplankton
+curvetted
 chry
 cummerbund
 cummerbunds
@@ -31618,7 +31619,6 @@ curvesomeness
 cyclosporales
 curvet
 corvets
-curvetted
 curvetting
 conducer
 curvy
