@@ -3517,6 +3517,7 @@ emirates
 eproboscidea
 endow
 elate
+ensphering
 encarpi
 embodiers
 embodies
@@ -6480,7 +6481,6 @@ ensouled
 ecru
 evolutes
 ectodermic
-ensphering
 enlister
 enstar
 enphytotic
