@@ -13935,6 +13935,7 @@ cynopithecoid
 chetvert
 cynorrhoda
 cynorrhodon
+compressibilities
 cynosure
 cynosures
 cynosurus
@@ -21940,7 +21941,6 @@ confidency
 cosmogenic
 confident
 confidente
-compressibilities
 crossosomataceae
 confidential
 chakras
