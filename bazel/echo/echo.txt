@@ -7289,6 +7289,7 @@ efferous
 explodent
 exoascaceae
 ejicient
+exosporous
 enclitics
 exlex
 elechi
@@ -9110,7 +9111,6 @@ eltrot
 experientialist
 exploding
 erythrosiderite
-exosporous
 egoistically
 exacerbescent
 erythrosis
