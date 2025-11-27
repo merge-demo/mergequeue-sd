@@ -2947,7 +2947,6 @@ gunfighters
 geocoronium
 genecological
 gyniatry
-goldurnedest
 grazable
 gulph
 gosh
@@ -3544,6 +3543,7 @@ gigtree
 griffe
 gents
 ghastily
+goldurnedest
 gottlieb
 guytrash
 gynecolatry
