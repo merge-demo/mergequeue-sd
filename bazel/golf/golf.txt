@@ -7846,7 +7846,6 @@ gasometric
 guttide
 grisoutine
 grovelled
-gtc
 geoglossaceae
 gun
 guhayna
@@ -8882,6 +8881,7 @@ gregau
 guarantine
 glycerination
 greisens
+gtc
 getas
 gleanings
 gasterotricha
