@@ -127,7 +127,6 @@ federated
 fiat
 ferryboat
 flavourfully
-fossorial
 fopping
 facioplegia
 facit
@@ -2682,6 +2681,7 @@ ferulic
 fitzclarence
 fissipedate
 frogeater
+fossorial
 foundational
 filaze
 fawner
