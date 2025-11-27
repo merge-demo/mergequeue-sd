@@ -3008,7 +3008,6 @@ canto
 confederatism
 cortege
 colander
-cantonal
 cantonalism
 crapelike
 cantoner
@@ -31313,6 +31312,7 @@ circumoral
 claudent
 curdiness
 curdled
+cantonal
 cottabus
 critchfield
 curdles
