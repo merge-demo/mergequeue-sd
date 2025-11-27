@@ -5640,7 +5640,6 @@ dei
 dozy
 desaturation
 depetalize
-disorganiser
 disprivilege
 detainingly
 depravingly
@@ -7142,6 +7141,7 @@ dactylitic
 deplorable
 dyskinesia
 danzon
+disorganiser
 doggishly
 dividuity
 driftiest
