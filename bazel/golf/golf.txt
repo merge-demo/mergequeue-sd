@@ -5071,7 +5071,6 @@ golconda
 gecarcinus
 gastrogenital
 gv
-gerunds
 gustful
 gularis
 garland
@@ -5860,6 +5859,7 @@ galvanoplastic
 grundel
 gadger
 gladify
+gerunds
 gate
 gymnosporangium
 gynoecium
