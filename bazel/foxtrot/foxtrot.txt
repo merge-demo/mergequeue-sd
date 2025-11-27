@@ -3355,6 +3355,7 @@ flotsam
 fluorescer
 fulmined
 foreheaded
+fulcruming
 forjaskit
 fiedlerite
 fifth
@@ -10829,7 +10830,6 @@ fs
 failures
 fulcrumed
 formicarioid
-fulcruming
 feeable
 fanatical
 fulfiller
