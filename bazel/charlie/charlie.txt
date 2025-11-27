@@ -7590,7 +7590,6 @@ cycloparaffin
 chivaried
 chiasmodontidae
 charer
-cerebrations
 cerebricity
 cerebriformly
 censerless
@@ -13152,6 +13151,7 @@ canalize
 craniographer
 cicatrization
 cott
+cerebrations
 cicatrizer
 cicatrizing
 cropweed
