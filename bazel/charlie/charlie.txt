@@ -24381,7 +24381,6 @@ cosmoramic
 coolness
 coolnesses
 cytochemical
-cools
 cardiophrenia
 coolung
 coolweed
@@ -30566,6 +30565,7 @@ cubitus
 cholerrhagia
 commonition
 cubmaster
+cools
 cyrtoceratite
 chipyard
 cubocalcaneal
