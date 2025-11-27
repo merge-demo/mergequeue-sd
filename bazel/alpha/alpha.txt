@@ -12497,6 +12497,7 @@ adelarthrosomata
 anemic
 anemically
 adipogenic
+alsatian
 anemobiagraph
 anemochord
 anemochore
@@ -18922,7 +18923,6 @@ archines
 apio
 angili
 arteriostosis
-alsatian
 artilize
 anthropologist
 aesculapian
