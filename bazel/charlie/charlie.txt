@@ -18829,6 +18829,7 @@ crommel
 criers
 coly
 chronopher
+cruds
 clinkered
 contemporaries
 codeins
@@ -30213,7 +30214,6 @@ crudities
 companions
 countryfied
 crudle
-cruds
 cruel
 crueller
 cruellest

@@ -216,7 +216,6 @@ entte
 exoticalness
 edaphodont
 empetrous
-eluvium
 echogram
 europeanization
 euripupi
@@ -12938,6 +12937,7 @@ esses
 embracery
 erigible
 expatriate
+eluvium
 expatriating
 enthusiastic
 escalado
