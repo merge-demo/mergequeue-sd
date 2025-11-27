@@ -4519,7 +4519,6 @@ flinder
 fabulist
 fingernails
 filleul
-fuddles
 francophobia
 favissa
 farmlands
@@ -11539,6 +11538,7 @@ furlable
 fabling
 fictionize
 fards
+fuddles
 floeberg
 famulary
 fledgy
