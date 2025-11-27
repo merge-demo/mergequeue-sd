@@ -983,7 +983,6 @@ friarbird
 fares
 feats
 fastigated
-faretta
 financialist
 foresaid
 foldable
@@ -11115,6 +11114,7 @@ frostbit
 febres
 fearlessness
 fisticuffs
+faretta
 franca
 fetidly
 forecarriage

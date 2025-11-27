@@ -20473,6 +20473,7 @@ compartmented
 centenionalis
 corundum
 composition
+complanar
 compartments
 chapin
 celticist
@@ -28885,7 +28886,6 @@ crewed
 crewet
 culminations
 campit
-complanar
 cyclospondylic
 crewing
 cutwal
