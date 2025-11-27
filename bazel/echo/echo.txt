@@ -3934,7 +3934,6 @@ epilabrum
 emodins
 efflorescent
 emollience
-elevenths
 eyliad
 estruate
 excalation
@@ -4473,6 +4472,7 @@ enquires
 epiphyllum
 encashment
 eringoes
+elevenths
 enneadianome
 ezekiel
 encastre
