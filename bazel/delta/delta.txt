@@ -2819,7 +2819,6 @@ duodecahedron
 decrescent
 deknight
 decretalist
-despumating
 debility
 desalinization
 deedbote
@@ -6731,6 +6730,7 @@ diacoustics
 desideration
 deoxidant
 desiderative
+despumating
 drunkard
 disorderliness
 darnex
