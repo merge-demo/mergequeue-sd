@@ -807,6 +807,7 @@ daneweed
 daneweeds
 detections
 disingenious
+dawtie
 dangerously
 dactyliomancy
 diabrotic
@@ -4039,7 +4040,6 @@ disdub
 departmentize
 dehumanizing
 dealership
-dawtie
 darwinians
 describer
 delsartean
