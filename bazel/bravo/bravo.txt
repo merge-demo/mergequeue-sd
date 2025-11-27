@@ -616,7 +616,6 @@ bletherskate
 bisellia
 bemingle
 bacteriolyze
-bacteriology
 breadnut
 bronchoaspergillosis
 betterness
@@ -8002,6 +8001,7 @@ bitemporal
 beedged
 byname
 bick
+bacteriology
 bicycler
 bluebooks
 bisiliac
