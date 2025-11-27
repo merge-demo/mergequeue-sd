@@ -9105,6 +9105,7 @@ electrograving
 entwist
 etruscan
 erythropsin
+encowl
 eltrot
 experientialist
 exploding
@@ -13340,7 +13341,6 @@ exponible
 existible
 evolvable
 extrametaphysical
-encowl
 enough
 erithacus
 entitled
