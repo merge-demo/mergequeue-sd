@@ -1361,6 +1361,7 @@ gesturers
 garmentmaker
 grafting
 gemmel
+genian
 gelogenic
 germanely
 green
@@ -8301,7 +8302,6 @@ gambits
 graspingly
 gutturalise
 gleets
-genian
 grandee
 ginglymi
 glycuronide
