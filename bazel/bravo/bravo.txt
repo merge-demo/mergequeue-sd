@@ -17472,7 +17472,6 @@ bunter
 bridles
 blacklight
 buscarle
-biltongue
 bowermay
 betulites
 buntine
@@ -18181,6 +18180,7 @@ butlery
 belief
 bouche
 butleries
+biltongue
 butlerlike
 butlers
 butlership

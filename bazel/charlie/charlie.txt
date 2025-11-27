@@ -42,7 +42,6 @@ cherrystones
 cocozelle
 caballero
 caballo
-ceratopteridaceous
 caballos
 cardiae
 centillions
@@ -31496,6 +31495,7 @@ curricularize
 cardiomyoliposis
 chid
 currier
+ceratopteridaceous
 chirivita
 chogak
 couthiest
