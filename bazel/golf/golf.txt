@@ -1524,7 +1524,6 @@ germiest
 geotonic
 gangland
 grouse
-gavelage
 gasoliers
 guiro
 giftwrap
@@ -4250,6 +4249,7 @@ gynandria
 gladiators
 grovelling
 gumptionless
+gavelage
 gloats
 gunsling
 gasteralgia
