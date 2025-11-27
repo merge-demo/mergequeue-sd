@@ -5979,7 +5979,6 @@ cense
 catheterized
 commonality
 colluded
-cerastium
 catheterizes
 cartopper
 cathetusti
@@ -15546,6 +15545,7 @@ chromophoric
 classicism
 classicist
 classicists
+cerastium
 cheshire
 cordially
 cynoglossum
