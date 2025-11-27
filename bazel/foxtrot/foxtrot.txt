@@ -3060,6 +3060,7 @@ flatcar
 foregone
 fractionalization
 fibril
+fooner
 fuzing
 filtratable
 fairily
@@ -9128,7 +9129,6 @@ frizzers
 forepoint
 foldboating
 frusta
-fooner
 fracid
 frizzier
 foreshadows
