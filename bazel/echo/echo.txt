@@ -621,6 +621,7 @@ eclamptic
 efficacious
 extuberate
 epizoites
+embole
 ecstatics
 eclating
 excitancy
@@ -4962,7 +4963,6 @@ estreated
 ericeticolous
 exilable
 emulsifiable
-embole
 endowed
 expertly
 entopical
