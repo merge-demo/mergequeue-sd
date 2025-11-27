@@ -2038,6 +2038,7 @@ camooch
 camoodie
 cyperus
 commandants
+clearness
 camorrism
 corrections
 cropper
@@ -21219,7 +21220,6 @@ conceptualizes
 cotuit
 charadrioid
 comenic
-clearness
 confirmability
 cabber
 chopped
