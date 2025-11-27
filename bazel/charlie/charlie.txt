@@ -23236,7 +23236,6 @@ controversialize
 construer
 cyamus
 cardiatomy
-coalitionist
 cohobation
 construes
 ciceroning
@@ -27212,6 +27211,7 @@ countervair
 coprocessor
 countervallation
 countervalue
+coalitionist
 coxarthrocace
 countervenom
 countervibration
