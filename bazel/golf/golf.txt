@@ -5722,6 +5722,7 @@ glowbard
 gurneyite
 gerres
 gloveress
+gunite
 gimmaled
 gpad
 ganglioneuron
@@ -7062,7 +7063,6 @@ gladrags
 gyrinus
 gazy
 groutite
-gunite
 garava
 gunther
 geikia

@@ -1869,7 +1869,6 @@ batukite
 bishoplike
 backy
 biostatics
-bougeron
 bandit
 beshrew
 bretwaldadom
@@ -13548,6 +13547,7 @@ botulin
 bumpiness
 bouffon
 bremeness
+bougeron
 bopster
 baizing
 bougainvilliidae
