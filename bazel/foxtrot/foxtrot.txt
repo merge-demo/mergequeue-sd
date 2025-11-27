@@ -4247,6 +4247,7 @@ fracases
 freakishness
 fatting
 fireplug
+fluoroscopic
 firepot
 foreflank
 fructoside
@@ -6776,7 +6777,6 @@ fold
 fantasy
 fleechment
 flote
-fluoroscopic
 frosts
 frosteds
 fledgeless
