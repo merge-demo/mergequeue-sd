@@ -9644,6 +9644,7 @@ bulleting
 bisimine
 breaches
 bullish
+bordage
 bisymmetry
 brandyman
 bushily
@@ -17677,7 +17678,6 @@ brodyaga
 balancement
 bevomits
 birgus
-bordage
 blackfin
 blueings
 bonuses
