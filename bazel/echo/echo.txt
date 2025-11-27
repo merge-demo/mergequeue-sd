@@ -11449,6 +11449,7 @@ embryotic
 expdt
 elided
 evetide
+embankment
 extirpating
 encipherment
 ethanim
@@ -13068,7 +13069,6 @@ euphonized
 expermentized
 emus
 eucaine
-embankment
 ergates
 enslave
 embassador
