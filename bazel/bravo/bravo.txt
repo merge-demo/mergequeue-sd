@@ -7703,7 +7703,6 @@ bridging
 bhagavat
 bivouacking
 bookrack
-bigamized
 bugre
 bagleaves
 bacillosis
@@ -8346,6 +8345,7 @@ bights
 blickeys
 bown
 bonamano
+bigamized
 bemuddled
 brulot
 baryphony
