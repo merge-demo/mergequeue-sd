@@ -4037,7 +4037,6 @@ frettiest
 feudalise
 fingram
 fossilisable
-finical
 fluxibly
 fibrin
 finis
@@ -4171,6 +4170,7 @@ fellowcraft
 floerkea
 fibrils
 faintness
+finical
 fluophosphate
 foreaccounting
 fumago
