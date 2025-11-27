@@ -16261,7 +16261,6 @@ clinometer
 clinometry
 clinometric
 cantos
-condylura
 canisters
 clinometrical
 calendal
@@ -31914,6 +31913,7 @@ cuvettes
 cuvy
 cuzceno
 cwierc
+condylura
 comparators
 carbolineate
 coleopttera
