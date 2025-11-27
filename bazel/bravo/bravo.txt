@@ -145,7 +145,6 @@ bestab
 backlog
 bashara
 bethylidae
-babkas
 beinness
 bolshevists
 backflap
@@ -10975,6 +10974,7 @@ bookcase
 blissom
 balden
 buxomer
+babkas
 blistered
 baclin
 bunodonta
