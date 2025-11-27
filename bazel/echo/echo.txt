@@ -1722,7 +1722,6 @@ exonerated
 epacmaic
 eyelash
 euroclydon
-eliding
 eyelessness
 epikia
 exert
@@ -11715,6 +11714,7 @@ emphatic
 escolar
 enfolding
 eventualities
+eliding
 exaltation
 erenow
 explanator
