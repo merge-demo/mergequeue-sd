@@ -7252,7 +7252,6 @@ dolorous
 damnified
 detectible
 detection
-diamantiferous
 deadlight
 disparatum
 daguilla
@@ -11623,6 +11622,7 @@ discontiguity
 discontinuances
 dambonite
 debuts
+diamantiferous
 dishabit
 defeminize
 discontinuee
