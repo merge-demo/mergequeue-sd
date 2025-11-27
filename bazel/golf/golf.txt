@@ -1176,6 +1176,7 @@ gasthaus
 gamolepis
 guidingly
 gaslights
+glouts
 gaon
 gartered
 gynaecomasty
@@ -7981,7 +7982,6 @@ gasifiable
 galline
 gainer
 guttee
-glouts
 goodhap
 galleyman
 gabblement
