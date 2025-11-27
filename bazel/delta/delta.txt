@@ -1688,7 +1688,6 @@ deanthropomorphism
 diasynthesis
 deanthropomorphization
 deappetizing
-docksides
 dearborn
 dumortierite
 dearest
@@ -9558,6 +9557,7 @@ digitising
 desulphurise
 digitizes
 digitizing
+docksides
 desorbed
 decimosexto
 downthrow
