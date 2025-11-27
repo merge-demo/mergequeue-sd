@@ -7631,6 +7631,7 @@ disquiparant
 drapping
 devata
 devaul
+didascaly
 deoxygenating
 degaussed
 disbursements
@@ -17398,7 +17399,6 @@ destool
 droppage
 diffraction
 decennia
-didascaly
 direction
 disjoinable
 decream
