@@ -3647,6 +3647,7 @@ botchery
 billheads
 bioplasm
 batoon
+ballistocardiograph
 biconjugate
 benzylidene
 backsettler
@@ -9216,7 +9217,6 @@ bipetalous
 bucciniform
 badassed
 brended
-ballistocardiograph
 bobbinet
 besting
 biphenylene
