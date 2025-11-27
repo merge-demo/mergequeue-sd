@@ -5264,7 +5264,6 @@ extrascriptural
 escartelly
 euphuizing
 esphresis
-expenseless
 euphonium
 endopods
 epistolarily
@@ -14034,6 +14033,7 @@ ethmolith
 elocutionist
 esterase
 endopterygotous
+expenseless
 extratellurian
 electroergometer
 embiotocoid
