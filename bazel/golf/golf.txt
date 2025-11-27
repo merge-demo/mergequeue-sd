@@ -5921,7 +5921,6 @@ guereba
 gymnospermous
 goitrous
 gasogene
-goliardeys
 groveless
 goldarn
 gilgames
@@ -8401,6 +8400,7 @@ gizzards
 gulping
 grippes
 giantry
+goliardeys
 gunplay
 ghawazi
 grainfield
