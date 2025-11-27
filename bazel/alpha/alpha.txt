@@ -11405,7 +11405,6 @@ ampul
 admonitory
 anhydremia
 apodosis
-airship
 ampullary
 ampullate
 aqueoigneous
@@ -23053,6 +23052,7 @@ antewar
 alumium
 arterialisation
 aguardiente
+airship
 accusative
 appetencies
 asphyxial
