@@ -3289,7 +3289,6 @@ goxes
 german
 geckos
 gunstocks
-germanify
 graminiferous
 germanification
 gadso
@@ -7339,6 +7338,7 @@ gonfalonier
 glumpiness
 guildhall
 gosports
+germanify
 grainless
 gossamered
 galega
