@@ -7085,6 +7085,7 @@ estivage
 emulsible
 estuous
 edicule
+emersions
 equiprobability
 electrophoric
 enchainments
@@ -9312,7 +9313,6 @@ extendability
 extralegal
 eructative
 eruction
-emersions
 eruditical
 ensilaged
 estop
