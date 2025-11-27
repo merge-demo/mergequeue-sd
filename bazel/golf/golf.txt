@@ -1191,7 +1191,6 @@ grinned
 gezerah
 guejarite
 gunja
-gutturalize
 galipine
 gorilla
 guestless
@@ -4201,6 +4200,7 @@ gollar
 gymnorhinal
 gaspergou
 gluttony
+gutturalize
 gienah
 gene
 graphomania
