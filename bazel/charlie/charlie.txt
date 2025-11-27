@@ -6485,7 +6485,6 @@ cupholder
 cavefish
 cavey
 chromoscope
-cavekeeper
 cavelet
 confiner
 cambodia
@@ -27718,6 +27717,7 @@ convected
 chivage
 couhage
 cowpats
+cavekeeper
 compliable
 cowpen
 cowper
