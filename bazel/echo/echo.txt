@@ -1048,7 +1048,6 @@ eyeless
 endoskeleton
 eqpt
 edgar
-edgeboned
 eringos
 eagerly
 exsheath
@@ -9567,6 +9566,7 @@ endocrinology
 euglenineae
 ecotypes
 escapeless
+edgeboned
 earthboard
 effulgence
 edestan
