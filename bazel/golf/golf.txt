@@ -4631,6 +4631,7 @@ gillhooter
 germanyl
 gruys
 glomerulose
+girgasite
 glost
 grister
 gutium
@@ -9569,7 +9570,6 @@ guidage
 groveller
 gauteite
 gruels
-girgasite
 gesticularious
 gymnostomata
 galactopoiesis
