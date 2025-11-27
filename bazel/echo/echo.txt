@@ -7676,6 +7676,7 @@ embrued
 enukki
 effumability
 ellipsometry
+eremophyte
 epideictic
 endomesoderm
 eightieths
@@ -13199,7 +13200,6 @@ expiration
 exponentiation
 epaxial
 exotica
-eremophyte
 emmantle
 expirations
 encrypting
