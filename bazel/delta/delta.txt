@@ -12073,7 +12073,6 @@ discontinuity
 doorlike
 ditheist
 delirant
-demantoid
 dijudicated
 disensure
 disentail
@@ -18277,6 +18276,7 @@ dunkled
 discipline
 discalceate
 diacoca
+demantoid
 durdenite
 dunlins
 dartboard
