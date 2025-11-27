@@ -5019,6 +5019,7 @@ carucate
 carum
 coachwork
 correlational
+clergymen
 caruncles
 caruncula
 crusades
@@ -15947,7 +15948,6 @@ clergyable
 cotoneaster
 clergylike
 cyclos
-clergymen
 chandleries
 clergion
 clergywoman
