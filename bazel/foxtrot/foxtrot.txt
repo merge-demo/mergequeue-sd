@@ -5945,7 +5945,6 @@ fichtean
 foggers
 falstaffian
 flatwash
-foreworld
 floodgates
 fiercest
 foolhardily
@@ -6854,6 +6853,7 @@ fonnish
 folios
 folkish
 faradizes
+foreworld
 fierasferidae
 foliose
 flachery
