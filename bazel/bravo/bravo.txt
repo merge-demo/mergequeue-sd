@@ -10005,7 +10005,6 @@ bivocalized
 bombings
 blitzkrieging
 buffos
-bivoluminous
 bivouaced
 bivouacked
 balaphon
@@ -14286,6 +14285,7 @@ bubbleless
 bruiters
 braggy
 bibliophilic
+bivoluminous
 braggier
 bontok
 bullpates
