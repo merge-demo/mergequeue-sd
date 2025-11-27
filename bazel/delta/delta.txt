@@ -5509,6 +5509,7 @@ devoiced
 dorsiventrality
 deoxidize
 doryphoros
+draperies
 deoxygenated
 depaints
 divestitures
@@ -6149,7 +6150,6 @@ derats
 deratted
 defatigation
 deratting
-draperies
 dissector
 derbend
 debauch

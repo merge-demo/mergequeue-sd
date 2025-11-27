@@ -4761,7 +4761,6 @@ evanishing
 embarrass
 eyren
 executions
-existent
 exodos
 endosmosic
 ebulliometry
@@ -8582,6 +8581,7 @@ electrotherapeutic
 encompassing
 epigrammatism
 egall
+existent
 ergatomorph
 equidimensional
 equidist
