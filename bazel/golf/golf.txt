@@ -815,6 +815,7 @@ guetar
 grazeable
 goldenrods
 gyppo
+gaultheria
 gletty
 galoots
 granose
@@ -5681,7 +5682,6 @@ gothites
 grizzler
 grenat
 gaucie
-gaultheria
 galvanographic
 glandulous
 gallophile
