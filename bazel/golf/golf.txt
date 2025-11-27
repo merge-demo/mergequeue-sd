@@ -1124,7 +1124,6 @@ gastrointestinal
 gruntled
 gashes
 globalization
-glossing
 ganoidian
 graptolitoidea
 gaillardia
@@ -2923,6 +2922,7 @@ gingerous
 gee
 gelose
 gaylussite
+glossing
 gobiiformes
 gwiniad
 glitter
