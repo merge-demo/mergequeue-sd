@@ -1952,6 +1952,7 @@ gauged
 grovet
 goclenian
 germicides
+gaff
 glucosidal
 gorbellied
 glutetei
@@ -4882,7 +4883,6 @@ goldfinnies
 growlingly
 gablatores
 gunnen
-gaff
 gallybagger
 guttersnipe
 guessed
