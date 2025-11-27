@@ -15051,7 +15051,6 @@ ascetically
 aletaster
 auklets
 aegir
-antidynastic
 antidiphtheria
 abrocome
 anapsida
@@ -20092,6 +20091,7 @@ archespores
 adenization
 anthomyia
 acmic
+antidynastic
 armenia
 agentive
 alderflies
