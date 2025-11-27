@@ -841,7 +841,6 @@ fermi
 fashioner
 faddishness
 finestill
-fractures
 freckened
 freedoot
 fervorous
@@ -8582,6 +8581,7 @@ fissionable
 fungating
 farmsteading
 forninst
+fractures
 fricative
 flexor
 firedragon
