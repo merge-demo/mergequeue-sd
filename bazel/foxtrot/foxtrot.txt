@@ -3447,6 +3447,7 @@ forewarmer
 forepointer
 furfurans
 forthward
+flaughter
 frontoethmoid
 fifish
 friedcake
@@ -6713,7 +6714,6 @@ feast
 forelegs
 fogon
 fogproof
-flaughter
 fellator
 frangulaceae
 filamentous
