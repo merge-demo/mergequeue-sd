@@ -5205,6 +5205,7 @@ echeloning
 enchanter
 expedition
 endogenous
+epiblema
 enlistment
 electo
 embroider
@@ -6901,7 +6902,6 @@ evaporable
 equipments
 embelif
 eucalyn
-epiblema
 epitrchelia
 exudation
 exarchal
