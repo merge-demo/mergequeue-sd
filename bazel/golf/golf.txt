@@ -2641,6 +2641,7 @@ grayware
 graal
 glims
 gymnosophist
+gardy
 genethlic
 glossopetra
 goatee
@@ -6156,7 +6157,6 @@ geese
 gatefolds
 globical
 glavered
-gardy
 grumpish
 gnapweed
 gallification
