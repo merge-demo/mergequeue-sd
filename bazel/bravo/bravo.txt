@@ -6919,6 +6919,7 @@ betail
 baselessness
 betta
 becoward
+bondieuserie
 bargoose
 badder
 bismuths
@@ -9001,7 +9002,6 @@ byp
 biomechanical
 begrims
 biomedicine
-bondieuserie
 bashing
 baginda
 biomes
