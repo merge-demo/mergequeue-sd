@@ -5768,7 +5768,6 @@ extinguish
 ephorus
 enticers
 englacial
-expose
 embossments
 esophagomalacia
 emaciation
@@ -12961,6 +12960,7 @@ empurple
 enchafe
 enhardy
 examines
+expose
 erythrol
 expectantly
 expectation
