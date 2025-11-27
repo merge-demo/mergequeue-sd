@@ -1847,7 +1847,6 @@ grassy
 glummer
 gabbier
 gatekeepers
-glos
 gentile
 groupage
 garlands
@@ -7122,6 +7121,7 @@ gopherberry
 guernsey
 gopherberries
 garbologist
+glos
 genesiac
 goatherd
 gothics

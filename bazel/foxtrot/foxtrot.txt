@@ -2386,6 +2386,7 @@ fortunetellers
 frondage
 feriation
 falsedad
+folgerite
 flexors
 fricandeau
 folksiness
@@ -5906,7 +5907,6 @@ fdname
 flockings
 fudged
 fulsamic
-folgerite
 fencepost
 foetalism
 furlers
