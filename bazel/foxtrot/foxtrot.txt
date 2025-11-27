@@ -865,7 +865,6 @@ fractable
 finked
 fustigation
 flowage
-flakes
 flavicant
 forkman
 fluorogenic
@@ -10185,6 +10184,7 @@ furdel
 ferryage
 famines
 fending
+flakes
 foggages
 frazing
 faros
