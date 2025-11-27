@@ -11172,7 +11172,6 @@ ensiform
 ectatic
 evacuator
 evaded
-echinoidea
 earthlier
 evades
 evadingly
@@ -11243,6 +11242,7 @@ entrenchment
 epithetize
 englyns
 eely
+echinoidea
 exceptionably
 effulgently
 excisemanship
