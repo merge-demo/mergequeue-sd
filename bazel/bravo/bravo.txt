@@ -11956,7 +11956,6 @@ bogyism
 bogyman
 broncobusters
 bandagers
-birmingham
 bbls
 brothelry
 bostons
@@ -13810,6 +13809,7 @@ butters
 biocides
 bywoner
 babesias
+birmingham
 bunya
 bleachery
 bucephalus
