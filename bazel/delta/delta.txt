@@ -799,6 +799,7 @@ debile
 daubers
 delusters
 dovecote
+dogcarts
 diuretical
 danegelds
 dungeon
@@ -4072,7 +4073,6 @@ dustoor
 dominance
 delice
 dualistic
-dogcarts
 delicense
 disquiets
 desiccant
