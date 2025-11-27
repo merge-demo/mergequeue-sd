@@ -1628,7 +1628,6 @@ elchee
 exotoxin
 ehretiaceae
 env
-entrez
 enterobacterium
 eyah
 embliss
@@ -3604,6 +3603,7 @@ exanimate
 enculturate
 entamoeba
 encyclopaediac
+entrez
 effusive
 equivalents
 enchainement
