@@ -7741,6 +7741,7 @@ afterwit
 aldehydine
 alderamin
 ape
+almsful
 alectoromorphous
 aldermanate
 aldermancy
@@ -9199,7 +9200,6 @@ amra
 almost
 acetonuria
 autonomousness
-almsful
 angevin
 antiaircraft
 almsmen
