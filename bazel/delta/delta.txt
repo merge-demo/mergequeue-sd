@@ -5550,7 +5550,6 @@ deutomala
 department
 discontiguousness
 departmental
-disrobers
 desiccate
 dealation
 diphyllous
@@ -15680,6 +15679,7 @@ dartrose
 didrachma
 defatted
 decollator
+disrobers
 doric
 dopped
 detractiveness
