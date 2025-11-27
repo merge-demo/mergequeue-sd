@@ -1402,7 +1402,6 @@ filmy
 fabronia
 fermatas
 frith
-figitidae
 freezer
 fatnesses
 furaciousness
@@ -9544,6 +9543,7 @@ fullers
 forche
 foliated
 fyrd
+figitidae
 fishwives
 felicitate
 fotched
