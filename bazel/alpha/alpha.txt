@@ -1356,7 +1356,6 @@ anapaestical
 anticnemion
 airtightly
 awingly
-auxillary
 accentual
 accension
 agapanthus
@@ -19317,6 +19316,7 @@ areopagite
 areopagitica
 allyic
 anoxemia
+auxillary
 autoreinfusion
 adjutor
 alaite
