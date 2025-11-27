@@ -5519,7 +5519,6 @@ crowboot
 cpm
 catacombs
 cyanamide
-catacorner
 catacorolla
 ceaselessly
 clacked
@@ -19649,6 +19648,7 @@ cohesion
 chlordan
 comanches
 comandantes
+catacorner
 comandanti
 cutis
 catocala
