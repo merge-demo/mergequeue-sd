@@ -3318,6 +3318,7 @@ different
 definably
 dn
 dejecture
+deadlocked
 demyelination
 dizz
 definedly
@@ -17316,7 +17317,6 @@ dilatability
 drony
 droningly
 degelatinize
-deadlocked
 dronish
 duellistic
 dronishness
