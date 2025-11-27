@@ -9216,7 +9216,6 @@ bipeds
 bipeltate
 bipennate
 bedlamize
-brunches
 bevor
 baldrics
 built
@@ -17163,6 +17162,7 @@ butcherly
 bullyragger
 booklice
 benzoylformic
+brunches
 balantidial
 brachiopod
 bearship
