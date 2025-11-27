@@ -1879,7 +1879,6 @@ atheromas
 afifi
 acetabulums
 acetacetic
-autopsic
 acetalize
 amphioxididae
 arrector
@@ -10178,6 +10177,7 @@ aminded
 avulsion
 artotyrite
 ambulator
+autopsic
 ambulatory
 additiment
 aluminas
