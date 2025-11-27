@@ -985,7 +985,6 @@ goner
 gerodontology
 granddads
 gundi
-gramercy
 gouge
 greasebush
 glycogenesis
@@ -8708,6 +8707,7 @@ germiniparous
 greekize
 gleave
 gulravage
+gramercy
 gavelling
 grammars
 gearing
