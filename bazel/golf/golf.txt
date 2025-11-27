@@ -3091,7 +3091,6 @@ gucki
 geocline
 grits
 gipping
-geophagism
 gemels
 grubhood
 gashliness
@@ -4642,6 +4641,7 @@ gourmandism
 gyrodactylidae
 glucagons
 gapa
+geophagism
 girthing
 gaudeamus
 gyrodactylus
