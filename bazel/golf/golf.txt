@@ -907,6 +907,7 @@ gusseted
 goosebird
 gez
 gelatinizability
+ginning
 genome
 guahivo
 genteeler
@@ -4503,7 +4504,6 @@ grantiidae
 gypsying
 grammontine
 gastrostaxis
-ginning
 garvance
 giraffe
 gynocardic
