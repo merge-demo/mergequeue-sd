@@ -7916,7 +7916,6 @@ cetane
 cetanes
 cete
 cetera
-ceterach
 ceti
 cetic
 cocytus
@@ -20737,6 +20736,7 @@ complexometry
 chandry
 cacalia
 complexus
+ceterach
 cydippida
 comply
 compliableness
