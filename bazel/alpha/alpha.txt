@@ -12266,7 +12266,6 @@ ancylopod
 acneiform
 acrider
 anatropous
-antiecclesiastic
 alnico
 apprehensions
 ambisexual
@@ -18523,6 +18522,7 @@ abject
 ateknia
 arte
 aporobranchia
+antiecclesiastic
 arborists
 arsmetrike
 arborize
