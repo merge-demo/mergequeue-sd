@@ -4422,6 +4422,7 @@ essence
 expectorate
 eternized
 electrophysiologic
+enkennel
 excentrical
 endenizen
 extispices
@@ -9298,7 +9299,6 @@ entomolegist
 erthen
 eumorphous
 ekistic
-enkennel
 erthly
 estriate
 ericaceous
