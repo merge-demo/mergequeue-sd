@@ -6609,6 +6609,7 @@ embryous
 enseam
 egyptianism
 expulsatory
+epiphragm
 enterocoela
 eructed
 execrate
@@ -8083,7 +8084,6 @@ equicrural
 electrooculogram
 exosporium
 extraprovincial
-epiphragm
 enlargedness
 encover
 extrasyphilitic
