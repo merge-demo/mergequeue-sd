@@ -2906,7 +2906,6 @@ febricide
 fibrose
 fimbricate
 featuring
-feudalists
 fractionising
 freetrader
 fomentations
@@ -7712,6 +7711,7 @@ flinchingly
 foreignly
 fishy
 foreignness
+feudalists
 foreimpressed
 firnismalerei
 foreinstruct
