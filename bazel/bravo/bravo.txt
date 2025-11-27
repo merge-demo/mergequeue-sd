@@ -373,7 +373,6 @@ bovarist
 backhauls
 bossy
 borings
-backhoe
 bake
 backhooker
 bemoans
@@ -12842,6 +12841,7 @@ baresarks
 bedelve
 bucketeer
 boomster
+backhoe
 boomtown
 biestings
 boardbill
