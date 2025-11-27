@@ -1038,7 +1038,6 @@ calavance
 calbroben
 calcaire
 calcanea
-chimpanzee
 calcanean
 calcaneoastragaloid
 calcaneoplantar
@@ -2207,6 +2206,7 @@ campongs
 convincing
 counterclaiming
 cheiropodist
+chimpanzee
 camponotus
 counterhammering
 campos
