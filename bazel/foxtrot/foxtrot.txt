@@ -3461,7 +3461,6 @@ florilegia
 figeater
 floriate
 fascisti
-freesp
 filthily
 fortunation
 forebowline
@@ -5933,6 +5932,7 @@ flannelflower
 fineable
 flaughts
 flubdubs
+freesp
 forestaysail
 fabiform
 flowerpots
