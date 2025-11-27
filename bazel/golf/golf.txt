@@ -3840,6 +3840,7 @@ gonadal
 galled
 gryphons
 gameball
+gynecocrat
 grimsir
 giver
 goldang
@@ -4268,7 +4269,6 @@ gubbo
 gnu
 gynecocracies
 goby
-gynecocrat
 gunshots
 gleamed
 gastroscope
