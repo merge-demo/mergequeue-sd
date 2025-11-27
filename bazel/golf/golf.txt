@@ -9105,6 +9105,7 @@ giraffa
 glairiness
 garishness
 gherkin
+groggy
 gentlehood
 grinch
 goldwork
@@ -10742,7 +10743,6 @@ galloot
 garnish
 gournard
 gagers
-groggy
 gustiest
 guestimate
 geocentrically
