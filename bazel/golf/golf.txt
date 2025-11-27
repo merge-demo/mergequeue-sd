@@ -1625,7 +1625,6 @@ gleams
 gametogenesis
 gastralgy
 gaunted
-giblet
 gastralgia
 gastreas
 glaucosuria
@@ -2086,6 +2085,7 @@ gyrocompasses
 gringos
 guilefully
 gawgaw
+giblet
 goldenseal
 gillian
 governments
