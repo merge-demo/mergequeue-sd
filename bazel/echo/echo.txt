@@ -1463,6 +1463,7 @@ exenteritis
 epipleural
 envelop
 enfarce
+eveck
 euxanthate
 euhemerism
 efforts
@@ -4924,7 +4925,6 @@ euthyneura
 endameba
 endamebae
 equiv
-eveck
 eudemons
 extradictable
 endamoebas
