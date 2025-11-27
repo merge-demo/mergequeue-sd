@@ -7744,7 +7744,6 @@ grassroots
 gloea
 gutturopalatine
 grenelle
-gauloiserie
 guld
 grenadier
 gynecicgynecidal
@@ -10172,6 +10171,7 @@ gemlich
 goggly
 grazioso
 grooper
+gauloiserie
 guato
 genres
 guidepost
