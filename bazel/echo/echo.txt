@@ -1272,7 +1272,6 @@ eelworm
 een
 extraditable
 ecorche
-eblis
 eucairite
 eleonorite
 eoghanacht
@@ -5469,6 +5468,7 @@ enema
 enthralment
 excrescential
 enemata
+eblis
 enemyship
 energeia
 emblematicalness
