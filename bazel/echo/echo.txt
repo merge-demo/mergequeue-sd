@@ -6946,7 +6946,6 @@ entozoologically
 entrain
 enantiomorphy
 elicitate
-embrocado
 entraining
 earwig
 entrainment
@@ -12748,6 +12747,7 @@ elaeodochon
 esprove
 enthelminthes
 embryography
+embrocado
 exceeds
 exorbitation
 eloah
