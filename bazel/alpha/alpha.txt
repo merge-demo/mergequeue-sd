@@ -4183,7 +4183,6 @@ adoptedly
 archaeornithes
 adoptee
 alkaphrah
-autozooid
 attributiveness
 autocarpous
 apophthegmatic
@@ -6769,6 +6768,7 @@ airboat
 airboats
 anomal
 airbrained
+autozooid
 affluents
 almagra
 amyelinic
