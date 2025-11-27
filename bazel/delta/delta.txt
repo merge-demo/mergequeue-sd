@@ -1516,7 +1516,6 @@ deformers
 diazines
 downlinked
 deacetylate
-declasses
 duststorm
 donas
 duppies
@@ -8595,6 +8594,7 @@ denaturalise
 doozy
 diaphorite
 decating
+declasses
 deuterovitellose
 diaphragmatically
 decasualisation

@@ -431,6 +431,7 @@ gimcrackiness
 galcha
 growl
 garnishees
+gerendum
 grapeys
 galeage
 goober
@@ -1297,7 +1298,6 @@ gnawingly
 gargalize
 guttles
 grump
-gerendum
 government
 gulliver
 geodiatropism
