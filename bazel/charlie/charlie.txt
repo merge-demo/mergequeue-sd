@@ -24837,7 +24837,6 @@ chompers
 coracocostal
 christiform
 coracoid
-coracoidal
 crocket
 chaumontel
 coredeeming
@@ -31786,6 +31785,7 @@ collegiality
 cutaways
 cutback
 cutbacks
+coracoidal
 chiniofon
 cutbank
 cutch
