@@ -581,7 +581,6 @@ frappe
 feeblish
 funerate
 fenugreek
-flagstaff
 frighteningly
 furmety
 forelocks
@@ -5074,6 +5073,7 @@ fun
 fuligo
 fundless
 fumettes
+flagstaff
 frsikets
 flagboat
 flareback
