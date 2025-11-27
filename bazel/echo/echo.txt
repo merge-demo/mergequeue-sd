@@ -3689,7 +3689,6 @@ embosking
 embryologist
 entify
 embryonic
-encyrtidae
 erythromycin
 expectant
 elec
@@ -4102,6 +4101,7 @@ expulsionist
 essenism
 eutheria
 ethological
+encyrtidae
 ecdysis
 energetistic
 epinicial
