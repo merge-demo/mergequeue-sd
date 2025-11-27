@@ -1788,6 +1788,7 @@ banago
 buzzy
 brimming
 beaconed
+bedouin
 beglads
 blancmanger
 bemuse
@@ -3242,7 +3243,6 @@ babbling
 biotechnological
 basilic
 bantingize
-bedouin
 basilica
 belverdian
 basilical
