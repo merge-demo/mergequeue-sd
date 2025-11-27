@@ -7808,6 +7808,7 @@ ectodynamomorphic
 extenuation
 echolalia
 exodermis
+eulogias
 empirical
 endopoditic
 equivocators
@@ -10750,7 +10751,6 @@ eulimidae
 epicoela
 eulytine
 eelblenny
-eulogias
 entopopliteal
 epicycloidal
 excystation
