@@ -10295,6 +10295,7 @@ elapses
 eemis
 epidemial
 expecters
+edeagra
 effacer
 ethmopalatal
 ectases
@@ -11474,7 +11475,6 @@ emboldens
 eleocharis
 evictor
 evidence
-edeagra
 earned
 evidences
 ethereous
