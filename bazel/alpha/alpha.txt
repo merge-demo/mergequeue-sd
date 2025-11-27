@@ -11363,6 +11363,7 @@ aircrewman
 antonina
 ampyxes
 abies
+abbr
 amphigaean
 amigas
 asperite
@@ -22335,7 +22336,6 @@ aurignacian
 astrocytic
 achilleid
 amollish
-abbr
 astrocytomas
 anagnost
 ashy
