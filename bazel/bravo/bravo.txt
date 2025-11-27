@@ -10415,7 +10415,6 @@ blankets
 bhoot
 blobbiness
 brisement
-blankish
 blankly
 boneless
 bagmen
@@ -13075,6 +13074,7 @@ bangling
 bowlmaker
 branders
 bedusk
+blankish
 belfry
 boresight
 beblubber
