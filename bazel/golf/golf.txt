@@ -17,7 +17,6 @@ greedsome
 gledy
 genetous
 granitize
-goter
 gastroadynamic
 gashouse
 geotropic
@@ -9326,6 +9325,7 @@ gruffness
 granulative
 glycerole
 guessing
+goter
 goldenback
 giggles
 gamesome
