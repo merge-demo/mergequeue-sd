@@ -3687,7 +3687,6 @@ anureses
 arrant
 assurge
 adenosine
-abepithymia
 adenotyphus
 angulateness
 antislickens
@@ -9141,6 +9140,7 @@ anthroposophic
 antdom
 anticaste
 aeronomies
+abepithymia
 anaspid
 andesytes
 agrising
