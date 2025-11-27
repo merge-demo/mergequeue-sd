@@ -5618,7 +5618,6 @@ afterwale
 amnesics
 afterward
 afterwise
-afterwit
 afterwork
 agathodemon
 apinage
@@ -7739,6 +7738,7 @@ awfuller
 adhesional
 apostatical
 armscye
+afterwit
 aldehydine
 alderamin
 ape
