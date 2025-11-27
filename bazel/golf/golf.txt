@@ -3722,6 +3722,7 @@ gaugership
 grumpier
 ghostly
 gaura
+guerison
 gnoses
 ghostwriter
 gnatoo
@@ -10060,7 +10061,6 @@ garnering
 gongman
 galette
 gossypols
-guerison
 guerites
 gage
 graveolency
