@@ -9199,7 +9199,6 @@ dogship
 defensing
 duelled
 desoxycinchonine
-decalog
 diptych
 dialyse
 doors
@@ -17109,6 +17108,7 @@ duller
 disgown
 debouching
 divestiture
+decalog
 drawknot
 defectiveness
 deceleron
