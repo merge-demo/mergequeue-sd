@@ -164,7 +164,6 @@ exequy
 earmarked
 eelbobber
 expressive
-elses
 escallop
 enticed
 echinostome
@@ -3566,6 +3565,7 @@ epicureanism
 erysipelatoid
 exothermally
 epidesmine
+elses
 emboscata
 exclusionary
 ectoglia
