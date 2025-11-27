@@ -4556,7 +4556,6 @@ demilitarisation
 demilitarised
 demilitarising
 demilitarization
-dehydrogenase
 dibranchiate
 demilitarized
 dentaliidae
@@ -17544,6 +17543,7 @@ drumbles
 depudorate
 drumfishes
 drumhead
+dehydrogenase
 disvaluing
 decolour
 disassimilation
