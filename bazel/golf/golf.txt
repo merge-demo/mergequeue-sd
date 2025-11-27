@@ -3113,7 +3113,6 @@ glucosine
 gelatinity
 grassie
 gumdrops
-gomuti
 gymnocidium
 gastful
 guffaws
@@ -9620,6 +9619,7 @@ ginep
 goniodorididae
 gobinist
 grumium
+gomuti
 glaucodote
 geests
 goiter
