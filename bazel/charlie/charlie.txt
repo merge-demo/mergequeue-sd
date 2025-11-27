@@ -5433,7 +5433,6 @@ confront
 casaque
 castock
 clepes
-castoffs
 coldly
 castoreum
 caftaned
@@ -18374,6 +18373,7 @@ cognatic
 calorize
 cognatus
 cementum
+castoffs
 cognisable
 chiragrical
 catholicized

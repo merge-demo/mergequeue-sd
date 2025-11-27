@@ -6818,6 +6818,7 @@ beruffed
 brusqueness
 boy
 bilic
+biographically
 berwick
 bummaree
 burley
@@ -14681,7 +14682,6 @@ brassbounder
 brasse
 brassey
 boxiest
-biographically
 brassicaceae
 backworm
 brassiere
