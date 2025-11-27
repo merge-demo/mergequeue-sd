@@ -4650,6 +4650,7 @@ attractivity
 aedeagi
 assyriologist
 aedeagus
+avertable
 aviculture
 aedicule
 attraction
@@ -24706,7 +24707,6 @@ avers
 aversant
 averseness
 adults
-avertable
 arabs
 autolyzed
 avertiment
