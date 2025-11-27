@@ -234,7 +234,6 @@ anis
 anhungered
 antiritual
 antisensitizer
-abbotric
 allokinesis
 alchemistical
 adipolytic
@@ -12979,6 +12978,7 @@ assimilable
 athelings
 alkalisable
 angareeb
+abbotric
 apolitically
 apologist
 angulous
