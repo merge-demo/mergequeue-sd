@@ -8658,6 +8658,7 @@ diarticular
 dias
 depertible
 dermatographia
+distributivity
 downstream
 diametrically
 denitrifying
@@ -14387,7 +14388,6 @@ dipolsphene
 doley
 divans
 debatably
-distributivity
 dysentery
 durian
 dehydrocorydaline
