@@ -5196,6 +5196,7 @@ cashkeeper
 crows
 clearest
 cashmere
+cognizant
 cashmeres
 conepates
 claudian
@@ -18412,7 +18413,6 @@ cognitively
 cokelike
 cognitivity
 cognizable
-cognizant
 cognize
 conveyancer
 cognized
