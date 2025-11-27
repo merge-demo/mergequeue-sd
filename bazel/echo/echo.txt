@@ -2508,6 +2508,7 @@ embryopathology
 emender
 enervators
 endostylar
+escheatable
 epilepsia
 enmeshed
 ensate
@@ -12490,7 +12491,6 @@ expiated
 ethicality
 exilement
 escalading
-escheatable
 exility
 exanthem
 eyestones
