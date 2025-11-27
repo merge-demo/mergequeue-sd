@@ -5328,7 +5328,6 @@ dentaliums
 dakoit
 dentalized
 delphinapterus
-dentallia
 dentaphone
 demivolte
 decorators
@@ -11049,6 +11048,7 @@ defamingly
 dogmatising
 disanalogy
 deinosauria
+dentallia
 disanalogous
 disanchor
 deliberations

@@ -641,6 +641,7 @@ flugelmen
 faltere
 flavored
 frequenter
+fredaine
 frithsoken
 falx
 further
@@ -7142,7 +7143,6 @@ femicide
 forbathe
 forebroads
 forgottenness
-fredaine
 foosterer
 footfarer
 falsework
