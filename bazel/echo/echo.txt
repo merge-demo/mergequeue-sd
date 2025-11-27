@@ -9708,7 +9708,6 @@ empyrical
 essayed
 extraorganismal
 exceptional
-empathize
 european
 essart
 embayed
@@ -10745,6 +10744,7 @@ etrier
 excelled
 eulimidae
 epicoela
+empathize
 eulytine
 eelblenny
 entopopliteal
