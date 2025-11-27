@@ -8317,7 +8317,6 @@ embroiler
 elvan
 earthy
 evg
-effulgence
 excursional
 essonites
 episthotonos
@@ -9567,6 +9566,7 @@ euglenineae
 ecotypes
 escapeless
 earthboard
+effulgence
 edestan
 ecphoria
 expressing
