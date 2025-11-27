@@ -611,6 +611,7 @@ fluctiferous
 flavorless
 fragaria
 floodways
+foldboat
 fleshes
 forehand
 folly
@@ -10727,7 +10728,6 @@ flam
 flotsams
 fideisms
 frumps
-foldboat
 forcedly
 fimbria
 fuder
