@@ -353,7 +353,6 @@ daybreaks
 diplostichous
 dreamt
 daygoing
-desiccation
 daiker
 dcor
 densest
@@ -1168,6 +1167,7 @@ dasypus
 defencelessly
 duxelles
 dispersively
+desiccation
 dezinced
 diploconical
 dimera
