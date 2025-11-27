@@ -4260,7 +4260,6 @@ capsulotome
 caress
 cir
 caressed
-captainries
 caresser
 clobberer
 colleens
@@ -4841,6 +4840,7 @@ carrell
 carrells
 caffeinism
 carrels
+captainries
 charitably
 coelomesoblast
 chairladies
