@@ -2095,7 +2095,6 @@ gawk
 gratingly
 gozzard
 gerberia
-guerillaism
 geobotanist
 galvanizer
 gerontes
@@ -8282,6 +8281,7 @@ grapier
 gusseting
 glossographer
 globule
+guerillaism
 graping
 grappa
 grandaunts
