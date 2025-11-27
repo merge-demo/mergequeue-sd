@@ -10211,7 +10211,6 @@ ganzie
 getspa
 guyers
 gobet
-grindstone
 gluttei
 gitanemuk
 globalism
@@ -10483,6 +10482,7 @@ gastrin
 goli
 gusher
 glumaceous
+grindstone
 gulfwards
 goffer
 ginghamed
