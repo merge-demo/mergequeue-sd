@@ -7963,6 +7963,7 @@ encyclopaedia
 epileptiform
 equilobed
 epimysia
+epocha
 esthesias
 expunger
 enflesh
@@ -8428,7 +8429,6 @@ endothecate
 ethicosocial
 epizootology
 enwrought
-epocha
 embaying
 epollicate
 ethoses

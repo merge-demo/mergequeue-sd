@@ -5352,6 +5352,7 @@ geometricist
 generalised
 glaucus
 grammatology
+galesaur
 gloatingly
 garaging
 guanidine
@@ -8928,7 +8929,6 @@ grubbed
 gingras
 gabbing
 grandparent
-galesaur
 gaffe
 gigi
 gladelike
