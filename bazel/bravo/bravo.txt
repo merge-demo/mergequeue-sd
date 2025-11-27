@@ -4157,7 +4157,6 @@ beastily
 brenda
 beastish
 bowbells
-beastlier
 barkening
 brawled
 bartlemy
@@ -5366,6 +5365,7 @@ bromobenzene
 barodynamic
 barbarisation
 burly
+beastlier
 birne
 begrett
 begrim
