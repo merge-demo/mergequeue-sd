@@ -4386,7 +4386,6 @@ fonduk
 fishbolts
 flechette
 funt
-floorshifts
 featheredged
 flagged
 forbearances
@@ -7085,6 +7084,7 @@ ferryboats
 fascinating
 fleapit
 factious
+floorshifts
 fusional
 fingerstall
 forgeability
