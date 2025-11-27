@@ -7885,7 +7885,6 @@ firmaments
 flourishingly
 fatter
 fendillate
-factualist
 florent
 fusillades
 fowler
@@ -9591,6 +9590,7 @@ forhooy
 fothering
 flanger
 flagellant
+factualist
 finalism
 faqir
 foreseeability
