@@ -2242,6 +2242,7 @@ brigid
 bijective
 bioecology
 birdclapper
+bemist
 bannerwise
 bats
 blastment
@@ -3739,7 +3740,6 @@ bovver
 beautifully
 behatted
 bibliothque
-bemist
 battologise
 bastile
 batlan
