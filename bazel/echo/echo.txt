@@ -6422,7 +6422,6 @@ exceptions
 ensilver
 ensisternum
 equilibrating
-esquiring
 eye
 earthling
 enterprisingness
@@ -13789,6 +13788,7 @@ extortioners
 entomogenous
 elachista
 ethnicism
+esquiring
 exacuate
 egyptologist
 extortions
