@@ -12303,7 +12303,6 @@ bumblebomb
 bombardman
 burrfishes
 bootee
-bungfull
 bacteriophagic
 bathycurrent
 bullwhacker
@@ -17719,6 +17718,7 @@ benempt
 billian
 blastophaga
 bemuzzled
+bungfull
 bott
 bewinged
 beknit
