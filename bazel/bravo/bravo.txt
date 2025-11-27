@@ -9843,7 +9843,6 @@ botcher
 burnsian
 banderols
 baldpated
-bitmap
 buccaneering
 bimbos
 bitmapped
@@ -12412,6 +12411,7 @@ bonbon
 betsimisaraka
 behap
 bicapitate
+bitmap
 backcast
 begloom
 bonbons
