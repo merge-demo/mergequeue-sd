@@ -4335,7 +4335,6 @@ carica
 caricaceae
 chenica
 caricaceous
-cotemporaneous
 cattleya
 caricatura
 caricatural
@@ -20863,6 +20862,7 @@ cassalty
 composted
 composting
 composts
+cotemporaneous
 compot
 compotationship
 comedies
