@@ -2812,7 +2812,6 @@ gormless
 glottalite
 gloiopeltis
 gentiobiose
-guardianess
 gait
 gentlemanlikeness
 gossan
@@ -4101,6 +4100,7 @@ gimel
 gobernadora
 gegenschein
 gogglebox
+guardianess
 genus
 gelechiid
 goosemouth
