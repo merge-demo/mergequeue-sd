@@ -884,7 +884,6 @@ gadis
 galactan
 glove
 guily
-goffer
 ghatti
 gymnophiona
 guerrilla
@@ -10483,6 +10482,7 @@ goli
 gusher
 glumaceous
 gulfwards
+goffer
 ginghamed
 gynandromorph
 generalising
