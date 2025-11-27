@@ -23026,7 +23026,6 @@ consonantized
 cannibalizes
 consonantness
 consonants
-clinograph
 collapsibility
 conscriptive
 cutty
@@ -31167,6 +31166,7 @@ cupolar
 celtillyrians
 cotman
 carole
+clinograph
 coenflame
 celite
 calonectria
