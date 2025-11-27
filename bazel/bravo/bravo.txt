@@ -4857,6 +4857,7 @@ brightened
 bustard
 becrusts
 berean
+biplane
 bedunced
 bacchantes
 bourgeon
@@ -9260,7 +9261,6 @@ baffle
 bewearied
 beshrewing
 blockader
-biplane
 byee
 bobolink
 biplanes
