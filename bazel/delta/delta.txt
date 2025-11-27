@@ -7366,7 +7366,6 @@ dodunk
 detersiveness
 disunions
 detestation
-decomponent
 detestations
 dethronement
 diminute
@@ -11889,6 +11888,7 @@ delicat
 disdained
 disdainer
 dongon
+decomponent
 distrouble
 dihelium
 diallagoid
