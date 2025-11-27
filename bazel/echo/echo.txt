@@ -11030,7 +11030,6 @@ ethered
 echinostomatidae
 elemol
 elapoid
-euhages
 enisle
 encurtain
 earings
@@ -11722,6 +11721,7 @@ explanator
 enterocoele
 endocarditis
 elevated
+euhages
 enforcive
 extendlessness
 exalting

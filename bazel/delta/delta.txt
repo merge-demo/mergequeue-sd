@@ -3463,7 +3463,6 @@ duelists
 dehumidifier
 damp
 discomfortably
-defluent
 debyes
 disassociating
 doffed
@@ -3889,6 +3888,7 @@ doer
 deirid
 deis
 deisidaimonia
+defluent
 disquieting
 deism
 decentred
