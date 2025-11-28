@@ -4686,7 +4686,6 @@ fixidity
 fixing
 flannelleaf
 fixt
-furca
 flopwing
 fangs
 fummel
@@ -11090,6 +11089,7 @@ flong
 furivae
 flutebird
 fessewise
+furca
 frostwork
 flatter
 fenestellid
