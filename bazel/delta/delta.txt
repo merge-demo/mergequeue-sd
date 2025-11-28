@@ -4134,7 +4134,6 @@ decapitated
 demosthenean
 delineature
 delineavit
-delinquency
 decimalise
 despeche
 diagenetically
@@ -7527,6 +7526,7 @@ dumfounding
 dehgan
 deuteranomaly
 deuteranope
+delinquency
 deuterate
 deuteration
 denucleate
