@@ -3377,7 +3377,6 @@ fieldleft
 ferrean
 freewomen
 fanioned
-folily
 feeless
 familistic
 foreyards
@@ -7066,6 +7065,7 @@ forejudger
 felix
 formfeeds
 fellfare
+folily
 footful
 foolhardiness
 fabulousness
