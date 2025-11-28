@@ -7415,6 +7415,7 @@ diadoche
 daric
 detoxicant
 dehorter
+disinvigorate
 dicyclist
 diadochian
 domesday
@@ -8311,7 +8312,6 @@ demivolts
 dispossess
 droob
 dissimile
-disinvigorate
 defocus
 diagredium
 dermatopathia
