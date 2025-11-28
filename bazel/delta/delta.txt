@@ -16299,6 +16299,7 @@ dvaita
 downpipe
 downplay
 downplays
+dunning
 dozenth
 disagreeable
 decidability
@@ -16983,7 +16984,6 @@ dirtily
 dampish
 discommendably
 destining
-dunning
 doorcheek
 diorite
 demipillar
