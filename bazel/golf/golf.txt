@@ -4965,7 +4965,6 @@ greenbottle
 gestural
 glaives
 get
-gent
 galangal
 grangerizing
 gamdia
@@ -5822,6 +5821,7 @@ gloveman
 gumtrees
 growthy
 glover
+gent
 glochines
 genos
 glave
