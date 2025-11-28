@@ -451,6 +451,7 @@ crocodilean
 cactus
 copying
 civilisable
+chesses
 chancered
 cactuslike
 cassavas
@@ -10052,7 +10053,6 @@ chipchap
 chessdom
 chesser
 cabinda
-chesses
 chessylite
 chessist
 chirimen
