@@ -7091,7 +7091,6 @@ blastocyte
 brescian
 beetler
 bathyscaphes
-bespeckle
 bethylid
 bespeckled
 benzoyls
@@ -10110,6 +10109,7 @@ bielorouss
 brogh
 blat
 beshriek
+bespeckle
 blackband
 blackberrylike
 bunkload
