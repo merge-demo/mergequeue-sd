@@ -1342,6 +1342,7 @@ alinotum
 accelerative
 aboiteaux
 adiaphanousness
+antaeus
 azote
 aug
 aqueducts
@@ -13929,7 +13930,6 @@ acraspedote
 ardisia
 antae
 antaean
-antaeus
 agriotypidae
 alvelos
 advantaging
