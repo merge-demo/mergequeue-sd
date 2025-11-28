@@ -1884,6 +1884,7 @@ graveled
 gambles
 gazehound
 growlery
+gertrude
 guffaw
 gilgai
 goofy
@@ -5716,7 +5717,6 @@ glossies
 glossiest
 gybed
 glossinas
-gertrude
 glowbard
 gurneyite
 gerres
