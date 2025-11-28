@@ -78,7 +78,6 @@ furthers
 flysch
 fordeal
 fullfaces
-facundity
 facemark
 flunkeyhood
 flocklike
@@ -2400,6 +2399,7 @@ flanged
 ferigee
 fondlers
 fleer
+facundity
 fad
 fleshlessness
 flakelet
