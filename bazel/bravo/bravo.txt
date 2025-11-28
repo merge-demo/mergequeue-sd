@@ -6857,6 +6857,7 @@ blottingly
 benignity
 blackmailed
 bacteriotoxic
+beggable
 benignancy
 benkulen
 bigener
@@ -16455,7 +16456,6 @@ barbouillage
 bluenoser
 bloodshotten
 bendys
-beggable
 bejazz
 besmell
 brevetting
