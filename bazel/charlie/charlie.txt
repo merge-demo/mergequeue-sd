@@ -10646,7 +10646,6 @@ caribou
 cytoplasmic
 chimes
 chymes
-caseoses
 ctenophorous
 coprolite
 compassless
@@ -14205,6 +14204,7 @@ cytinaceae
 chattation
 circumfluous
 ceratobatrachinae
+caseoses
 clumplike
 ccesser
 circumforaneous
