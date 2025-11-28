@@ -4578,7 +4578,6 @@ benzoylglycine
 barks
 besuit
 bundeli
-borborus
 bedaubing
 beltlines
 bloodstone
@@ -6644,6 +6643,7 @@ baseheartedness
 bagass
 bergman
 bergs
+borborus
 breastbone
 bordar
 boneshave
