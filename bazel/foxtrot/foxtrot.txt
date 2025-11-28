@@ -1130,6 +1130,7 @@ footprints
 fitted
 foreguts
 flog
+foretasting
 falseheartedness
 fennels
 flexures
@@ -8107,7 +8108,6 @@ floatation
 favouredness
 foretaster
 forefin
-foretasting
 fretsaw
 falisci
 forewrought
