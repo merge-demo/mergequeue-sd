@@ -3831,7 +3831,6 @@ duplexed
 dropped
 despatched
 discommender
-deimos
 daffs
 dallan
 decharm
@@ -6184,6 +6183,7 @@ disbosomed
 doppler
 deriders
 distribute
+deimos
 detractress
 dittograph
 deriding
