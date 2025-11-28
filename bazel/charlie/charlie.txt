@@ -16020,7 +16020,6 @@ columbous
 codicilic
 caridea
 capillariness
-cyanins
 contrastimulus
 cuculiform
 cotypes
@@ -24306,6 +24305,7 @@ cook
 cookable
 carbureter
 chapeau
+cyanins
 creation
 crull
 creatable
