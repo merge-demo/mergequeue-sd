@@ -309,7 +309,6 @@ gangrels
 grundsil
 gelatins
 galeorhinus
-gastrocoele
 galabeah
 grandpappy
 galabieh
@@ -5227,6 +5226,7 @@ geometricism
 guiler
 gripsacks
 guttae
+gastrocoele
 groundsheet
 gale
 gleamless
