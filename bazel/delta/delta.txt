@@ -1979,7 +1979,6 @@ debused
 doohickey
 debusing
 danger
-dedans
 disenact
 disavouch
 decumbency
@@ -11152,6 +11151,7 @@ dosain
 diaphanous
 donating
 disattaint
+dedans
 disattune
 defiling
 diplomacy
