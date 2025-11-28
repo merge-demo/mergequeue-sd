@@ -164,7 +164,6 @@ drugstore
 doltishly
 dareall
 dadoes
-deiparous
 dadoxylon
 desireful
 diestocks
@@ -7203,6 +7202,7 @@ duit
 deacetylation
 desmid
 dogmen
+deiparous
 dermatologies
 dossed
 denuclearizing
