@@ -3330,7 +3330,6 @@ aggravation
 appassionato
 adagissimo
 achromatise
-amalgamators
 aphototactic
 archiprelatical
 arrestors
@@ -15996,6 +15995,7 @@ antiegotist
 actinopterous
 anither
 alastair
+amalgamators
 antiradicals
 antirailwayist
 alimentative
