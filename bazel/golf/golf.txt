@@ -10364,7 +10364,6 @@ gelate
 garretmaster
 gynic
 gonidiospore
-gastrothecal
 gnashing
 galactosamine
 gardenly
@@ -10854,6 +10853,7 @@ galianes
 gunneress
 grewsomer
 granoblastic
+gastrothecal
 grewsomeness
 gweed
 gravidation
