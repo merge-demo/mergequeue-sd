@@ -4317,7 +4317,6 @@ germicide
 gynetype
 gynocracy
 gymnadenia
-glazieries
 glazings
 grieves
 gippy
@@ -7533,6 +7532,7 @@ gat
 governed
 gotten
 graecizing
+glazieries
 governesses
 galvanotonic
 greathead
