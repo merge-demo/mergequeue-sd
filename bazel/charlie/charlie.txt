@@ -11689,6 +11689,7 @@ chondre
 chondrenchyma
 caramelin
 cocomats
+coreceiver
 columbian
 curdiest
 chondrify
@@ -17321,7 +17322,6 @@ chlorellaceae
 caravelle
 crownland
 chemigraph
-coreceiver
 cimline
 coassist
 coassistant
