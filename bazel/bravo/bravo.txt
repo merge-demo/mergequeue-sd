@@ -4712,7 +4712,6 @@ bunce
 busywork
 bedims
 basiophitic
-birdbrain
 bedizen
 boubas
 beekmantown
@@ -10098,6 +10097,7 @@ blackamoors
 blair
 blackbine
 befrets
+birdbrain
 blackback
 beadles
 blackballed
