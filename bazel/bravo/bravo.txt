@@ -7009,7 +7009,6 @@ baalist
 bespouses
 boxhaul
 behaviorism
-boma
 besnowing
 besognier
 besoil
@@ -12335,6 +12334,7 @@ bombesins
 brightsomeness
 beeregar
 brandle
+boma
 bantered
 bombycine
 bagpiper
