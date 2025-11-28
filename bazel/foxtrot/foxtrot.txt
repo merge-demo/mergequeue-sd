@@ -2380,7 +2380,6 @@ fibrocrystalline
 francic
 freeloving
 fenchol
-futures
 footganger
 fetial
 fortunetellers
@@ -5347,6 +5346,7 @@ featherman
 faintheart
 furciform
 fleabags
+futures
 federalization
 fireclay
 fluorites
