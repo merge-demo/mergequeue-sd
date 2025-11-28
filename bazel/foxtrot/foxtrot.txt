@@ -7041,7 +7041,6 @@ fusula
 fists
 floriparous
 francis
-floater
 fimbriae
 functioning
 foodful
@@ -7397,6 +7396,7 @@ feminologist
 forbow
 foreclose
 forestland
+floater
 foolisher
 falterers
 flavorsomeness

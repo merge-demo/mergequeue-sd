@@ -6290,7 +6290,6 @@ enows
 electrotechnology
 euryscope
 ecclesiastry
-enduring
 exspoliation
 electroengrave
 embolectomies
@@ -9161,6 +9160,7 @@ encolor
 enates
 ernes
 erode
+enduring
 eosinophilic
 erodent
 extradite
