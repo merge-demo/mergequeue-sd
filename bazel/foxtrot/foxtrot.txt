@@ -1671,6 +1671,7 @@ flemer
 forgrow
 fearedly
 fadeaways
+flatfootedly
 frisker
 fearedness
 fluidizes
@@ -8407,7 +8408,6 @@ fullerboard
 folksy
 formalesque
 foistiness
-flatfootedly
 freshmanic
 formulize
 fierier
