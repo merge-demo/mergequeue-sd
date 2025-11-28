@@ -10780,7 +10780,6 @@ bizarres
 brosse
 brewster
 bradford
-bitstalk
 blepharocarcinoma
 balinger
 bayish
@@ -14973,6 +14972,7 @@ bookishly
 breathingly
 bepaper
 breathless
+bitstalk
 beaufet
 breathseller
 breba
