@@ -933,7 +933,6 @@ ft
 fasola
 fourchite
 fortunateness
-flaffer
 forebay
 fanfishes
 flightless
@@ -9892,6 +9891,7 @@ fornices
 fritts
 frogskins
 forepeaks
+flaffer
 fines
 filamentose
 fogeater
