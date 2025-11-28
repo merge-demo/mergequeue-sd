@@ -13053,7 +13053,6 @@ bordroom
 botchier
 borinqueno
 balling
-barf
 blizzard
 borecoles
 buddhic
@@ -14715,6 +14714,7 @@ biobibliographic
 bowpots
 bowlings
 brattled
+barf
 benumbment
 bratwurst
 bibliopolic
