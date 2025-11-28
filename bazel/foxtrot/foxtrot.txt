@@ -5827,6 +5827,7 @@ forestallment
 fenestration
 flywinch
 fulfils
+fryers
 flouncey
 footback
 forgrown
@@ -8674,7 +8675,6 @@ forth
 freesia
 flatfooted
 flaunters
-fryers
 funiculate
 furicane
 flapless
