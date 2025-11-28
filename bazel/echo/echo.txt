@@ -4235,6 +4235,7 @@ empirically
 epicurism
 euascomycetes
 estradiot
+exptl
 emulant
 earwiggy
 emulations
@@ -7941,7 +7942,6 @@ eatery
 extrastapedial
 endosmosis
 exudates
-exptl
 exordia
 epimandibular
 enthrone
