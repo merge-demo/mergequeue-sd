@@ -4847,7 +4847,6 @@ ecize
 exhalate
 equitable
 encouraged
-estrous
 excellences
 epigne
 ephydriad
@@ -6978,6 +6977,7 @@ ensaint
 ecophysiology
 entre
 elwood
+estrous
 entreasuring
 enforcingly
 ecdemite
