@@ -5589,6 +5589,7 @@ empathetically
 enduringness
 estimably
 enrichment
+estrange
 endogens
 ethologist
 enflaming
@@ -11558,7 +11559,6 @@ evoe
 ensilaging
 exoculating
 erethizon
-estrange
 endites
 evernia
 expressman
