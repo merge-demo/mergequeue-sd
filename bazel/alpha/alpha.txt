@@ -3743,7 +3743,6 @@ adfluxion
 adjiga
 alligator
 adfreezing
-adhafera
 agones
 adhaka
 atticized
@@ -12849,6 +12848,7 @@ antefuture
 angiotonic
 almoravide
 abjunction
+adhafera
 apinch
 angiotripsy
 angiotrophic
