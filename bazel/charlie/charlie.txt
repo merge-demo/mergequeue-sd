@@ -6838,7 +6838,6 @@ conscientiousness
 curares
 cytologist
 cellulofibrous
-celluloid
 confabbing
 chartaceous
 cellulosic
@@ -10567,6 +10566,7 @@ countersubject
 copaibas
 conflating
 coruscating
+celluloid
 camoca
 carburise
 choledochotomy
