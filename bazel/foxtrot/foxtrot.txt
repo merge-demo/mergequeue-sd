@@ -5215,6 +5215,7 @@ fisherman
 foulmouthedness
 focoids
 flautist
+faithworthy
 fuse
 flav
 flavanilin
@@ -9502,7 +9503,6 @@ fliffus
 frappes
 floppiness
 fattrels
-faithworthy
 frontways
 footling
 finiteness

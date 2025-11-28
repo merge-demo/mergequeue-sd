@@ -3074,7 +3074,6 @@ actinonema
 autacoid
 amphibolia
 aswing
-allantoinuria
 anhydrous
 abidingly
 associators
@@ -7427,6 +7426,7 @@ ananias
 acetopyrine
 anura
 atmid
+allantoinuria
 albinisms
 albinos
 arthrodiae
