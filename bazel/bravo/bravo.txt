@@ -1951,7 +1951,6 @@ babesiasis
 bange
 boardroom
 browns
-bronchoscopy
 brachydactyl
 bulbous
 bombard
@@ -8042,6 +8041,7 @@ ballerine
 browband
 bicorn
 bourrelet
+bronchoscopy
 blanque
 boatman
 buckbeans
