@@ -1884,7 +1884,6 @@ bareheaded
 bubonalgia
 bandanas
 bergama
-bandogs
 bediademed
 barken
 bandoleer
@@ -13238,6 +13237,7 @@ brislings
 bankshall
 bossed
 boanergean
+bandogs
 bolti
 barysphere
 buffbar
