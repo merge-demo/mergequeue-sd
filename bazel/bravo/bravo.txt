@@ -8819,7 +8819,6 @@ bepill
 binocularly
 binoculars
 binodose
-buckbean
 bari
 banalities
 battery
@@ -9947,6 +9946,7 @@ blowen
 bisecting
 beryllate
 bilinguality
+buckbean
 bridleman
 burbles
 biases
