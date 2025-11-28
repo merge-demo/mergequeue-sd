@@ -5442,7 +5442,6 @@ floatative
 foggy
 fleering
 faunal
-flavorers
 figurativeness
 formulator
 foresummer
@@ -10466,6 +10465,7 @@ fosterland
 fibroin
 foofaraw
 fantast
+flavorers
 forewarns
 fluffs
 fidged
