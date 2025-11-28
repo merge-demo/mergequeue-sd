@@ -155,7 +155,6 @@ cablelike
 cerberic
 chryseis
 casterless
-cables
 changeabout
 cablese
 cablet
@@ -882,6 +881,7 @@ cosmothetic
 cayuga
 cayugan
 cayugas
+cables
 cayuse
 cayuses
 cajan
