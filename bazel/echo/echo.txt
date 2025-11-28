@@ -345,6 +345,7 @@ eighty
 electrodynamic
 enchantment
 empeirema
+eelblenny
 epacridaceous
 espying
 emulsifier
@@ -10749,7 +10750,6 @@ eulimidae
 epicoela
 empathize
 eulytine
-eelblenny
 entopopliteal
 epicycloidal
 excystation
