@@ -15069,6 +15069,7 @@ blinked
 bytownite
 butterflies
 blindism
+bumfs
 baldricks
 bankruptship
 brushmaker
@@ -17739,7 +17740,6 @@ bejumbled
 burnoosed
 burnoused
 bawbees
-bumfs
 burnside
 bilharzia
 bauk
