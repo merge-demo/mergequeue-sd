@@ -4623,7 +4623,6 @@ gymnanthes
 gluttonism
 gnathobase
 grecianize
-giro
 glossae
 gastronomist
 gillhooter
@@ -10114,6 +10113,7 @@ gasoscope
 glottid
 gazetteer
 gonystylus
+giro
 goldenfleece
 gnomic
 gills

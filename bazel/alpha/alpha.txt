@@ -4865,7 +4865,6 @@ adoptionism
 aerocraft
 arbutes
 aspheterize
-amas
 amoebous
 arkwright
 aerodermectasia
@@ -8583,6 +8582,7 @@ acetoxim
 allantoxaidin
 anthropoclimatology
 actinouranium
+amas
 allegorised
 anisogenous
 ademption
