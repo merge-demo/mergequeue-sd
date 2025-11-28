@@ -374,7 +374,6 @@ bossy
 borings
 bake
 backhooker
-bemoans
 backhouses
 baseballdom
 brachyurus
@@ -1456,6 +1455,7 @@ bastardise
 balkiest
 byronize
 balkiness
+bemoans
 balking
 budgy
 backbiter
