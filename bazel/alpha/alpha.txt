@@ -2756,6 +2756,7 @@ acrobatism
 actinotherapeutic
 alveolites
 arloup
+ascidioidea
 acrobryous
 alarms
 airglow
@@ -11107,7 +11108,6 @@ acetamids
 ariosi
 ampelotherapy
 abstractiveness
-ascidioidea
 amper
 amatory
 assientist
