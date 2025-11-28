@@ -7598,7 +7598,6 @@ anderson
 autoretardation
 airiferous
 algonquins
-antislavery
 achondrite
 araeosystyle
 antileft
@@ -22398,6 +22397,7 @@ ananas
 agenda
 asteriskless
 ans
+antislavery
 armourers
 anteriorness
 astrogony
