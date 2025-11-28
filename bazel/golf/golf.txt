@@ -6723,6 +6723,7 @@ gardenize
 goosey
 goup
 gypsine
+gyric
 gassings
 guid
 ginglyni
@@ -10658,7 +10659,6 @@ gurgitation
 gasolines
 gametogony
 gladius
-gyric
 goatsbane
 galp
 gurgoyle
