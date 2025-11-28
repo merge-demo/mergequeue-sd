@@ -17362,7 +17362,6 @@ coatis
 chemopallidectomies
 coatless
 coatrack
-coatroom
 coatrooms
 coats
 coattend
@@ -31556,6 +31555,7 @@ curtailedly
 curtailing
 cursores
 curtails
+coatroom
 cubistic
 curtain
 cheesemongery

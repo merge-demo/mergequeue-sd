@@ -2376,6 +2376,7 @@ glump
 gerrhosaurid
 gemaric
 gonopodpodia
+gammarus
 greeshoch
 geb
 george
@@ -6141,7 +6142,6 @@ gustoes
 gnathostome
 gjetosts
 gallivants
-gammarus
 gnosis
 galenist
 glaserian
