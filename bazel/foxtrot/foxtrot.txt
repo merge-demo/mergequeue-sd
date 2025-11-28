@@ -7779,6 +7779,7 @@ flyblew
 flickery
 faint
 fraenum
+fittingly
 forgathering
 finning
 fluorescein
@@ -10497,7 +10498,6 @@ frot
 froth
 formulatory
 fanman
-fittingly
 forays
 fids
 flyback

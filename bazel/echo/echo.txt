@@ -1763,7 +1763,6 @@ exolve
 evanished
 enticingness
 euglenales
-enterocentesis
 echinital
 evitation
 everliving
@@ -6559,6 +6558,7 @@ epidermophytosis
 extravagating
 exciter
 entente
+enterocentesis
 erythorbate
 ethnohistorian
 epipolism
