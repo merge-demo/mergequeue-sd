@@ -6629,7 +6629,6 @@ aquinas
 aldeament
 antidomestically
 atnah
-aiguille
 aiguillette
 anthropoids
 aquiline
@@ -12966,6 +12965,7 @@ angular
 angularia
 assistors
 angularities
+aiguille
 analgesist
 atomistical
 affirming
