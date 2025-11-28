@@ -17955,7 +17955,6 @@ chromoplasmic
 concept
 coeligenous
 coelin
-cantharellus
 coelioscopy
 cooperativeness
 czechic
@@ -25750,6 +25749,7 @@ corrivate
 corrivation
 corrive
 counterswing
+cantharellus
 continuate
 corroboration
 canterburianism
