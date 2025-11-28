@@ -6016,7 +6016,6 @@ ctenodontidae
 catholicize
 corotating
 catholicly
-catholicness
 centricipital
 cylindroogival
 catholicoi
@@ -24502,6 +24501,7 @@ commandrie
 copartnership
 chronodeik
 counterquarterly
+catholicness
 copassionate
 countermotion
 clampdown
