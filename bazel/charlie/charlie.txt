@@ -27095,6 +27095,7 @@ chints
 counterscrutiny
 cancelation
 craws
+centrode
 cuticular
 colophane
 countersense
@@ -31146,7 +31147,6 @@ clinometria
 cupeller
 conscripts
 cupellers
-centrode
 cupfulfuls
 canvassing
 cupid
