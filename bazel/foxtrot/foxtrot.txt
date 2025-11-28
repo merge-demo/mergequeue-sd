@@ -936,6 +936,7 @@ fasola
 fourchite
 fortunateness
 flaffer
+forebay
 fanfishes
 flightless
 farandoles
@@ -4915,7 +4916,6 @@ frequentable
 flambeau
 foamier
 fixate
-forebay
 fossilist
 finisher
 floreat

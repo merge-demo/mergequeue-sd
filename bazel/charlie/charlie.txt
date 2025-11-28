@@ -2812,7 +2812,6 @@ canoeload
 canoes
 cardiogenesis
 cryptoanalyst
-cukes
 canoewood
 coincident
 cuprammonium
@@ -6897,6 +6896,7 @@ chochos
 coenocyte
 cementation
 chymosins
+cukes
 coaugment
 calorimetric
 cementatory
