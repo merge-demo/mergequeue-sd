@@ -1205,6 +1205,7 @@ globular
 guestive
 guttate
 garfishes
+glasswork
 grappler
 glaux
 gimcrackery
@@ -7446,7 +7447,6 @@ gou
 gyrometer
 goodmen
 grimacingly
-glasswork
 germens
 glycines
 gorgelet
