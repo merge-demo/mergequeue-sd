@@ -14188,7 +14188,6 @@ bracteole
 bracteose
 biblically
 bestowal
-baikerite
 bashlyks
 bradawls
 bryanite
@@ -16837,6 +16836,7 @@ botchiness
 borderless
 buffeters
 bistros
+baikerite
 bubalises
 bietle
 bucketman
