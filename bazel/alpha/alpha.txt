@@ -4416,7 +4416,6 @@ adulterousness
 afterimages
 angiotonin
 ads
-adulthood
 acerbitude
 adulticidal
 adulticide
@@ -22711,6 +22710,7 @@ athyrosis
 aflight
 apriline
 addlement
+adulthood
 afterwhile
 advancement
 athletes
