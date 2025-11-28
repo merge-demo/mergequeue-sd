@@ -4408,6 +4408,7 @@ feinschmeckers
 fishes
 filibranchiate
 fascistic
+flavines
 fiancees
 feirie
 franchise
@@ -8234,7 +8235,6 @@ forfoughten
 finestra
 faltering
 forgat
-flavines
 footwork
 forgather
 fossulet
