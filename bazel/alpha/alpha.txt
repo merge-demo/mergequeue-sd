@@ -5424,6 +5424,7 @@ adenoblast
 afortiori
 apocatastasis
 afoul
+archrogue
 afray
 athrocytosis
 antisymmetrical
@@ -19102,7 +19103,6 @@ archpriestship
 archprimate
 acroataxia
 archregent
-archrogue
 archruler
 apparentness
 antimediaevalism
