@@ -9283,7 +9283,6 @@ dateableness
 dyes
 damfoolish
 deanathematize
-dedd
 dieses
 deforester
 diesters
@@ -18561,6 +18560,7 @@ durrin
 dig
 durrs
 durukuli
+dedd
 disanimated
 dyslexic
 defortify
