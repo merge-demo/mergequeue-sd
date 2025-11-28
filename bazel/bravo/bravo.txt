@@ -5700,6 +5700,7 @@ balausta
 belied
 bridalty
 blatancy
+berries
 branle
 beliefful
 bikram
@@ -6776,7 +6777,6 @@ busying
 berrichonne
 bosquet
 berrier
-berries
 bitterbur
 beaut
 buhls

@@ -3937,6 +3937,7 @@ geomorphy
 gnoff
 gladatorial
 graphicly
+goniopholis
 gigatons
 gastroschisis
 genetical
@@ -4268,7 +4269,6 @@ gradometer
 galravitch
 generationism
 gypsuming
-goniopholis
 gubbo
 gnu
 gynecocracies
