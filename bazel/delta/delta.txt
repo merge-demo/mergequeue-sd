@@ -1930,6 +1930,7 @@ diandrian
 disapprobations
 dacryd
 dinophilus
+dob
 deferments
 desire
 decennal
@@ -4168,7 +4169,6 @@ delisk
 delists
 delit
 demonstratorship
-dob
 delitescent
 deliverer
 disincorporate

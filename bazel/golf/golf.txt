@@ -523,7 +523,6 @@ gigsman
 gives
 geoffroyine
 ghettoize
-gyrowheel
 gluten
 gliomas
 germproof
@@ -9357,6 +9356,7 @@ geophila
 graduate
 galleasses
 goliad
+gyrowheel
 gunnysacks
 ghaznevid
 ghaist
