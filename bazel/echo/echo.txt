@@ -490,6 +490,7 @@ enregistered
 edifiers
 expellers
 excavations
+epicoeliac
 embrangling
 ecderon
 exocrinologies
@@ -8686,7 +8687,6 @@ equipotential
 externalize
 exconjugant
 endostyle
-epicoeliac
 epulotic
 equiprobably
 equiproportional
