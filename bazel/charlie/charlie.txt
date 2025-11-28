@@ -17096,7 +17096,6 @@ coadjutant
 campement
 covotary
 commonweal
-coemptional
 champ
 coadjutor
 coadjutors
@@ -21546,6 +21545,7 @@ cuff
 claimsmen
 ceruse
 concurrencies
+coemptional
 concurrently
 cellarets
 concurrentness
