@@ -1386,7 +1386,6 @@ garnetter
 glyconeogenetic
 guttular
 garniec
-gamily
 governs
 ganodonta
 glossanthrax
@@ -7511,6 +7510,7 @@ goals
 gamogenesis
 gaen
 glycolytic
+gamily
 gortonian
 glaucophanize
 gangs
