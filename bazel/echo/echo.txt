@@ -2613,7 +2613,6 @@ eudiaphoresis
 excerpted
 elliptically
 exercitor
-enjelly
 epithelize
 exothecate
 electrophoretogram
@@ -3632,6 +3631,7 @@ enriching
 expositive
 emotionalised
 eudaemonize
+enjelly
 elatinaceous
 estimators
 enddamaging
