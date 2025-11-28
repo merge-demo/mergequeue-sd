@@ -2250,7 +2250,6 @@ glottology
 gefulltefish
 galax
 gonidiogenous
-gehlenite
 goblet
 grunted
 geoplanidae
@@ -9820,6 +9819,7 @@ grimacer
 gorce
 grantor
 gue
+gehlenite
 globulinuria
 glossemes
 glares
