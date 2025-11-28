@@ -3838,7 +3838,6 @@ enring
 emboweler
 estamene
 emery
-evitate
 europa
 emerying
 estatesmen
@@ -8524,6 +8523,7 @@ eugenicists
 equalitarian
 equalitarianism
 essee
+evitate
 extratorrid
 ethmoiditis
 epiphysis
