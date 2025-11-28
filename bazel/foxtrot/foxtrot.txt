@@ -882,7 +882,6 @@ feverfews
 fantastication
 forold
 flyaways
-faventine
 flamfew
 fingerlet
 furfooz
@@ -4906,6 +4905,7 @@ fireworkless
 fulgural
 flourescent
 fino
+faventine
 fourscore
 flakiest
 forged
