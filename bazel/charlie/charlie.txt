@@ -22384,7 +22384,6 @@ conifer
 coniferae
 castrato
 coniferin
-coniferophyte
 cuppier
 creakily
 cordiner
@@ -31515,6 +31514,7 @@ cursa
 curse
 cursedly
 cursedness
+coniferophyte
 calciferous
 cutaneous
 conoclinium
