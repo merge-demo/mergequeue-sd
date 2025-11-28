@@ -6795,6 +6795,7 @@ berhyme
 banjore
 bert
 blowhole
+bowpots
 berteroa
 berthas
 bulkages
@@ -14711,7 +14712,6 @@ brelan
 brattie
 betrothal
 biobibliographic
-bowpots
 bowlings
 brattled
 barf

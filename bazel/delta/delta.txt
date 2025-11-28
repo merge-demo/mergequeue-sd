@@ -2806,6 +2806,7 @@ decremeter
 dicyemida
 demarches
 deftnesses
+diagnosing
 duodecahedral
 dint
 drypoints
@@ -8282,7 +8283,6 @@ disputableness
 diagonal
 diagonalizable
 diagonalization
-diagnosing
 duel
 diagonals
 deducting
