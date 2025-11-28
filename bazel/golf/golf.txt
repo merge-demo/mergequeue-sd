@@ -1934,7 +1934,6 @@ gnomesque
 gravewards
 guideship
 galactosuria
-goalkeepers
 greaseless
 gushy
 greeve
@@ -6621,6 +6620,7 @@ glossological
 gentleship
 girlfriend
 glossary
+goalkeepers
 gangsterism
 glamourless
 grumphies
