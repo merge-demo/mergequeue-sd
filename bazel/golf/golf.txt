@@ -1997,6 +1997,7 @@ gams
 glyptical
 gaurian
 gasting
+gristhorbia
 gaurie
 gaurs
 glamourous
@@ -6938,7 +6939,6 @@ greekdom
 gharry
 gametophobia
 grandmama
-gristhorbia
 gruffest
 grimness
 grandeval
