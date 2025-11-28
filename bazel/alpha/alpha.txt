@@ -9985,7 +9985,6 @@ ambeers
 anay
 angioneurotic
 amphicarpous
-anciency
 analogues
 antimerging
 autoregressive
@@ -12204,6 +12203,7 @@ anbury
 alternaria
 assistive
 ancestorially
+anciency
 alcoholisation
 ancestral
 antlerite
