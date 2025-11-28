@@ -2148,6 +2148,7 @@ epoxy
 esophagostenosis
 eyestring
 ensorceling
+excoriation
 explicandum
 electropult
 elation
@@ -12059,7 +12060,6 @@ electroanalysis
 excoriating
 egestions
 enlivenment
-excoriation
 enwwove
 excoriations
 epiclike
