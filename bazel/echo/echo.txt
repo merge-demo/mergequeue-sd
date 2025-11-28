@@ -1208,7 +1208,6 @@ ennuyee
 extermine
 emmies
 epimorphosis
-educible
 emotionless
 expiates
 epimeric
@@ -1936,6 +1935,7 @@ essenical
 ejected
 eupatorine
 epinette
+educible
 empathically
 enthelmintha
 endict
