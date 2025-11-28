@@ -1097,6 +1097,7 @@ ganister
 goriest
 giroflore
 groat
+gotiglacial
 grooviness
 grannies
 gonangium
@@ -7417,7 +7418,6 @@ grateless
 gaiety
 gassit
 grandest
-gotiglacial
 gregariniform
 gepeoo
 grantsmen

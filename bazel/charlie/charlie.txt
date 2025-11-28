@@ -15965,7 +15965,6 @@ cobstone
 clerkdom
 clerkery
 clerkess
-caligated
 cypraeid
 comprint
 carcinosis
@@ -26940,6 +26939,7 @@ countermigration
 chaudfroid
 celiomyomotomy
 countermine
+caligated
 castellated
 cotonier
 countermined
