@@ -20588,7 +20588,6 @@ churchish
 coenanthium
 competition
 cumulet
-congreve
 competitive
 competitiveness
 competitor
@@ -23070,6 +23069,7 @@ colias
 conspectuses
 consperse
 conspersion
+congreve
 conspicuity
 crescentia
 caecocolic
