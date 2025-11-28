@@ -7099,6 +7099,7 @@ deriv
 dicyemid
 disaproned
 drowsed
+drageoir
 dissuasions
 deterrently
 domajig
@@ -16670,7 +16671,6 @@ destigmatize
 dabblers
 deeny
 drains
-drageoir
 deponer
 dedifferentiate
 diplarthrous
