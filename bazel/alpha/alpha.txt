@@ -8742,7 +8742,6 @@ alleviative
 antimaniacal
 asthorin
 antimacassars
-allegedly
 alleviatory
 alleviators
 amolish
@@ -23136,6 +23135,7 @@ arthurian
 anthroponym
 areopagy
 astonishingness
+allegedly
 antinode
 attitudinize
 authoritarianisms
