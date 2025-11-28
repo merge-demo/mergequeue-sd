@@ -6612,6 +6612,7 @@ grenadiers
 gigolos
 graphalloy
 good
+grus
 gurglets
 galipidine
 ghats
@@ -7613,7 +7614,6 @@ greengroceries
 gloeosporium
 goodyness
 gemmula
-grus
 grabhook
 grabouche
 gripsack
