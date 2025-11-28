@@ -2214,6 +2214,7 @@ awestruck
 aerosolizing
 anent
 achromatope
+aardvark
 autodecrement
 achromatophile
 achromatophilia
@@ -24055,7 +24056,6 @@ autodiagnostic
 artemas
 aviador
 alutaceous
-aardvark
 autodialed
 azathioprine
 ascogenous
