@@ -1912,7 +1912,6 @@ camel
 comforted
 cameleer
 culverins
-camelia
 cauliflorous
 cameline
 camelish
@@ -27926,6 +27925,7 @@ crackly
 cracklier
 crassament
 cumbraite
+camelia
 crackliest
 copperplated
 cracklings
