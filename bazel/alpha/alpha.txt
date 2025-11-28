@@ -7693,7 +7693,6 @@ alcoholmeter
 airmass
 anemogram
 alcoholmetric
-acroter
 abaissed
 alcoholometer
 acidic
@@ -13834,6 +13833,7 @@ anorthophyre
 adrenocorticotrophin
 autocratship
 augean
+acroter
 anorthose
 agglomerated
 afresh
