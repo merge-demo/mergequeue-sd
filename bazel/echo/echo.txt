@@ -3135,7 +3135,6 @@ eloigned
 eleometer
 euphonetic
 emissive
-empanelled
 endoscopy
 earthsmoke
 eloigning
@@ -6367,6 +6366,7 @@ eruditely
 endoangiitis
 enshelter
 echoize
+empanelled
 ellice
 enthrals
 evenfalls
