@@ -1249,7 +1249,6 @@ chlored
 cambrel
 cameo
 calendarial
-chusite
 cicadid
 counterpoise
 calendaring
@@ -22398,6 +22397,7 @@ chevy
 conification
 coniform
 cacana
+chusite
 corruptible
 costliness
 conyger
