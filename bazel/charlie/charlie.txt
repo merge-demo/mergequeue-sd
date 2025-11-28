@@ -24880,6 +24880,7 @@ coralla
 clavodeltoid
 corallian
 corallidae
+counternotice
 corallidomous
 chestful
 congroid
@@ -31118,7 +31119,6 @@ cunila
 characterizable
 crystalliferous
 chumpy
-counternotice
 cunnilinctus
 cunnilinguism
 cavalries
