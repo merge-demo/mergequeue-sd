@@ -582,6 +582,7 @@ coinhabitant
 caduciary
 caducibranch
 copiously
+columbite
 compunctions
 caducibranchiata
 canikins
@@ -30795,7 +30796,6 @@ cistic
 cloudbursts
 charonian
 contineu
-columbite
 chiffon
 carcerate
 culicoides

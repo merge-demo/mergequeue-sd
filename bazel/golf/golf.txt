@@ -4817,7 +4817,6 @@ gobiiform
 glucogenic
 glassware
 gravidly
-gainfulness
 glaciered
 gages
 gonged
@@ -5199,6 +5198,7 @@ gumboots
 gonystylaceous
 guativere
 gracility
+gainfulness
 geognosist
 gleamily
 gabble
