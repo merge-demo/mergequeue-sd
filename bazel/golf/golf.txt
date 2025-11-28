@@ -3672,7 +3672,6 @@ gangwa
 georgie
 gillnets
 gigantine
-ghizite
 glops
 gurgly
 governorships
@@ -6899,6 +6898,7 @@ gregarina
 gelatinoid
 graticulate
 glis
+ghizite
 gannet
 glibly
 goodenia
