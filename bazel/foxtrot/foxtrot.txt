@@ -1373,6 +1373,7 @@ fruticeous
 flaxdrop
 filecard
 flenser
+flightful
 fatiscent
 fullword
 filicology
@@ -6462,7 +6463,6 @@ ferried
 fumagine
 fouquieriaceous
 fastus
-flightful
 foulness
 fictor
 fruitages
