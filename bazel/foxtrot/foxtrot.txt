@@ -934,6 +934,7 @@ ft
 fasola
 fourchite
 fortunateness
+flaffer
 fanfishes
 flightless
 farandoles
@@ -11448,7 +11449,6 @@ fideles
 flic
 frayedly
 furcule
-flaffer
 furfurylidene
 furrowy
 facecloth
