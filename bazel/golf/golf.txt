@@ -1637,6 +1637,7 @@ gastricism
 glycolipid
 gaskin
 grists
+goalkeeper
 grants
 gamobium
 glossophytia
@@ -5067,7 +5068,6 @@ gisarmes
 gassy
 gapped
 groused
-goalkeeper
 golconda
 gecarcinus
 gastrogenital
