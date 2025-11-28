@@ -2389,7 +2389,6 @@ exasperating
 epidotization
 exognathion
 etherealisation
-exauthorize
 excentricity
 electroscopes
 ethnotechnics
@@ -3324,6 +3323,7 @@ emancipated
 enshrouds
 ellipsometer
 edison
+exauthorize
 euharmonic
 epileptic
 emancipator
