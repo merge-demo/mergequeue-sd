@@ -7961,7 +7961,6 @@ arenicolous
 alkalis
 acetphenetidin
 aletap
-actos
 autarchy
 arabin
 angie
@@ -8716,6 +8715,7 @@ allergenicity
 atheology
 alang
 ankylotome
+actos
 actinopod
 amygdalopathy
 allergin
