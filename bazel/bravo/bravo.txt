@@ -11427,7 +11427,6 @@ baselessly
 butyraldehyde
 beclowns
 barad
-babuma
 boatheader
 bairnliest
 bluepoint
@@ -16338,6 +16337,7 @@ broadswords
 bicarb
 bleatingly
 bdft
+babuma
 bothies
 beloved
 briskened

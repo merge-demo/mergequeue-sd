@@ -26354,7 +26354,6 @@ cotabulate
 carya
 cotarius
 catwise
-calander
 centipedal
 commutative
 cotch
@@ -26914,6 +26913,7 @@ contrectation
 counterman
 carles
 countermand
+calander
 countermandable
 commelinaceae
 craniological
