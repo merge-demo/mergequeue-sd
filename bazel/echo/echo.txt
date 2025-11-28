@@ -1698,6 +1698,7 @@ exaggerating
 enunciatory
 enamel
 electrolyses
+endamages
 earpieces
 echolocate
 endogenicity
@@ -3324,7 +3325,6 @@ enshrouds
 ellipsometer
 edison
 euharmonic
-endamages
 epileptic
 emancipator
 eelback

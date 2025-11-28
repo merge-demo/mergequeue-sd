@@ -1394,6 +1394,7 @@ cylindrical
 cabbling
 caligrapher
 condiments
+catheterisation
 caligulism
 calili
 capparidaceae
@@ -5960,7 +5961,6 @@ cathedraticum
 cathepsin
 cathern
 catties
-catheterisation
 cattail
 catheterise
 clienteles
