@@ -4103,7 +4103,6 @@ fluctisonant
 finitely
 fratery
 felicitously
-foresightless
 fungusy
 frostation
 fiberize
@@ -11610,6 +11609,7 @@ fragilely
 fermata
 fustics
 fussbudget
+foresightless
 fixable
 forint
 facsimile
