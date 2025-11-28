@@ -3899,7 +3899,6 @@ finaglers
 finalization
 futile
 filleting
-feckless
 figurato
 fionnuala
 fanwe
@@ -9277,6 +9276,7 @@ fogrum
 foldboats
 fistulization
 frowsiness
+feckless
 filthiest
 frances
 figurants
