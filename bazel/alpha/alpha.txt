@@ -16439,7 +16439,6 @@ antrotympanitis
 areopagus
 antrotomy
 aspring
-antrovert
 assiduities
 alfirk
 atropic
@@ -19394,6 +19393,7 @@ anchoretical
 administratrix
 amuser
 argentan
+antrovert
 axisymmetry
 aerobacter
 autochrome
