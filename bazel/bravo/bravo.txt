@@ -5098,6 +5098,7 @@ bowellike
 bejuco
 blazoning
 befittingness
+blindages
 behoof
 boundedness
 beflag
@@ -11151,7 +11152,6 @@ boiloff
 balloters
 bloodthirster
 beliquors
-blindages
 beknot
 bitewings
 breveted

@@ -3100,7 +3100,6 @@ gleanable
 gali
 gubat
 gibbol
-glossarist
 garo
 geophilid
 galvanoscopic
@@ -9894,6 +9893,7 @@ guanin
 gagate
 ghoom
 globing
+glossarist
 glycerose
 guanize
 gamasid
