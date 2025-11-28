@@ -24511,7 +24511,6 @@ coradical
 copastor
 copastors
 candlebox
-copatentee
 copatriot
 copatroness
 cathectic
@@ -25060,6 +25059,7 @@ chinked
 curtation
 coregency
 coregent
+copatentee
 courtlet
 coregnancy
 cubicity
