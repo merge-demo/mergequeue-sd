@@ -2581,7 +2581,6 @@ graywall
 guv
 gauchely
 gabbards
-gristy
 gangliasthenia
 goosefish
 granodiorite
@@ -9682,6 +9681,7 @@ gascons
 gowaned
 gorgonaceous
 globalist
+gristy
 gruelers
 glossography
 graphologies
