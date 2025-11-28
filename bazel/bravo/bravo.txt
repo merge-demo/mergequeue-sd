@@ -3402,6 +3402,7 @@ broider
 bewall
 bittor
 boehmenism
+blasphemed
 berascaled
 bryophytic
 burghership
@@ -10459,7 +10460,6 @@ blashy
 bhutan
 bathmic
 blason
-blasphemed
 blasphemes
 blasphemies
 blasphemous
