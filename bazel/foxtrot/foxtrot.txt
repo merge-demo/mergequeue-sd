@@ -6221,6 +6221,7 @@ fatlings
 fargoing
 floccules
 focusable
+frictionless
 fascinative
 formwork
 fermentitious
@@ -10528,7 +10529,6 @@ freq
 frowsily
 footslogging
 famishment
-frictionless
 francisca
 faiths
 feelies
