@@ -1673,6 +1673,7 @@ gryphon
 grungiest
 gastrocoel
 gamuts
+goodtemperedness
 gamelion
 gorkiesque
 gif
@@ -5403,7 +5404,6 @@ glossily
 giusto
 girdle
 gynandromorphic
-goodtemperedness
 glimmer
 graphometry
 groundswell
