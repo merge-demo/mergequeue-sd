@@ -5876,6 +5876,7 @@ film
 feyer
 fluctuation
 festine
+fulcrumage
 fecund
 fistfight
 fates
@@ -9631,7 +9632,6 @@ farthest
 foresign
 fecklessly
 feliform
-fulcrumage
 flabrum
 freewheelingness
 forfoughen
