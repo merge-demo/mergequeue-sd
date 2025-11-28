@@ -1340,7 +1340,6 @@ fervour
 fathomlessness
 funniment
 flichtered
-forkable
 financiering
 faticableness
 felspath
@@ -2595,6 +2594,7 @@ fangle
 fiscality
 featherlight
 filthy
+forkable
 feoffed
 fancily
 foresheet
