@@ -12500,7 +12500,6 @@ capacitances
 coobah
 celoscope
 cornercap
-collophore
 chromospheric
 colytic
 committitur
@@ -23613,6 +23612,7 @@ commos
 contour
 clarichord
 contoured
+collophore
 copestone
 cleping
 chivvies
