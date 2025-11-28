@@ -5098,6 +5098,7 @@ endoceratidae
 extraneously
 endocervical
 eccentrically
+elychnious
 enslavers
 eremitic
 endochorion
@@ -12671,7 +12672,6 @@ expunges
 exogenetic
 enkolpion
 exometritis
-elychnious
 excogitate
 endeavors
 echo
