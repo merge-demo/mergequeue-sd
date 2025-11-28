@@ -4111,6 +4111,7 @@ cameoing
 cornmaster
 condalia
 cardin
+cardiometer
 cardinal
 cardinalfish
 croslet
@@ -4170,7 +4171,6 @@ cyclus
 cardiomelanosis
 contradivide
 cholecystotomies
-cardiometer
 cardiometric
 cardiomyomalacia
 cardiomyopathy
