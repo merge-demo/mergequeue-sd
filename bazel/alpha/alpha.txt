@@ -8124,7 +8124,6 @@ algedo
 alfilerillo
 antitropal
 arrowheads
-algerian
 algerienne
 alizarins
 algerines
@@ -12746,6 +12745,7 @@ amphitrite
 agricole
 anointing
 arthragra
+algerian
 abnormalised
 adaize
 angrily
