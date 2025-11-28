@@ -1106,7 +1106,6 @@ fleabites
 flatiron
 foretime
 farsightedness
-flooring
 forkedly
 faciocervical
 flatwoods
@@ -1952,6 +1951,7 @@ fenouillet
 falsum
 fooyoung
 fone
+flooring
 foursquarely
 feds
 feeb
