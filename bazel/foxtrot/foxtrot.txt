@@ -3265,6 +3265,7 @@ freestanding
 fibrosity
 forthrightly
 faradizer
+ferventness
 foppery
 flaught
 filbert
@@ -3653,7 +3654,6 @@ fretsaws
 footwarmers
 filigrained
 fiftieths
-ferventness
 fibrillar
 freshed
 foretype
