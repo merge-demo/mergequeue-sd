@@ -21640,6 +21640,7 @@ acetometrically
 anisomerous
 assayable
 afterpotential
+alkoran
 argyroneta
 assayed
 aphonous
@@ -23393,7 +23394,6 @@ audian
 aghanee
 asyla
 audibles
-alkoran
 alulet
 ametabolous
 aigrets
