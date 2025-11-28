@@ -4438,7 +4438,6 @@ emicate
 echards
 edifices
 encarnalized
-exalts
 epidermal
 embreach
 emanates
@@ -7148,6 +7147,7 @@ enshadow
 exoner
 episterna
 effectuation
+exalts
 envolume
 embarment
 enwall

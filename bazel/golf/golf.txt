@@ -8991,7 +8991,6 @@ grievable
 grievance
 gantlines
 grievances
-grievous
 gearbox
 germinating
 galingale
@@ -10179,6 +10178,7 @@ grazioso
 grooper
 gauloiserie
 guato
+grievous
 genres
 guidepost
 glossophobia
