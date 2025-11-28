@@ -3571,7 +3571,6 @@ funding
 forboding
 fairylands
 fulgence
-foggily
 filched
 fellowmen
 frenchism
@@ -6859,6 +6858,7 @@ fasces
 forthby
 ferritungstite
 fattiest
+foggily
 farewell
 fiery
 flasks
