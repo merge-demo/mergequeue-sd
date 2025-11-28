@@ -13800,6 +13800,7 @@ disenchants
 dion
 dissuasion
 depravedly
+disdaining
 dirndls
 dissuasively
 detruncate
@@ -14323,7 +14324,6 @@ daceloninae
 dotards
 ditheisms
 ditty
-disdaining
 disseminates
 decardinalize
 dispassionate
