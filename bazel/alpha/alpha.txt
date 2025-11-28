@@ -4251,7 +4251,6 @@ aesculapius
 annoyful
 akhlame
 alumen
-abime
 abaka
 anencephaly
 atavism
@@ -6660,6 +6659,7 @@ aporetical
 anointer
 amidoketone
 albedos
+abime
 audible
 allemandes
 acarol
