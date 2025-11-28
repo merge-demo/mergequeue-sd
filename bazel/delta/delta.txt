@@ -2487,7 +2487,6 @@ distinctly
 decisional
 decisions
 decisis
-dribbled
 delays
 dixy
 decisively
@@ -14377,6 +14376,7 @@ diurnule
 dimensuration
 diuron
 demeaned
+dribbled
 dielytra
 doled
 diva
