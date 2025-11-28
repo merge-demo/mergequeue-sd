@@ -6194,6 +6194,7 @@ fluavile
 flubbed
 feudum
 foreread
+fixedly
 fairgoing
 flaxes
 fulgurate
@@ -8793,7 +8794,6 @@ fulfills
 flancard
 fecundation
 foxie
-fixedly
 forgers
 foreprise
 filletster
