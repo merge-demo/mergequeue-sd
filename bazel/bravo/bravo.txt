@@ -2894,6 +2894,7 @@ bilocation
 bottleful
 broadcasts
 broadthroat
+bleakness
 biverbal
 bestride
 badinage
@@ -10647,7 +10648,6 @@ bollies
 bishopscap
 bleaky
 buist
-bleakness
 bleaks
 browd
 bichlorides
