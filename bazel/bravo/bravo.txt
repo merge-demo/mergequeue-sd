@@ -1787,7 +1787,6 @@ banago
 buzzy
 brimming
 beaconed
-bedouin
 beglads
 blancmanger
 bemuse
@@ -4632,6 +4631,7 @@ beholdingness
 bulletproofed
 broadens
 bedehouse
+bedouin
 broadenings
 byrewards
 bullrushes

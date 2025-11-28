@@ -814,7 +814,6 @@ grazeable
 goldenrods
 gyppo
 gaultheria
-gletty
 galoots
 granose
 ginney
@@ -5534,6 +5533,7 @@ gnetum
 graduand
 glucinum
 grumblers
+gletty
 grummest
 gastrorrhaphy
 gastropoda
