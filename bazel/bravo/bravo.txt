@@ -2264,7 +2264,6 @@ barbastelle
 bloodstain
 barbate
 beblister
-boiled
 bucculatrix
 barbatimao
 branchiosaurian
@@ -3520,6 +3519,7 @@ blue
 batfishes
 biri
 batfowl
+boiled
 batfowled
 bassists
 batfowls
