@@ -5758,7 +5758,6 @@ cottony
 concinnating
 catechin
 catechisable
-citharoedic
 catechised
 criminalistician
 cylindrophis
@@ -21660,6 +21659,7 @@ chamaeleon
 condylopodous
 conjurator
 corditis
+citharoedic
 clerically
 condylure
 compriest
