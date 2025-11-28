@@ -1829,6 +1829,7 @@ acceptancies
 antistater
 anteresurrection
 acerbate
+arthrodira
 acerbated
 acerbates
 autoformation
@@ -22752,7 +22753,6 @@ avoidment
 acetic
 ascidiozoa
 arrondissement
-arthrodira
 aeronef
 athwartship
 athwartships
