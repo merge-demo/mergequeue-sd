@@ -15330,7 +15330,6 @@ domage
 domainal
 dourines
 dummel
-domains
 dativogerundial
 dissimilatory
 declasse
@@ -16881,6 +16880,7 @@ disentailment
 despairingness
 douanes
 dreading
+domains
 demonstrandum
 distemperment
 descriptory
