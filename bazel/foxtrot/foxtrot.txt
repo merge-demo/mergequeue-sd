@@ -5970,6 +5970,7 @@ foisons
 fortifiable
 fantaisie
 fisk
+fundatrix
 filleter
 fanwright
 ferguson
@@ -11573,7 +11574,6 @@ fluctigerous
 fusillading
 feuage
 furzechat
-fundatrix
 fanleaf
 fluence
 fruitlike
