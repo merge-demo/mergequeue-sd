@@ -9696,6 +9696,7 @@ enterorrhexis
 esq
 esquires
 existence
+exitial
 exurbs
 evacue
 euselachii
@@ -10051,7 +10052,6 @@ encastered
 egrets
 ethambutol
 ethmovomerine
-exitial
 entamoebiasis
 epopoeist
 etceteras

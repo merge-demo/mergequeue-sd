@@ -6039,6 +6039,7 @@ bemuddles
 bemuddling
 bemurmur
 bondwoman
+botched
 butyral
 bemurmuring
 bittier
@@ -8513,7 +8514,6 @@ bisections
 biliteral
 baywood
 brownistical
-botched
 blondish
 belle
 bumph
