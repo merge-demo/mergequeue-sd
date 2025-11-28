@@ -5741,6 +5741,7 @@ engineman
 epitheliolysis
 eudidymite
 egalites
+eques
 engineries
 embrace
 eau
@@ -10642,7 +10643,6 @@ evilproof
 enmoss
 excavate
 endozoa
-eques
 enchilada
 eudemonistic
 eudemonics

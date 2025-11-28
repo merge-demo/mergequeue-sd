@@ -5178,7 +5178,6 @@ flameflower
 feeding
 flued
 flatulentness
-flangeway
 futter
 fibs
 footpaddery
@@ -8149,6 +8148,7 @@ foretrace
 forecastleman
 fountful
 foreuse
+flangeway
 foreutter
 flavoursome
 fillercap
