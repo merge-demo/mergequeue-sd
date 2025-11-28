@@ -631,7 +631,6 @@ earful
 excruciatingness
 empiricist
 ecphorable
-embryogeny
 epizoite
 eluviating
 erysipelas
@@ -4503,6 +4502,7 @@ esthesiophysiology
 elsewhat
 enforcing
 exterminator
+embryogeny
 encephalomas
 escudo
 encephalomeningocele
