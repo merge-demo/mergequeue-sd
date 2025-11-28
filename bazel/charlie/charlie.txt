@@ -2429,7 +2429,6 @@ cancerogenic
 circumcentral
 cancerophobe
 cancerophobia
-cancerous
 celtophil
 cancerously
 coolth
@@ -12202,6 +12201,7 @@ cowcatcher
 castrator
 chrysophanic
 concludible
+cancerous
 chrysophenin
 chrysophilist
 chrysophyte
