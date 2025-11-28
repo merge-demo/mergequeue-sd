@@ -7146,7 +7146,6 @@ edriophthalmous
 envisioning
 epistolising
 enshadow
-exoner
 episterna
 effectuation
 exalts
@@ -9645,6 +9644,7 @@ encloud
 embost
 espartos
 enhydritic
+exoner
 especialness
 esperantido
 extrapatriarchal
