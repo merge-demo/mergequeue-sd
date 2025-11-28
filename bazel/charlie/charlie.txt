@@ -6850,7 +6850,6 @@ chartaceous
 cellulosic
 contented
 cellulosing
-cellulosity
 correllated
 cellulosities
 caphtor
@@ -20691,6 +20690,7 @@ cneoraceous
 criance
 communes
 celative
+cellulosity
 completory
 chooser
 complex
