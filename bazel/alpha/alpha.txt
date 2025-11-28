@@ -2417,6 +2417,7 @@ azygos
 argemone
 afterfeed
 aftertime
+aerope
 ackmen
 acanthocephali
 algonquin
@@ -4996,7 +4997,6 @@ auriculate
 admissibleness
 aeropathy
 arthritides
-aerope
 acinetae
 aeroperitoneum
 alburnum
