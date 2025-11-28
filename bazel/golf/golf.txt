@@ -6281,7 +6281,6 @@ gynandrarchic
 galoch
 gospelly
 gainable
-gobble
 gowpen
 gierfalcon
 gobbled
@@ -7678,6 +7677,7 @@ greenlet
 gleary
 gardeny
 grader
+gobble
 grouseward
 glovey
 gradient
