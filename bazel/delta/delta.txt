@@ -4398,7 +4398,6 @@ dematerialised
 donal
 disproportionation
 dioeciousness
-disclaimed
 dematerialized
 dematerializing
 dematiaceae
@@ -5785,6 +5784,7 @@ dredged
 dreck
 depones
 deponing
+disclaimed
 distributee
 doodler
 depopulation
