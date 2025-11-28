@@ -4437,7 +4437,6 @@ gluer
 graces
 griffinage
 gynodioecious
-gophers
 giglet
 goosishness
 gascoyne
@@ -6521,6 +6520,7 @@ glucolipine
 gamete
 grotian
 gyrant
+gophers
 golo
 grasshopper
 gayest
