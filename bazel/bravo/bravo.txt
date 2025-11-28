@@ -5942,6 +5942,7 @@ belting
 basidiomycete
 ballahoo
 besticking
+bruchidae
 bedroom
 bangalay
 bude
@@ -12998,7 +12999,6 @@ balanid
 boracite
 boracous
 borage
-bruchidae
 bueno
 barbecued
 bombarde
