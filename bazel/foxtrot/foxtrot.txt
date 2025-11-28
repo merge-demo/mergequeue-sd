@@ -144,7 +144,6 @@ feedhead
 fibre
 fossiled
 facsimiled
-fracturable
 frigidaria
 flayers
 fifthly
@@ -7977,6 +7976,7 @@ faussebrayed
 floorthrough
 fosteringly
 foggish
+fracturable
 floroun
 flirted
 foresignify
