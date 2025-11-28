@@ -1987,6 +1987,7 @@ encyclopedist
 electrine
 edward
 ekka
+ectoparasitic
 enolate
 exophoric
 ekphorias
@@ -6166,7 +6167,6 @@ enigua
 elephantiac
 enneagons
 enthrallment
-ectoparasitic
 embronze
 evagation
 entertainers
