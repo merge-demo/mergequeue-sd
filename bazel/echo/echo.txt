@@ -4387,7 +4387,6 @@ excretes
 embryons
 evacuates
 enations
-euripos
 enbrave
 eggheadedness
 embar
@@ -4887,6 +4886,7 @@ explete
 enjamb
 encroachments
 epitaxic
+euripos
 encrustation
 elepaio
 excitoglandular
