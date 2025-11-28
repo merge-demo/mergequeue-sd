@@ -14492,6 +14492,7 @@ decemviri
 doyle
 duumvirate
 diplomatique
+demigod
 delassement
 desk
 dedition
@@ -17421,7 +17422,6 @@ drosophilas
 dephasing
 dabuh
 drosophyllum
-demigod
 drossel
 diabology
 dyspituitarism

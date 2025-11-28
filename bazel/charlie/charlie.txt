@@ -9648,6 +9648,7 @@ cheesemaker
 cheesemaking
 cheesemongering
 cheeseparer
+counternotice
 canaster
 cerebrasthenic
 caravaning
@@ -24877,7 +24878,6 @@ coralla
 clavodeltoid
 corallian
 corallidae
-counternotice
 corallidomous
 chestful
 congroid
