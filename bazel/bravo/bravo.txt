@@ -8077,7 +8077,6 @@ biculturalism
 billeters
 bicursal
 bailments
-bicuspid
 bruxism
 brast
 burrobrush
@@ -17780,6 +17779,7 @@ burrheaded
 bedcovers
 burrheadedness
 baroneted
+bicuspid
 blinkered
 backing
 boosters
