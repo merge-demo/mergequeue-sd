@@ -5901,7 +5901,6 @@ fdname
 flockings
 fudged
 fulsamic
-fencepost
 foetalism
 furlers
 frangent
@@ -6119,6 +6118,7 @@ flounder
 frowardness
 faraway
 faciata
+fencepost
 flourish
 fermion
 fjorgyn
