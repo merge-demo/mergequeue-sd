@@ -4487,7 +4487,6 @@ furthermost
 foreloop
 fishspear
 fluffier
-fountainwise
 faldage
 frangulin
 fluctuant
@@ -5768,6 +5767,7 @@ foehns
 finebent
 fringilliform
 finings
+fountainwise
 fiefs
 fulth
 ferrochrome
