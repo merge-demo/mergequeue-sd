@@ -1222,6 +1222,7 @@ fixator
 fissure
 frustrately
 firmitude
+furthermore
 frigidity
 fenders
 flexural
@@ -3861,7 +3862,6 @@ formin
 fairhead
 firewoods
 fisticuffer
-furthermore
 fineless
 fract
 fiberglas

@@ -4958,6 +4958,7 @@ grasping
 gynecocentric
 gapingly
 gladdened
+generableness
 grouter
 greenbottle
 gestural
@@ -10651,7 +10652,6 @@ gastroperiodynia
 gurged
 goldmist
 glyoxalase
-generableness
 gliding
 gonagra
 gurgitation
