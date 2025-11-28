@@ -5762,6 +5762,7 @@ grecizes
 geometrical
 gunfighter
 glossoptosis
+galiot
 gloomth
 gradin
 goings
@@ -6794,7 +6795,6 @@ gobbe
 gud
 glossospasm
 gaffsail
-galiot
 gavyuti
 ganglioside
 gossiping
