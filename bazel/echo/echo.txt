@@ -4238,7 +4238,6 @@ euascomycetes
 estradiot
 emulant
 earwiggy
-elucidator
 emulations
 echograph
 exporters
@@ -6765,6 +6764,7 @@ ephemeral
 empyema
 eole
 engagedly
+elucidator
 electrocutions
 estatesman
 enemied
