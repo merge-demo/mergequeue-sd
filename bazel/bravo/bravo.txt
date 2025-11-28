@@ -4571,6 +4571,7 @@ buglewort
 bicellular
 backjaw
 bedarkening
+bricken
 bedaub
 ballplayer
 benzoylglycine
@@ -13476,7 +13477,6 @@ bowyangs
 bristle
 basementward
 bioxide
-bricken
 barbaloin
 blennotorrhea
 bottomried
