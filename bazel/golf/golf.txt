@@ -180,7 +180,6 @@ gradgrind
 golfer
 goaled
 gabarit
-gammacism
 groschen
 gavage
 geraniales
@@ -4125,6 +4124,7 @@ gimleting
 gesnerad
 geotaxes
 gettysburg
+gammacism
 gargoyle
 glosts
 genetor

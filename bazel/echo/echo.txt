@@ -6224,7 +6224,6 @@ erasure
 exodist
 enophthalmus
 enorm
-explorement
 exhalations
 endopericarditis
 exhortator
@@ -12076,6 +12075,7 @@ epanaleptic
 expediate
 entrainer
 evzone
+explorement
 esselen
 enplanes
 epacridaceae
