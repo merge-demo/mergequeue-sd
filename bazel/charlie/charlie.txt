@@ -14636,7 +14636,6 @@ cystosarcoma
 conforbably
 chayote
 cowbyre
-cyanogenetic
 cystoschisis
 cariole
 conurbations
@@ -29630,6 +29629,7 @@ crocketed
 conder
 crockets
 clouded
+cyanogenetic
 collegiation
 concatenary
 crocking

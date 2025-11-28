@@ -11079,7 +11079,6 @@ disappearer
 diamagnetically
 droning
 deedy
-denumerability
 decernment
 demulsification
 disappendant
@@ -16759,6 +16758,7 @@ daub
 draughtier
 divulsive
 decastylos
+denumerability
 darg
 disseminule
 draughtsmanship
