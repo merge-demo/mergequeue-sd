@@ -8053,7 +8053,6 @@ chaetura
 chafe
 concretion
 chafed
-chafery
 chiles
 cagayan
 capitulum
@@ -22303,6 +22302,7 @@ crooks
 congregant
 castanean
 congregated
+chafery
 congregating
 congregation
 courts
