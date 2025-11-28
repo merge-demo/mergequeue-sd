@@ -4229,7 +4229,6 @@ empurpled
 excitedness
 enterochlorophyll
 empuzzle
-eosinophilous
 eerie
 empirically
 epicurism
@@ -9772,6 +9771,7 @@ eightballs
 eumelanin
 enneagon
 empoisoner
+eosinophilous
 embitterment
 embracive
 explaining
