@@ -10436,6 +10436,7 @@ endomyces
 electrochronometer
 engraved
 estruation
+epicanthic
 etymologization
 evaluator
 eurypteroid
@@ -13403,7 +13404,6 @@ express
 extralinguistic
 eudaemonical
 empire
-epicanthic
 earlship
 expressage
 edgily
