@@ -5322,7 +5322,6 @@ cochleated
 chariotway
 cynodont
 cassowary
-cassowaries
 carotidean
 commonty
 cassumunar
@@ -24793,6 +24792,7 @@ colinephritis
 cyanomethemoglobin
 cultivably
 cimcumvention
+cassowaries
 casketlike
 clausum
 costers
