@@ -4657,7 +4657,6 @@ enrapting
 eustachian
 exinanite
 eristalis
-epidermophyton
 enchorial
 echinoderm
 exdelicto
@@ -6665,6 +6664,7 @@ enculturative
 epibatus
 eyas
 extraduction
+epidermophyton
 enthalpies
 excusers
 enarthrodial
