@@ -5995,7 +5995,6 @@ gluttonish
 grainsman
 granulous
 geometry
-gutterman
 gyve
 graspers
 giallolino
@@ -10075,6 +10074,7 @@ grabens
 goblinize
 gumshoed
 gonomere
+gutterman
 gorgerin
 gigabits
 gossampine
