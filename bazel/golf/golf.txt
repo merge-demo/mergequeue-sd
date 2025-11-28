@@ -1125,6 +1125,7 @@ gruntled
 gashes
 globalization
 ganoidian
+gamenesses
 graptolitoidea
 gaillardia
 geonyctitropic
@@ -1895,7 +1896,6 @@ grabber
 gatherers
 galumph
 gooma
-gamenesses
 grecale
 grubstake
 guaiocum
