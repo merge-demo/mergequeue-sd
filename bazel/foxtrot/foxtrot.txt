@@ -3324,6 +3324,7 @@ frustrates
 fioritura
 fairings
 fulgide
+furling
 feture
 flabbergastation
 flexility
@@ -3733,7 +3734,6 @@ fierasferid
 fistulas
 fittiness
 finales
-furling
 fillips
 flics
 flexibilty

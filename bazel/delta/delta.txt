@@ -3380,6 +3380,7 @@ doles
 dagos
 deturn
 dictative
+dermatomere
 defis
 deflagrable
 disquietedness
@@ -6272,7 +6273,6 @@ deutobromide
 dividable
 deprivative
 defenser
-dermatomere
 dermatomyces
 deploredness
 diplokaryon
