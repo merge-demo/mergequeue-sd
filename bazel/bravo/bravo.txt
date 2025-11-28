@@ -9277,6 +9277,7 @@ bipotentialities
 biprism
 burgaudine
 blackguardism
+blackguardize
 biprong
 baseball
 begloomed
@@ -16239,7 +16240,6 @@ brownies
 bricklining
 beluga
 browniest
-blackguardize
 beamlet
 bindwith
 bahuts
