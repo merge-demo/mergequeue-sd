@@ -4907,7 +4907,6 @@ aerodromes
 arbitrating
 acetyltannin
 aeroelastic
-aucupate
 aeroelasticity
 arraigning
 aerofoils
@@ -6101,6 +6100,7 @@ aglance
 anchoritess
 aglaozonia
 alkanal
+aucupate
 agleaf
 aglee
 antidotary
