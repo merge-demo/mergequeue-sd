@@ -1011,7 +1011,6 @@ calantas
 chromocenter
 chondroid
 calapite
-caprelline
 calappidae
 calas
 colourtype
@@ -2420,6 +2419,7 @@ cancerated
 coyed
 cambeva
 corroborators
+caprelline
 convenes
 chastize
 cancerigenic
