@@ -3723,7 +3723,6 @@ echinochrome
 escobilla
 enravishingly
 embrittling
-embryulcia
 embryulculci
 exercitorial
 extravagantness
@@ -10924,6 +10923,7 @@ euphotide
 excommunicate
 esd
 euphues
+embryulcia
 epipedometry
 epilogizing
 evenwise
