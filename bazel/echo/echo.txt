@@ -9511,7 +9511,6 @@ esculin
 expansively
 essences
 evenhead
-eugenesis
 epimorphism
 extrasolar
 exempt
@@ -11511,6 +11510,7 @@ emendate
 engouled
 eunuchize
 evince
+eugenesis
 endlessly
 embryoma
 evincible
