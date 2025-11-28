@@ -10874,7 +10874,6 @@ ammocoetiform
 antischolastic
 ammoniuret
 archcozener
-antiproteolysis
 argolian
 ammono
 ammonoidea
@@ -18136,6 +18135,7 @@ ableptically
 allegator
 antipsychotic
 aerogenic
+antiproteolysis
 algeria
 aquaplane
 accustomed
