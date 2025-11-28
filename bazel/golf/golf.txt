@@ -4739,7 +4739,6 @@ gumshoe
 glucosuria
 grudgingly
 garnisheeing
-genista
 galeae
 gowland
 gitanos
@@ -7745,6 +7744,7 @@ grassroots
 gloea
 gutturopalatine
 grenelle
+genista
 guld
 grenadier
 gynecicgynecidal
