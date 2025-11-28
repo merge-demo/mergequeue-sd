@@ -935,7 +935,6 @@ dermapostasis
 dapperling
 dapperness
 dapping
-dactylographic
 divorcers
 dishouse
 decourt
@@ -18453,6 +18452,7 @@ distrusts
 diddler
 duplicious
 danner
+dactylographic
 duality
 duplicitously
 disprizing
