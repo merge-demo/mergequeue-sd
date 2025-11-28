@@ -1,5 +1,4 @@
 glibbest
-gees
 generalcy
 gaseliers
 greenleek
@@ -1318,6 +1317,7 @@ gas
 globalism
 galilee
 gorging
+gees
 geullah
 gargler
 goolde
