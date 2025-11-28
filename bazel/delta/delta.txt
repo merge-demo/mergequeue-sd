@@ -4935,7 +4935,6 @@ dacrycystalgia
 dynastic
 depositum
 demonstrations
-doctrinary
 derotreme
 decrescence
 daktylon
@@ -7588,6 +7587,7 @@ dilute
 djellaba
 deuton
 deutonymph
+doctrinary
 danli
 distingu
 dancy
