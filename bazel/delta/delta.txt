@@ -4112,6 +4112,7 @@ disreason
 delimitating
 delimitation
 deviational
+demihague
 displumed
 departments
 diplomyelia
@@ -12955,7 +12956,6 @@ demons
 decatholicize
 dosimetrician
 differers
-demihague
 doddard
 dyschromatoptic
 discriminability
