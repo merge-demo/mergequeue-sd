@@ -12920,7 +12920,6 @@ boothage
 boothale
 baronetcies
 badge
-boccias
 brews
 bedspread
 boothite
@@ -17138,6 +17137,7 @@ bothropic
 barbera
 brab
 baselike
+boccias
 bestial
 bullier
 boreades

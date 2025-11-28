@@ -18432,7 +18432,6 @@ crystalloblastic
 centrale
 cograil
 chilipepper
-crestmoreite
 chaogenous
 coguarantor
 chaotical
@@ -24041,6 +24040,7 @@ columbary
 convergent
 cytogeny
 chemoceptor
+crestmoreite
 converges
 converging
 conversable
