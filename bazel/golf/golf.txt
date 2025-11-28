@@ -1087,7 +1087,6 @@ ghostliness
 groundway
 gonenesses
 gypsums
-gegenion
 glares
 guarding
 gainfully
@@ -9627,6 +9626,7 @@ grizzlier
 geochemical
 guarish
 gummite
+gegenion
 grandma
 gatefold
 guisarme
