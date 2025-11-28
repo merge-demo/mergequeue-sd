@@ -10529,7 +10529,6 @@ estop
 eucharistial
 eurylaimoid
 eudaemony
-eucharistic
 eucharistically
 earthfall
 ephthalite
@@ -12887,6 +12886,7 @@ erastus
 expandible
 editions
 envenoms
+eucharistic
 echafaudage
 elucid
 escortment
