@@ -7012,6 +7012,7 @@ embladder
 electrotitration
 enamourment
 explorable
+endosteomas
 effigiating
 estated
 emetines
@@ -13585,7 +13586,6 @@ epoxides
 elementally
 excern
 enteroceptor
-endosteomas
 extance
 extemporally
 electropotential
