@@ -8703,7 +8703,6 @@ allentato
 agaty
 alsine
 acalephan
-asterospondylic
 aerocurve
 anapterygote
 aller
@@ -24279,6 +24278,7 @@ alters
 asphaltlike
 arylating
 airsickness
+asterospondylic
 aussies
 amphotericin
 autocar
