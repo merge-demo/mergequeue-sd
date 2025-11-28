@@ -2501,7 +2501,6 @@ fatales
 ferociously
 flashforward
 fumarin
-fastus
 fingers
 forehorse
 flerry
@@ -6466,6 +6465,7 @@ furiosa
 ferried
 fumagine
 fouquieriaceous
+fastus
 flightful
 foulness
 fictor
