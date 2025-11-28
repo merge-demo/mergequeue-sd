@@ -320,7 +320,6 @@ greekism
 gamogenetically
 galactagogue
 gesneria
-garlic
 gastrea
 gynophore
 goujons
@@ -4597,6 +4596,7 @@ goobers
 gagger
 grinter
 gladiole
+garlic
 guardrail
 garotter
 guttiferales
