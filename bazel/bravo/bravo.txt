@@ -245,7 +245,6 @@ bluecap
 bootmaking
 belleter
 bacilary
-bacile
 bacillaceae
 brarow
 bacillariaceae
@@ -17660,6 +17659,7 @@ bringela
 barbettes
 biotoxin
 bilsteds
+bacile
 bookkeeper
 burkha
 beplague
