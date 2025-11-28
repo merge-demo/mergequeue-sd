@@ -5566,7 +5566,6 @@ greens
 gemutlichkeit
 gorses
 grammel
-glucine
 glochidiate
 gallery
 grained
@@ -6638,6 +6637,7 @@ galanga
 gruntingly
 glassine
 gaed
+glucine
 goncalo
 gyrectomy
 geminating
