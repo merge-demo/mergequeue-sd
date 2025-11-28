@@ -3128,6 +3128,7 @@ fountaineer
 finnick
 fibroenchondroma
 faring
+forefence
 fulminancy
 fibroferrite
 fundic
@@ -6219,7 +6220,6 @@ fluctuational
 factioneer
 fluegelhorn
 foalfoot
-forefence
 fairgrounds
 forlana
 fatlings
