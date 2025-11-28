@@ -7609,6 +7609,7 @@ cerebrose
 campanula
 chargers
 calathisci
+controlling
 calcarated
 cerebrospinal
 chaetotaxy
@@ -15496,7 +15497,6 @@ convulsionist
 clarts
 clash
 clashee
-controlling
 cojones
 clasher
 cleistogenous
