@@ -4070,6 +4070,7 @@ cardiagram
 cardiagraph
 cardiagraphy
 cardial
+chekist
 cardialgy
 caryl
 coevals
@@ -9729,7 +9730,6 @@ cheken
 chekhov
 composal
 colourable
-chekist
 connaraceae
 chekker
 collegers
