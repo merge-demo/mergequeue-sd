@@ -5796,7 +5796,6 @@ gumhar
 garrulously
 goony
 grunts
-goupin
 gnatworm
 genupectoral
 goniometer
@@ -10506,6 +10505,7 @@ gynecic
 garbardine
 germigene
 guauaenok
+goupin
 gnome
 graveman
 gonocytes
