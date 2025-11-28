@@ -4329,7 +4329,6 @@ dequeue
 dronel
 diversicolored
 daubster
-diamondiferous
 diacritical
 dods
 demagogical
@@ -5900,6 +5899,7 @@ deontic
 disembargoed
 deodars
 diablene
+diamondiferous
 duffy
 duplicity
 deprehend
