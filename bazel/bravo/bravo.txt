@@ -3101,6 +3101,7 @@ betraying
 bucrnia
 bloodcurdler
 benben
+birdmouthed
 bobet
 bisinuation
 baseborn
@@ -9706,7 +9707,6 @@ bedpad
 beetfly
 betokening
 bissabol
-birdmouthed
 bacchante
 byssal
 bigam
