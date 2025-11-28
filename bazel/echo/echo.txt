@@ -298,6 +298,7 @@ echos
 exhumation
 epilepsies
 elrage
+eyrer
 encamps
 epitheliums
 enterolobium
@@ -9084,7 +9085,6 @@ eschalots
 engnessang
 euros
 erythrolytic
-eyrer
 equitangential
 expulse
 endoscopic
