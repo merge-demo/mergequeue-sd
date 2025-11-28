@@ -1352,7 +1352,6 @@ effervescency
 eights
 epode
 essentialness
-exomis
 evasional
 ebcdic
 excludability
@@ -8699,6 +8698,7 @@ egocentrism
 eluate
 escopet
 eked
+exomis
 equisetaceous
 epicondylar
 endothelia

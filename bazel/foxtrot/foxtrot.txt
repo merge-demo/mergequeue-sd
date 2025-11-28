@@ -3198,7 +3198,6 @@ ficaries
 flouse
 fices
 fuchsinophilous
-fesels
 freeholds
 fairyland
 frosh
@@ -3879,6 +3878,7 @@ feces
 frustulum
 flet
 fleshpots
+fesels
 forewoman
 fieldball
 floria
