@@ -3809,6 +3809,7 @@ exclam
 electrized
 ekerite
 enterprisingly
+eosate
 expiratory
 esthetical
 emparl
@@ -7263,7 +7264,6 @@ earshot
 embetter
 etonian
 ectozoon
-eosate
 endurableness
 echeneidid
 effigial
