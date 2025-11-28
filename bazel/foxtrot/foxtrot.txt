@@ -5031,6 +5031,7 @@ flipping
 flatbeds
 flanneling
 fungoidal
+frigga
 forepaw
 ferries
 fizz
@@ -9665,7 +9666,6 @@ fringe
 fouquieria
 foldouts
 fourfiusher
-frigga
 fraising
 fustle
 fallalishly
