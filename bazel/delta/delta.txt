@@ -4252,7 +4252,6 @@ dislocate
 dismaler
 deltalike
 diluvial
-disacknowledge
 deltas
 dukeling
 dook
@@ -12866,6 +12865,7 @@ dominative
 diameter
 dhanvantari
 dysmenorrheic
+disacknowledge
 dysmeristic
 doryman
 developments

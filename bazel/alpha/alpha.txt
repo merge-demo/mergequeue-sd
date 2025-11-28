@@ -5941,6 +5941,7 @@ atelorachidia
 anhaematopoiesis
 aerogeology
 amphithecial
+antispadix
 adit
 amazonstone
 apostacies
@@ -22723,7 +22724,6 @@ agribusinesses
 athletical
 arizonite
 athleticism
-antispadix
 averruncation
 athletism
 athlothetes
