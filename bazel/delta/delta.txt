@@ -12881,7 +12881,6 @@ disminion
 duumviral
 doomsters
 decreeable
-driftway
 dyebeck
 demerited
 dromond
@@ -17546,6 +17545,7 @@ decolour
 disassimilation
 dynamiter
 drumliest
+driftway
 desisting
 drumline
 depolarised
