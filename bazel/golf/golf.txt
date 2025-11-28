@@ -418,7 +418,6 @@ gneu
 gymnogynous
 gymmal
 gabion
-glomeration
 greatened
 greatcoated
 gegger
@@ -4493,6 +4492,7 @@ gugu
 galtonian
 gypsyfy
 generically
+glomeration
 granules
 gristles
 geophytes
