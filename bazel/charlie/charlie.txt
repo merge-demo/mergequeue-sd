@@ -3875,7 +3875,6 @@ contrastimulant
 costaea
 chinkle
 criminalness
-centrosymmetry
 crankles
 carbonisable
 carbonise
@@ -8840,6 +8839,7 @@ characterising
 chanted
 clodbreaker
 cuniform
+centrosymmetry
 cumarone
 cowards
 characterism

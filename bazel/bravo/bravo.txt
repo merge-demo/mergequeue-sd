@@ -1047,7 +1047,6 @@ bolete
 babyhouse
 becost
 blousier
-buzzards
 burghal
 bailors
 birdlimed
@@ -12142,6 +12141,7 @@ bikukulla
 beteem
 buddhahood
 bloomkin
+buzzards
 bolero
 bivoltine
 bewormed
