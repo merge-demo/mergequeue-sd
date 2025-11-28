@@ -3465,7 +3465,6 @@ grum
 gubernance
 gove
 gaveler
-geometers
 gudgeons
 gowl
 gelatinated
@@ -9850,6 +9849,7 @@ geoponical
 grilles
 gabbarts
 gallivant
+geometers
 gospellike
 gnathopoda
 grousers
