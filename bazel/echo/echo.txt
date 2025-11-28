@@ -7268,6 +7268,7 @@ eorhyolite
 extinguishable
 eos
 earshot
+evaluating
 embetter
 etonian
 ectozoon
@@ -11363,7 +11364,6 @@ electroscission
 eupnoeic
 enervative
 exhaustibility
-evaluating
 emergers
 extenders
 exigency
