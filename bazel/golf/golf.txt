@@ -3687,6 +3687,7 @@ gasoliner
 glyceral
 guardstone
 gulist
+geissospermin
 griphus
 groover
 gaslighted
@@ -10229,7 +10230,6 @@ gonk
 geotonus
 glamourously
 galusha
-geissospermin
 gainsays
 glaucous
 gowpin
