@@ -4309,6 +4309,7 @@ bushbodies
 batiker
 boebera
 barly
+betongue
 becalm
 brachialis
 becalming
@@ -7141,7 +7142,6 @@ betweenity
 bocking
 blotchiest
 blowy
-betongue
 besprinkle
 briskish
 bandhor
