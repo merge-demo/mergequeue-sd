@@ -6211,6 +6211,7 @@ cystiferous
 concise
 calanthe
 caudles
+cuppin
 caudocephalad
 ceile
 clappering
@@ -31176,7 +31177,6 @@ chewstick
 covetingly
 cuppen
 cupper
-cuppin
 civets
 chemonite
 cuppings
