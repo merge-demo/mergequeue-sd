@@ -1967,7 +1967,6 @@ fothergilla
 fancy
 feebless
 filatory
-fillock
 fernticle
 fibratus
 functionalize
@@ -6328,6 +6327,7 @@ fuzzy
 flack
 futural
 fullback
+fillock
 floyd
 finessed
 fixtureless
