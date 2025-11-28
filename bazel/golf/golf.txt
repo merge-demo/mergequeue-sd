@@ -127,6 +127,7 @@ graceless
 gadrooning
 gersum
 glacises
+gallantize
 granulize
 gageable
 guerdonable
@@ -5005,7 +5006,6 @@ graunt
 grouselike
 gauging
 gymnospermal
-gallantize
 gyrenes
 gingelis
 germanization
