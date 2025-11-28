@@ -6432,7 +6432,6 @@ galibi
 garbing
 glossopteris
 golaseccan
-glassman
 gobiesocid
 geostrophic
 gymnocladus
@@ -9369,6 +9368,7 @@ goutiness
 glonoin
 gnomists
 glided
+glassman
 garotes
 gumi
 gurly
