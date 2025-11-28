@@ -631,7 +631,6 @@ earful
 excruciatingness
 empiricist
 ecphorable
-embryogeny
 epizoite
 eluviating
 erysipelas
@@ -4875,6 +4874,7 @@ encrinital
 elegance
 equalizing
 exponentiations
+embryogeny
 elemental
 effeminateness
 excludible

@@ -5987,7 +5987,6 @@ bevaring
 bemask
 bricktop
 bossier
-befooling
 brewis
 bribeability
 bruises
@@ -11765,6 +11764,7 @@ barnful
 br
 bluisness
 billingsgate
+befooling
 buckwheat
 bouquets
 bocasin
