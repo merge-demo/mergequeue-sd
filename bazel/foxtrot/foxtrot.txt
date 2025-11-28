@@ -2665,6 +2665,7 @@ fertile
 farcers
 falsely
 fittonia
+frisks
 fluoridating
 fertilise
 fistular
@@ -10068,7 +10069,6 @@ friskiness
 frisking
 frisch
 friskingly
-frisks
 frondiform
 feudatary
 firster
