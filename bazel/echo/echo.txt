@@ -3051,6 +3051,7 @@ eumycetic
 enharbor
 elkuma
 elkwood
+eboe
 etherean
 epicenter
 entrapper
@@ -10132,7 +10133,6 @@ earphones
 euhyostyly
 epagomenic
 elegante
-eboe
 epilation
 epinastic
 enunciating
