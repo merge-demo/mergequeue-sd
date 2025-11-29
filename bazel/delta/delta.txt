@@ -3147,6 +3147,7 @@ dihydrite
 distoclusion
 defaming
 disability
+dermatomic
 domesticity
 duringly
 defaulted
@@ -14175,7 +14176,6 @@ disunify
 disorientates
 dolesman
 diastatically
-dermatomic
 disunion
 drolly
 download
