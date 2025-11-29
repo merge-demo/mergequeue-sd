@@ -2767,6 +2767,7 @@ gekkonidae
 glaister
 girling
 genteelize
+gonfalonier
 gentiana
 gastrotympanites
 gentianella
@@ -7336,7 +7337,6 @@ gustative
 gossard
 greyflies
 grievedly
-gonfalonier
 glumpiness
 guildhall
 gosports
