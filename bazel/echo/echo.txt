@@ -4078,6 +4078,7 @@ eucrasy
 eutherian
 ethylbenzene
 ecthymata
+exuscitate
 euthymy
 esthetophore
 emboil
@@ -14198,7 +14199,6 @@ epulation
 endlong
 equidistance
 exurge
-exuscitate
 enlists
 effecters
 enow
