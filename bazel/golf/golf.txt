@@ -6230,7 +6230,6 @@ gigmanic
 gytrash
 gilbertine
 grooved
-gregor
 garrisoned
 gastrimargy
 guillotinade
@@ -6326,6 +6325,7 @@ gauster
 globetrotters
 geochemists
 glossalgia
+gregor
 geophysics
 gruneritization
 grubstaker
