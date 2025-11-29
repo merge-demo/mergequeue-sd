@@ -2714,6 +2714,7 @@ genip
 gilbertese
 genyplasty
 glashan
+geomance
 globularness
 glandule
 grainering
@@ -2959,7 +2960,6 @@ gaddang
 guilt
 gurkha
 gollop
-geomance
 gadgets
 guapilla
 gibes
