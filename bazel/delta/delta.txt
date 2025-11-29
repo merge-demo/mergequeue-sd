@@ -1666,7 +1666,6 @@ dentimeter
 deamidation
 deaminase
 digitize
-daws
 daw
 dextraural
 deamination
@@ -15673,6 +15672,7 @@ doorposts
 dopier
 dogstone
 desi
+daws
 docile
 dunce
 dartrose
