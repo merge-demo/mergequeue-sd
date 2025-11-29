@@ -8056,6 +8056,7 @@ chaetura
 chafe
 concretion
 chafed
+chirographer
 chiles
 cagayan
 capitulum
@@ -24256,7 +24257,6 @@ conjuncture
 const
 cerebritis
 crescendi
-chirographer
 confessing
 chaka
 cubla
