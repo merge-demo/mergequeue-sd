@@ -5048,7 +5048,6 @@ garavance
 glowed
 gelt
 geosynclinal
-glaum
 gilliflirt
 gamekeepers
 glariness
@@ -5406,6 +5405,7 @@ gynandromorphic
 glimmer
 graphometry
 groundswell
+glaum
 generall
 gutwise
 glycaemic
