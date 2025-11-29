@@ -2098,7 +2098,6 @@ barring
 borofluoride
 backframe
 buckshots
-bidstand
 bantam
 bantamize
 bismar
@@ -5227,6 +5226,7 @@ boarcite
 barbules
 basification
 breadboards
+bidstand
 barkeeps
 begar
 bodingly
