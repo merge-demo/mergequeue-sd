@@ -10597,7 +10597,6 @@ amylases
 amylate
 aglyphodontia
 anthropozoic
-agnations
 amildar
 achordal
 angelicas
@@ -20814,6 +20813,7 @@ abraid
 artophagous
 archheresy
 artotype
+agnations
 annotation
 asqueal
 acolhua
