@@ -3429,7 +3429,6 @@ beechdrops
 bastinado
 bastings
 bacteriopathology
-blepharopyorrhea
 badgerly
 bastions
 boughpot
@@ -6097,6 +6096,7 @@ bittering
 bibliographical
 bendees
 buyout
+blepharopyorrhea
 biobibliographies
 behusband
 bendies
