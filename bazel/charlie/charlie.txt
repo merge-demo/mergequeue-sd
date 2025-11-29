@@ -7250,6 +7250,7 @@ clematises
 centuples
 codbank
 chaldese
+cremorne
 centuplicate
 centuplicating
 civility
@@ -28641,7 +28642,6 @@ churnings
 clothilda
 choirboy
 chasmal
-cremorne
 contagioned
 cupids
 cremosin
