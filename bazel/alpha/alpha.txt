@@ -9145,7 +9145,6 @@ andesytes
 agrising
 alman
 adenovirus
-almander
 aeginetic
 almandines
 agalactous
@@ -15492,6 +15491,7 @@ antiministerial
 antiministerially
 ajhar
 aiming
+almander
 anandria
 affluentness
 anywhere
