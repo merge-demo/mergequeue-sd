@@ -33,6 +33,7 @@ globose
 gouty
 goodlike
 gabioned
+gynura
 glutamate
 gmelina
 grammes
@@ -4452,7 +4453,6 @@ glamours
 gazangabin
 ginseng
 globigerinidae
-gynura
 goyazite
 glucuronide
 gobby
