@@ -7793,7 +7793,6 @@ costean
 chemoautotrophy
 charabancer
 clorinator
-cerussite
 centaurid
 cervantic
 chaffiest
@@ -29156,6 +29155,7 @@ cheque
 cranioscopist
 cotillons
 cryoconite
+cerussite
 cryogeny
 callidity
 cradleside
