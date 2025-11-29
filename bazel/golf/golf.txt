@@ -6246,7 +6246,6 @@ goatsbeard
 gavotting
 galloway
 glue
-glucosidase
 gonne
 greaves
 gopura
@@ -6700,6 +6699,7 @@ gumboils
 gastropancreatic
 gymnoglossa
 genuflected
+glucosidase
 goniatites
 garterless
 gainsayer
