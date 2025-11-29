@@ -2626,6 +2626,7 @@ buckstall
 bescour
 befriend
 backstretches
+becrusts
 bogyisms
 barbitals
 blousons
@@ -4849,7 +4850,6 @@ buskins
 bluebonnets
 brightened
 bustard
-becrusts
 berean
 biplane
 bedunced
