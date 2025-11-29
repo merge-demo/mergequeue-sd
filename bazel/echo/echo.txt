@@ -8504,7 +8504,6 @@ explants
 erases
 elongates
 epuration
-exculpable
 effectual
 englisher
 enwombs
@@ -14021,6 +14020,7 @@ extraspectral
 exordize
 enigmatography
 endothecia
+exculpable
 epitrophic
 electromotive
 exr
