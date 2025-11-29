@@ -3358,7 +3358,6 @@ flooding
 falconer
 forgetive
 firmisternia
-flashers
 fieldish
 funereality
 fattener
@@ -6416,6 +6415,7 @@ freshish
 farmed
 facsimileing
 fluorimetric
+flashers
 fluorobenzene
 fructifies
 foreship
