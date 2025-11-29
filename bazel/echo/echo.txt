@@ -5343,7 +5343,6 @@ emmeniopathy
 endoscopies
 epipodia
 endoskeletons
-endosmic
 evaders
 embaphium
 ethenyl
@@ -11367,6 +11366,7 @@ exotropic
 electrodesiccation
 evenforth
 eryopid
+endosmic
 edificator
 eruciform
 emanatively
