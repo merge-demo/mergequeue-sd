@@ -18146,7 +18146,6 @@ coerciveness
 coercivity
 coerebidae
 coerected
-coerecting
 coeruleolactite
 cohost
 cancerin
@@ -30111,6 +30110,7 @@ crowhopper
 chadacryst
 chousing
 camister
+coerecting
 circa
 crowingly
 chasseur
