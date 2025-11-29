@@ -4397,6 +4397,7 @@ gooselike
 gelidiaceae
 genian
 gangrene
+gemman
 gyron
 gallanilide
 gyniatries
@@ -5185,7 +5186,6 @@ gesticulator
 glossocomon
 guavas
 genipap
-gemman
 gregarinina
 gassiest
 greathearted
