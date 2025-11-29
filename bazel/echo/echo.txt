@@ -5820,7 +5820,6 @@ enray
 ephoi
 effluvia
 environing
-environmentalist
 elephant
 electroencephalograms
 egyptologer
@@ -6251,6 +6250,7 @@ editorialize
 enforcedly
 egrid
 eardrops
+environmentalist
 endamaged
 eidology
 enplane
