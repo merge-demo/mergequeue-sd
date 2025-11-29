@@ -2795,7 +2795,6 @@ gemeinde
 gamphrel
 gaunt
 growling
-gimmor
 gascoigny
 greatcoat
 gyro
@@ -7629,6 +7628,7 @@ gyn
 graphic
 giovanni
 gracilis
+gimmor
 gracing
 gunpaper
 greyly
