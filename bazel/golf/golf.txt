@@ -5088,7 +5088,6 @@ gillied
 grasni
 guddler
 glassines
-galloping
 glassiness
 glasslikeness
 goosefoots
@@ -8505,6 +8504,7 @@ gunline
 guardian
 geognostical
 gulpers
+galloping
 genie
 gabling
 ginglymus
