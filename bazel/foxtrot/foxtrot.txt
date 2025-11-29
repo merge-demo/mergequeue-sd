@@ -1756,7 +1756,6 @@ fireworms
 fedn
 featherfew
 fluoridates
-fn
 featheriness
 frogface
 foreslack
@@ -6138,6 +6137,7 @@ fretish
 frondigerous
 fontinalaceae
 foxfish
+fn
 frustration
 fetidity
 fantom
