@@ -4440,6 +4440,7 @@ adure
 andia
 allergia
 acetylacetone
+astrometrical
 australic
 antipuritan
 adustion
@@ -13669,7 +13670,6 @@ anointment
 anointments
 articulation
 adulterer
-astrometrical
 aunt
 absolutization
 anethum
