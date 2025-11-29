@@ -6098,7 +6098,6 @@ gibbled
 grisset
 gadroons
 grume
-gonococcoid
 gnaws
 gramineous
 gneiss
@@ -8839,6 +8838,7 @@ gentianaceous
 glueyness
 gallus
 globate
+gonococcoid
 griege
 gm
 gunne

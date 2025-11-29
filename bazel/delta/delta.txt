@@ -5748,7 +5748,6 @@ deplumated
 disposes
 deemer
 dolls
-deplumes
 dentation
 dewanee
 doliolum
@@ -16596,6 +16595,7 @@ deionization
 dispromise
 dragonesque
 daphnis
+deplumes
 dorados
 distr
 darkhearted
