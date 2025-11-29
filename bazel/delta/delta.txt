@@ -10052,6 +10052,7 @@ demist
 deck
 disordain
 decemfoliolate
+dorser
 dynactinometer
 deratize
 dazedly
@@ -15804,7 +15805,6 @@ domdaniel
 disalign
 dorsalgia
 dorsalwards
-dorser
 doxantha
 diestrus
 dorsi
