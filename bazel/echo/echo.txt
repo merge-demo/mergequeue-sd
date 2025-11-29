@@ -10966,7 +10966,6 @@ envoy
 eggy
 eupotamic
 encoignure
-esparcet
 equivocalness
 echiurid
 erythematous
@@ -11669,6 +11668,7 @@ endocentric
 eleusinian
 endopolyploid
 exactness
+esparcet
 edeology
 exactors
 enterophthisis
