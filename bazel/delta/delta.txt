@@ -3791,7 +3791,6 @@ deadpanner
 dyostyle
 detest
 dor
-dwale
 disgracia
 drillable
 dynamites
@@ -16813,6 +16812,7 @@ diametrical
 delaines
 dominee
 dey
+dwale
 demurely
 decurtate
 daniglacial
