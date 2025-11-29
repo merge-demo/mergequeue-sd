@@ -885,6 +885,7 @@ enterprised
 ectoplastic
 elusiveness
 enucleation
+eulima
 endore
 evilspeaker
 encourager
@@ -1856,7 +1857,6 @@ expletives
 executrix
 eimak
 exulted
-eulima
 exilition
 euphonious
 eleutherodactyl
