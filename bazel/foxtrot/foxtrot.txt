@@ -204,7 +204,6 @@ freedwoman
 ferns
 formicating
 fazenda
-factotum
 ferrihemoglobin
 frasier
 factrix
@@ -6406,6 +6405,7 @@ fluoride
 fibromyositis
 frasera
 flyboat
+factotum
 flisky
 fetches
 fitchet
