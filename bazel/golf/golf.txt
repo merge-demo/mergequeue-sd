@@ -5056,6 +5056,7 @@ gatch
 grutched
 guards
 gaedown
+goldweed
 glycogen
 gerefa
 gastrohypertonic
@@ -5756,7 +5757,6 @@ gobos
 glossolalia
 gabbroid
 glossolysis
-goldweed
 grecizes
 geometrical
 gunfighter
