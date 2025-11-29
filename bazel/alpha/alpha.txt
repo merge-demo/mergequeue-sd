@@ -5259,6 +5259,7 @@ anagenetical
 ampitheater
 attackable
 anapterygotous
+affeir
 alingual
 anticlinal
 anapophysial
@@ -6468,7 +6469,6 @@ asterism
 aha
 ahamkara
 autoclaves
-affeir
 antienthusiasm
 angiosperms
 ahantchuyuk
