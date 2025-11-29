@@ -7486,7 +7486,6 @@ gazing
 gulpy
 gladiatory
 goura
-glyphography
 gonad
 gamesmanship
 gymnotidae
@@ -10625,6 +10624,7 @@ gloomiest
 ghoul
 gunpower
 gasping
+glyphography
 gentled
 gourmandise
 gunshop
