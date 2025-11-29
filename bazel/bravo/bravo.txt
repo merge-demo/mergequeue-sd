@@ -6590,6 +6590,7 @@ booming
 birotation
 blotter
 bluff
+bromelins
 betons
 blastular
 bere
@@ -15859,7 +15860,6 @@ bromeigon
 bromeikon
 blushet
 boliche
-bromelins
 bearings
 batler
 bryozoa
