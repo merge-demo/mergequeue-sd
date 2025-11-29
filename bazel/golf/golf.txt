@@ -3344,7 +3344,6 @@ gaults
 germin
 gasteropod
 gobemouche
-gymnurine
 guitermanite
 gadbush
 gessamine
@@ -8958,6 +8957,7 @@ guinevere
 groroilite
 gnosiology
 gothicity
+gymnurine
 gall
 genuclast
 getae
