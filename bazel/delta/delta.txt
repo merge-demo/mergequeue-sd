@@ -5928,7 +5928,6 @@ decompression
 dollmaking
 demagnetizer
 depressional
-dulia
 depressions
 dotard
 dissipations
@@ -17555,6 +17554,7 @@ dactyls
 drumlins
 dorsiferous
 diciest
+dulia
 drumloidal
 drummer
 duckhearted
