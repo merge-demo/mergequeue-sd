@@ -5529,6 +5529,7 @@ gestalter
 grudgeons
 greencoat
 glob
+gnawed
 gestured
 gnetum
 graduand
@@ -7696,7 +7697,6 @@ gastropodan
 guardhouses
 gradiometric
 gaup
-gnawed
 granzita
 gypsyesque
 gynostemium
