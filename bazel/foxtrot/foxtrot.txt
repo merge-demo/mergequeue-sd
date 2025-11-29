@@ -614,6 +614,7 @@ farrantly
 forebemoan
 forelimb
 funnies
+frictionless
 frame
 facesaving
 falconelle
@@ -6218,7 +6219,6 @@ fatlings
 fargoing
 floccules
 focusable
-frictionless
 fascinative
 formwork
 fermentitious
