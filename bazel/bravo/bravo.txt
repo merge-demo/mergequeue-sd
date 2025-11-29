@@ -2516,7 +2516,6 @@ barycenter
 bemused
 burmite
 brillolette
-barid
 bronchostenosis
 bereaving
 burgus
@@ -11774,6 +11773,7 @@ bocce
 bugbears
 beefheaded
 burgled
+barid
 backpacks
 boilerhouse
 barcas

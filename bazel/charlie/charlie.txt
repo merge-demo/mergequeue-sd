@@ -6504,7 +6504,6 @@ cavilers
 cavilingly
 craftsmen
 ceraunogram
-cronkness
 conrectorship
 catharticalness
 caviller
@@ -28309,6 +28308,7 @@ craunches
 conilurus
 craunchingly
 cravat
+cronkness
 capmaker
 cravats
 cravatting
