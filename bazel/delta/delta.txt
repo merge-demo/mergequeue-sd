@@ -6833,6 +6833,7 @@ desks
 dragade
 destined
 deslime
+dogmatics
 dissoconch
 desmachyme
 daubery
@@ -14977,7 +14978,6 @@ disjection
 dogaressa
 diaspinae
 disarmature
-dogmatics
 disobstruct
 domestics
 dogberry
