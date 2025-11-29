@@ -12091,7 +12091,6 @@ angiosclerosis
 acidity
 avenalin
 anastomosing
-anastrophy
 advocator
 advisements
 activital
@@ -23471,6 +23470,7 @@ augend
 adversity
 antiantidote
 aquiform
+anastrophy
 arsenillo
 augends
 auger
