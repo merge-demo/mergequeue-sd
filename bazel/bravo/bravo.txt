@@ -5416,7 +5416,6 @@ bigarreau
 behaved
 bronchium
 behaver
-bicollateral
 behaving
 brainteasers
 brakes
@@ -5594,6 +5593,7 @@ beluchi
 burgonets
 bruscus
 belash
+bicollateral
 blobbed
 bumbard
 bombloads
