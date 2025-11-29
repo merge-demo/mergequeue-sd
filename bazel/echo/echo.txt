@@ -7562,6 +7562,7 @@ enddamage
 ebenaceous
 endoscopically
 exucontian
+eumorphous
 exponence
 eructing
 explanitory
@@ -9304,7 +9305,6 @@ earlish
 electroreceptive
 entomolegist
 erthen
-eumorphous
 ekistic
 erthly
 estriate
