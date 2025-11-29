@@ -7550,7 +7550,6 @@ goldarns
 gravimeter
 gallycrow
 ganocephalous
-gilaki
 galinaceous
 guserid
 greywether
@@ -10100,6 +10099,7 @@ gypsies
 grub
 guyot
 gresil
+gilaki
 galahs
 gastropods
 garrulus
