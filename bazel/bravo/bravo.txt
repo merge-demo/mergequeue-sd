@@ -11928,7 +11928,6 @@ branchiopneustic
 bogeymen
 brut
 bawke
-betweens
 bolivianos
 begirdling
 boggard
@@ -17628,6 +17627,7 @@ burgundy
 bishareen
 burhel
 bombic
+betweens
 bisson
 bisie
 bickerers
