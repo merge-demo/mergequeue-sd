@@ -17724,7 +17724,6 @@ charterable
 crimeless
 creagh
 caved
-cocoons
 cocopan
 cocoroot
 choup
@@ -24694,6 +24693,7 @@ charkhana
 corkscrewing
 canyons
 cell
+cocoons
 coldish
 copping
 croppers
