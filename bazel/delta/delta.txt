@@ -2514,7 +2514,6 @@ declaimer
 dilaters
 declamatory
 dateable
-decibar
 dendrochronology
 drysaltery
 displeasingly
@@ -12309,6 +12308,7 @@ disgracious
 dicyclica
 diplegias
 durbar
+decibar
 dovecotes
 druttle
 diaphanie
