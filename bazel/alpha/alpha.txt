@@ -11844,6 +11844,7 @@ amphicome
 analogicalness
 amidomyelin
 abdominocardiac
+andropetalar
 analogised
 alchem
 anteroventral
@@ -23748,7 +23749,6 @@ aurums
 alopecurus
 auscultascope
 adzes
-andropetalar
 academic
 athrong
 auscultating
