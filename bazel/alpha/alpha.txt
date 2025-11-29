@@ -14866,6 +14866,7 @@ ameliorate
 aphotic
 anticyclone
 arthroempyema
+autarkist
 ankylodactylia
 armer
 anticyclones
@@ -23872,7 +23873,6 @@ anisostichus
 airmailing
 andoke
 attractors
-autarkist
 autechoscope
 arising
 adenopathy
