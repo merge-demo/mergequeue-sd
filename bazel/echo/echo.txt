@@ -9123,7 +9123,6 @@ egoistically
 exacerbescent
 erythrosis
 eriglossa
-ephemeras
 erythroxylaceous
 eulogizer
 erythroxylon
@@ -13871,6 +13870,7 @@ euglobulin
 expo
 etamine
 exosmosis
+ephemeras
 emollient
 endolymphangial
 extradited
