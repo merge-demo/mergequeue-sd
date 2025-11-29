@@ -6785,6 +6785,7 @@ feretory
 ferryman
 farfal
 forethink
+fretty
 foldcourse
 fiberless
 folkmoots
@@ -7727,7 +7728,6 @@ farcically
 florian
 freeish
 falconlike
-fretty
 furs
 forsaken
 flamelike
