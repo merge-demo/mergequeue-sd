@@ -8644,6 +8644,7 @@ chantey
 counterlighted
 corrigiolaceae
 conspired
+cotyle
 chantepleure
 chanterelle
 chondroseptum
@@ -14737,7 +14738,6 @@ choroiditis
 curatel
 chiarooscuros
 cityness
-cotyle
 citynesses
 chinantecs
 chaffed
