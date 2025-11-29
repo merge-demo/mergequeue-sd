@@ -307,6 +307,7 @@ ealderman
 endark
 espousage
 exserting
+electrostenolytic
 extortionate
 expedient
 esotericism
@@ -12064,7 +12065,6 @@ enlivenment
 enwwove
 excoriations
 epiclike
-electrostenolytic
 enforcible
 elflike
 exotoxins
