@@ -5357,6 +5357,7 @@ evidentness
 encharm
 epiphyte
 epituberculous
+erminois
 exasperation
 endosteoma
 essentialism
@@ -8117,7 +8118,6 @@ elegant
 epipterous
 epipubis
 expostulations
-erminois
 esterifying
 electrophotomicrography
 epicoelia

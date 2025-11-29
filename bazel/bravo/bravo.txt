@@ -1720,7 +1720,6 @@ beseechingness
 bruise
 bismutite
 bibliokelpt
-balthasar
 baltheus
 burse
 blends
@@ -4402,6 +4401,7 @@ bonzian
 bepress
 barrable
 butyrousness
+balthasar
 baronetage
 bickers
 bushwhacker
