@@ -11719,6 +11719,7 @@ chondroarthritis
 contestant
 chondroblastoma
 chondrocyte
+classicality
 coniomycetes
 caliphates
 chondrocoracoid
@@ -15528,7 +15529,6 @@ classy
 classicalism
 crossbolted
 classicalist
-classicality
 chaya
 classicise
 chromophoric
