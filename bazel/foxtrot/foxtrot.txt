@@ -7203,7 +7203,6 @@ fiscalized
 forfeits
 frizzlers
 formulate
-faenas
 footpaces
 fifer
 foolocracy
@@ -10282,6 +10281,7 @@ fluorated
 floscularian
 faquirs
 flandowser
+faenas
 fitten
 finary
 folksongs
