@@ -6028,6 +6028,7 @@ cathouse
 carryable
 cathouses
 crownling
+coercive
 cathrin
 cathryn
 coversine
@@ -18141,7 +18142,6 @@ coercers
 coercible
 coercionary
 coercitive
-coercive
 coerciveness
 coercivity
 coerebidae
