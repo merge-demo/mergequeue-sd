@@ -12816,7 +12816,6 @@ dismay
 doudle
 disconfirm
 dismayable
-dismayfully
 declension
 datagrams
 diathermancy
@@ -17863,6 +17862,7 @@ derbies
 debutante
 destituteness
 dysmenorrhagia
+dismayfully
 doctrine
 durationless
 dishmaking
