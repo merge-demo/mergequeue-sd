@@ -2233,7 +2233,6 @@ brigid
 bijective
 bioecology
 birdclapper
-bemist
 bannerwise
 bats
 blastment
@@ -5928,6 +5927,7 @@ beltane
 belauding
 bimetalic
 belter
+bemist
 bufagin
 buyouts
 ballistic
