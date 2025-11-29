@@ -3804,6 +3804,7 @@ fizzer
 fraterniser
 fillingly
 fingerboard
+foremisgiving
 flyflap
 freon
 ferritization
@@ -8531,7 +8532,6 @@ fraxetin
 feastly
 futuristically
 foreseeing
-foremisgiving
 fard
 fulgid
 farctate
