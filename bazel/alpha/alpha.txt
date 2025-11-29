@@ -2299,7 +2299,6 @@ azerbaijanese
 avives
 acidly
 appling
-autophoby
 acidnesses
 acidology
 acidometer
@@ -17291,6 +17290,7 @@ aposiopetic
 americanize
 arbalest
 acataposis
+autophoby
 ayins
 antisensuality
 acidimetric
