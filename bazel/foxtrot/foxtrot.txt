@@ -5002,7 +5002,6 @@ faith
 fissive
 filmcard
 flaneur
-frescoes
 functioned
 foremartyr
 fiddlewood
@@ -5790,6 +5789,7 @@ forepromised
 fussiest
 forebear
 fossiliferous
+frescoes
 flitterbat
 fructicultural
 fumeroot
