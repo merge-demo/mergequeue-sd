@@ -3337,7 +3337,6 @@ gahnite
 globed
 gasogen
 groovelike
-garrulinae
 germifuge
 goog
 gaudeamuses
@@ -7594,6 +7593,7 @@ grassweed
 gledge
 gloomful
 gaumy
+garrulinae
 gyrus
 gheraoes
 grille
