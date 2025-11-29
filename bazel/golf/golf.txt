@@ -2478,7 +2478,6 @@ gonopodial
 gemmology
 globality
 gnathidium
-glabrate
 girt
 gillflirt
 geoisotherm
@@ -10538,6 +10537,7 @@ gibs
 gulix
 grallic
 galeorchis
+glabrate
 gilly
 gadsbodikins
 gonal
