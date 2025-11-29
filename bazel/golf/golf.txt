@@ -2965,7 +2965,6 @@ gibes
 geminorum
 gastroenterostomy
 geomant
-gasaliers
 goluptious
 graben
 glutinousness
@@ -5597,6 +5596,7 @@ gaysome
 gripless
 geochemist
 geophysical
+gasaliers
 gefilte
 gownlet
 glottogonist

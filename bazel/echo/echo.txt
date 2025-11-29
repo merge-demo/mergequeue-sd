@@ -3426,6 +3426,7 @@ electrophobia
 ennuyant
 ecalcavate
 errand
+extrapolate
 exolete
 exemplar
 ecliptic
@@ -5174,7 +5175,6 @@ exundancy
 enoch
 electroosmotic
 euphorbiaceae
-extrapolate
 electromedical
 endoenzyme
 epitrochoid
