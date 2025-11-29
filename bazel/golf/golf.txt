@@ -1500,6 +1500,7 @@ guacamole
 gastrulae
 guarachas
 gunocracy
+glassman
 gasifies
 glengarry
 gasterolichenes
@@ -9371,7 +9372,6 @@ goutiness
 glonoin
 gnomists
 glided
-glassman
 garotes
 gumi
 gurly
