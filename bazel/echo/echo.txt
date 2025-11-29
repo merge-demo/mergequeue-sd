@@ -10022,7 +10022,6 @@ enweb
 extradict
 emotiomuscular
 electrode
-eurhythmical
 electrodiagnostically
 extrorsal
 electrodiagnostic
@@ -11841,6 +11840,7 @@ exceptio
 epileptics
 eplot
 externization
+eurhythmical
 enviably
 electromagnetically
 equibalance
