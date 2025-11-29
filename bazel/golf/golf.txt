@@ -5248,6 +5248,7 @@ glottiscope
 gastriloquist
 gibbals
 gourding
+glaciologist
 genethlialogy
 goldin
 guardianships
@@ -6500,7 +6501,6 @@ gibbert
 grutches
 goaltenders
 georgiadesite
-glaciologist
 germinatively
 gonapophysial
 glyoxal
