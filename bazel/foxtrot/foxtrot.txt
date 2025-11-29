@@ -1826,6 +1826,7 @@ figureheadship
 fellahin
 firebreaks
 feudalize
+fissiparity
 fractured
 flabellum
 fating
@@ -2968,7 +2969,6 @@ freiezlebenhe
 frankensteins
 fewest
 fluke
-fissiparity
 fading
 fewterer
 francophil
