@@ -5733,6 +5733,7 @@ fathoms
 furnage
 fungistatic
 fractuosity
+furrings
 fels
 figureheadless
 fisher
@@ -6549,7 +6550,6 @@ fleetly
 funereal
 foretack
 flamless
-furrings
 flibbertigibbets
 flysches
 flattened
