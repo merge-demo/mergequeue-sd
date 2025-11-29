@@ -4952,6 +4952,7 @@ chancroids
 cartilaginoid
 cartels
 cartilaginous
+coacervate
 carting
 coulometry
 cartist
@@ -17028,7 +17029,6 @@ chibouque
 coabsume
 cytodieretic
 coacceptor
-coacervate
 censuring
 coachbuilder
 chosen
