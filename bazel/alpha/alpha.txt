@@ -3215,7 +3215,6 @@ actuality
 actualization
 actualness
 allochromatic
-axopetal
 adderbolt
 acoumetry
 alstonine
@@ -16738,6 +16737,7 @@ aphemia
 attal
 athenaeum
 aphemic
+axopetal
 aphengoscope
 apheresis
 apheses
