@@ -826,7 +826,6 @@ encrust
 ectypography
 epitheton
 entrecote
-epop
 exulate
 ectiris
 etamines
@@ -7616,6 +7615,7 @@ euchymous
 epicoelous
 epicondyle
 excysted
+epop
 epicondylian
 exspuition
 engraulidae

@@ -2346,7 +2346,6 @@ fer
 firecoat
 featherstitching
 ferae
-fairyship
 fronton
 fetations
 filmable
@@ -8170,6 +8169,7 @@ foreview
 foregoes
 foederatus
 franzy
+fairyship
 funmaker
 fingerprinted
 firepan
