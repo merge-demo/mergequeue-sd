@@ -15295,6 +15295,7 @@ descriptives
 dorididae
 dryfarmer
 dumpty
+dofunny
 diabolical
 delusory
 dwamish
@@ -15361,7 +15362,6 @@ doment
 devicefully
 dicerous
 domestically
-dofunny
 doddle
 domesticating
 deflowerment
