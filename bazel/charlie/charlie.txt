@@ -13821,7 +13821,6 @@ cortinae
 corrupted
 cynghanedd
 catalysis
-cingle
 cauchemar
 cingula
 chazzan
@@ -30952,6 +30951,7 @@ culvers
 culverwort
 cum
 cants
+cingle
 cumay
 currack
 cumal
