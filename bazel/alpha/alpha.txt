@@ -11924,7 +11924,6 @@ aftersend
 aupaka
 anchylosis
 anapaestically
-ancientness
 ataraxic
 anew
 amenism
@@ -15157,6 +15156,7 @@ antegarden
 aggregating
 antievolution
 autocatalysis
+ancientness
 anteconsonantal
 antievolutionist
 antiexpansion
