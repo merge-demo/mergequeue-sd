@@ -269,6 +269,7 @@ encashed
 electroplated
 expiries
 easterling
+emotionalize
 exhumers
 epigoneion
 enqueue
@@ -4214,7 +4215,6 @@ emptor
 eccyclema
 eggeater
 evagination
-emotionalize
 extrathecal
 emprizes
 epicycloid
