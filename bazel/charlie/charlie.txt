@@ -8268,6 +8268,7 @@ chalybes
 chalybite
 chalice
 chancelry
+chorioadenoma
 chaliced
 chalicosis
 chalicothere
@@ -29058,7 +29059,6 @@ copilot
 claiming
 cephalocaudal
 crymoanesthesia
-chorioadenoma
 commissariats
 cantab
 cryptorhynchus
