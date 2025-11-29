@@ -5188,7 +5188,6 @@ endoenzyme
 epitrochoid
 entresol
 elytrorrhaphy
-epicarp
 encyclic
 eurystheus
 erava
@@ -8328,6 +8327,7 @@ estragole
 eskimoic
 embroiler
 elvan
+epicarp
 earthy
 evg
 excursional
