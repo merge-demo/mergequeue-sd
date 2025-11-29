@@ -4303,7 +4303,6 @@ fanner
 fiddling
 forficulate
 freshest
-fease
 florescence
 forequarters
 fluyt
@@ -6966,6 +6965,7 @@ franks
 foetus
 foments
 fussiness
+fease
 fortuity
 fordless
 fond
