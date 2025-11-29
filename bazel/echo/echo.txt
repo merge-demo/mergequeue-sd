@@ -10110,7 +10110,6 @@ eumolpus
 eutopia
 euphausiacea
 entities
-ethereality
 epiboly
 etherealization
 earthlike
@@ -14166,6 +14165,7 @@ emersonian
 eidoptometry
 extensive
 epiloia
+ethereality
 escamoteur
 enaena
 exuding

@@ -7089,7 +7089,6 @@ amphiarthrodial
 akin
 anoxaemic
 azury
-anre
 akinesic
 avicenniaceae
 arctation
@@ -12903,6 +12902,7 @@ awkward
 acinetaria
 anglophilic
 autotype
+anre
 adenine
 anglophobia
 abattoirs
