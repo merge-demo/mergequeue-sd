@@ -41,7 +41,6 @@ gabions
 gynecologies
 gunfires
 genotypically
-gableboard
 groats
 graperies
 gangue
@@ -9586,6 +9585,7 @@ gnus
 gingersnap
 grovellingly
 geishas
+gableboard
 gneissoid
 guester
 grovellings

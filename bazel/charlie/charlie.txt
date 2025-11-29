@@ -6529,7 +6529,6 @@ cavorting
 cavu
 cannulas
 caw
-cometh
 cawed
 cawker
 cawky
@@ -25274,6 +25273,7 @@ cacophonize
 choom
 corkwing
 cormac
+cometh
 cormel
 concetto
 coardent
