@@ -1138,6 +1138,7 @@ academy
 apheliotropism
 aploperistomatous
 anaplasis
+archeostome
 academist
 arboral
 academite
@@ -21312,7 +21313,6 @@ abscess
 akhissar
 asilidae
 acronycta
-archeostome
 asparaguses
 asilus
 aminoacidemia
