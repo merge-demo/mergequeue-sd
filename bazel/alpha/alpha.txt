@@ -14285,7 +14285,6 @@ aramaean
 amphibolies
 autochthonous
 anhedonia
-anthelix
 archaeomagnetism
 anthem
 anthemas
@@ -21123,6 +21122,7 @@ ascribable
 ahum
 agrobiologically
 antidogmatical
+anthelix
 ascribe
 artificer
 ascriptions
