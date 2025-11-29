@@ -4746,6 +4746,7 @@ disrelish
 demiwolf
 deprivals
 demob
+demiurgic
 dehydrogenates
 devi
 disremember
@@ -13897,7 +13898,6 @@ discina
 distil
 derisive
 distyle
-demiurgic
 disinhabit
 denshare
 dramatics

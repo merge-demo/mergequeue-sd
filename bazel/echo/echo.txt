@@ -2383,7 +2383,6 @@ electrocolloidal
 edulcoration
 exhaustable
 electroconvulsive
-empoisonment
 engorged
 exocone
 egoistic
@@ -13802,6 +13801,7 @@ ecteron
 esparto
 eukaryote
 endebt
+empoisonment
 expurgated
 expressionism
 elative
