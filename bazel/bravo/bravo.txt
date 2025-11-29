@@ -6409,6 +6409,7 @@ benzophthalazine
 breakup
 benzil
 banewort
+buteos
 bibliothecaire
 benzopyrazolone
 barquentine
@@ -11850,7 +11851,6 @@ bodysurfed
 bodysurfer
 bodywear
 benthopelagic
-buteos
 bodywork
 bodyworks
 bodkin
