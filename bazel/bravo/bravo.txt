@@ -13382,7 +13382,6 @@ brumaire
 botone
 bourgeoned
 bialys
-blanche
 brushing
 bedeswoman
 bartisans
@@ -14156,6 +14155,7 @@ blacken
 beseeched
 bilifaction
 beadleship
+blanche
 belgophile
 bulbomedullary
 bolded
