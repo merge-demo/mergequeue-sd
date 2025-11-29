@@ -5037,6 +5037,7 @@ forecourse
 fatteners
 flaperon
 flippantly
+frib
 flappable
 frankalmoin
 fancies
@@ -9824,7 +9825,6 @@ fouler
 fortescue
 fordicidia
 fissileness
-frib
 fruitage
 faden
 fribbler
