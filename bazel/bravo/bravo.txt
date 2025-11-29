@@ -6149,6 +6149,7 @@ bushlands
 bravo
 bisexuals
 benefices
+bellied
 blackthorn
 bluebonnet
 baccarat
@@ -10115,7 +10116,6 @@ blackberrylike
 bunkload
 bacchant
 bilaminate
-bellied
 berbers
 bootleggers
 buphthalmia
