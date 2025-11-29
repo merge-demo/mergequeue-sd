@@ -3767,6 +3767,7 @@ desmose
 demain
 dreadful
 dytiscidae
+doubleword
 dehorner
 diplography
 dehorners
@@ -15920,7 +15921,6 @@ dziggetai
 dewaxes
 daydream
 dotages
-doubleword
 darned
 duddle
 drawlingly
