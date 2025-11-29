@@ -4603,7 +4603,6 @@ bedbugs
 boden
 bedtick
 bedchair
-butterine
 bedchairs
 buffers
 bellowing
@@ -6599,6 +6598,7 @@ bere
 butterbox
 brotula
 beetlers
+butterine
 bacharach
 bukh
 bodyplate
