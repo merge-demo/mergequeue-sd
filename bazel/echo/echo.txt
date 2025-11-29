@@ -753,6 +753,7 @@ ecotipically
 ecotypically
 ecotonal
 enclaved
+epigone
 ecaudate
 echinocaris
 emblematise
@@ -7836,7 +7837,6 @@ elegiambic
 epicarps
 empyocele
 exoerythrocytic
-epigone
 epithelium
 exarchate
 exophoria

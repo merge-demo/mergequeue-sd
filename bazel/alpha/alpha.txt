@@ -4043,7 +4043,6 @@ ablutions
 admiralties
 actionless
 actinobacillotic
-atalan
 ailurophilia
 abiotrophic
 amyotaxia
@@ -8061,6 +8060,7 @@ artarine
 alfileria
 astert
 anthropocosmic
+atalan
 acrosporous
 ambusher
 armoires
