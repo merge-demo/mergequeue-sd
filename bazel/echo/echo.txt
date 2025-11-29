@@ -11750,7 +11750,6 @@ examinatory
 estrepe
 endochrome
 encumbering
-equivocacies
 examinatorial
 echopraxia
 ethoxyls
@@ -13183,6 +13182,7 @@ eurhodol
 expertness
 equiconvex
 erythea
+equivocacies
 enfeature
 expiable
 excubitorium
