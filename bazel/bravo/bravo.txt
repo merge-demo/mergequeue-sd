@@ -6565,7 +6565,6 @@ benzothiazole
 berberi
 breastrope
 bout
-biohazard
 berberid
 bricked
 bundoc
@@ -7565,6 +7564,7 @@ bandolier
 beloam
 begirding
 bewary
+biohazard
 bewaste
 beweary
 besottedness
