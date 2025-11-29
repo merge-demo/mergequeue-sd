@@ -6271,7 +6271,6 @@ elimination
 evasively
 electrofishing
 extraepiphyseal
-ecstatica
 enrapt
 eurygaean
 enrapted
@@ -6335,6 +6334,7 @@ eloquent
 enlargingly
 emporium
 ergotin
+ecstatica
 eschar
 euchred
 expiatory
