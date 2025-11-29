@@ -158,6 +158,7 @@ graphorrhea
 guesthouse
 gingerroot
 guaiaretic
+ghyll
 gardenmaker
 geophagy
 gamond
@@ -1809,7 +1810,6 @@ glossolaly
 gutterblood
 gelatinotype
 grippelike
-ghyll
 grs
 glutinate
 gavels
