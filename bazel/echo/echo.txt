@@ -4091,6 +4091,7 @@ entries
 ethmophysal
 entoilment
 emplaster
+entozoology
 enantiomer
 elevating
 equiponderated
@@ -4479,7 +4480,6 @@ emotionalizing
 efferent
 erth
 enceinte
-entozoology
 entozoal
 endolabyrinthitis
 encephalomyelopathy
