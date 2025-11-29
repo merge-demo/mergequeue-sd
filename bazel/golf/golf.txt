@@ -1398,6 +1398,7 @@ glossanthrax
 garnison
 greetingless
 garniture
+gigmanically
 gaulsh
 glycosemia
 germanize
@@ -2850,7 +2851,6 @@ grillers
 gastrosophy
 gynaecic
 geogenous
-gigmanically
 gater
 goutweed
 genua
