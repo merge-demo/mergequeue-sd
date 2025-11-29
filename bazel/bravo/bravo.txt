@@ -11242,7 +11242,6 @@ blottto
 britt
 botteghe
 bloodguiltiness
-bedizened
 begirdled
 blouse
 blearier
@@ -16073,6 +16072,7 @@ bannered
 bronzewing
 bio
 bcd
+bedizened
 bullionism
 blitzbuggy
 bassetted
