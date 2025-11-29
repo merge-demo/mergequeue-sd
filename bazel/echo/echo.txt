@@ -10390,6 +10390,7 @@ edmund
 enjambed
 exactment
 endeavoured
+enlacing
 exophagy
 ecclesiastical
 emperorship
@@ -10452,7 +10453,6 @@ equalities
 etiolated
 etiology
 europeanism
-enlacing
 etiologist
 entocoelic
 emetology
