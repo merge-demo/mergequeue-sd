@@ -7621,6 +7621,7 @@ cerebrosuria
 cerebrovascular
 coreveller
 collarets
+chorale
 cerements
 cucuyo
 coiffing
@@ -11845,7 +11846,6 @@ choral
 choralcelo
 causeway
 cycliae
-chorale
 carmagnoles
 castration
 chorales
