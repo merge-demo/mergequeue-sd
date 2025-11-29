@@ -10035,7 +10035,6 @@ extill
 embarking
 exempting
 equalist
-endocrinism
 endoperidial
 endogamous
 eterne
@@ -12980,6 +12979,7 @@ explode
 etherous
 evanition
 epicentrums
+endocrinism
 equanimously
 expecter
 expecting
