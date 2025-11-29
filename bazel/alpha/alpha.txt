@@ -9111,7 +9111,6 @@ adnation
 axisymmetrically
 apocryphalness
 achetidae
-allusions
 allusive
 awreak
 asonant
@@ -22692,6 +22691,7 @@ acerbic
 absent
 angulation
 aeronomic
+allusions
 abjuratory
 acumen
 amphibolostylous
