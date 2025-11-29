@@ -5071,6 +5071,7 @@ groused
 golconda
 gecarcinus
 gastrogenital
+garmenting
 gv
 gustful
 gularis
@@ -9661,7 +9662,6 @@ generals
 genital
 grudging
 geraniols
-garmenting
 gladeye
 gratton
 gult

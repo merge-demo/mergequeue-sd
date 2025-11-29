@@ -501,7 +501,6 @@ forcleave
 fakery
 flaxweed
 foreconsider
-funbre
 friz
 fertilizing
 frenne
@@ -9427,6 +9426,7 @@ fausant
 filmslide
 fireboats
 flambant
+funbre
 fraternally
 felonsetting
 formic
