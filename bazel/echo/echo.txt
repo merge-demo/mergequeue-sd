@@ -1118,6 +1118,7 @@ elatrometer
 electrotypes
 epicaridea
 edith
+embarras
 epitrichial
 exsanguinated
 encatarrhaphy
@@ -3526,7 +3527,6 @@ embassage
 ekes
 epepophysial
 echelons
-embarras
 exhibit
 escorted
 enured

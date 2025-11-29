@@ -5737,7 +5737,6 @@ caudillism
 catchline
 catchphrase
 cocona
-cynoscion
 catchpoled
 commation
 catchpoll
@@ -15304,6 +15303,7 @@ crowdie
 critturs
 coexist
 clangful
+cynoscion
 clanging
 clangingly
 corticoefferent
