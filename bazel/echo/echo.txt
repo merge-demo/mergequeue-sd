@@ -7642,7 +7642,6 @@ encephalous
 ensconce
 elixirs
 enhungered
-euphemious
 extrabold
 electrophoridae
 epicoracoid
@@ -12130,6 +12129,7 @@ ency
 excruciating
 enascent
 excruciator
+euphemious
 ennomic
 excubitoria
 eradicator
