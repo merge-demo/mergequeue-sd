@@ -3687,7 +3687,6 @@ bonnering
 bakatan
 battement
 balladising
-batteners
 bankrupted
 bucketmaker
 bedesmen
@@ -6574,6 +6573,7 @@ bedevilled
 bahima
 berberidaceae
 broils
+batteners
 berberidaceous
 berberis
 berberry
