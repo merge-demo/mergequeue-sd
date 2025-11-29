@@ -4471,6 +4471,7 @@ euryzygous
 electrotechnologist
 exaggerator
 extemporaneousness
+endophagy
 eczematous
 encash
 extrinsic
@@ -9976,7 +9977,6 @@ epagogic
 eloquently
 estuosity
 edibleness
-endophagy
 expatriates
 erythromelalgia
 esugarization
