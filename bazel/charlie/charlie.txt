@@ -8963,7 +8963,6 @@ continuo
 charioting
 chariotman
 collegiately
-chondri
 chaplaincy
 cerebbella
 chalchihuitl
@@ -27858,6 +27857,7 @@ craals
 crabbedness
 crescendoed
 crabbery
+chondri
 carnivaler
 crabby
 croqueted
