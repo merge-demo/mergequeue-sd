@@ -2925,6 +2925,7 @@ blanco
 bited
 broad
 barrelled
+basidiolichen
 browbeats
 billfish
 barrelmaker
@@ -10057,7 +10058,6 @@ backwatered
 bizygomatic
 boarhound
 bokos
-basidiolichen
 burglarious
 bizones
 bergeret
