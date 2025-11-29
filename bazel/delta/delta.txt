@@ -4544,7 +4544,6 @@ dorsilumbar
 distraughted
 devocation
 drabbled
-demigroat
 dogmatician
 dotier
 demihagbut
@@ -18362,6 +18361,7 @@ depolishing
 diaphanoscope
 decency
 desecrating
+demigroat
 duodenoenterostomy
 dreamish
 dorse
