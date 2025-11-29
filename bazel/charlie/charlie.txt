@@ -2331,6 +2331,7 @@ crafted
 codicil
 conflagrant
 canalise
+cimeter
 crossley
 chorioepitheliomata
 canalises
@@ -23450,7 +23451,6 @@ contendress
 cornstalk
 civil
 contends
-cimeter
 contenement
 contrapuntal
 chimble
