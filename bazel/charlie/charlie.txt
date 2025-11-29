@@ -7187,7 +7187,6 @@ cladoceran
 centrifugate
 centrifuge
 centrifugence
-centrifuging
 coffeehousing
 centring
 centrings
@@ -14414,6 +14413,7 @@ courtezan
 confidentially
 cirriped
 chowsed
+centrifuging
 cirripedia
 conservable
 cirripedial
