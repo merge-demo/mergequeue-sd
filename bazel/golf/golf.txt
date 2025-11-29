@@ -5380,6 +5380,7 @@ gelandejump
 gunplays
 glazework
 gutting
+glasshouse
 geckoid
 gravitating
 gruelings
@@ -10810,7 +10811,6 @@ gibli
 guttlers
 gainly
 goblinism
-glasshouse
 glibbery
 gossipping
 geniolatry
