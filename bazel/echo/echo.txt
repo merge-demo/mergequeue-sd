@@ -10642,6 +10642,7 @@ eric
 eudemonic
 epappose
 epinephelidae
+episcotister
 evilproof
 enmoss
 excavate
@@ -13184,7 +13185,6 @@ expertness
 equiconvex
 erythea
 enfeature
-episcotister
 expiable
 excubitorium
 entailment
