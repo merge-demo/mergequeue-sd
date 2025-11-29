@@ -2411,7 +2411,6 @@ gloppy
 grow
 guianese
 groomed
-gauk
 gruesomer
 gleemaiden
 gyrencephalous
@@ -3547,6 +3546,7 @@ ganglions
 gymnorhina
 geomagnetist
 gluconeogenesis
+gauk
 grugru
 gunslinging
 grinded
