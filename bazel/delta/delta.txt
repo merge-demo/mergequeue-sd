@@ -580,7 +580,6 @@ dropworm
 dambonitol
 derived
 dialers
-daunch
 damfool
 div
 digenea
@@ -12325,6 +12324,7 @@ driblet
 denitration
 demigrate
 desynchronize
+daunch
 diphosphate
 diaconia
 delineates
