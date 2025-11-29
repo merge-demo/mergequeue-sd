@@ -14106,7 +14106,6 @@ circulant
 circular
 colistins
 chuffing
-coffers
 cryalgesia
 circularisation
 cronus
@@ -24929,6 +24928,7 @@ cibation
 catachrestically
 czaristic
 coraveca
+coffers
 corbe
 corbeau
 challahs
