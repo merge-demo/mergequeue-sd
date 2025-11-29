@@ -512,6 +512,7 @@ feodum
 fishbone
 fakirs
 falbelo
+foreffelt
 fioretti
 firerooms
 frowny
@@ -7615,7 +7616,6 @@ fescenninity
 ferganite
 forefeelingly
 frogging
-foreffelt
 folioed
 fimbrillae
 flotten
