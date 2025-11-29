@@ -13405,7 +13405,6 @@ chaine
 condemnation
 chlorinates
 counterturn
-cydippe
 cofeatures
 cydonian
 confederator
@@ -14738,6 +14737,7 @@ cotyle
 citynesses
 chinantecs
 chaffed
+cydippe
 cladodontid
 cytioderm
 cityscapes
