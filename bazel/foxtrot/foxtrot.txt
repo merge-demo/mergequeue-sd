@@ -2993,7 +2993,6 @@ fremontia
 flowers
 fasciate
 fifing
-fiestas
 featest
 flooey
 fiar
@@ -6690,6 +6689,7 @@ finableness
 forecontrive
 fenner
 flingers
+fiestas
 flaggily
 faubourg
 faintheartedly

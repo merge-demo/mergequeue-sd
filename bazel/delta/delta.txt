@@ -6356,7 +6356,6 @@ dermoneural
 denary
 drassid
 dermoneurosis
-decent
 downtrod
 discordful
 doctrinal
@@ -9220,6 +9219,7 @@ dehydrogenation
 diecious
 diectasis
 dead
+decent
 damascenes
 discase
 dermomuscular
