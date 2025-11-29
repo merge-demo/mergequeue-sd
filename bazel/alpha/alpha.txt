@@ -4395,7 +4395,6 @@ adulterators
 antispreading
 autocytolysis
 abrogative
-agalinis
 achieve
 artistess
 adulteresses
@@ -11208,6 +11207,7 @@ amphophile
 amphidiarthrosis
 aryans
 amphidisc
+agalinis
 acridan
 auroral
 acanthoid
