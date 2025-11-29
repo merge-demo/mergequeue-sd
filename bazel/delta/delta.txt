@@ -336,7 +336,6 @@ daidlie
 dupatta
 dimeran
 dummyweed
-deltaite
 denumberment
 damier
 depasturage
@@ -17753,6 +17752,7 @@ ducaton
 dependency
 ducats
 dewiness
+deltaite
 demises
 ducdame
 diplocoria
