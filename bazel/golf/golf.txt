@@ -5454,6 +5454,7 @@ gracelike
 griphosaurus
 gephyrean
 gingivitis
+glandaceous
 gaea
 glyptolith
 galvanocontractility
@@ -10608,7 +10609,6 @@ glossmeter
 gadidae
 geohydrologist
 gourmetism
-glandaceous
 gowned
 goldenmouth
 glossologist
