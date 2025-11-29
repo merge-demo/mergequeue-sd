@@ -6119,7 +6119,6 @@ guessworker
 ganglioform
 gravities
 gordiacean
-girja
 gigliato
 gardinol
 gallimaufry
@@ -6626,6 +6625,7 @@ glamourless
 grumphies
 glummy
 garous
+girja
 granivorous
 glegnesses
 gonaduct
