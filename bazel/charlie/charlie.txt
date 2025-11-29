@@ -5862,7 +5862,6 @@ compositorial
 catenoid
 catenulate
 cacozyme
-capuli
 conveyances
 contiguous
 cubistically
@@ -12821,6 +12820,7 @@ calorifacient
 churchy
 churchianity
 churchyard
+capuli
 crawlways
 churchyards
 churchier
