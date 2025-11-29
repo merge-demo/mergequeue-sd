@@ -13526,7 +13526,6 @@ bepainted
 besnowed
 beatermen
 bouffancy
-beggarlice
 biennale
 biquarterly
 barhop
@@ -13670,6 +13669,7 @@ bonailie
 bourgeoisie
 blessingly
 butine
+beggarlice
 breadlessness
 bourgeons
 bourignian
