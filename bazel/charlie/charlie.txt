@@ -1420,6 +1420,7 @@ caliphal
 caliphate
 colt
 cubist
+cyclists
 caliphship
 contradebt
 calypsist
@@ -3729,7 +3730,6 @@ campanological
 carauna
 coventrize
 caravaneer
-cyclists
 cosmogonize
 caravaner
 coroparelcysis
