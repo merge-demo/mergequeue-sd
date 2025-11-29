@@ -14083,6 +14083,7 @@ academize
 antedorsal
 anaesthyl
 archaeolatry
+apeirophobia
 almemar
 antehypophysis
 antheming
@@ -17305,7 +17306,6 @@ amrelle
 audiometer
 auguste
 actors
-apeirophobia
 autocollimator
 algaecide
 antiforeign
