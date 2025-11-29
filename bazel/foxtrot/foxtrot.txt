@@ -482,7 +482,6 @@ featherleaf
 fetiferous
 fullbacks
 foremastman
-finalisms
 fireflies
 foin
 faker
@@ -4853,6 +4852,7 @@ froglet
 flagellatory
 ferocities
 formalness
+finalisms
 followable
 fulgora
 flails

@@ -1482,6 +1482,7 @@ eurythermic
 electrometric
 euphonia
 equisetums
+eryopsid
 enplaning
 encompasses
 eurythermous
@@ -7192,7 +7193,6 @@ ecthymatous
 enwomb
 epharmonic
 emforth
-eryopsid
 ethnomanic
 exuviability
 emulate
