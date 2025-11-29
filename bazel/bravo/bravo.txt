@@ -509,7 +509,6 @@ butomaceous
 backstroke
 beckoners
 bicentennial
-backstromite
 boart
 bu
 backtender
@@ -3240,6 +3239,7 @@ bantingize
 basilica
 belverdian
 basilical
+backstromite
 brookable
 backoff
 blushfulness

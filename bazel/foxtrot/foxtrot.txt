@@ -2755,7 +2755,6 @@ festerment
 footway
 feis
 flanges
-fortescure
 fascisms
 ferrimagnet
 festy
@@ -8632,6 +8631,7 @@ fringilloid
 forsakenness
 fermentarian
 forsythia
+fortescure
 fontinalis
 findon
 flamberge
