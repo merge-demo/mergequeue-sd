@@ -3456,6 +3456,7 @@ caducecaducean
 cobhouse
 chiastolite
 capris
+carf
 convoking
 caprizant
 caldron
@@ -22025,7 +22026,6 @@ confiteor
 comparts
 confix
 confixing
-carf
 conflagration
 conflagrations
 climatologists
