@@ -2192,7 +2192,6 @@ barauna
 barba
 bayards
 boneheadedness
-baptize
 bromize
 barbados
 broggle
@@ -12660,6 +12659,7 @@ booger
 blancher
 bonilass
 benefactresses
+baptize
 boogers
 bepraise
 bronchoconstrictor
