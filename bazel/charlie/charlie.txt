@@ -18490,7 +18490,6 @@ cohibition
 cohibitor
 cohitre
 chandlering
-collieries
 cohobator
 choushes
 ceratocystis
@@ -30539,6 +30538,7 @@ cubicities
 cofferfish
 cubicula
 costly
+collieries
 cubicular
 casewood
 celiodynia
