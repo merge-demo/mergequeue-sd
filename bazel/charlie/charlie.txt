@@ -16476,7 +16476,6 @@ clodlet
 clubfellow
 clodpated
 cadential
-chromolysis
 cloes
 cloff
 centripetalism
@@ -18496,6 +18495,7 @@ cohobator
 choushes
 ceratocystis
 cohol
+chromolysis
 coholders
 confutations
 cohomology
