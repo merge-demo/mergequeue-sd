@@ -9263,7 +9263,6 @@ espinette
 elayl
 erratas
 erratic
-erratically
 enantiomorphic
 elite
 eulogist
@@ -12262,6 +12261,7 @@ enchases
 expertized
 encommon
 executrixes
+erratically
 evolutionarily
 expounding
 exegesis
