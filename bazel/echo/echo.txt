@@ -445,6 +445,7 @@ eftsoons
 ecchymosis
 ecchondroma
 equivoke
+equicohesive
 exurbia
 emperize
 embiodea
@@ -8586,7 +8587,6 @@ enharmonic
 earnings
 equibalanced
 electrodialitic
-equicohesive
 equicontinuous
 engagements
 eyebar
