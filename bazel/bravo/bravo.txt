@@ -1409,6 +1409,7 @@ bedazzled
 bureaucratical
 bedye
 brankier
+bardane
 begroan
 bight
 bioclimatological
@@ -12552,7 +12553,6 @@ balsam
 boroughlet
 bragi
 bemocks
-bardane
 bonk
 begrudging
 bagpiping
