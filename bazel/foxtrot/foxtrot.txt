@@ -3865,6 +3865,7 @@ forgiveable
 fungistat
 flavanthrene
 favous
+forelady
 fimbriating
 farcer
 frizette
@@ -5374,7 +5375,6 @@ flunkyistic
 forthset
 flutists
 fleche
-forelady
 folliculate
 flechettes
 flecked
