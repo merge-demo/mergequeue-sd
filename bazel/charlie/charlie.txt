@@ -15420,6 +15420,7 @@ clarence
 civilizational
 clarences
 clarendon
+clogwheel
 clares
 claret
 cervantes
@@ -16511,7 +16512,6 @@ calendar
 coinheritance
 correlative
 clogmaking
-clogwheel
 canners
 clogwyn
 clogwood
