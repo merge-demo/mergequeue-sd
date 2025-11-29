@@ -980,6 +980,7 @@ brownier
 brigand
 bayano
 birlie
+borasco
 bewitch
 bourdon
 bipalium
@@ -2089,7 +2090,6 @@ besetment
 betrough
 branchihyal
 bourkha
-borasco
 birthrights
 braccae
 bosomer
