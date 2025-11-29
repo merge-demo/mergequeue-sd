@@ -1664,7 +1664,6 @@ comedones
 circularities
 calool
 calophyllum
-comminutor
 chettik
 colport
 consuetitude
@@ -7343,6 +7342,7 @@ cephalocone
 cephalodia
 cephalodymus
 cephalodiscid
+comminutor
 cephalodiscida
 cephalodiscus
 curtains
