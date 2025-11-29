@@ -298,6 +298,7 @@ cacidrosis
 coreopsis
 cacimbo
 cacimbos
+champian
 caciques
 cosmolined
 countenances
@@ -8475,7 +8476,6 @@ coe
 capparidaceous
 coquillage
 contrastively
-champian
 copyholder
 champignon
 champignons
