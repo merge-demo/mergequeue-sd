@@ -7883,6 +7883,7 @@ entozoan
 epiguanine
 elementate
 enablement
+errable
 eireannach
 extincts
 executioner
@@ -9251,7 +9252,6 @@ embryoid
 eyestrain
 erotogenesis
 effranchise
-errable
 existences
 ejido
 errancies
