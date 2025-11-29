@@ -348,7 +348,6 @@ dilligrout
 disinsection
 dropling
 daybreaks
-diplostichous
 dreamt
 daygoing
 daiker
@@ -6556,6 +6555,7 @@ dulciloquy
 degradedness
 dichlorhydrin
 described
+diplostichous
 dolous
 divorce
 disaffectionate
