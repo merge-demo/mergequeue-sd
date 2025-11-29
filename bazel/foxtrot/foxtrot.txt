@@ -1930,6 +1930,7 @@ forebearing
 floccule
 finagling
 fonly
+foresee
 flanchard
 forworn
 felonwood
@@ -7902,7 +7903,6 @@ fetticus
 forewarned
 feiseanna
 featherworker
-foresee
 faitor
 feeblehearted
 frakturs

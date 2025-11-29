@@ -2949,7 +2949,6 @@ barricadoes
 brainsick
 blayk
 bemazed
-boltsmith
 bicentral
 basiation
 bolthole
@@ -11308,6 +11307,7 @@ backbearing
 blaugas
 berouged
 blowziness
+boltsmith
 blowzing
 bls
 brachiolaria
