@@ -4854,7 +4854,6 @@ froglet
 flagellatory
 ferocities
 formalness
-finalisms
 followable
 fulgora
 flails
@@ -10314,6 +10313,7 @@ floodlighted
 foredoing
 fluoridized
 faceman
+finalisms
 fortiori
 flexible
 frondless
