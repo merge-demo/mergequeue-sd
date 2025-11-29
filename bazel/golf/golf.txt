@@ -1644,7 +1644,6 @@ grists
 goalkeeper
 grants
 gamobium
-glossophytia
 gaseousness
 gastroxynsis
 gourdy
@@ -9111,6 +9110,7 @@ goldwork
 geoid
 garotte
 governableness
+glossophytia
 grumose
 guttation
 geophagist
