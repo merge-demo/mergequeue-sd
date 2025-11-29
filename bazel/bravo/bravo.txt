@@ -9010,7 +9010,6 @@ beavery
 babelike
 besmuts
 biometries
-bion
 byon
 brasqued
 bionditional
@@ -12297,6 +12296,7 @@ burrfishes
 bootee
 bacteriophagic
 bathycurrent
+bion
 bullwhacker
 betrayer
 bombardments
