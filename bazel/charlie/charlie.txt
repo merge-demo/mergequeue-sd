@@ -16885,7 +16885,6 @@ chwas
 cheyney
 charca
 clumber
-clump
 contemper
 caline
 cycadean
@@ -28397,6 +28396,7 @@ canli
 centesis
 crea
 creachy
+clump
 cread
 cohortation
 creaght
