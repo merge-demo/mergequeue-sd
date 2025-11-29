@@ -11552,6 +11552,7 @@ aper
 appositions
 aulas
 anabolism
+araponga
 ammophilous
 accinging
 amethysts
@@ -18386,7 +18387,6 @@ adversant
 awaiter
 anticensoriously
 autoecious
-araponga
 anthurium
 araracanga
 anaclinal
