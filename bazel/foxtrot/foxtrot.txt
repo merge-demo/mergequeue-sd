@@ -3567,6 +3567,7 @@ flankard
 fellowmen
 frenchism
 fogie
+fidelity
 flamboyance
 fencelet
 faradises
@@ -7272,7 +7273,6 @@ forsaking
 fishyard
 fibulocalcaneal
 filibegs
-fidelity
 fishmonger
 fozy
 flavobacteria
