@@ -1375,7 +1375,6 @@ ballparks
 baldmoney
 bryogenin
 baldmoneys
-bellwaver
 baldpatedness
 bulter
 balds
@@ -14729,6 +14728,7 @@ brauronian
 bravade
 bocaccio
 bronchophthisis
+bellwaver
 blastostyle
 bennet
 betelnut
