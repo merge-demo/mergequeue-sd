@@ -8106,6 +8106,7 @@ disendowment
 desugar
 durzi
 dhourras
+disannul
 dispersedye
 dhritarashtra
 disables
@@ -13980,7 +13981,6 @@ drammach
 dolabra
 dishboard
 dimolecular
-disannul
 disciplinant
 deoxidation
 distorter

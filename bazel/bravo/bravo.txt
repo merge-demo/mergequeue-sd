@@ -5084,6 +5084,7 @@ bespotted
 beneficiary
 befitted
 beyship
+bhabar
 befittingly
 blacklead
 bitubercular
@@ -7700,7 +7701,6 @@ bumblebee
 bereareft
 backfilling
 bezzo
-bhabar
 belemnites
 bacchanalization
 bromonaphthalene
