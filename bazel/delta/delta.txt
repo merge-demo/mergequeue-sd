@@ -1609,7 +1609,6 @@ deafmuteness
 disembrace
 digression
 deafness
-deairing
 discernableness
 deairs
 disomic
@@ -13069,6 +13068,7 @@ devaster
 duckish
 disesteeming
 dispatches
+deairing
 drillings
 dimethylsulfoxide
 discocarpium
