@@ -9075,7 +9075,6 @@ alloxans
 arsenicalism
 alloxantin
 anthracoid
-alloxuraemia
 alloxuremia
 apnoeas
 anadicrotic
@@ -10742,6 +10741,7 @@ allodiaries
 alodiary
 amirs
 appalled
+alloxuraemia
 amirship
 archegay
 albumin
