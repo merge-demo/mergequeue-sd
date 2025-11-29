@@ -7959,7 +7959,6 @@ angie
 alethiologist
 acrophobia
 amelioratory
-alethopteis
 afterword
 acritical
 amatungula
@@ -19435,6 +19434,7 @@ authorship
 augurial
 argentry
 abbest
+alethopteis
 antiparliamentarist
 argh
 anlaute

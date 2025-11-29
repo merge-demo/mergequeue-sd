@@ -10,6 +10,7 @@ engirding
 epidermoid
 erigeron
 evaporometer
+encastage
 euchologion
 emigate
 erosivity
@@ -1329,7 +1330,6 @@ edified
 equilibristat
 enclog
 effectuated
-encastage
 effectuating
 effervesced
 exuberate
