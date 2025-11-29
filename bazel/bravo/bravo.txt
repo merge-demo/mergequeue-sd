@@ -3479,6 +3479,7 @@ batavi
 ballan
 buzzsaw
 bidar
+benzylic
 biscuiting
 bugeye
 bactericides
@@ -6357,7 +6358,6 @@ beadiness
 blastogranitic
 biophysicists
 batsmanship
-benzylic
 benziminazole
 bethinking
 bostrychoidal
