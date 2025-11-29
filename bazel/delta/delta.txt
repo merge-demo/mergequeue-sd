@@ -3648,6 +3648,7 @@ devices
 deglamorizing
 dishonored
 doubtlessly
+dias
 disrespectfulness
 deglazed
 discoblastic
@@ -8660,7 +8661,6 @@ diarthric
 dorsocervical
 disfavored
 diarticular
-dias
 depertible
 dermatographia
 distributivity
