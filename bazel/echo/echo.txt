@@ -10567,7 +10567,6 @@ endocrinological
 evangelistarium
 effuse
 equationist
-endboard
 eclectical
 ensurers
 equational
@@ -12331,6 +12330,7 @@ earthlings
 ethic
 enhydrous
 etymologicon
+endboard
 exercitation
 elecampane
 effortless

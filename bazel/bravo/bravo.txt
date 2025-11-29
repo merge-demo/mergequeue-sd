@@ -10301,7 +10301,6 @@ bladewise
 bladygrass
 baluchithere
 bisme
-blennostasis
 biffs
 bucayo
 blae
@@ -14637,6 +14636,7 @@ babylonians
 bunches
 benegro
 brashiness
+blennostasis
 balducta
 blepharoadenitis
 bookplates
