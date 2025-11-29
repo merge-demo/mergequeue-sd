@@ -774,7 +774,6 @@ fragrance
 fallows
 fandangos
 fandoms
-frivolized
 fellowlike
 fermacy
 fleaworts
@@ -3517,6 +3516,7 @@ figurer
 fute
 flyweight
 fleetingly
+frivolized
 fernland
 figures
 feelingless
