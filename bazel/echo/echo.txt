@@ -1668,6 +1668,7 @@ ejusdem
 eyeish
 eisteddfodic
 eyeballed
+eruc
 eyeballing
 entrusting
 eyebalm
@@ -5968,7 +5969,6 @@ elains
 effate
 enhunger
 emissary
-eruc
 erythrose
 euflavine
 epicondylitis
