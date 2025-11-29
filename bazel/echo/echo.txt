@@ -6326,6 +6326,7 @@ equijacent
 embowed
 enrut
 euclidean
+eidolic
 ens
 emmenagogue
 elenchtic
@@ -11500,7 +11501,6 @@ extravertively
 erbium
 emulgens
 enlistees
-eidolic
 electrophotometer
 evigilation
 emenders
