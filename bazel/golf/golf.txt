@@ -5681,7 +5681,6 @@ glorying
 gobbledegook
 gatemen
 gant
-gothites
 grizzler
 grenat
 gaucie
@@ -5860,6 +5859,7 @@ galvanoplastic
 grundel
 gadger
 gladify
+gothites
 gerunds
 gate
 gymnosporangium
