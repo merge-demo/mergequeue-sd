@@ -3793,7 +3793,6 @@ carbineer
 carbines
 carbinols
 commensality
-carboazotine
 conrail
 carbodynamite
 carbohemoglobin
@@ -19665,6 +19664,7 @@ comatiks
 comatosely
 countercharged
 comatoseness
+carboazotine
 comatosity
 comatula
 combaron
