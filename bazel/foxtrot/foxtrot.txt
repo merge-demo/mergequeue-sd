@@ -526,6 +526,7 @@ falcon
 falconinae
 favoredness
 fleeces
+flappet
 forfeiter
 factitial
 funambulant
@@ -5038,7 +5039,6 @@ flaperon
 flippantly
 flappable
 frankalmoin
-flappet
 fancies
 fermions
 figlike
