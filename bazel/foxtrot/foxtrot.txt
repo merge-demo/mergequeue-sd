@@ -5070,6 +5070,7 @@ felicitated
 flareless
 fibromyectomy
 frother
+flaggers
 fuss
 flanders
 felter
@@ -9822,7 +9823,6 @@ frogs
 fouler
 fortescue
 fordicidia
-flaggers
 fissileness
 frib
 fruitage
