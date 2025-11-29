@@ -2352,6 +2352,7 @@ deafnesses
 dextrotropic
 decerebrate
 drinkably
+drazel
 disfavourable
 dustup
 dynode
@@ -9623,7 +9624,6 @@ dastard
 disencumbers
 dartsman
 deerwood
-drazel
 dogmeat
 diddering
 druse

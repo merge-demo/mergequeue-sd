@@ -2843,6 +2843,7 @@ fetology
 fibroglia
 forespeed
 furunculosis
+fixures
 flatwares
 formol
 faddish
@@ -5974,7 +5975,6 @@ fulah
 floricultural
 faitour
 floorboard
-fixures
 flashness
 floorcloths
 fumid
