@@ -12986,6 +12986,7 @@ catchland
 cantrap
 cyanoethylation
 crumbable
+cumic
 crates
 cyanoguanidine
 cyanohermidin
@@ -31009,7 +31010,6 @@ cumhal
 countersconce
 citrocola
 coumalin
-cumic
 campanian
 cumyl
 congos
