@@ -6801,6 +6801,7 @@ evangelistarion
 enculturating
 eggheads
 entitling
+entocoel
 ecclesioclastic
 entoblastic
 entobronchium
@@ -9466,7 +9467,6 @@ evulgate
 ethylsulphuric
 embanks
 estudy
-entocoel
 electives
 eliquation
 exsculp
