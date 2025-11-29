@@ -6251,7 +6251,6 @@ epitapher
 eradiation
 enostosis
 elisions
-erugatory
 espresso
 enoughs
 editorialize
@@ -12709,6 +12708,7 @@ ejaculative
 etoffe
 exonian
 exonerator
+erugatory
 eudiometer
 elmer
 everbearer
