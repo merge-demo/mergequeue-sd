@@ -4861,7 +4861,6 @@ epigne
 ephydriad
 expertise
 emblematizing
-encourages
 embusy
 eucatropine
 escapable
@@ -9448,6 +9447,7 @@ exteriorizing
 eschewed
 expand
 ecbolics
+encourages
 embedment
 erysiphe
 eam
