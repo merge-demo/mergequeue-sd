@@ -2290,7 +2290,6 @@ glimpses
 granulocytopoiesis
 geitonogamy
 gonostyle
-geomoroi
 grange
 granulosa
 geswarp
@@ -2646,6 +2645,7 @@ geniality
 genetics
 gastrolysis
 gudgeoned
+geomoroi
 glow
 garg
 germantown
