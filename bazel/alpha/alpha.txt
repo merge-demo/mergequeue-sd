@@ -2564,7 +2564,6 @@ accoutering
 allylene
 alumins
 autogeneal
-aljamiah
 ancestrial
 arctomys
 acouometer
@@ -3010,6 +3009,7 @@ antigenic
 aerogeography
 axemaster
 audiviser
+aljamiah
 aphidlion
 ambitty
 actinoelectricity

@@ -111,7 +111,6 @@ eaves
 excrementally
 exsculptate
 enginehouse
-equisetaceae
 engobe
 embrasuring
 egotistically
@@ -4407,6 +4406,7 @@ electrobioscopy
 endoparasite
 environmentally
 encanthis
+equisetaceae
 expectorations
 enfacing
 ensigncies
