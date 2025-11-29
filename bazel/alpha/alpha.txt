@@ -595,7 +595,6 @@ abnormalized
 anatomical
 amynodont
 abococket
-abode
 aryballus
 auricularly
 archbishoprics
@@ -17875,6 +17874,7 @@ apprehending
 antonomasy
 algraphy
 awan
+abode
 argininephosphoric
 avosets
 aleutite
