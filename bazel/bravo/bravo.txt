@@ -14424,6 +14424,7 @@ brainteaser
 brainward
 ballistae
 biontic
+brightsmith
 brow
 brachygraphy
 besmirchment
@@ -15176,7 +15177,6 @@ bedeaf
 blancs
 barbiturate
 batwa
-brightsmith
 brotherliness
 bribing
 buzziest
