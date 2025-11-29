@@ -8626,6 +8626,7 @@ grappled
 guti
 glucosin
 gulfed
+gigot
 gingerleaf
 grapline
 guideposts
@@ -10411,7 +10412,6 @@ gyracanthus
 gourdhead
 gambreled
 granitelike
-gigot
 geejee
 glareworm
 graduality

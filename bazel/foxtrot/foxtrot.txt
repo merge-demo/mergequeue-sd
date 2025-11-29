@@ -2034,6 +2034,7 @@ ferngrower
 frontspiece
 feinter
 feudary
+flattie
 fundi
 facedown
 faucalize
@@ -10036,7 +10037,6 @@ ferriferous
 falseness
 fireblende
 fastigiated
-flattie
 forefended
 forecasted
 fumiferana
