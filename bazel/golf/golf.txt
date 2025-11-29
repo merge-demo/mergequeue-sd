@@ -5654,7 +5654,6 @@ gubernacular
 geyserine
 gingalls
 gastralgic
-gobbling
 growsome
 grubbiest
 gapy
@@ -9502,6 +9501,7 @@ germanophobist
 gnosiological
 gammoner
 gynophoric
+gobbling
 grandrelle
 gaydiang
 grouper
