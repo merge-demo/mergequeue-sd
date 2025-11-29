@@ -3098,7 +3098,6 @@ gleanable
 gali
 gubat
 gibbol
-garo
 geophilid
 galvanoscopic
 granula
@@ -5686,6 +5685,7 @@ grenat
 gaucie
 galvanographic
 glandulous
+garo
 gallophile
 gristliest
 greenlandman
