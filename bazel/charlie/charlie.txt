@@ -2237,7 +2237,6 @@ camshafts
 camstane
 coneine
 caval
-camstone
 canaliculization
 camuning
 cholecystolithotripsy
@@ -2631,6 +2630,7 @@ caprellidae
 canescence
 chaetetes
 conversationalist
+camstone
 composes
 cobbers
 chimp
