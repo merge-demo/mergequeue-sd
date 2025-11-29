@@ -11219,7 +11219,6 @@ experimentalist
 epibolies
 evangeliaries
 endocycle
-exocrinology
 enkindling
 enthronised
 elohism
@@ -13121,6 +13120,7 @@ encoded
 electrothermotic
 electrochemically
 entermete
+exocrinology
 epistolization
 excruciation
 engages
