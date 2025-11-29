@@ -10464,7 +10464,6 @@ arcform
 amyatonic
 amic
 amicability
-antiadiaphorist
 appredicate
 amicably
 amphipodous
@@ -23877,6 +23876,7 @@ autechoscope
 arising
 adenopathy
 abanga
+antiadiaphorist
 apilary
 appulse
 ashed
