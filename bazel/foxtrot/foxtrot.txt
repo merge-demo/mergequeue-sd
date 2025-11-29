@@ -2455,7 +2455,6 @@ fungal
 foliocellosis
 fairnesses
 frithborgh
-firelocks
 fascinatedly
 firn
 fumbulator
@@ -5321,6 +5320,7 @@ fumarole
 feasts
 filial
 fant
+firelocks
 forcepslike
 foulmouthedly
 fiddlebrained
