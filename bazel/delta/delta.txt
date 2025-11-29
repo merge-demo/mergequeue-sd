@@ -350,7 +350,6 @@ dropling
 daybreaks
 dreamt
 daygoing
-daiker
 dcor
 densest
 doorboy
@@ -17572,6 +17571,7 @@ drumrolls
 drums
 decalcifier
 drumstick
+daiker
 drumwood
 drunk
 drunkards
