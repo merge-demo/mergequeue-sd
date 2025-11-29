@@ -18904,7 +18904,6 @@ addoom
 aphelian
 aldohexose
 ausu
-aposafranine
 archilute
 archimagus
 augustan
@@ -25112,6 +25111,7 @@ axilemmas
 adenological
 aotearoa
 axillae
+aposafranine
 antiamylase
 axillar
 axillaries

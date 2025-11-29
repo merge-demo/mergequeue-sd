@@ -2361,7 +2361,6 @@ encomia
 evenlong
 electrocataphoresis
 equison
-ephedrine
 electrochronometric
 enfroward
 estafetted
@@ -6513,6 +6512,7 @@ englerophoenix
 estimative
 execration
 ephemeric
+ephedrine
 englishes
 ephemeris
 enrollment
