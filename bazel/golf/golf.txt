@@ -7762,7 +7762,6 @@ gematriot
 grafted
 gaumlike
 galvanizations
-gnathism
 gauby
 goasila
 gabeller
@@ -8143,6 +8142,7 @@ gynaecocracy
 guanidins
 gabblers
 gnatsnap
+gnathism
 goatling
 granulet
 gorgonising
