@@ -13146,6 +13146,7 @@ borrasca
 borrel
 borreria
 blephariglottis
+brunel
 bandoliered
 bonanzas
 borrowable
@@ -13532,7 +13533,6 @@ besnowed
 beatermen
 bouffancy
 beggarlice
-brunel
 biennale
 biquarterly
 barhop
