@@ -247,7 +247,6 @@ germanomaniac
 golpe
 gulaman
 gaspereau
-gaiter
 goajiro
 groot
 gibbons
@@ -4192,6 +4191,7 @@ gundogs
 gauds
 gnathites
 glaswegian
+gaiter
 gibbeted
 gelofre
 genealogy
