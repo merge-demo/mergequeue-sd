@@ -5470,6 +5470,7 @@ er
 etatist
 epidia
 enema
+explainable
 enthralment
 excrescential
 enemata
@@ -13226,7 +13227,6 @@ embosser
 expiscation
 enrheum
 enzooty
-explainable
 expropriated
 explainableness
 eductor
