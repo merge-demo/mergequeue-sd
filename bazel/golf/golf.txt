@@ -3981,7 +3981,6 @@ grillework
 groaner
 graduated
 gastroatrophia
-geoscientist
 gunlaying
 garrotted
 gynostemiumia
@@ -4636,6 +4635,7 @@ gutium
 gourmandism
 gyrodactylidae
 glucagons
+geoscientist
 gapa
 geophagism
 girthing
