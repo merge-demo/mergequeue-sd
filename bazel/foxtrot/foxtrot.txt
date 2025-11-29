@@ -2313,7 +2313,6 @@ feminizes
 friday
 forbysen
 fens
-fluctuates
 furrowless
 frangipane
 fritter
@@ -5058,6 +5057,7 @@ flapping
 folders
 fessely
 flumps
+fluctuates
 flamelet
 fun
 fuligo
