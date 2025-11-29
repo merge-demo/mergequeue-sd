@@ -12037,7 +12037,6 @@ awakenable
 anaschistic
 anaseismic
 anasitch
-anaerobia
 anaspadias
 albite
 auntship
@@ -18592,6 +18591,7 @@ arcatures
 acraeinae
 arcboutant
 abundances
+anaerobia
 arccos
 appomattoc
 apostume
