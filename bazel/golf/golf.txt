@@ -2579,7 +2579,6 @@ graywall
 guv
 gauchely
 gabbards
-gangliasthenia
 goosefish
 granodiorite
 giltheads
@@ -5932,6 +5931,7 @@ glamourizer
 gluepot
 gimballed
 garrison
+gangliasthenia
 gemitorial
 globuliform
 gaylussacia

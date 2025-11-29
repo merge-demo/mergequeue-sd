@@ -2220,7 +2220,6 @@ anent
 achromatope
 aardvark
 autodecrement
-achromatophile
 achromatophilia
 achromatopia
 achromatopsy
@@ -12659,6 +12658,7 @@ arpeggiation
 annus
 arcticward
 angareb
+achromatophile
 angel
 angela
 artemis
