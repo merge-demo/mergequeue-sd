@@ -8686,7 +8686,6 @@ griper
 glissading
 gismondite
 gutterling
-gimcracks
 glacification
 germanious
 galactophygous
@@ -10758,6 +10757,7 @@ grovelers
 gerodontics
 germinator
 gerald
+gimcracks
 gut
 grasswards
 glycerins
