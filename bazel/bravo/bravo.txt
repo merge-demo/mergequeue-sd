@@ -138,6 +138,7 @@ bourne
 banister
 basidiocarp
 biocoenosis
+baphometic
 beeheaded
 beachcomb
 butyrically
@@ -775,7 +776,6 @@ blackout
 basilidan
 building
 baedekerian
-baphometic
 baeria
 backcomb
 begod
