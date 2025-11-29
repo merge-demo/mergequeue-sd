@@ -1955,7 +1955,6 @@ elementalist
 ejaculatory
 erdvark
 elishah
-electrolyzing
 ejectively
 enfierce
 encompany
@@ -3379,6 +3378,7 @@ excursioner
 envelopes
 encyclopaedial
 embannered
+electrolyzing
 emetine
 equivokes
 eremopteris
