@@ -4405,6 +4405,7 @@ balthasar
 baronetage
 bickers
 bushwhacker
+birky
 bathyseism
 beclaw
 besieged
@@ -9433,7 +9434,6 @@ bargain
 bedirties
 bourride
 birkeniidae
-birky
 birkremite
 blastematic
 bignonias
