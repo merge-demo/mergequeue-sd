@@ -4759,6 +4759,7 @@ alycompaine
 aeq
 abaris
 aequi
+antikamnia
 ausgespielt
 aranein
 albuminimetry
@@ -16752,7 +16753,6 @@ accidentals
 amianthiform
 anteaters
 antiorthodox
-antikamnia
 aphanitic
 aphetize
 armours
