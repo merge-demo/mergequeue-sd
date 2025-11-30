@@ -22901,6 +22901,7 @@ chequeen
 calyptra
 consign
 consignatary
+calibration
 consignataries
 counterretreat
 comforting
@@ -29280,7 +29281,6 @@ cryptococci
 caulophylline
 clout
 cicoree
-calibration
 cryptococcosis
 chinband
 credent
