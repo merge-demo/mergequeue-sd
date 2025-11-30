@@ -9042,6 +9042,7 @@ barky
 butterier
 bisegment
 berrettino
+beleaguerment
 backfire
 biophotophone
 bemire
@@ -12598,7 +12599,6 @@ books
 beatniks
 bagels
 baguets
-beleaguerment
 bodeful
 bulged
 brasero
