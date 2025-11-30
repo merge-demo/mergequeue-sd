@@ -2286,6 +2286,7 @@ electricize
 emphasizes
 electriferous
 energumen
+enmass
 epitaphist
 epilating
 elongated
@@ -11283,7 +11284,6 @@ exsolved
 extrapoetical
 estrogens
 eyeleteer
-enmass
 eschewal
 exterrestrial
 evaporability
