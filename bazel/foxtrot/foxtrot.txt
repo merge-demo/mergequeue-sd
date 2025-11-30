@@ -1374,7 +1374,6 @@ flightful
 fatiscent
 fullword
 filicology
-fishboat
 fatly
 floscularia
 februation
@@ -11550,6 +11549,7 @@ frictionized
 fowage
 figurations
 feedback
+fishboat
 friskful
 fusile
 flytier

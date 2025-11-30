@@ -5788,7 +5788,6 @@ dredged
 dreck
 depones
 deponing
-disclaimed
 distributee
 doodler
 depopulation
@@ -15996,6 +15995,7 @@ douane
 doub
 downsize
 decrepitude
+disclaimed
 direct
 double
 demos
