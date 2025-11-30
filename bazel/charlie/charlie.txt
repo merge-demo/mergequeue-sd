@@ -3031,7 +3031,6 @@ crystallographic
 cantoris
 cantors
 cerebrational
-centauri
 confronts
 cantraip
 cantraps
@@ -7311,6 +7310,7 @@ cephalhematoma
 coracovertebral
 cephalic
 chequering
+centauri
 cephalina
 cephaline
 cephalins
