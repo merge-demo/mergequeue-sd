@@ -6465,6 +6465,7 @@ caveators
 compares
 crankly
 canell
+circumflect
 cupholder
 cavefish
 cavey
@@ -8305,7 +8306,6 @@ chalkos
 chalkotheke
 chalkpit
 chalkrail
-circumflect
 catechizable
 chalkworker
 challah

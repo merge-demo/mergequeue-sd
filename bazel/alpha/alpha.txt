@@ -11903,7 +11903,6 @@ arylated
 addable
 ananym
 ananism
-ananite
 anelace
 aplanospore
 anankastic
@@ -19630,6 +19629,7 @@ antistrophize
 attritional
 absorbingly
 airheads
+ananite
 apposing
 arikara
 anthracomartus
