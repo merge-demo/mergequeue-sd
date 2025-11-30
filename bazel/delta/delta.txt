@@ -8072,6 +8072,7 @@ dharnas
 dhaura
 defilements
 dialleli
+dung
 daduchus
 derfness
 devilment
@@ -8822,7 +8823,6 @@ diabolized
 dansant
 dictations
 diffident
-dung
 deeryard
 diazoimide
 dyschroia
