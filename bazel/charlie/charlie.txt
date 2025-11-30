@@ -5951,6 +5951,7 @@ cathedratic
 cathedraticum
 cathepsin
 cathern
+conversably
 catties
 cattail
 catheterise
@@ -14114,7 +14115,6 @@ colanders
 connexion
 circularization
 chartology
-conversably
 circularizes
 choriambs
 circularly
