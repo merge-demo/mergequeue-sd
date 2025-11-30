@@ -5874,7 +5874,6 @@ fistfight
 fates
 flexity
 feague
-fangas
 flinted
 forehear
 ferrichloride
@@ -11031,6 +11030,7 @@ fora
 filiferous
 fumarate
 flammulated
+fangas
 frontolysis
 flanerie
 ferruminate
