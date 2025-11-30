@@ -2931,7 +2931,6 @@ acrosticism
 axiomatized
 areawide
 antiliberalist
-acroteleutic
 acception
 anteluminary
 auxobody
@@ -20295,6 +20294,7 @@ adsignification
 arroyos
 arroyuelo
 apostolate
+acroteleutic
 arrosive
 archest
 aleuritic
