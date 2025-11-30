@@ -1719,7 +1719,6 @@ disjaskit
 deformedness
 deluged
 dornecks
-devastate
 dumetose
 deasil
 dearness
@@ -13614,6 +13613,7 @@ dentinal
 dissertative
 damme
 disparple
+devastate
 daintith
 disservice
 decisteres
