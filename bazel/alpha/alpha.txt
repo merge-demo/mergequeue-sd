@@ -4152,7 +4152,6 @@ acetary
 adolescence
 adolescent
 argentarii
-amahs
 apasote
 adon
 adonai
@@ -8817,6 +8816,7 @@ appeases
 arthropyosis
 anoesia
 allobar
+amahs
 allobaric
 ammonolyses
 adolescency
