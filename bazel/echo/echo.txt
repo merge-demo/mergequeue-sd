@@ -3384,6 +3384,7 @@ excursioner
 envelopes
 encyclopaedial
 embannered
+enforcers
 electrolyzing
 emetine
 equivokes
@@ -11230,7 +11231,6 @@ eophyton
 eradiated
 evangeliarium
 enalyron
-enforcers
 ethine
 electropuncture
 evangelic
