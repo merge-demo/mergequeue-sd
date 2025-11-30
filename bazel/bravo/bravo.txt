@@ -7659,7 +7659,6 @@ bewry
 bankroller
 bullwhip
 bahar
-barranca
 bairnteem
 bourgeoisitic
 balanidae
@@ -14196,6 +14195,7 @@ bleu
 bluebottles
 boutiques
 bloodstroke
+barranca
 byegaein
 bisectional
 bradydactylia
