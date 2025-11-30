@@ -526,7 +526,6 @@ flappet
 forfeiter
 factitial
 funambulant
-folium
 falcons
 fawnery
 falcunculus
@@ -4742,6 +4741,7 @@ fasibitikite
 flagellatae
 footlike
 fulmination
+folium
 follies
 flagellations
 fieldstrip
