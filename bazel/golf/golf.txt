@@ -1308,7 +1308,6 @@ government
 gulliver
 geodiatropism
 gingilis
-garganey
 gastropancreatitis
 garget
 gibbousness
@@ -2838,6 +2837,7 @@ glassite
 gifture
 geolinguistics
 grandpap
+garganey
 gentrices
 gryph
 gayment
