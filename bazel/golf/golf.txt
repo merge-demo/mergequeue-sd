@@ -9305,6 +9305,7 @@ gunj
 gi
 geodynamicist
 grapeline
+geomorphologist
 girnel
 gallowglass
 gaure
@@ -10055,7 +10056,6 @@ grandnephew
 gospelers
 gonidiferous
 gadflies
-geomorphologist
 gondoliers
 ginn
 gueridons
