@@ -10231,6 +10231,7 @@ guzzled
 guile
 gyrectomies
 galluses
+gloam
 groundsel
 gonk
 geotonus
@@ -10766,7 +10767,6 @@ generation
 gutbucket
 gonfalonierate
 ganoin
-gloam
 graminin
 gorhen
 gimbals
