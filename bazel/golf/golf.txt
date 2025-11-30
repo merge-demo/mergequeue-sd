@@ -2314,6 +2314,7 @@ ganta
 granulation
 gelatinating
 greyfish
+gekkonidae
 geognosis
 guaranis
 gelatine
@@ -2763,7 +2764,6 @@ glanditerous
 gramophonist
 gonangia
 grover
-gekkonidae
 glaister
 girling
 genteelize
