@@ -1961,7 +1961,6 @@ cyprinodont
 camerae
 curbless
 cameral
-citizenship
 cameralism
 condominium
 cameralistics
@@ -14833,6 +14832,7 @@ cytomere
 carefully
 cytomicrosome
 citrated
+citizenship
 cordages
 cytomorphological
 cyton
