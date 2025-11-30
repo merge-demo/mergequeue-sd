@@ -4609,6 +4609,7 @@ digitigrade
 decretal
 demiox
 dharmasmriti
+domesticability
 disenthrall
 dejecting
 derere
@@ -11249,7 +11250,6 @@ dogbush
 desoxybenzoin
 diacle
 depredator
-domesticability
 dangler
 decrescendos
 dissyllabification
