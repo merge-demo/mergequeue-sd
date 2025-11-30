@@ -1455,7 +1455,6 @@ fireside
 faubourgs
 focussing
 fistulose
-featly
 faulds
 faultfind
 fasciculite
@@ -9700,6 +9699,7 @@ freakful
 fremd
 frenchly
 fafaronade
+featly
 fissionability
 festinate
 floatable

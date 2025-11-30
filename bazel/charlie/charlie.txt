@@ -14589,6 +14589,7 @@ cosmopolicy
 cystogenesis
 cystogram
 cystoid
+conchal
 cystoidea
 cystoidean
 crime
@@ -21289,7 +21290,6 @@ coterminously
 couponed
 cardiomalacia
 conchae
-conchal
 cowfishes
 conchate
 chemigrapher
