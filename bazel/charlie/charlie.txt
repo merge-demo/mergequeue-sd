@@ -23445,7 +23445,6 @@ contending
 contendress
 cornstalk
 civil
-contends
 contenement
 contrapuntal
 chimble
@@ -27466,6 +27465,7 @@ catwort
 coaeval
 cuprous
 couxia
+contends
 citrous
 chronicity
 covalences
