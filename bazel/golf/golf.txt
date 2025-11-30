@@ -2148,7 +2148,6 @@ glycoluric
 gazellelike
 gaviae
 gentianaceae
-goodyism
 grazie
 garth
 gastnesses
@@ -6419,6 +6418,7 @@ glycogenetic
 girlchild
 goitral
 guam
+goodyism
 gamboges
 galuth
 gaine
