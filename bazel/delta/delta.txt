@@ -6587,7 +6587,6 @@ dermol
 danburite
 desdemona
 disinvest
-desecrated
 dilemmatical
 dipole
 dockize
@@ -14858,6 +14857,7 @@ disnatural
 dimmers
 demarks
 drafters
+desecrated
 documentarist
 decarbonator
 dictyograptus
