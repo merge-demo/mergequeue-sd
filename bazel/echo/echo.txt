@@ -687,7 +687,6 @@ eclosions
 endplate
 ethel
 engaging
-excursionism
 enumerative
 ebriated
 esteros
@@ -11212,6 +11211,7 @@ evanescible
 evanescing
 exorbitancy
 expilation
+excursionism
 exostracism
 endover
 electrotonicity
