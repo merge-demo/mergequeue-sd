@@ -6760,7 +6760,6 @@ esterifies
 euhemerise
 echidnae
 epitaxially
-eyelids
 erythraemia
 enthronizing
 emerit
@@ -11221,6 +11220,7 @@ electrotonicity
 experimentalist
 epibolies
 evangeliaries
+eyelids
 endocycle
 enkindling
 enthronised

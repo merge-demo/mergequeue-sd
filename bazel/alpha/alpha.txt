@@ -13763,7 +13763,6 @@ anophthalmos
 acoumeter
 allobroges
 approved
-amusable
 abortuses
 ambisyllabic
 altimeter
@@ -23790,6 +23789,7 @@ actinocarpic
 asgmt
 accursing
 austausch
+amusable
 abdest
 agrements
 austemper
