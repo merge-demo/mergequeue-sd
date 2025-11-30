@@ -11802,7 +11802,6 @@ catechisms
 chopdar
 cyprinoidea
 connation
-clarina
 chopins
 coinquinate
 converter
@@ -23524,6 +23523,7 @@ contignate
 cloky
 corycavidin
 californite
+clarina
 contignation
 contiguity
 circumferent
