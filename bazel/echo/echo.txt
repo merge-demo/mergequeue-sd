@@ -327,6 +327,7 @@ eastling
 escapee
 eruditionist
 escots
+encrinoidea
 engaze
 eastman
 enclaret
@@ -5970,7 +5971,6 @@ erethismic
 ettled
 eczema
 enhypostatize
-encrinoidea
 encoffin
 elains
 effate
