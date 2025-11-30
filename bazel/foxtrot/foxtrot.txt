@@ -7143,7 +7143,6 @@ footfarer
 falsework
 footfault
 fricassees
-flimflammery
 footfolk
 ficklewise
 fruticulture
@@ -9657,6 +9656,7 @@ fruit
 fowled
 flipflop
 foretoken
+flimflammery
 faldstool
 fringe
 fouquieria
