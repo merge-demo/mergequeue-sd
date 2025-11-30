@@ -4928,7 +4928,6 @@ cassava
 carter
 clown
 carters
-cartesian
 cartful
 carthame
 counterradiation
@@ -8372,6 +8371,7 @@ caccia
 chrysolophus
 candiot
 centroid
+cartesian
 chamberleted
 ceratorhine
 chambers
