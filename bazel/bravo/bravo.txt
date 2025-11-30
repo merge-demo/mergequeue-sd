@@ -4822,6 +4822,7 @@ bedstraws
 bedstring
 boundedly
 beautiless
+buriable
 bartram
 bedswerver
 branchiurous
@@ -14130,7 +14131,6 @@ barbra
 belemnitidae
 brachium
 brattiness
-buriable
 brachyuran
 bollox
 bezant
