@@ -906,7 +906,6 @@ ectosarc
 essoining
 exercises
 extensivity
-eschewing
 expeditionary
 enures
 emperies
@@ -7802,6 +7801,7 @@ expectably
 elementality
 encyclopaedize
 engjateigur
+eschewing
 epigastria
 engagement
 embiotocidae
