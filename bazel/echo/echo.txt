@@ -4008,7 +4008,6 @@ electroretinography
 each
 exultancy
 esothyropexy
-estus
 effloresce
 etherealized
 epilamellar
@@ -9484,6 +9483,7 @@ endbrain
 emperor
 enghosted
 excurved
+estus
 eupneas
 essayistic
 esca

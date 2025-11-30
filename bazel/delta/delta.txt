@@ -465,7 +465,6 @@ durgah
 dakoity
 dentists
 dakotas
-decopperize
 desocialization
 dalapons
 dermititis
@@ -2253,6 +2252,7 @@ dartre
 danes
 dishelm
 dedan
+decopperize
 deceitfulness
 debase
 dinoflagellatae
