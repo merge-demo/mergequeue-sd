@@ -6458,6 +6458,7 @@ aphroditic
 adams
 acidaemia
 agunah
+artiodactylous
 avoidance
 arrosion
 anviled
@@ -20774,7 +20775,6 @@ adnescent
 artiodactyla
 autocrats
 antielectron
-artiodactylous
 appendixed
 antimasonry
 anaphoria
