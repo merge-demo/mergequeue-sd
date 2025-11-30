@@ -8144,7 +8144,6 @@ enkolpia
 enseel
 extratabular
 episcopalianism
-elvet
 engineered
 elaeosaccharum
 enclosers
@@ -10862,6 +10861,7 @@ eructation
 ereption
 euphemian
 electrolyzed
+elvet
 enlivenments
 emborders
 econometrics
