@@ -1778,7 +1778,6 @@ foghorns
 futurology
 ficklehearted
 fadingness
-femorococcygeal
 freewill
 firefanging
 freckledness
@@ -1913,6 +1912,7 @@ frightfulness
 frithborh
 fixure
 feminities
+femorococcygeal
 foamless
 furtherance
 finback
