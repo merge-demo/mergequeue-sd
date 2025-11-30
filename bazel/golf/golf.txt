@@ -1716,7 +1716,6 @@ gastightness
 gromil
 grudgefulness
 gryposis
-glyptodont
 gentries
 gastrophilite
 grandly
@@ -9536,6 +9535,7 @@ guanaco
 gemellion
 garden
 guanabano
+glyptodont
 groupist
 genipapada
 guar
