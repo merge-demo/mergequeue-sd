@@ -5287,6 +5287,7 @@ denseness
 dorsel
 depauperized
 densify
+deewans
 disqualifications
 didelphic
 desmodactyli
@@ -6427,7 +6428,6 @@ doggones
 diglyphic
 docquet
 druidic
-deewans
 deportment
 disadvanced
 derride
