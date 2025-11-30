@@ -811,6 +811,7 @@ glucosane
 ghurry
 gastrocolic
 guetar
+gloried
 grazeable
 goldenrods
 gyppo
@@ -10159,7 +10160,6 @@ gasohol
 grazers
 giddyish
 gal
-gloried
 glideness
 guardianly
 git
