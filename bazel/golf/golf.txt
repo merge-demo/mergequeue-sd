@@ -5093,7 +5093,6 @@ gillied
 grasni
 guddler
 glassines
-glassiness
 glasslikeness
 goosefoots
 garrya
@@ -6530,6 +6529,7 @@ glycogenosis
 ghis
 gunster
 geotherm
+glassiness
 gamopetalous
 goldsmithry
 grays
