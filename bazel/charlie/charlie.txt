@@ -11877,6 +11877,7 @@ cationically
 chordomesoderm
 chordotomy
 chore
+classwork
 caviare
 chorea
 choreal
@@ -15570,7 +15571,6 @@ clive
 conidian
 conima
 curdlers
-classwork
 clastics
 clathraceae
 clathraceous
