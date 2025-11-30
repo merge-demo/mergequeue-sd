@@ -4507,7 +4507,6 @@ filleul
 francophobia
 favissa
 farmlands
-feer
 forheed
 foreigner
 forslake
@@ -10791,6 +10790,7 @@ factualistic
 flue
 fubbery
 filamentoid
+feer
 fullering
 footpads
 fuchsian
