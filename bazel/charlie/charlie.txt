@@ -3070,7 +3070,6 @@ canvasser
 canzona
 crickety
 canzones
-canzonet
 caodaism
 caodaist
 caoine
@@ -24667,6 +24666,7 @@ copperhead
 constructionism
 capsuled
 copperheadism
+canzonet
 coppering
 commentary
 christie
