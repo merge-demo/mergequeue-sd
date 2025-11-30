@@ -4143,6 +4143,7 @@ flying
 fiendishly
 fraticelli
 firebomb
+fankle
 fakiness
 fairlike
 fractionlet
@@ -5513,7 +5514,6 @@ faked
 forbearingness
 frowzy
 furbelowing
-fankle
 feticides
 feynesses
 fossettes
