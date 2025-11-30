@@ -4922,7 +4922,6 @@ forsooth
 foppishly
 fourteens
 fastingly
-flamen
 flamandization
 firefanged
 funneling
@@ -8449,6 +8448,7 @@ formating
 formation
 factorship
 fincas
+flamen
 filmdoms
 fittily
 foxes
