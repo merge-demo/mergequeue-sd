@@ -4043,7 +4043,6 @@ fenianism
 faburden
 formulation
 finishers
-febris
 finishes
 fultz
 formenic
@@ -11244,6 +11243,7 @@ fezzes
 forerunnings
 frontispieces
 fucivorous
+febris
 funmaking
 flit
 flakeless
