@@ -8838,6 +8838,7 @@ allocations
 amyosthenia
 amender
 adeptly
+amblygonite
 adamastor
 anaphora
 aditus
@@ -10075,7 +10076,6 @@ ammoniemia
 agarita
 amblygonal
 allergology
-amblygonite
 attractant
 absinthic
 amblyomma
