@@ -4071,7 +4071,6 @@ epibolism
 engorgement
 esquimau
 expositorily
-exospheric
 endoaortitis
 enforcement
 erratical
@@ -6405,6 +6404,7 @@ encrinitical
 epist
 enunciator
 eluvivia
+exospheric
 elapid
 ensemble
 engastrimyth
