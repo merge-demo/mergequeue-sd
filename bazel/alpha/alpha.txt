@@ -1689,6 +1689,7 @@ archsee
 alouettes
 apperceive
 accumbency
+allatrate
 astarte
 accumbent
 accumulating
@@ -8589,7 +8590,6 @@ agnoites
 aegagropiles
 allassotonic
 alleviations
-allatrate
 abaction
 autosuggestibility
 admitty
