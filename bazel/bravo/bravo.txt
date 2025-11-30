@@ -3829,7 +3829,6 @@ balsamically
 blistery
 blvd
 bulgur
-balsas
 bohireen
 bowdlerizations
 bavette
@@ -9645,6 +9644,7 @@ bigg
 borate
 bisync
 boolies
+balsas
 bisischiatic
 bauera
 bisk
