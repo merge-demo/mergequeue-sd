@@ -8773,6 +8773,7 @@ brewer
 buoying
 bindweed
 bacillophobia
+bioethic
 bynedestin
 bassirilievi
 backrests
@@ -8918,7 +8919,6 @@ balatong
 bioelectrical
 bioengineering
 basidiomycetes
-bioethic
 beaverpelt
 bromyrite
 blueberries
