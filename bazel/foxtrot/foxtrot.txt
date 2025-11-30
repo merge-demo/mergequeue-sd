@@ -7394,7 +7394,6 @@ feminologist
 forbow
 foreclose
 forestland
-floater
 foolisher
 falterers
 flavorsomeness
@@ -9748,6 +9747,7 @@ feldspar
 functionalities
 frapp
 fallacies
+floater
 falchion
 fessways
 foolhardiest
