@@ -5067,7 +5067,6 @@ flagboat
 flareback
 furnishness
 fishweir
-flossa
 felicitated
 flareless
 fibromyectomy
@@ -8882,6 +8881,7 @@ fiberizer
 flatteners
 fouled
 fling
+flossa
 fatiloquent
 feedstuff
 forethough
