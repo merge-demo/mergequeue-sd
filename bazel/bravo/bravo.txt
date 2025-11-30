@@ -365,7 +365,6 @@ barwares
 breaststroke
 background
 backhandedness
-brinjarry
 balkily
 brewery
 brachypodous
@@ -5871,6 +5870,7 @@ butylating
 babylonish
 bucconasal
 bluer
+brinjarry
 blackman
 begaudy
 bellweed
