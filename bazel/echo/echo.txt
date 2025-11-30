@@ -8205,7 +8205,6 @@ episkeletal
 eequinoctium
 enroots
 ethnicity
-expirant
 episodical
 earsh
 episodically
@@ -10970,6 +10969,7 @@ embrittlement
 echinus
 embosk
 eperva
+expirant
 euproctis
 endophasia
 excluder

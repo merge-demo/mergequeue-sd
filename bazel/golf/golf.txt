@@ -85,7 +85,6 @@ gualaca
 glauber
 gubernator
 gymnopaedes
-galabia
 glandulose
 gnomology
 garbling
@@ -9572,6 +9571,7 @@ glamorized
 geodynamical
 guidage
 groveller
+galabia
 gauteite
 gruels
 gesticularious
