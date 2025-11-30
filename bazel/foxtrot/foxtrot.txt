@@ -5565,6 +5565,7 @@ fallaciously
 filamentar
 fiendlike
 flaxlike
+franker
 folkvangr
 flockowner
 fossicking
@@ -9341,7 +9342,6 @@ filibustrous
 fellowly
 futurize
 frankenstein
-franker
 fastidiousness
 fireguard
 foreschool
