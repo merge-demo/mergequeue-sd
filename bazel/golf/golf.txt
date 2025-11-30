@@ -2250,7 +2250,6 @@ gristle
 gossipmongering
 galactase
 gastrotome
-grifts
 glottology
 gefulltefish
 galax
@@ -8723,6 +8722,7 @@ gonys
 greenrooms
 garlics
 glossectomy
+grifts
 gynoecia
 goldenly
 girn
