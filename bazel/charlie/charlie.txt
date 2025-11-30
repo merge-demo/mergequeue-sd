@@ -8562,7 +8562,6 @@ councilorship
 calais
 cavalieres
 chandlerly
-chandlers
 contester
 chylothorax
 carrion
@@ -16786,6 +16785,7 @@ cloverlay
 citizen
 clupeidae
 cloverleafs
+chandlers
 cloverleaves
 cloverley
 cycadophyte
