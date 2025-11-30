@@ -4104,6 +4104,7 @@ ethmophysal
 entoilment
 emplaster
 entozoology
+encephalospinal
 enantiomer
 elevating
 equiponderated
@@ -4556,7 +4557,6 @@ emigrationist
 encephalos
 encapsulated
 empales
-encephalospinal
 ecclesiastic
 elevatedness
 externize
