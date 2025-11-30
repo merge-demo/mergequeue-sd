@@ -2287,6 +2287,7 @@ formulable
 flotation
 foreface
 fistulizing
+floorwise
 flagelliferous
 fenestrae
 foreword
@@ -5988,7 +5989,6 @@ foliole
 fictioneering
 feldsher
 fez
-floorwise
 featishness
 fusty
 foolscaps
