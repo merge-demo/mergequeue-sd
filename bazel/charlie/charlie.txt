@@ -9606,7 +9606,6 @@ camelliaceae
 cheerier
 cautiousness
 cryptopapist
-curtals
 cragginess
 coexistent
 cheerlead
@@ -28644,6 +28643,7 @@ contagioned
 cupids
 cremosin
 crena
+curtals
 cough
 crenae
 clival
