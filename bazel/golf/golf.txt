@@ -1156,7 +1156,6 @@ goners
 gigmaness
 gantelope
 genitors
-gantlet
 grocer
 gled
 gantleted
@@ -10809,6 +10808,7 @@ gestonie
 gibberella
 gabbroitic
 gibli
+gantlet
 guttlers
 gainly
 goblinism
