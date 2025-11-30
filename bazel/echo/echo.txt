@@ -5280,7 +5280,6 @@ exsected
 enantiomeride
 extrascriptural
 escartelly
-euphuizing
 esphresis
 euphonium
 endopods
@@ -10670,6 +10669,7 @@ exogenic
 extentions
 euergetes
 epimyth
+euphuizing
 embryotrophe
 eunuchs
 explanatorily
