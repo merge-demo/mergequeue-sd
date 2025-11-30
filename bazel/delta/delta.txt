@@ -15454,6 +15454,7 @@ dermatoglyphic
 ductule
 domnei
 deoxyribonucleic
+doray
 duffing
 dopehead
 demonstratory
@@ -18297,7 +18298,6 @@ dunnish
 dunnite
 dagger
 dextorsal
-doray
 desmepithelium
 danaan
 densimeter
