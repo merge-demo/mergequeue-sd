@@ -3757,6 +3757,7 @@ deglutinate
 depot
 delegated
 disprove
+dealing
 dehkan
 durmasts
 decimate
@@ -7057,7 +7058,6 @@ dorje
 degrees
 disjointed
 despumation
-dealing
 desquamating
 desquamatory
 decivilization
