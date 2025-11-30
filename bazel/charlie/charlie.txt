@@ -6724,6 +6724,7 @@ cornbin
 ciscos
 cribbages
 clavecin
+chasmophyte
 celebs
 celemin
 celemines
@@ -9156,7 +9157,6 @@ chondrigenous
 cheths
 clypeolate
 chasmogamous
-chasmophyte
 commandeering
 chirruped
 constipating
