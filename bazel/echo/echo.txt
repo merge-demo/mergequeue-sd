@@ -1889,6 +1889,7 @@ enameler
 encomiast
 eyoty
 elapsed
+elected
 endamage
 everwho
 eightball
@@ -10869,7 +10870,6 @@ emblazonment
 examinationism
 euphemisation
 euphemise
-elected
 euphemising
 enshroud
 euphemistically
