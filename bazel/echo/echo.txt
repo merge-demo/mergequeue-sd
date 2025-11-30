@@ -2295,6 +2295,7 @@ elongated
 equally
 extemporization
 eudiometry
+extruded
 enchantments
 exormia
 enbloc
@@ -13204,7 +13205,6 @@ exotica
 emmantle
 expirations
 encrypting
-extruded
 elicited
 elapinae
 emphatically
