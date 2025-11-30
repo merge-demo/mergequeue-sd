@@ -3075,6 +3075,7 @@ deescalate
 deeses
 deepfrozen
 deemphasize
+documentational
 dorsoapical
 diester
 downward
@@ -14860,7 +14861,6 @@ dimmers
 demarks
 drafters
 documentarist
-documentational
 decarbonator
 dictyograptus
 documentations
