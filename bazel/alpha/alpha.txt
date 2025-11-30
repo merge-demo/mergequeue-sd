@@ -5041,7 +5041,6 @@ archaeology
 anciennete
 aurum
 altumal
-athletically
 amalaka
 agerasia
 aerose
@@ -23459,6 +23458,7 @@ abates
 addition
 anagrammatist
 alginate
+athletically
 avanious
 auditoriums
 auditorship
