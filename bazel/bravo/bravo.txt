@@ -8348,6 +8348,7 @@ bradoon
 bights
 blickeys
 bonamano
+blathery
 bigamized
 bemuddled
 brulot
@@ -10541,7 +10542,6 @@ brasseys
 bugshas
 bilo
 blathered
-blathery
 blackprint
 baretta
 blathers
