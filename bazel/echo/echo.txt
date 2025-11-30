@@ -8050,7 +8050,6 @@ electrodentistry
 epibasal
 ergs
 expilate
-ejections
 eggar
 ease
 entoconid
@@ -8739,6 +8738,7 @@ equities
 equivalenced
 equivalent
 ensiles
+ejections
 equivaluer
 exposited
 evulgation
