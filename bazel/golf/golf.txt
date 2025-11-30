@@ -6561,7 +6561,6 @@ gpss
 glutting
 greyskin
 guiders
-gentianales
 glandarious
 grandaddy
 gpcd
@@ -7880,6 +7879,7 @@ grammaticaster
 goff
 garlandlike
 gabbais
+gentianales
 gurdle
 ghostlikeness
 grammatics
