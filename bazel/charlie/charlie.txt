@@ -5149,6 +5149,7 @@ casemented
 casements
 copolar
 caseolysis
+camuse
 caseose
 caseous
 caserios
@@ -12762,7 +12763,6 @@ chaenactis
 chun
 confessional
 chunam
-camuse
 calcifies
 chunari
 congressman

@@ -4086,7 +4086,6 @@ elve
 eucrasy
 eutherian
 ethylbenzene
-ecthymata
 exuscitate
 euthymy
 esthetophore
@@ -12521,6 +12520,7 @@ extraviolet
 errantia
 electicism
 everyway
+ecthymata
 embarrel
 enchiridia
 exinguinal
