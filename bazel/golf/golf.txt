@@ -37,6 +37,7 @@ gynura
 glutamate
 gmelina
 grammes
+gonosphere
 gabions
 gynecologies
 gunfires
@@ -6866,7 +6867,6 @@ gypsied
 glauconite
 granulomas
 gaffsman
-gonosphere
 grisettish
 graphics
 gorbal
