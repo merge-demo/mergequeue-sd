@@ -4893,7 +4893,6 @@ encrinidae
 encrinital
 elegance
 equalizing
-exponentiations
 embryogeny
 elemental
 effeminateness
@@ -13256,6 +13255,7 @@ expensive
 explicanda
 enneacontahedral
 explicate
+exponentiations
 enterectomies
 exult
 evasiveness
