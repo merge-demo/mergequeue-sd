@@ -7702,7 +7702,6 @@ bereareft
 backfilling
 bezzo
 belemnites
-bacchanalization
 bromonaphthalene
 bridging
 bhagavat
@@ -9058,6 +9057,7 @@ biopsy
 biopsic
 bailliage
 byssaceous
+bacchanalization
 bespice
 benightmare
 biopsychological
