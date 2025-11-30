@@ -10067,7 +10067,6 @@ axmen
 antiformant
 amblycephalus
 atmology
-amblydactyla
 asymptomatically
 ammoniemia
 agarita
@@ -24296,6 +24295,7 @@ autophytic
 agister
 albespyne
 acquist
+amblydactyla
 aluminographic
 apparent
 autophytograph

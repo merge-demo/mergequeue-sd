@@ -9917,7 +9917,6 @@ bastardice
 bituminate
 bituminising
 bituminized
-burnbeat
 bucktail
 bedivere
 babblative
@@ -16876,6 +16875,7 @@ baronages
 balneographer
 bedimpling
 bootheel
+burnbeat
 buffoonishness
 benchwork
 buras
