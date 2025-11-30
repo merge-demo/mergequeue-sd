@@ -4818,7 +4818,6 @@ finlet
 fatagaga
 factorylike
 festinately
-fructiparous
 feasting
 fascicular
 furnishing
@@ -8084,6 +8083,7 @@ fissuriform
 fumer
 flusterated
 forejudged
+fructiparous
 forenews
 faunistic
 foyboat
