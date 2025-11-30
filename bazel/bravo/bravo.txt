@@ -1803,7 +1803,6 @@ bivial
 beslime
 bullose
 bialystoker
-bandaged
 bandaging
 berylloid
 bowlin
@@ -7766,6 +7765,7 @@ bant
 bimilllennia
 bagpipes
 babuism
+bandaged
 bursarship
 balcon
 babylonian
