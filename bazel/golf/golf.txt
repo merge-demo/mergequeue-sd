@@ -640,7 +640,6 @@ gardencraft
 gallomaniac
 gallon
 gonapophysis
-gush
 gonangial
 gabionage
 guruships
@@ -4665,6 +4664,7 @@ glossitic
 guttersnipish
 griggles
 graphometer
+gush
 gastrodialysis
 gaonic
 gasconade
