@@ -9776,7 +9776,6 @@ descender
 decolourization
 dilatometer
 dilatometrically
-dynamometers
 dcbname
 dilatoriness
 daypeep
@@ -11358,6 +11357,7 @@ discontinued
 dowset
 deambulatories
 davens
+dynamometers
 deprivate
 discerpible
 discerpibleness
