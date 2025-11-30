@@ -4891,6 +4891,7 @@ guessed
 gorgonizing
 giinwale
 gladiatrix
+glaucochroite
 goyim
 girderage
 gladier
@@ -8895,7 +8896,6 @@ grenadierial
 gratuitously
 goniotheca
 grandeur
-glaucochroite
 grizard
 groundberry
 gunfight
