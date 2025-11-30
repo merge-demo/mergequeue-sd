@@ -4545,6 +4545,7 @@ emancipate
 enactive
 emerita
 ephorate
+expatriated
 encephalopathia
 encephalophyma
 ethynylation
@@ -13045,7 +13046,6 @@ eraser
 engrams
 escoba
 emrode
-expatriated
 exhibiting
 ebauchoir
 euhemerised
