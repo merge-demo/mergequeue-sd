@@ -1763,7 +1763,6 @@ calumnious
 calumniously
 calusa
 calutron
-comporting
 carbonylate
 chrysomelid
 calutrons
@@ -28899,6 +28898,7 @@ capsheaf
 chaetognathan
 crex
 cry
+comporting
 crikey
 cryable
 cholestane
