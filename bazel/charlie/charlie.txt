@@ -8614,7 +8614,6 @@ chankings
 channel
 channelbill
 coendou
-couching
 channeling
 clubbish
 channelize
@@ -26884,6 +26883,7 @@ counterinvestment
 counterirritation
 cystopyelonephritis
 cartonniers
+couching
 counterjudging
 credentialism
 counterjumper
