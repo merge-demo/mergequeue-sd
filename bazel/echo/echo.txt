@@ -2000,7 +2000,6 @@ exorcisory
 encyclopedist
 electrine
 edward
-ekka
 ectoparasitic
 enolate
 exophoric
@@ -5116,6 +5115,7 @@ extraneously
 endocervical
 eccentrically
 elychnious
+ekka
 enslavers
 eremitic
 endochorion
