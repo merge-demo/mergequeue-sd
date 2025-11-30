@@ -4334,6 +4334,7 @@ esture
 elytroclasia
 expulsive
 expansibleness
+entity
 enactor
 epigrammatize
 entoproct
@@ -11159,7 +11160,6 @@ evacuants
 earthdrake
 exophagous
 epaulet
-entity
 eadi
 evacuated
 epitomatory
