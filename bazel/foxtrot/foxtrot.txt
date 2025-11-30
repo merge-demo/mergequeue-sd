@@ -650,7 +650,6 @@ fimetic
 farrand
 featherbedding
 formulates
-farnesol
 fluotitanic
 fames
 fuddled
@@ -6566,6 +6565,7 @@ fissions
 fo
 fireproofed
 fuciphagous
+farnesol
 foalfoots
 ficula
 futurism
