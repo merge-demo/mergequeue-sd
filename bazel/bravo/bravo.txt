@@ -4589,6 +4589,7 @@ blared
 bylina
 banters
 bowsprit
+booboos
 bigaroons
 bilker
 baloskionaceae
@@ -11106,7 +11107,6 @@ barotaxy
 bacchanalia
 bolivian
 bloodcurdlingly
-booboos
 bloodiness
 blooding
 balanic
