@@ -4996,7 +4996,6 @@ eucephalous
 emigates
 electrocorticogram
 envy
-extirpative
 equinia
 engraphic
 earthgall
@@ -9342,6 +9341,7 @@ eruptional
 establishing
 ellen
 eruptive
+extirpative
 extortioner
 essoinee
 eruptiveness
