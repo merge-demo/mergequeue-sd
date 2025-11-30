@@ -19479,7 +19479,6 @@ chiasmi
 colpitis
 carvers
 colpitises
-colpohyperplasia
 colpoperineoplasty
 colpoperineorrhaphy
 cantonment
@@ -31817,6 +31816,7 @@ cuticula
 credenzas
 cuticulate
 chrysothamnus
+colpohyperplasia
 codamine
 cutiduris
 cuties
