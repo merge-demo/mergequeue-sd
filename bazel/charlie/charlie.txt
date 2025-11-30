@@ -871,7 +871,6 @@ caissons
 caite
 colligance
 caitif
-charque
 caitiffs
 crams
 cayubaba
@@ -6654,6 +6653,7 @@ crioceris
 cardiosymphysis
 cedula
 cee
+charque
 coracomorphic
 chard
 cursorial
