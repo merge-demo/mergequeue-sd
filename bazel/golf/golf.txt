@@ -1101,7 +1101,6 @@ genitives
 ganister
 goriest
 giroflore
-groat
 gotiglacial
 grooviness
 grannies
@@ -9150,6 +9149,7 @@ galvanometric
 gaffers
 grammaticalness
 gazeful
+groat
 grusinian
 gearcase
 grooming
