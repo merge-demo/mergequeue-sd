@@ -786,6 +786,7 @@ flunker
 fanfaronading
 folkloric
 footworn
+forenotice
 fatality
 froster
 forensicality
@@ -6646,7 +6647,6 @@ foeless
 faulted
 fulgurating
 flossing
-forenotice
 foemanship
 fripperer
 fecifork
