@@ -9229,7 +9229,6 @@ alnicoes
 alnilam
 alnitak
 alniviridol
-appellees
 angles
 abscondedly
 alnuin
@@ -24685,6 +24684,7 @@ anopheline
 averments
 admove
 aeneid
+appellees
 antidiastase
 amelioration
 acnode
