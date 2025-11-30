@@ -2762,6 +2762,7 @@ guestchamber
 gorraf
 gipped
 gallused
+gastroid
 glanditerous
 gramophonist
 gonangia
@@ -6128,7 +6129,6 @@ gyrous
 gurniad
 genuflections
 gliosis
-gastroid
 geissorhiza
 genep
 geitonogamous

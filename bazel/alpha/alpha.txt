@@ -8774,7 +8774,6 @@ arctoid
 alligatorfish
 alligatorfishes
 arbinose
-allying
 abecedarius
 astatine
 allylation
@@ -24726,6 +24725,7 @@ avians
 abreactions
 arctitude
 aviaries
+allying
 anahita
 aviarist
 anteceding
