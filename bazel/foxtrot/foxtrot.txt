@@ -4491,6 +4491,7 @@ forsay
 ferrovanadium
 flour
 fisnoga
+forestalling
 flouncing
 flogging
 felinae
@@ -8018,7 +8019,6 @@ froebelian
 flashbulb
 fungaceous
 forestal
-forestalling
 forestalls
 funerals
 flutterer
