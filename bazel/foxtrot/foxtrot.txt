@@ -375,6 +375,7 @@ franklandite
 frothed
 from
 fieldfight
+follicles
 froes
 fluorides
 faintly
@@ -3380,7 +3381,6 @@ flappering
 fishermen
 frivols
 filipinos
-follicles
 flokite
 frameableness
 floramour
