@@ -7622,6 +7622,7 @@ fabular
 funfest
 foolhardy
 flaxy
+foliated
 flashlights
 fortyish
 frankmarriage
@@ -9538,7 +9539,6 @@ frist
 findfault
 fullers
 forche
-foliated
 fyrd
 figitidae
 fishwives
