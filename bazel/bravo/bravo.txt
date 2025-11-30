@@ -5833,6 +5833,7 @@ bengaline
 bellyful
 bestrews
 boor
+burgle
 beadier
 barbermonger
 blacklisted
@@ -13374,7 +13375,6 @@ bisulc
 beothuk
 boltant
 bothway
-burgle
 bunched
 bediapers
 botocudo
