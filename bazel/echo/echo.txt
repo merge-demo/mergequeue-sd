@@ -10667,7 +10667,6 @@ epimyth
 embryotrophe
 eunuchs
 explanatorily
-expediment
 easeless
 echolocation
 enarbor
@@ -11104,6 +11103,7 @@ energized
 evans
 expiate
 eusthenopteron
+expediment
 electros
 espies
 esquiredom
