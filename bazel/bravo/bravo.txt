@@ -8071,7 +8071,6 @@ bicostate
 billows
 bicrenate
 bicrofarad
-bicrural
 broodiness
 biometrics
 bridecup
@@ -9967,6 +9966,7 @@ bivalvia
 bivalvian
 bivariant
 baddock
+bicrural
 bivascular
 bismuthyl
 binodous
