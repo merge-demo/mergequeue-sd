@@ -705,7 +705,6 @@ amyloplastic
 apiales
 abounding
 acrolithic
-abounds
 about
 anticytotoxin
 astrofel
@@ -4393,6 +4392,7 @@ apennines
 adullamite
 albacores
 anisophyllous
+abounds
 adult
 abencerrages
 adulterateness
