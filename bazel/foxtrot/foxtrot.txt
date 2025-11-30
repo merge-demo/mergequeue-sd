@@ -8886,6 +8886,7 @@ flossa
 fatiloquent
 feedstuff
 forethough
+functionalities
 fidation
 feazed
 firmer
@@ -9745,7 +9746,6 @@ ferijee
 frequentest
 foraminifer
 feldspar
-functionalities
 frapp
 fallacies
 floater

@@ -607,6 +607,7 @@ echt
 ecchymosed
 excommenge
 exostoses
+eneclann
 eciliate
 emetics
 eurypharynx
@@ -5469,7 +5470,6 @@ enterozoic
 earthmen
 emblematology
 endwise
-eneclann
 elaboratory
 equilaterally
 epigynies
