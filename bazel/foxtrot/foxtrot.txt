@@ -2213,7 +2213,6 @@ feminal
 fruiting
 feminility
 feminin
-frecklish
 fondlesome
 fluorinates
 foals
@@ -7078,6 +7077,7 @@ fledge
 fedayeen
 foolish
 ferryboats
+frecklish
 fascinating
 fleapit
 factious
