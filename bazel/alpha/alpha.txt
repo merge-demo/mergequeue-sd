@@ -19276,6 +19276,7 @@ austroasiatic
 amphigonium
 afterhand
 adynamy
+antinodal
 areng
 archpresbyter
 arenga
@@ -24862,7 +24863,6 @@ abetment
 avour
 aback
 avoutry
-antinodal
 arthroplasty
 anguishously
 autobiographically

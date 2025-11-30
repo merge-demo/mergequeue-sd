@@ -959,6 +959,7 @@ forkers
 formalizer
 fillagreed
 foundership
+ferninst
 fizzles
 fardage
 farded
@@ -1800,7 +1801,6 @@ federalizes
 fetisher
 freeboard
 fores
-ferninst
 forbesite
 folkmots
 flak
