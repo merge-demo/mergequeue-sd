@@ -3534,6 +3534,7 @@ fains
 fitweed
 forehearth
 featherhead
+fulvescent
 formant
 foulsome
 filamentary
@@ -7165,7 +7166,6 @@ fourche
 furnariidae
 fraileros
 fiendism
-fulvescent
 foothot
 frowstily
 faraon
