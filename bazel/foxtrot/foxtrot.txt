@@ -4217,6 +4217,7 @@ firelight
 flab
 feistier
 felicide
+footsoldier
 footsies
 fowls
 farinosely
@@ -5863,7 +5864,6 @@ fdtype
 fowlers
 flocced
 frustulose
-footsoldier
 filariae
 fortunite
 film

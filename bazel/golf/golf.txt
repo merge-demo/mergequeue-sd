@@ -2493,6 +2493,7 @@ grots
 guttersnipes
 galumphing
 gibbetwise
+gymnolaema
 genitalic
 grandity
 glossier
@@ -7361,7 +7362,6 @@ galactin
 gymnospermic
 gaggler
 gluon
-gymnolaema
 gougingly
 goldlike
 gratify
