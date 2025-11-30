@@ -8598,7 +8598,6 @@ bucketfuls
 billiken
 barbican
 backscatters
-byrlady
 batteau
 buhrmill
 baldacchino
@@ -17665,6 +17664,7 @@ burkundauze
 berlines
 bushwah
 bridegod
+byrlady
 bulies
 burkundaz
 burlace
