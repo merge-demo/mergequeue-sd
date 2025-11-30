@@ -270,7 +270,6 @@ fadmongery
 favi
 filander
 fadmongering
-felsic
 flooders
 fairly
 folk
@@ -6551,6 +6550,7 @@ funereal
 foretack
 flamless
 flibbertigibbets
+felsic
 flysches
 flattened
 feaked
