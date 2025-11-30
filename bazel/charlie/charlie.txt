@@ -5567,7 +5567,6 @@ copr
 censused
 cofactor
 catalyses
-catalyte
 cyclopean
 cabalassou
 cyniatria
@@ -13933,6 +13932,7 @@ coquetries
 crowl
 commemoratory
 cinquefoil
+catalyte
 corporature
 crackle
 cinquefoiled
