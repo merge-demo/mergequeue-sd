@@ -5358,7 +5358,6 @@ casteless
 chifforobes
 chimerical
 citator
-chuckie
 castellany
 crizzling
 castellanies
@@ -24772,6 +24771,7 @@ copularium
 conceivable
 carnel
 carolinas
+chuckie
 copulation
 copulative
 conquian
