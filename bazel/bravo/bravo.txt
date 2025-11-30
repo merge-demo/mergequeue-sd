@@ -8667,7 +8667,6 @@ bryonidin
 birching
 branners
 bimalar
-bimana
 boras
 bimanal
 binoxalate
@@ -13225,6 +13224,7 @@ bossage
 bossdom
 boastful
 bructeri
+bimana
 baromacrometer
 brislings
 bankshall

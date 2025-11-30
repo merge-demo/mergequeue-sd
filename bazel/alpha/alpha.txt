@@ -13026,6 +13026,7 @@ allodially
 anhydraemia
 antikinase
 anhydrate
+ankylosis
 anhydration
 altering
 anhydride
@@ -25354,7 +25355,6 @@ acker
 azotemia
 arbiter
 azotemias
-ankylosis
 acinaceous
 azotemic
 amphitheatered
