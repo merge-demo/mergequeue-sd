@@ -5457,7 +5457,6 @@ ferreter
 flora
 funniness
 frequentness
-flemishes
 flensed
 frillers
 flensers
@@ -9238,6 +9237,7 @@ forfend
 fraise
 fortunately
 fraised
+flemishes
 frug
 fertilities
 futilely
