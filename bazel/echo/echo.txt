@@ -5132,6 +5132,7 @@ endoclinal
 eternals
 endocoelar
 eupanorthidae
+exilian
 ectozoan
 epitomical
 emuls
@@ -9905,7 +9906,6 @@ estimate
 eerily
 exponents
 eluders
-exilian
 elongative
 earmarks
 estimations
