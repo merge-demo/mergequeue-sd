@@ -8244,7 +8244,6 @@ bifurcated
 bifurcately
 bifurcating
 bergschrund
-bekilted
 bifurcation
 benzophenone
 bourgeoise
@@ -14892,6 +14891,7 @@ breakpoint
 breaks
 benzdifuran
 besteaded
+bekilted
 besselian
 bugologist
 bayoneted
