@@ -5640,7 +5640,6 @@ cataphracted
 cataphractic
 cataphrenia
 crook
-cataphrenic
 choraleon
 cataphrygian
 cataphrygianism
@@ -17860,6 +17859,7 @@ codivine
 codline
 calcigerous
 controlled
+cataphrenic
 codling
 classlessness
 coguardian
