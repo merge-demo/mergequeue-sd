@@ -4061,6 +4061,7 @@ executrices
 epipodial
 ex
 efts
+endoparasite
 enringing
 evangelised
 encyclopaedism
@@ -4415,7 +4416,6 @@ encadre
 ender
 emphasised
 electrobioscopy
-endoparasite
 environmentally
 encanthis
 equisetaceae
