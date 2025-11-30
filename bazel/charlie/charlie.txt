@@ -12642,7 +12642,6 @@ clergywomen
 convinces
 chucky
 chuckies
-cubation
 cacophthalmia
 cider
 cargued
@@ -17970,6 +17969,7 @@ conservatrix
 coelomatous
 coelome
 capillarimeter
+cubation
 corvktte
 consensuses
 colporteur
