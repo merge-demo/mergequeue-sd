@@ -1505,6 +1505,7 @@ estivate
 eclegme
 effusively
 entasias
+epispinal
 effuviate
 efl
 efoliose
@@ -12748,7 +12749,6 @@ exceeds
 exorbitation
 eloah
 epidemiologically
-epispinal
 emulatively
 ethers
 emmenagogic

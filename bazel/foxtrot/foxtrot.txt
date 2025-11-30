@@ -5373,6 +5373,7 @@ flechettes
 flecked
 forkhead
 fanfoot
+fulgurant
 fleckering
 franco
 fosterhood
@@ -5774,7 +5775,6 @@ faailk
 fluorocarbon
 faunated
 foreheads
-fulgurant
 fribble
 family
 fevertwig
