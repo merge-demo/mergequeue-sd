@@ -1889,6 +1889,7 @@ crimble
 corbinas
 camblet
 confectory
+circum
 cambodian
 calotte
 camboge
@@ -3763,7 +3764,6 @@ carpodetus
 carbamine
 circumnutate
 cowquake
-circum
 carbanilid
 cantatrices
 convenership
