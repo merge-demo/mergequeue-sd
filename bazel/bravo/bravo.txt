@@ -1239,7 +1239,6 @@ bottomer
 brimmed
 bromochlorophenol
 bucketsful
-balaenidae
 bambocciade
 bobbies
 boracites
@@ -7518,6 +7517,7 @@ belayer
 beveller
 bookbinder
 bardelle
+balaenidae
 biathlon
 bedgery
 bevenom
