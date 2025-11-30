@@ -19088,6 +19088,7 @@ apishness
 arthur
 allegoric
 arabine
+astromeda
 abderian
 antivenine
 alit
@@ -22434,7 +22435,6 @@ astrologize
 advancers
 astromancer
 astromantic
-astromeda
 axion
 apophyges
 anthropomorphize
