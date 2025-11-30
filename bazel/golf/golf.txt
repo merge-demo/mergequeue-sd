@@ -3919,7 +3919,6 @@ gravidae
 goral
 glossem
 geminated
-gnostic
 glens
 glossocarcinoma
 gawkies
@@ -5184,6 +5183,7 @@ glb
 gastratrophia
 geckotian
 gossipred
+gnostic
 gesticulator
 glossocomon
 guavas
