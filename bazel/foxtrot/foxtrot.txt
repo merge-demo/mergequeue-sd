@@ -3484,6 +3484,7 @@ fordays
 floorhead
 formuliser
 forpined
+formulaically
 finnic
 fluctuated
 fended
@@ -4983,7 +4984,6 @@ flood
 faured
 flaneurs
 flanked
-formulaically
 fledging
 factordom
 fribourg
