@@ -2512,6 +2512,7 @@ ecosphere
 exterminative
 electrokinetics
 elasticum
+eurhythmical
 electroless
 exsecants
 educables
@@ -11841,7 +11842,6 @@ exceptio
 epileptics
 eplot
 externization
-eurhythmical
 enviably
 electromagnetically
 equibalance
