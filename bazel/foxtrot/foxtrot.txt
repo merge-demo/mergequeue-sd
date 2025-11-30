@@ -1037,6 +1037,7 @@ fletcherize
 folates
 farmership
 flypaper
+flashiness
 formicarian
 frieda
 focalization
@@ -5105,7 +5106,6 @@ fict
 furnishment
 furculae
 flashiest
-flashiness
 fermerer
 famulli
 fragrancies
