@@ -19731,7 +19731,6 @@ combines
 cappie
 combining
 combless
-chairmen
 comboy
 carpentering
 comboloio
@@ -28428,6 +28427,7 @@ creamlaid
 coccobaccilli
 creamless
 creamlike
+chairmen
 cutpurses
 cotarnine
 chiefling
