@@ -3071,7 +3071,6 @@ canzona
 crickety
 canzones
 caodaism
-caodaist
 caoine
 caon
 chlorocruorin
@@ -3666,6 +3665,7 @@ carambole
 coextensively
 caviler
 caramboling
+caodaist
 cardsharper
 comicotragedy
 caramelisation
