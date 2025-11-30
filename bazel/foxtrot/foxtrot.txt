@@ -2922,6 +2922,7 @@ furazane
 frustums
 fencing
 floccipend
+flutist
 farfetch
 fluellite
 flyoff
@@ -6528,7 +6529,6 @@ flasque
 foetid
 floccose
 frailish
-flutist
 frenchman
 firebed
 forecover
