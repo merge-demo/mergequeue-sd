@@ -1777,7 +1777,6 @@ exolve
 evanished
 enticingness
 euglenales
-echinital
 evitation
 everliving
 euphonous
@@ -13276,6 +13275,7 @@ epitheliomata
 elapids
 eglantine
 etches
+echinital
 electrohomeopathy
 earner
 eolation
