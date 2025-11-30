@@ -1867,7 +1867,6 @@ gousty
 goloshes
 geographize
 gossypium
-gatemaker
 gladfully
 glyconics
 gerhardtite
@@ -9068,6 +9067,7 @@ genoese
 gis
 goloch
 gryllid
+gatemaker
 galluptious
 geelbek
 glottogonic
