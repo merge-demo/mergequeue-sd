@@ -3605,7 +3605,6 @@ chauri
 carabine
 carabiner
 carabineros
-claik
 carabines
 coprahs
 calefaction
@@ -29041,6 +29040,7 @@ cals
 criminologic
 criminological
 criminologically
+claik
 condylarthrosis
 cenatory
 criminologies
