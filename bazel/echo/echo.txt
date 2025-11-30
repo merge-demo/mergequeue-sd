@@ -7553,7 +7553,6 @@ epauliere
 ectoprocta
 exocarp
 experienceable
-epicede
 exion
 encephalitogenic
 eroticomaniac
@@ -8149,6 +8148,7 @@ elvet
 engineered
 elaeosaccharum
 enclosers
+epicede
 elutriation
 ebenales
 embowelment
