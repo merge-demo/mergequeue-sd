@@ -1782,7 +1782,6 @@ freewill
 firefanging
 freckledness
 fishgarth
-feathertop
 frogmen
 flabra
 flutina
@@ -2888,6 +2887,7 @@ fettucini
 fungiferous
 fistulate
 fruitlet
+feathertop
 froglike
 farsightedly
 flows
