@@ -2181,7 +2181,6 @@ extrovertively
 ethoxycaffeine
 entrances
 epizoan
-eructate
 endocyclic
 evanescently
 elbowy
@@ -10506,6 +10505,7 @@ embouchure
 ettercap
 ettirone
 escalan
+eructate
 ecclesiolatry
 eucgia
 eightpenny
