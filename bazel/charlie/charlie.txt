@@ -1416,7 +1416,6 @@ calipee
 calipees
 calipeva
 cohobate
-calamancos
 caliph
 caliphal
 caliphate
@@ -30272,6 +30271,7 @@ chanson
 crummer
 celiotomies
 crummy
+calamancos
 consummativeness
 crummier
 coppaelite
