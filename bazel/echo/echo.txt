@@ -2039,6 +2039,7 @@ emersion
 etherish
 examinational
 elaenia
+extrospect
 elaeocarpaceae
 effranchisement
 eyeshot
@@ -14119,7 +14120,6 @@ exposers
 extroitive
 extremist
 extrorse
-extrospect
 endarch
 evokes
 equivorous
