@@ -765,6 +765,7 @@ gerkin
 galvanopuncture
 gummaker
 goutwort
+gavelled
 gladsomer
 gawkily
 geometrically
@@ -1804,7 +1805,6 @@ goutiest
 gonadial
 genealogizer
 gastroscopist
-gavelled
 gasterosteid
 glossolaly
 gutterblood
