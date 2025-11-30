@@ -4384,7 +4384,6 @@ emphlysis
 eritrean
 esoenteritis
 exotically
-enantiomorph
 encratic
 equinovarus
 electrolyzer
@@ -11099,6 +11098,7 @@ ekacaesium
 epistemolog
 epiglottal
 extravasation
+enantiomorph
 endosporium
 eurytus
 engagedness
