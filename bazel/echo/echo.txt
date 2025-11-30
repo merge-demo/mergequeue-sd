@@ -1709,7 +1709,6 @@ expediential
 exploder
 evener
 exaggerating
-enunciatory
 enamel
 electrolyses
 endamages
@@ -3862,6 +3861,7 @@ entreasured
 emerizing
 engrieve
 emerods
+enunciatory
 epitomator
 emersed
 estivator
