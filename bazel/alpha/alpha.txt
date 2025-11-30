@@ -6428,6 +6428,7 @@ agrotype
 aurochloride
 anthotaxy
 anerly
+animis
 arguta
 asthenopia
 apneas
@@ -13204,7 +13205,6 @@ alchymy
 acoustical
 archbeacon
 animikean
-animis
 abow
 aftereffects
 adornments

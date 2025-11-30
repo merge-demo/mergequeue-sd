@@ -7712,6 +7712,7 @@ foreignness
 feudalists
 foreimpressed
 firnismalerei
+faceman
 foreinstruct
 fallal
 fatherland
@@ -10313,7 +10314,6 @@ fraenula
 floodlighted
 foredoing
 fluoridized
-faceman
 finalisms
 fortiori
 flexible
