@@ -6702,6 +6702,7 @@ bedull
 bayesian
 berlin
 browsability
+beloam
 bismuthine
 broomstaff
 blitter
@@ -7566,7 +7567,6 @@ belimousined
 blowpit
 beguilingly
 bandolier
-beloam
 begirding
 bewary
 biohazard
