@@ -3448,7 +3448,6 @@ bovarism
 basuto
 bancos
 buphaga
-bander
 barkpeeler
 boobook
 bugling
@@ -5120,6 +5119,7 @@ bookless
 bradytelic
 broncobusting
 busier
+bander
 bhangs
 bombshells
 beflour
