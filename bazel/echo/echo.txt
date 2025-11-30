@@ -3396,7 +3396,6 @@ equivocally
 epinephelus
 ebullate
 exurbanite
-exacters
 emphase
 egoist
 embargoes
@@ -10305,6 +10304,7 @@ ensignment
 ethnicist
 endymal
 elingued
+exacters
 erasable
 establismentarian
 enlink
