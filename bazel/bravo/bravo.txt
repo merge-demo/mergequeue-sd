@@ -5800,6 +5800,7 @@ bellyache
 biremes
 butlerism
 bandstop
+bondsmen
 bellyached
 bismethyl
 bellyacher
@@ -12463,7 +12464,6 @@ blueys
 braeman
 bromgelatin
 bulbose
-bondsmen
 bonify
 bdls
 betaines
