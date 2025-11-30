@@ -1386,6 +1386,7 @@ bale
 babassu
 baleare
 bajonado
+battledore
 backjoint
 balearica
 balebos
@@ -4280,7 +4281,6 @@ boggish
 brabbled
 bembecidae
 bathyscaph
-battledore
 bacterious
 bebreech
 bigeminy
