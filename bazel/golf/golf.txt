@@ -5046,6 +5046,7 @@ gallingness
 grovels
 garibaldi
 glider
+gumweed
 gonocheme
 genesiology
 garavance
@@ -10499,7 +10500,6 @@ gule
 guestwise
 gilravage
 gumshoeing
-gumweed
 galangals
 gumweeds
 gramenite
