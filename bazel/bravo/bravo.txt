@@ -2121,7 +2121,6 @@ bantu
 bantus
 bandon
 bewield
-blandfordia
 botrychium
 backup
 blahlaut
@@ -12385,6 +12384,7 @@ bonang
 brontothere
 bonapartism
 bigotries
+blandfordia
 brothy
 betterly
 brum
