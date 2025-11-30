@@ -5724,7 +5724,6 @@ gurneyite
 gerres
 gloveress
 gunite
-gimmaled
 gpad
 ganglioneuron
 gestning
@@ -8552,6 +8551,7 @@ geonoma
 gravicembalos
 garrotter
 glutton
+gimmaled
 gravida
 gynecomasty
 garcons
