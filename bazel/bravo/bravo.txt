@@ -3374,7 +3374,6 @@ biotechnics
 bassetta
 blockbuster
 bays
-bandstands
 basiophthalmous
 bassetting
 bassy
@@ -16132,6 +16131,7 @@ bonelessness
 befret
 billowing
 botryomycotic
+bandstands
 banning
 blesbok
 benzoline
