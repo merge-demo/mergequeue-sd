@@ -3095,7 +3095,6 @@ generally
 glucokinin
 globigerine
 gleanable
-gali
 gubat
 gibbol
 geophilid
@@ -5415,6 +5414,7 @@ grimmer
 gremmy
 glimmering
 glimmeringly
+gali
 garveys
 grebo
 glyn
