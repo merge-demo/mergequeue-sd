@@ -11880,6 +11880,7 @@ bench
 blitzing
 bethumping
 brulyies
+bolstered
 boerhavia
 becrown
 bosk
@@ -12234,7 +12235,6 @@ borocaine
 bemud
 bancal
 bainite
-bolstered
 battologised
 boardwalk
 biabo
