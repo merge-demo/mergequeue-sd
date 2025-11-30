@@ -11068,6 +11068,7 @@ eurus
 electrothermostat
 enhusk
 expropriations
+embroil
 episcopally
 estheria
 epileptically
@@ -13187,7 +13188,6 @@ enfeature
 expiable
 excubitorium
 entailment
-embroil
 enties
 expiation
 ensilate
