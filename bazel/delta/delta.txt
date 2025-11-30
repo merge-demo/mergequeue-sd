@@ -2628,6 +2628,7 @@ diswarrened
 decoherence
 dirndl
 duramatral
+drippy
 draffy
 dacoitage
 decoke
@@ -11151,7 +11152,6 @@ dorlach
 doupioni
 dumbfound
 disastrous
-drippy
 dreparnaudia
 dosain
 diaphanous
