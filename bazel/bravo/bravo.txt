@@ -6265,6 +6265,7 @@ brandsolder
 becassine
 bentgrass
 benthos
+bumelia
 besmiling
 beshames
 brachycatalectic
@@ -11143,7 +11144,6 @@ beknot
 bitewings
 breveted
 boronia
-bumelia
 brutalised
 bloodwite
 bailee
