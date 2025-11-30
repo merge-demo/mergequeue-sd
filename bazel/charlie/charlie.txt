@@ -15909,7 +15909,6 @@ cleoid
 cleomes
 chimbs
 clep
-cakemaker
 comitant
 countertrippant
 cleanly
@@ -16209,6 +16208,7 @@ clinkery
 clinkering
 clinking
 chields
+cakemaker
 concessionaries
 concrfsce
 cytotoxicity
