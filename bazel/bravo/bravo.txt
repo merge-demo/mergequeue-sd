@@ -6377,7 +6377,6 @@ businesswomen
 bibulous
 benzodiazole
 burdener
-benzofulvene
 bollen
 benzofuran
 benzofuryl
@@ -15182,6 +15181,7 @@ bribing
 buzziest
 bellowsmaker
 bloater
+benzofulvene
 breastplough
 blunted
 brushman
