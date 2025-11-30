@@ -7946,7 +7946,6 @@ glycerol
 glaziery
 goodyish
 gymnurinae
-guesdist
 gymnospermy
 glumness
 getmjlkost
@@ -9065,6 +9064,7 @@ grilse
 glossitis
 grimaced
 gulose
+guesdist
 genoese
 gis
 goloch
