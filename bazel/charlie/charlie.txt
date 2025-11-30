@@ -3508,6 +3508,7 @@ centinody
 countershaft
 chappow
 capsuliferous
+coabsume
 coldcock
 cheloniid
 capsuliform
@@ -17019,7 +17020,6 @@ colliquative
 cynogale
 coabound
 chibouque
-coabsume
 cytodieretic
 coacceptor
 censuring
