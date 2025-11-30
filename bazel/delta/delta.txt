@@ -161,6 +161,7 @@ depasturable
 dissatisfying
 dado
 drugstore
+demipremise
 doltishly
 dareall
 dadoes
@@ -3211,7 +3212,6 @@ deinotherium
 defectors
 dandiest
 dismayful
-demipremise
 docosanoic
 dozenths
 defectum
