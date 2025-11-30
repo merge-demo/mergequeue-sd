@@ -2006,6 +2006,7 @@ anticipatory
 arterial
 acetosoluble
 acetostearin
+amoyese
 acetothienone
 acetotoluid
 accessible
@@ -14411,7 +14412,6 @@ apprehensively
 akees
 acclaims
 anthracic
-amoyese
 anthracitious
 angiospastic
 awunctive
