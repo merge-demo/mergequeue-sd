@@ -334,6 +334,7 @@ enclaret
 encephalograph
 estops
 eastre
+epiphonema
 extents
 enturret
 empresse
@@ -13163,7 +13164,6 @@ experting
 ectally
 elderwoman
 epicoelian
-epiphonema
 epistlar
 endergonic
 eugenist
