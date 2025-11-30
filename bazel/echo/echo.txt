@@ -11159,6 +11159,7 @@ episome
 executing
 evacuants
 earthdrake
+exoascus
 exophagous
 epaulet
 eadi
@@ -11699,7 +11700,6 @@ electrocautery
 epididymectomy
 emundation
 exaggeratingly
-exoascus
 extralinguistically
 expends
 erythrogenic
