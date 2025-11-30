@@ -11174,6 +11174,7 @@ bacteriocidal
 blooped
 byways
 bertram
+betweenness
 boxen
 borean
 bronchiloquy
@@ -13461,7 +13462,6 @@ borstall
 baronethood
 bottomers
 bottoming
-betweenness
 balderdash
 benefic
 bradyseismism

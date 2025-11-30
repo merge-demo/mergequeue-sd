@@ -8755,7 +8755,6 @@ dirl
 dimps
 diatoma
 dermenchysis
-diapase
 deems
 diastase
 din
@@ -12766,6 +12765,7 @@ detroit
 dodrans
 dupondii
 domesticize
+diapase
 deer
 dysneuria
 dislodgement
