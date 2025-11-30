@@ -7206,7 +7206,6 @@ grizzlies
 gutterwise
 gripman
 gainlessness
-gentoo
 grayest
 goodwillit
 gemellione
@@ -10177,6 +10176,7 @@ gemlich
 goggly
 grazioso
 grooper
+gentoo
 gauloiserie
 guato
 grievous
