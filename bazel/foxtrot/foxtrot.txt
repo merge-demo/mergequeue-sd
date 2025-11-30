@@ -2218,7 +2218,6 @@ frecklish
 fondlesome
 fluorinates
 foals
-feminineness
 feudee
 freshmanhood
 fikie
@@ -7635,6 +7634,7 @@ faluns
 fubby
 forefield
 factitiousness
+feminineness
 foreorlop
 flimsilyst
 flips
