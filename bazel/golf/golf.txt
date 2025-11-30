@@ -130,6 +130,7 @@ glacises
 gallantize
 granulize
 gageable
+gospodar
 guerdonable
 geryonid
 guelf
@@ -8787,7 +8788,6 @@ greenswarded
 greenware
 giveth
 greenwoods
-gospodar
 geophilus
 gekko
 ghostess

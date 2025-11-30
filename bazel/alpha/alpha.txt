@@ -6828,7 +6828,6 @@ airfoils
 airglows
 airgraphics
 anisometropia
-androcyte
 ascula
 aquiculturist
 aeromarine
@@ -15873,6 +15872,7 @@ azureous
 acridian
 antipollution
 ade
+androcyte
 antipooling
 aflush
 abreption
