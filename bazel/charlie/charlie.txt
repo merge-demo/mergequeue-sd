@@ -18971,6 +18971,7 @@ collectibility
 collectible
 collection
 cinnamon
+criticizers
 collectivise
 collectivism
 collectivist
@@ -29556,7 +29557,6 @@ corbiculae
 chalcomancy
 cog
 criticized
-criticizers
 criticizing
 criticship
 criticule
