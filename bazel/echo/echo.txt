@@ -2451,6 +2451,7 @@ exciting
 exciple
 ebonist
 electroencephalographical
+ellipsometry
 essentialize
 evoker
 electroendosmosis
@@ -7693,7 +7694,6 @@ eustele
 embrued
 enukki
 effumability
-ellipsometry
 eremophyte
 epideictic
 endomesoderm

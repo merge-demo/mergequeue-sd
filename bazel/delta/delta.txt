@@ -10588,7 +10588,6 @@ dislikes
 disequilibrium
 disslander
 duteously
-discoblastula
 disavowance
 deafens
 diploe
@@ -11920,6 +11919,7 @@ delegatus
 doughtiness
 distinguished
 dalliance
+discoblastula
 dedifferentiated
 dropsical
 defrosters
