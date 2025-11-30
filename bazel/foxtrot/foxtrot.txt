@@ -5914,7 +5914,6 @@ foeticidal
 fluviovolcanic
 flybane
 foveola
-freyr
 factitude
 familic
 frats
@@ -8432,6 +8431,7 @@ forpine
 fictitiously
 facsimilize
 felonsetter
+freyr
 febronian
 fique
 flaucht
