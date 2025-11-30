@@ -5205,6 +5205,7 @@ geognosist
 gleamily
 gabble
 gharial
+grifting
 gleamingly
 garroters
 gaviiformes
@@ -9011,7 +9012,6 @@ glacis
 guzzlers
 glory
 garoter
-grifting
 graving
 gwantus
 gritstone
