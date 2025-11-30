@@ -3458,7 +3458,6 @@ eutelegenic
 enchained
 encolden
 embers
-expiring
 estival
 enate
 epees
@@ -11105,6 +11104,7 @@ engagedness
 enlisted
 electrocapillary
 evangelisation
+expiring
 energized
 evans
 expiate
