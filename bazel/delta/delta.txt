@@ -5448,6 +5448,7 @@ deltidial
 dissolves
 diplomatics
 disc
+decagon
 denuder
 dermolysis
 douched
@@ -13507,7 +13508,6 @@ diatomite
 disruptive
 disruptor
 dada
-decagon
 dismissers
 denasalize
 dissait
