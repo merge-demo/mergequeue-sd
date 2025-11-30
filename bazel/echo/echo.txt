@@ -3531,6 +3531,7 @@ embodiers
 embodies
 elevens
 essential
+empasma
 embassage
 ekes
 epepophysial
@@ -7757,7 +7758,6 @@ estopping
 equips
 edelweisses
 ethinamate
-empasma
 eggshells
 executable
 epidiascope
