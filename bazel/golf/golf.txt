@@ -5849,7 +5849,6 @@ gatten
 gonophoric
 glochidia
 gendarmes
-gruiformes
 ghettoing
 geroderma
 graffito
@@ -10312,6 +10311,7 @@ galactosidase
 girasol
 greenbacks
 gault
+gruiformes
 granulations
 getsul
 gullygut
