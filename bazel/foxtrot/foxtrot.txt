@@ -6736,7 +6736,6 @@ fluorescin
 fibrocellular
 food
 foliageous
-fineer
 furthersome
 fibrochondroma
 fleury
@@ -10273,6 +10272,7 @@ falernian
 folkmot
 faultless
 fromenty
+fineer
 fromenties
 fogyishness
 fluorated

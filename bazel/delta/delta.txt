@@ -11463,7 +11463,6 @@ devaluations
 deadeye
 duodenogram
 dehaites
-degumming
 draconis
 distorted
 desertless
@@ -16466,6 +16465,7 @@ diagramming
 dazed
 datiscin
 deodorizing
+degumming
 dracone
 decelerator
 draconian
