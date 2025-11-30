@@ -6295,7 +6295,6 @@ caup
 colletidae
 caupo
 candelas
-catochus
 coheaded
 cumberlandite
 cestos
@@ -18084,6 +18083,7 @@ cryptococcic
 craps
 convexedly
 caver
+catochus
 catnapers
 causing
 craneman
