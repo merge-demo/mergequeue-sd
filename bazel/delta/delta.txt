@@ -7777,7 +7777,6 @@ denicotinized
 devisees
 deoxygenate
 disastimeter
-defter
 decoded
 dogmatization
 deadweight
@@ -17090,6 +17089,7 @@ devastative
 drierman
 decennials
 deconcentrated
+defter
 dryfoot
 drift
 driftage
