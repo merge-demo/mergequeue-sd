@@ -16738,7 +16738,6 @@ clouds
 chanteuses
 cloudship
 cursedest
-chalcophile
 cloudward
 cloudwards
 calamiferous
@@ -29928,6 +29927,7 @@ coelenterata
 chopfallen
 carcase
 cuculidae
+chalcophile
 crosslight
 crosslike
 carbosilicate
