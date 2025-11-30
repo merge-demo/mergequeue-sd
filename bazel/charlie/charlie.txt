@@ -12240,7 +12240,6 @@ christadelphian
 chumulu
 cabrito
 chirimoyer
-carrytale
 coynesses
 carpentered
 catnips
@@ -29673,6 +29672,7 @@ chronogrammatist
 crocuta
 confusing
 circumambagious
+carrytale
 croft
 claybank
 cathars
