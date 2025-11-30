@@ -8937,6 +8937,7 @@ beautifiers
 backwort
 beledgered
 blepharochalasis
+bulky
 benumbedness
 biogenesist
 bloodflower
@@ -17036,7 +17037,6 @@ boldfaces
 burt
 bulkhead
 bulkheading
-bulky
 bulkier
 bulkily
 bitterweed
