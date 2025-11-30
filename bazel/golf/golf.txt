@@ -5146,6 +5146,7 @@ gallweed
 glomera
 goblinesque
 gutturine
+gryphosaurus
 gentlehearted
 goldylocks
 gyps
@@ -6102,7 +6103,6 @@ grotesquely
 glengarries
 goosebeak
 gullibly
-gryphosaurus
 gratulated
 gigahertz
 gnessic

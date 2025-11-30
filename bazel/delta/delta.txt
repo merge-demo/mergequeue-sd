@@ -2442,6 +2442,7 @@ dane
 decimates
 desmohemoblast
 dropkick
+dimensible
 dusken
 dihydronaphthalene
 decimating
@@ -16548,7 +16549,6 @@ disingenuity
 draft
 dragee
 disputed
-dimensible
 dragger
 draggers
 draggier
