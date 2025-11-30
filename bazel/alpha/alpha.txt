@@ -5305,7 +5305,6 @@ affixation
 amortization
 affixed
 apophantic
-andantinos
 androsin
 affixers
 affixes
@@ -8123,6 +8122,7 @@ algerines
 algerite
 aciduric
 algernon
+andantinos
 assassinator
 algesiometer
 algidity
