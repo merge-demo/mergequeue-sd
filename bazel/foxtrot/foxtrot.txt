@@ -2305,7 +2305,6 @@ fast
 fixities
 fixatifs
 flagitious
-felis
 franchises
 feminizes
 friday
@@ -6353,6 +6352,7 @@ flatlings
 flowchart
 flagpole
 fluocerine
+felis
 fren
 flang
 fullterm
