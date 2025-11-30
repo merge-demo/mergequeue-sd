@@ -3284,7 +3284,6 @@ basiotripsy
 branchway
 boobyism
 bookwork
-basipetal
 beclatter
 basipodite
 blank
@@ -10971,6 +10970,7 @@ branchedness
 barlow
 bicuspids
 blithe
+basipetal
 burliest
 baggies
 blithesomely

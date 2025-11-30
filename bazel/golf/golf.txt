@@ -5746,7 +5746,6 @@ guanyl
 grieshuckle
 girasols
 gyrolite
-gurus
 geologize
 gratia
 gammons
@@ -8000,6 +7999,7 @@ grabbots
 gratitude
 geste
 gemse
+gurus
 ghosthood
 gangsman
 gouvernante
