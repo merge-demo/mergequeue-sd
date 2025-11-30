@@ -584,6 +584,7 @@ fivefold
 floorless
 fellon
 foreknows
+frailish
 forpet
 fossilisation
 forints
@@ -6529,7 +6530,6 @@ freakishly
 flasque
 foetid
 floccose
-frailish
 frenchman
 firebed
 forecover
