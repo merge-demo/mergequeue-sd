@@ -3828,6 +3828,7 @@ ethnohistorical
 extolled
 economic
 engrain
+enlife
 expletory
 emended
 ecu
@@ -8298,7 +8299,6 @@ epitaxis
 ebonizes
 epidemicity
 epigrammatized
-enlife
 ecophobia
 erythrismal
 enroller
