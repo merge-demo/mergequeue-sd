@@ -1573,7 +1573,6 @@ fissirostres
 facially
 farcetta
 fegary
-fooster
 favored
 feasibilities
 favorer
@@ -8126,6 +8125,7 @@ foretellers
 forethrift
 fusel
 fondon
+fooster
 farmland
 foison
 fire
