@@ -8581,6 +8581,7 @@ chavibetol
 chuckram
 ceratiidae
 cowpeas
+chich
 composit
 chimneying
 corcopali
@@ -10248,7 +10249,6 @@ champerator
 cantharidin
 chicest
 coccidioidomycosis
-chich
 chicha
 cheiroglossa
 chichevache
