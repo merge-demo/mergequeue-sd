@@ -5209,7 +5209,6 @@ atoneness
 affectional
 affectionally
 affectionateness
-affectioned
 anemographic
 affections
 affectious
@@ -22804,6 +22803,7 @@ anchoritish
 antitemperance
 atlantid
 asaphid
+affectioned
 atlantides
 audibility
 atlantite
