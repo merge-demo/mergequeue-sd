@@ -8035,6 +8035,7 @@ felsites
 ferroalloy
 faunally
 fieldie
+fulcrate
 favoured
 folksay
 fredricite
@@ -9447,7 +9448,6 @@ fratry
 fountainheads
 flippery
 furnaceman
-fulcrate
 flounderingly
 fratricelli
 furculum
