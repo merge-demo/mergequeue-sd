@@ -5912,7 +5912,6 @@ electorial
 epigeum
 ewest
 eutopian
-extrazodiacal
 epigramme
 exacerbescence
 epidendral
@@ -7020,6 +7019,7 @@ escalops
 eburnation
 enwood
 eneas
+extrazodiacal
 eustyle
 entrepreneur
 enrobers
