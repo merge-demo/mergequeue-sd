@@ -8097,7 +8097,6 @@ breezelike
 bdle
 bendaying
 branches
-byronian
 blooper
 binous
 bracken
@@ -17702,6 +17701,7 @@ braconid
 bankeress
 broach
 bicornes
+byronian
 buyer
 burma
 begazed
