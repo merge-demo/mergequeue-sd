@@ -1941,6 +1941,7 @@ gushy
 greeve
 guttiness
 galopades
+geckos
 glorifiers
 galliards
 gothite
@@ -3279,7 +3280,6 @@ geriatrician
 geriatrist
 goxes
 german
-geckos
 gunstocks
 graminiferous
 germanification

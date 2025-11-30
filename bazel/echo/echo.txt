@@ -10888,6 +10888,7 @@ empair
 esclandre
 exsolve
 exrupeal
+exceptionably
 emmetropia
 eutectic
 extensor
@@ -11247,7 +11248,6 @@ epithetize
 englyns
 eely
 echinoidea
-exceptionably
 effulgently
 excisemanship
 enclothe
