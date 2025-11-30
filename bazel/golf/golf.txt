@@ -2791,7 +2791,6 @@ gantlope
 goblets
 gluttonised
 graduals
-gurr
 gemeinde
 gamphrel
 gaunt
@@ -9290,6 +9289,7 @@ gamely
 gemauve
 granitoid
 groenendael
+gurr
 gecko
 gallstone
 graduale
