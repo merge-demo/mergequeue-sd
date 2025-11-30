@@ -3495,7 +3495,6 @@ gesticulations
 grueller
 gentiin
 girlish
-gagman
 gagee
 gregg
 gallimaufries
@@ -8470,6 +8469,7 @@ geotaxis
 gelada
 glossingly
 gov
+gagman
 ginglymoarthrodial
 gleyde
 gilders
