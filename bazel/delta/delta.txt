@@ -4191,7 +4191,6 @@ discolorization
 dicyanogen
 diadokokinesis
 duodena
-desynapsis
 drearfully
 dells
 distinct
@@ -14445,6 +14444,7 @@ disjointing
 duopolist
 denies
 dindymene
+desynapsis
 divertibility
 diverticle
 daibutsu
