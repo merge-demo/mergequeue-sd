@@ -3932,6 +3932,7 @@ emmetropy
 equationally
 endplates
 enanthem
+encirclement
 emmett
 existentialism
 ethnic
@@ -12622,7 +12623,6 @@ effectualness
 epigenetically
 erasmian
 eagless
-encirclement
 excoriate
 exoculate
 expostulates
