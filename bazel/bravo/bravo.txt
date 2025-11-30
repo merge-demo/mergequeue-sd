@@ -5074,7 +5074,6 @@ bathoses
 befire
 befist
 boomerangs
-braised
 brooked
 berberia
 bespotted
@@ -12769,6 +12768,7 @@ bucolic
 bullfice
 baskerville
 bookward
+braised
 bookwards
 byronite
 bookworm
