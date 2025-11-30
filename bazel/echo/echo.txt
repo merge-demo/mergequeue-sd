@@ -4243,6 +4243,7 @@ emigrations
 epicenism
 empurpled
 excitedness
+ergoism
 enterochlorophyll
 empuzzle
 eerie
@@ -5955,7 +5956,6 @@ echinoderes
 exantlation
 endobronchially
 exhilaration
-ergoism
 enhelm
 elysia
 euphonising
