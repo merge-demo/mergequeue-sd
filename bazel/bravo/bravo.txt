@@ -3567,6 +3567,7 @@ bathmats
 broodsac
 bereaven
 basion
+boatyards
 bathmism
 banker
 befathered
@@ -14467,7 +14468,6 @@ builtin
 baby
 brakeroot
 braky
-boatyards
 bakunda
 betray
 brakie
