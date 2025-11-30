@@ -4347,6 +4347,7 @@ balzacian
 bemercy
 bushwalking
 bely
+binghi
 blowze
 bonspiels
 bombola
@@ -10168,7 +10169,6 @@ bufferrers
 beroida
 begrime
 badgering
-binghi
 broomy
 brickiest
 bassing
