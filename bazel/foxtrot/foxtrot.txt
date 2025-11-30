@@ -1770,7 +1770,6 @@ fackings
 fosslfying
 forevision
 fakofo
-featherpate
 fetlocks
 foghorns
 futurology
@@ -8131,6 +8130,7 @@ farmland
 foison
 fire
 flexo
+featherpate
 flatcaps
 faithful
 featurette
