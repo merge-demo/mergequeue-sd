@@ -5108,7 +5108,6 @@ easers
 egma
 extramarital
 egoistical
-endoceratidae
 extraneously
 endocervical
 eccentrically
@@ -6894,6 +6893,7 @@ electrochemical
 entomophthorales
 erythrodextrin
 enfeoffed
+endoceratidae
 estruses
 extremism
 epaulets
