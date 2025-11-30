@@ -1208,7 +1208,6 @@ grabbed
 griot
 gradations
 globular
-guestive
 guttate
 garfishes
 glasswork
@@ -4376,6 +4375,7 @@ gozill
 granulite
 gemstone
 gliriformia
+guestive
 gravestead
 glossata
 globules
