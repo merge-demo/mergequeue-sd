@@ -881,7 +881,6 @@ exhumating
 expediencies
 economically
 ectopy
-engulfed
 ectopistes
 ectoplasmatic
 expansibly
@@ -1236,6 +1235,7 @@ endoplastular
 equvalent
 estamin
 equicaloric
+engulfed
 exstemporal
 extremal
 eme
