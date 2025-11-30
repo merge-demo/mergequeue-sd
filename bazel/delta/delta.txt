@@ -384,7 +384,6 @@ drinkers
 daimiote
 defension
 deployable
-disembargoing
 dimmet
 daimons
 ditches
@@ -11134,6 +11133,7 @@ dissertator
 disarticulating
 disarticulation
 detruded
+disembargoing
 disarticulator
 disasinize
 deliciously
