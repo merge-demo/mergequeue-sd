@@ -11749,6 +11749,7 @@ examinable
 eglateres
 examinant
 eschewer
+emerized
 enscrolled
 examinatory
 estrepe
@@ -12210,7 +12211,6 @@ enflame
 entrechats
 emanated
 elementalism
-emerized
 excelse
 execratively
 excreter
