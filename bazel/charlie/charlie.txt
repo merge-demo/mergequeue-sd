@@ -11328,7 +11328,6 @@ chagoma
 cruche
 colonizer
 chloropalladates
-chloropalladic
 chlorophenol
 charangos
 chlorophenothane
@@ -20137,6 +20136,7 @@ chandelles
 commissioning
 croaks
 commissive
+chloropalladic
 commissively
 cinchona
 commissoria
