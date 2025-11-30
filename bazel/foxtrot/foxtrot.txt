@@ -6155,6 +6155,7 @@ farrieries
 fabella
 flowcharted
 fungibles
+fumigate
 festivals
 fragmentized
 finality
@@ -9954,7 +9955,6 @@ fragment
 formularizer
 forcers
 frigolabile
-fumigate
 fadlike
 friendships
 feloniousness
