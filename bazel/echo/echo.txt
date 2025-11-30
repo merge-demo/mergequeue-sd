@@ -4753,7 +4753,6 @@ erosional
 eelware
 exalbuminose
 encist
-electralize
 exponentially
 encysting
 eugenol
@@ -8935,6 +8934,7 @@ epiphanies
 errhine
 eudaemonist
 erical
+electralize
 exoskeletal
 eteoclus
 endosmotically

@@ -14469,6 +14469,7 @@ ciseaux
 courante
 cising
 cisium
+curnock
 cisjurane
 cisleithan
 cislunar
@@ -27201,7 +27202,6 @@ chelas
 corses
 counterturned
 cicatrised
-curnock
 colutea
 cosin
 camisade
