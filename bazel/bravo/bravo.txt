@@ -2080,7 +2080,6 @@ besteer
 bladeless
 boguing
 bulker
-billbeetle
 botoyan
 bloodbeat
 banshies
@@ -6355,6 +6354,7 @@ birdwise
 blossoming
 bragger
 beadiness
+billbeetle
 blastogranitic
 biophysicists
 batsmanship
