@@ -985,7 +985,6 @@ gagmen
 ganched
 gonotokont
 goner
-gerodontology
 granddads
 gundi
 gouge
@@ -10609,6 +10608,7 @@ gigging
 gallbladder
 glossmeter
 gadidae
+gerodontology
 geohydrologist
 gourmetism
 gowned
