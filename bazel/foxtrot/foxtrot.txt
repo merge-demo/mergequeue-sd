@@ -3564,7 +3564,6 @@ fellowmen
 frenchism
 fogie
 fidelity
-flamboyance
 fencelet
 faradises
 foremention
@@ -4749,6 +4748,7 @@ fingal
 footwalls
 feif
 filipino
+flamboyance
 faikes
 falsifiability
 flowe
