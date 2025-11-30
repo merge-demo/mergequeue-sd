@@ -1480,7 +1480,6 @@ fibry
 frizzes
 flunkyhood
 floatability
-fungillus
 faucre
 faultiest
 fishmeal
@@ -6983,6 +6982,7 @@ fonding
 fondle
 frayings
 fondled
+fungillus
 fondles
 fainter
 formalazine
