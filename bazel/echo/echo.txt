@@ -297,7 +297,6 @@ elderly
 eightsome
 exploitation
 echos
-exhumation
 epilepsies
 elrage
 eyrer
@@ -5983,6 +5982,7 @@ epicondylitis
 expectorates
 enframing
 enigma
+exhumation
 egotism
 enigmas
 enjambements
