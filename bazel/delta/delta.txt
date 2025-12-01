@@ -13598,6 +13598,7 @@ diplomacies
 demicritic
 drawnet
 dorcopsis
+duhat
 dissentive
 diavolo
 datakit
@@ -13808,7 +13809,6 @@ dissuasively
 detruncate
 dengues
 dissuit
-duhat
 dignifies
 dissunder
 deflexible
