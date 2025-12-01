@@ -2416,6 +2416,7 @@ apantesis
 accus
 ackees
 apprehensibility
+amatory
 adance
 antismut
 apeptic
@@ -11098,7 +11099,6 @@ ariosi
 ampelotherapy
 abstractiveness
 amper
-amatory
 assientist
 ascots
 analects
