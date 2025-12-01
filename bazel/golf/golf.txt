@@ -2673,7 +2673,6 @@ grudgingness
 gratefullest
 genghis
 geodiferous
-gabardines
 gravelous
 guaican
 glyconean
@@ -7157,6 +7156,7 @@ gore
 gorebill
 gordioid
 gearboxes
+gabardines
 gored
 gores
 goldenness

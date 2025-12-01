@@ -8694,7 +8694,6 @@ agers
 amnesiacs
 appareled
 allemand
-alleniate
 allentato
 agaty
 alsine
@@ -22026,6 +22025,7 @@ arthrotrauma
 arabesque
 anticeremonial
 antiwar
+alleniate
 albumenizing
 assuringly
 amphiuma
