@@ -1987,6 +1987,7 @@ forerake
 fitched
 flossflower
 fortunel
+fural
 floative
 fayed
 futiley
@@ -5529,7 +5530,6 @@ foamily
 foreordain
 flagon
 fol
-fural
 forestays
 favellae
 flexion
