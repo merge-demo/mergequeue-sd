@@ -2285,7 +2285,6 @@ fashionless
 fundable
 foambow
 filicales
-formulable
 flotation
 foreface
 fistulizing
@@ -4666,6 +4665,7 @@ flaunched
 flections
 flexibilities
 frighten
+formulable
 fumariaceae
 fragrantly
 foreby
