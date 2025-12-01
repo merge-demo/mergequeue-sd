@@ -5519,6 +5519,7 @@ brawly
 bilineated
 babist
 bebled
+brachistochronic
 breeziest
 blamer
 bilharzic
@@ -17377,7 +17378,6 @@ bimorphemic
 bijection
 bunghole
 biathlons
-brachistochronic
 beignets
 bottles
 boudoirs
