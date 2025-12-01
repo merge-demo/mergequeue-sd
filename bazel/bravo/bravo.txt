@@ -7249,7 +7249,6 @@ blueberry
 bestrides
 boondock
 bestrown
-bathochromatic
 barbarity
 ballplayers
 bimanual
@@ -11507,6 +11506,7 @@ blunderhead
 buttonbur
 barotaxis
 birthday
+bathochromatic
 betaxed
 bichrome
 bullae
