@@ -15954,7 +15954,6 @@ decadist
 doth
 disorganize
 dipterist
-deglutination
 dumpoke
 dl
 debacles
@@ -18450,6 +18449,7 @@ dints
 demerge
 distrusts
 diddler
+deglutination
 duplicious
 danner
 dactylographic
