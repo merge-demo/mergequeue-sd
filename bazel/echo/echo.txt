@@ -6566,7 +6566,6 @@ eclectic
 engroove
 entelechies
 engorging
-entendre
 epidermophytosis
 extravagating
 exciter
@@ -12587,6 +12586,7 @@ etc
 exclaim
 ergonovine
 exobasidium
+entendre
 eupathy
 enlure
 echuca
