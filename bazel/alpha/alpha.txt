@@ -4011,6 +4011,7 @@ acronymize
 advect
 aphaeresis
 admerveylle
+aeromotor
 admi
 anhydrously
 apopemptic
@@ -14918,7 +14919,6 @@ azygobranchia
 anticly
 algiers
 aegagropilae
-aeromotor
 aboriginally
 abassi
 anticlimax

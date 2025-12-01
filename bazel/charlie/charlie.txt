@@ -5951,7 +5951,6 @@ cathedratic
 cathedraticum
 cathepsin
 cathern
-conversably
 catties
 cattail
 catheterise
@@ -27983,6 +27982,7 @@ crags
 carthusian
 chart
 cessions
+conversably
 celtic
 cragwork
 controllership
