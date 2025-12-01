@@ -6905,7 +6905,6 @@ epispore
 ectocardia
 endometria
 equipments
-embelif
 eucalyn
 epitrchelia
 exudation
@@ -8850,6 +8849,7 @@ endocellular
 eremitism
 euploidy
 ecuelling
+embelif
 epitheloid
 enkernel
 ecospecifically
