@@ -5740,6 +5740,7 @@ acop
 amant
 arrowwood
 adaty
+appointor
 antisacerdotal
 antistrophon
 aigrettes
@@ -15934,7 +15935,6 @@ accidia
 amici
 arnut
 angloman
-appointor
 autorotate
 antiq
 antiqua
