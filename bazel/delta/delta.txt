@@ -1598,6 +1598,7 @@ disinfector
 deadwork
 deaerated
 dorsum
+dermatoneural
 deaf
 drollery
 dynamogenous
@@ -6338,7 +6339,6 @@ disgrade
 dephlegmatory
 delacrimation
 dermestid
-dermatoneural
 dextrogyration
 deject
 debit
