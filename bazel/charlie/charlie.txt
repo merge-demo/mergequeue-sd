@@ -3491,7 +3491,6 @@ capsizing
 capernaitish
 capsomere
 capsomers
-capstan
 capstans
 capstone
 capsula
@@ -12761,6 +12760,7 @@ cantharophilous
 chaenactis
 chun
 confessional
+capstan
 chunam
 calcifies
 chunari
