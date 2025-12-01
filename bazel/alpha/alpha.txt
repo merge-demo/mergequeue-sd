@@ -8287,6 +8287,7 @@ axonal
 abacay
 auks
 alif
+ammeters
 applicatorily
 andropetalous
 amatively
@@ -10779,7 +10780,6 @@ apothecary
 ammer
 adductor
 ammeter
-ammeters
 amplexuses
 aminogen
 anticonstitutionalist

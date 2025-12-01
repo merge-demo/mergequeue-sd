@@ -6431,6 +6431,7 @@ ensilver
 ensisternum
 equilibrating
 eye
+ephetic
 earthling
 enterprisingness
 eyedrop
@@ -7482,7 +7483,6 @@ eyess
 extracivically
 ephetae
 effulged
-ephetic
 epitaphs
 eclectist
 extricated
