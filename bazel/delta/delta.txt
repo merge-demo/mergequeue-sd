@@ -13352,7 +13352,6 @@ disputatiousness
 dishorse
 disputator
 disputeful
-dacrydium
 disfeature
 denoted
 deceitful
@@ -15527,6 +15526,7 @@ disaffection
 disintegrationist
 disvalued
 derobe
+dacrydium
 dispassionateness
 dement
 dewanny
