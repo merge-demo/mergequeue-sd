@@ -7611,7 +7611,6 @@ calcarated
 cerebrospinal
 chaetotaxy
 cevadilline
-cerebrospinant
 cerebrosuria
 cerebrovascular
 coreveller
@@ -26999,6 +26998,7 @@ counterpicture
 combretum
 cuprum
 clericalism
+cerebrospinant
 counterplay
 counterplayer
 carassow
