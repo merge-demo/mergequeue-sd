@@ -12434,7 +12434,6 @@ chromodermatosis
 chromogen
 chromogene
 chromogenesis
-cingulate
 chamaecrista
 cranemanship
 chromoisomer
@@ -21007,6 +21006,7 @@ compunction
 cystaster
 curvedness
 catenaries
+cingulate
 consolidate
 compunctionless
 cyanean
