@@ -443,7 +443,6 @@ forelaying
 fluobromide
 florilage
 formidably
-forgetfully
 friskiest
 forewaters
 ferrophosphorus
@@ -3112,6 +3111,7 @@ fogbank
 fairylike
 fibrocement
 federalness
+forgetfully
 fieulamort
 formulas
 frottages

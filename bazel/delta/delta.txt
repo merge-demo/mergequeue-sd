@@ -488,7 +488,6 @@ doctrinarian
 distilling
 dogs
 dalesfolk
-droughtiest
 dustblu
 defoliant
 disrupter
@@ -10487,6 +10486,7 @@ diphonia
 dismiss
 drowsy
 duumvirs
+droughtiest
 deglutitive
 distortion
 dister
