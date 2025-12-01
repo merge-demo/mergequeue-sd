@@ -402,7 +402,6 @@ genuflexuous
 galatea
 galateas
 glucogenesis
-galbula
 gelding
 glidewort
 gimleted
@@ -8102,6 +8101,7 @@ gastrostomize
 gristmill
 grantors
 grantsman
+galbula
 granular
 girandole
 gooky
