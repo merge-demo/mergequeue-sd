@@ -3211,7 +3211,6 @@ gerah
 goodwily
 gloppen
 grammies
-geraniums
 gebur
 galoping
 giron
@@ -4290,6 +4289,7 @@ ghalva
 gomorrhean
 gesturing
 grumpiness
+geraniums
 goatlike
 gregos
 gigantesque
