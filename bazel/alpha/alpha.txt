@@ -6078,6 +6078,7 @@ anorchism
 anisochromatic
 anapaestic
 aviatrix
+aristoi
 appay
 askile
 aminopeptidase
@@ -7575,7 +7576,6 @@ alcalde
 anthropocentricity
 alcaldes
 alcaldeship
-aristoi
 affectingly
 alcaldia
 altaite
