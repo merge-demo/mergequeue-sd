@@ -9547,6 +9547,7 @@ buccaro
 bettered
 bught
 biblist
+behang
 bodewash
 budorcas
 breeching
@@ -12287,7 +12288,6 @@ bomb
 barratrous
 bombacaceae
 bombace
-behang
 bioscientist
 bombardiers
 bisulphite
