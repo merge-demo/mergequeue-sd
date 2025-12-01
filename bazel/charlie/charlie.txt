@@ -36,7 +36,6 @@ caball
 caballer
 corrosiving
 cranebill
-cineols
 causable
 cherrystones
 cocozelle
@@ -3930,6 +3929,7 @@ carbungi
 cometographical
 cardiograms
 ceratopsidae
+cineols
 cicindela
 caraguata
 coadventurer
