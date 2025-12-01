@@ -1674,6 +1674,7 @@ faucets
 flatworm
 fieldmice
 fragmentation
+formalizes
 folioing
 fleshless
 flagship
@@ -9900,7 +9901,6 @@ fogeater
 fevercup
 fenestrone
 formalin
-formalizes
 foretells
 fistfuls
 falconry
