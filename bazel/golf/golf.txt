@@ -5503,7 +5503,6 @@ galumphed
 gablet
 grande
 ganoids
-gimmer
 goods
 gentlemen
 goodyera
@@ -8283,6 +8282,7 @@ gentians
 grapples
 grappling
 germanish
+gimmer
 graptolitha
 gheraoed
 gibers
