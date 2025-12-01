@@ -7399,7 +7399,6 @@ gummiest
 ghedda
 greenfish
 gunflints
-gelsemine
 gunnery
 gothish
 globousness
@@ -9016,6 +9015,7 @@ glory
 garoter
 graving
 gwantus
+gelsemine
 gritstone
 grasswidow
 ghent
