@@ -10619,6 +10619,7 @@ chymase
 callaloos
 chimb
 culicide
+conchospiral
 cuts
 claustrophobe
 cryptesthetic
@@ -21310,7 +21311,6 @@ conchoids
 communicableness
 conchol
 conchometer
-conchospiral
 cowboys
 conchostraca
 corotated
