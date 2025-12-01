@@ -11053,7 +11053,6 @@ alacreatinin
 amotions
 aubade
 artiodactyl
-apostolic
 attics
 amotus
 arbitrament
@@ -16964,6 +16963,7 @@ alveolars
 affreight
 aplite
 alfione
+apostolic
 aplites
 amulet
 aplitic
