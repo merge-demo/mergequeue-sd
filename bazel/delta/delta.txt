@@ -9072,7 +9072,6 @@ delia
 dehort
 disillusioniser
 dictaen
-diplomatist
 dictamina
 dernier
 drinkproof
@@ -14252,6 +14251,7 @@ delightingly
 downplaying
 descamisados
 diter
+diplomatist
 diluter
 ditertiary
 dinanderie
