@@ -23639,6 +23639,7 @@ carbolise
 contractility
 contractions
 contractly
+coresonant
 contractor
 contractors
 cowls
@@ -25111,7 +25112,6 @@ cores
 carbonates
 chlorospinel
 coresign
-coresonant
 convento
 chincher
 corespect
