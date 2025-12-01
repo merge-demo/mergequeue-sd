@@ -16965,6 +16965,7 @@ drearness
 decimalist
 drecks
 dermatherm
+dualmutef
 demihorse
 dullness
 downcurve
@@ -17671,7 +17672,6 @@ disanimal
 dimerisms
 dualizes
 demarcate
-dualmutef
 dualogue
 dahlias
 disparaged
