@@ -4345,7 +4345,6 @@ caricaturist
 contaminator
 cooptation
 chimeras
-casuists
 consecrated
 caricology
 crisper
@@ -17645,6 +17644,7 @@ cochliodus
 cochlite
 cochlospermaceae
 coffeeleaf
+casuists
 catatoniac
 cocillana
 cyrtolite
