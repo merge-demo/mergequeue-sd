@@ -5260,6 +5260,7 @@ denotativeness
 denotatum
 deacidifying
 denotes
+defeise
 docetistic
 destructuralize
 denoting
@@ -11958,7 +11959,6 @@ dicetyl
 diplostemonous
 depthing
 doorba
-defeise
 discompose
 dramatizes
 downrange
