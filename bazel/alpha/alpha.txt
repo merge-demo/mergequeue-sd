@@ -8714,6 +8714,7 @@ actinopod
 amygdalopathy
 allergin
 allergists
+audiologies
 allerion
 adsmith
 assurable
@@ -23413,7 +23414,6 @@ autohypnosis
 audiology
 acca
 audiological
-audiologies
 aliquid
 anconitis
 aphaeretic

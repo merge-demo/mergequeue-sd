@@ -9172,7 +9172,6 @@ chastacosta
 chattel
 chaste
 chastelain
-coots
 carritch
 catarrh
 carettochelydidae
@@ -30915,6 +30914,7 @@ cultive
 cultrate
 cultrated
 cyclitol
+coots
 cults
 cultual
 cobwebbery
