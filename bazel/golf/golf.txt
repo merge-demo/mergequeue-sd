@@ -4327,7 +4327,6 @@ girse
 grubless
 gravidity
 gymnic
-gymnemic
 gloeosporiose
 gawks
 geodesist
@@ -7617,6 +7616,7 @@ giovanni
 gracilis
 gimmor
 gracing
+gymnemic
 gunpaper
 greyly
 graft
