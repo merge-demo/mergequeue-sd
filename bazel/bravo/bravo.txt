@@ -6423,6 +6423,7 @@ benzopyrylium
 backcourt
 breastweed
 bluestem
+beneception
 benzoquinoxaline
 balau
 benzosulfimide
@@ -6641,7 +6642,6 @@ bimane
 bawdric
 beefing
 bakshishing
-beneception
 bergy
 bergylt
 berginization
