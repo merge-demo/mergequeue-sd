@@ -3706,7 +3706,6 @@ degraduate
 digitinervate
 degravate
 demipike
-degreaser
 dacryohemorrhea
 degreases
 daffadowndilly
@@ -8933,6 +8932,7 @@ dicentras
 dipyramid
 dyads
 defiatory
+degreaser
 diceras
 dmod
 deriving

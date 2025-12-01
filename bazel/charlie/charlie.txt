@@ -19665,7 +19665,6 @@ carrousels
 chroma
 chrismale
 combatant
-cimbalom
 combater
 combaters
 combating
@@ -29669,6 +29668,7 @@ casemate
 crocuses
 chronogrammatist
 crocuta
+cimbalom
 confusing
 circumambagious
 carrytale
