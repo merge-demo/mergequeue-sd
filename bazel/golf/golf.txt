@@ -3773,7 +3773,6 @@ gouvernantes
 giarra
 gherao
 giarre
-gastaldo
 governing
 geobios
 gallantry
@@ -8514,6 +8513,7 @@ grecian
 grues
 gressorious
 glycin
+gastaldo
 geisha
 graveolent
 ghostfish
