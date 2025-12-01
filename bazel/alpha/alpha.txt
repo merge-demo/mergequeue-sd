@@ -9702,7 +9702,6 @@ alveary
 alvearies
 advent
 alvearium
-alveolariform
 antitetanic
 alveolate
 alveolation
@@ -22610,6 +22609,7 @@ acetylcholine
 acater
 athamantid
 acontium
+alveolariform
 aliased
 acuate
 aeromechanic
