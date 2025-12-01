@@ -14321,6 +14321,7 @@ brahmanize
 benched
 bracers
 brahmapootra
+battarism
 borehole
 bumf
 baits
@@ -15673,7 +15674,6 @@ bonbonniere
 bogglebo
 barycentric
 barbering
-battarism
 brunonia
 broadlooms
 bourrides
