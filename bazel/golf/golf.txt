@@ -2842,6 +2842,7 @@ garganey
 gentrices
 gryph
 gayment
+geomyid
 gamodesmy
 glyoxaline
 gether
@@ -7706,7 +7707,6 @@ girning
 galvanized
 gunpowderous
 globus
-geomyid
 grizzliest
 goldworker
 gamins
