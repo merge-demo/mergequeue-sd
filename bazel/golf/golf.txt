@@ -3629,7 +3629,6 @@ grouching
 gedder
 gro
 gastroenterological
-gluconeogenic
 goldest
 gauntleted
 gillnetting
@@ -5388,6 +5387,7 @@ gutting
 glasshouse
 geckoid
 gravitating
+gluconeogenic
 gruelings
 gingal
 graph
