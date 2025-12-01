@@ -4774,7 +4774,6 @@ filigrain
 flageolets
 flagfishes
 fubsy
-forbiddenness
 figurately
 fasciculus
 fissurellidae
@@ -11543,6 +11542,7 @@ folio
 fretfully
 ferociousness
 footlessly
+forbiddenness
 fetting
 fusiform
 fusil
