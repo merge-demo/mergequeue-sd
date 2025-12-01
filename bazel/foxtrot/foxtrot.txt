@@ -5399,7 +5399,6 @@ fusarole
 fennel
 friending
 frigefact
-futurity
 fleabiting
 fledgeling
 fiendhead
@@ -9062,6 +9061,7 @@ fractionation
 forenent
 folding
 fiant
+futurity
 friesish
 funnellike
 fenter
