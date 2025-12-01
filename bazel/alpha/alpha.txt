@@ -6720,6 +6720,7 @@ ain
 anthocyanin
 ablow
 anathematic
+augitite
 ainaleh
 anthropoclimatologist
 arachic
@@ -24806,7 +24807,6 @@ axle
 avis
 aflare
 ambagitory
-augitite
 atractaspis
 almas
 aeluroid

@@ -1600,7 +1600,6 @@ euphonetics
 enablers
 eyewitnesses
 egomania
-elodea
 erecting
 emblems
 egomaniacally
@@ -9981,6 +9980,7 @@ extincting
 esugarization
 endowers
 entonement
+elodea
 entreatment
 esurient
 electroform
