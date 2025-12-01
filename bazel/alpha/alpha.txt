@@ -4793,6 +4793,7 @@ antihum
 aorists
 aeriality
 angiasthenia
+alumin
 acmaea
 aerials
 asuri
@@ -10101,7 +10102,6 @@ antinationally
 archecclesiastic
 amylosynthesis
 adelpholite
-alumin
 acidyl
 antiluetic
 aspirin

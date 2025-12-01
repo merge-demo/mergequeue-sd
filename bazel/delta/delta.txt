@@ -1675,7 +1675,6 @@ deamination
 deaminize
 deammonation
 deashing
-dichastic
 dandle
 deanships
 dothiorella
@@ -11560,6 +11559,7 @@ discommoding
 defervesced
 discommodiously
 downton
+dichastic
 dunker
 ditremid
 dovekie
