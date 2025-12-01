@@ -5392,6 +5392,7 @@ figuration
 fruittime
 forthbringer
 formable
+flimsiness
 flecking
 firehouses
 fusarole
@@ -5643,7 +5644,6 @@ fulguration
 fluidising
 flatulencies
 fireable
-flimsiness
 fairleads
 flinch
 flagleaf
