@@ -20333,7 +20333,6 @@ arseniferous
 azofy
 autometry
 amendments
-autolith
 apophysitis
 arsenious
 acephaline
@@ -23503,6 +23502,7 @@ aggravator
 aphorizer
 ambidexterous
 ansel
+autolith
 arguendo
 atrabiliarious
 augurate
