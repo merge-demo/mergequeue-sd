@@ -2140,6 +2140,7 @@ filtered
 fuligulinae
 flaws
 finfoots
+flamless
 fumette
 fameful
 famously
@@ -6549,7 +6550,6 @@ fluviolacustrine
 fleetly
 funereal
 foretack
-flamless
 flibbertigibbets
 felsic
 flysches

@@ -4750,6 +4750,7 @@ biz
 bedouins
 bauckiebird
 bedown
+bimester
 bradding
 bedpans
 bries
@@ -15768,7 +15769,6 @@ backstrokes
 backhandedly
 besonio
 begowned
-bimester
 broigne
 blueprinting
 bunds
