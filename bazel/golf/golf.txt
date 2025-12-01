@@ -2561,7 +2561,6 @@ gingle
 grue
 generations
 gastrula
-gobangs
 ganch
 generalities
 grig
@@ -8091,6 +8090,7 @@ gainsome
 gulch
 grayhound
 gastrochaenidae
+gobangs
 guacharo
 gourdworm
 grantia
