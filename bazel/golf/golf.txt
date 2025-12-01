@@ -1623,7 +1623,6 @@ glottic
 gasteromycetous
 geneat
 giraffine
-gasteropoda
 gummy
 gillies
 geoff
@@ -10136,6 +10135,7 @@ guffawed
 gamy
 grassers
 galavanting
+gasteropoda
 glia
 gipsyhead
 guffer
