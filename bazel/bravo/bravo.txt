@@ -577,7 +577,6 @@ baconweed
 bierkeller
 bonjour
 barniest
-bricoles
 bibbery
 billmen
 benzobis
@@ -2800,6 +2799,7 @@ blithefully
 buffaloback
 bedarken
 bruta
+bricoles
 beisa
 biquadrate
 baroswitch
