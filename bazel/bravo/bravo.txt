@@ -16059,7 +16059,6 @@ bigamize
 bronze
 bhotia
 brethren
-bannered
 bronzewing
 bio
 blankness
@@ -17932,6 +17931,7 @@ bushmaking
 branial
 bibliopoly
 bushman
+bannered
 bisinuate
 benignant
 bushmasters

@@ -3623,6 +3623,7 @@ caracara
 carack
 caracks
 cumanagoto
+cornucopiae
 curtaxe
 caracol
 coauthoring
@@ -15093,7 +15094,6 @@ cladodont
 closetful
 cruelties
 chubbily
-cornucopiae
 cladodontidae
 cladodus
 cladogenesis
