@@ -3143,6 +3143,7 @@ galena
 gestures
 gastroelytrotomy
 greedygut
+galewort
 gets
 geoscientists
 geochronologically
@@ -10747,7 +10748,6 @@ gagers
 gustiest
 guestimate
 geocentrically
-galewort
 gymnosophical
 gypsyry
 geckotoid
