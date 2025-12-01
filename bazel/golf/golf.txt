@@ -7208,7 +7208,6 @@ gutsier
 gobioidea
 gleesomely
 gaminesses
-galvanotactic
 goodnesses
 gony
 grasshopperdom
@@ -9397,6 +9396,7 @@ griots
 genotypic
 gesticulating
 grosshead
+galvanotactic
 grossly
 grosso
 gowans
