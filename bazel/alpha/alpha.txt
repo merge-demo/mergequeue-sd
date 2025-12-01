@@ -13318,7 +13318,6 @@ abassin
 anisophylly
 afterchurch
 accompanied
-apace
 atmosphered
 asbestus
 anisopod
@@ -18998,6 +18997,7 @@ affectationist
 allocating
 abominated
 adigei
+apace
 arciferous
 archliar
 archmachine

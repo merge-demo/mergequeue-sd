@@ -7304,6 +7304,7 @@ ejicient
 exosporous
 enclitics
 exlex
+electrophore
 elechi
 engird
 excheat
@@ -12638,7 +12639,6 @@ ecclesiasticalness
 exoculation
 exoderm
 elohistic
-electrophore
 eranthemum
 extramurally
 emeus
