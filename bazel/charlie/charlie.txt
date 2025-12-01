@@ -4585,7 +4585,6 @@ chutnee
 colorationally
 carnosine
 carnous
-carns
 chamaecistus
 caro
 cuarto
@@ -11197,6 +11196,7 @@ curtail
 christiania
 chlorenchyma
 coassistance
+carns
 chlorguanide
 chlorhexidine
 coemperor
