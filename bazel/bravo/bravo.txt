@@ -1612,7 +1612,6 @@ balloted
 ballotist
 ballots
 ballottement
-backlotter
 baronage
 bahamian
 byelorussians
@@ -9543,6 +9542,7 @@ barbacoan
 bys
 bisagre
 basidium
+backlotter
 belays
 bisayan
 buccaro
