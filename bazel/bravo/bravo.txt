@@ -8090,7 +8090,6 @@ brast
 burrobrush
 bid
 bidactylous
-biddability
 biddably
 benedict
 boread
@@ -9128,6 +9127,7 @@ buffleheaded
 bletting
 banc
 beefburger
+biddability
 bhaktas
 branchial
 bubbybush
