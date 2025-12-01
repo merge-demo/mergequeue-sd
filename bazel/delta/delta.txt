@@ -13262,7 +13262,6 @@ disposers
 dislocator
 dicrotic
 dispositional
-disharmonical
 decentralisation
 dispositions
 drowner
@@ -14991,6 +14990,7 @@ dissolving
 dogear
 dogears
 drumly
+disharmonical
 dogedom
 diptote
 dipppy
