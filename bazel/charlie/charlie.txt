@@ -9297,6 +9297,7 @@ castrate
 chullo
 chaulmaugra
 chaulmoogra
+cosmorganic
 choralist
 cytodendrite
 chaulmugra
@@ -29864,7 +29865,6 @@ candys
 callow
 crossbeam
 crossbeams
-cosmorganic
 crossbelt
 collectability
 crossbill
