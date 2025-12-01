@@ -227,7 +227,6 @@ ambystomidae
 alined
 avidous
 apotactite
-alantolic
 apteran
 acology
 aguishly
@@ -17800,6 +17799,7 @@ apportioning
 analphabetic
 agent
 anastatic
+alantolic
 apposability
 anthranone
 aegialitis
