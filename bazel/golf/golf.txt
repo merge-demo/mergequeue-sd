@@ -3177,7 +3177,6 @@ griffado
 gabler
 glycyrrhiza
 gingelies
-grangerism
 graip
 gaddis
 glossiness
@@ -8593,6 +8592,7 @@ guerdonless
 gestic
 gibbeting
 geothermometer
+grangerism
 gaufrettes
 glucose
 geometrizing
