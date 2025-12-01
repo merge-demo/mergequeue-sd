@@ -13,7 +13,6 @@ evaporometer
 encastage
 euchologion
 emigate
-erosivity
 emblazon
 erythrophobia
 eadios
@@ -7207,6 +7206,7 @@ elvishly
 enneasyllabic
 epoxying
 etheostoma
+erosivity
 equalizer
 enwove
 entender
