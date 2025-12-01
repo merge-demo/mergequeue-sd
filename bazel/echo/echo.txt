@@ -8193,7 +8193,6 @@ elegances
 endopleura
 electrolysis
 extracollegiate
-exulting
 enmarbling
 entomophthoraceae
 eons
@@ -12839,6 +12838,7 @@ expansive
 exothecal
 emptied
 emboss
+exulting
 eccentrics
 exothermically
 eloignment
