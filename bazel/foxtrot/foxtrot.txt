@@ -5943,7 +5943,6 @@ foolhardily
 falseface
 freer
 fraudlessness
-freehand
 feretories
 floodlight
 forthinking
@@ -8897,6 +8896,7 @@ flown
 funambulic
 foulest
 fjeld
+freehand
 fiques
 flitty
 ferritins
