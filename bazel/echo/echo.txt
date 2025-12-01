@@ -2722,6 +2722,7 @@ entosphenoid
 electrotypy
 enolase
 earwigged
+erethisms
 eightyfold
 esquamulose
 evaporated
@@ -12876,7 +12877,6 @@ embarked
 expandable
 escropulo
 erotopathic
-erethisms
 exsert
 endamoeba
 expandedly
