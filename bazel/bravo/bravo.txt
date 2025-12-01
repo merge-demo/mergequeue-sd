@@ -14304,7 +14304,6 @@ bragly
 broachers
 bye
 biznaga
-boatowner
 blubbing
 barefit
 brahmachari
@@ -14664,6 +14663,7 @@ baned
 brasils
 brasque
 bloc
+boatowner
 bitake
 bullwhack
 brassages
