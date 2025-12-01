@@ -15442,7 +15442,6 @@ airliners
 alogical
 antimechanism
 antimechanistic
-apocopic
 aureolae
 antimechanistically
 aircrew
@@ -23809,6 +23808,7 @@ avianization
 achieved
 ashplant
 archeozoic
+apocopic
 ablepharous
 aspish
 alcogel
