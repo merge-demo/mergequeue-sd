@@ -7082,6 +7082,7 @@ bannerette
 briquetting
 bespeak
 bodyless
+bedress
 biggings
 bimorphs
 bushing
@@ -8207,7 +8208,6 @@ bifaces
 bootlicked
 bifara
 bootleger
-bedress
 biff
 broadwayite
 bifilar
