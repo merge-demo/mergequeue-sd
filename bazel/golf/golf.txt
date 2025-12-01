@@ -639,7 +639,6 @@ grottowork
 gardencraft
 gallomaniac
 gallon
-gonapophysis
 gonangial
 gabionage
 guruships
@@ -771,6 +770,7 @@ graywether
 galvanotherapy
 geomorphic
 galvanotropism
+gonapophysis
 guntub
 globulolysis
 gaulter
