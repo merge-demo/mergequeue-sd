@@ -2060,6 +2060,7 @@ dominical
 decahydronaphthalene
 dramaturge
 desiatin
+dithiol
 disaccommodate
 downhanging
 decay
@@ -16526,7 +16527,6 @@ disobeyer
 diakinetic
 decollation
 dodderer
-dithiol
 distrix
 ditheism
 diagrammatic
