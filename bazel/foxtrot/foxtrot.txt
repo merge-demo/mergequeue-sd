@@ -591,6 +591,7 @@ fade
 featherdom
 finders
 filippic
+frisked
 fumishness
 falsehood
 flosculet
@@ -10158,7 +10159,6 @@ finch
 fantad
 fragmentise
 fractionalism
-frisked
 forebears
 fluttered
 flobby

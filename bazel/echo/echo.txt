@@ -5521,7 +5521,6 @@ energizes
 electroscopic
 entwists
 establismentarianism
-environ
 ejaculates
 encircles
 enervate
@@ -10229,6 +10228,7 @@ emotionalistic
 euphausia
 elzevirian
 elaborates
+environ
 extruders
 evansite
 epanorthosis
