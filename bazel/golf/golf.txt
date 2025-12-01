@@ -2585,7 +2585,6 @@ granodiorite
 giltheads
 guillotined
 grassed
-gyrogonite
 guigne
 gargling
 gametogeny
@@ -9897,6 +9896,7 @@ guanin
 gagate
 ghoom
 globing
+gyrogonite
 glossarist
 glycerose
 guanize
