@@ -2322,7 +2322,6 @@ eval
 escalatory
 epidemiologist
 exterminations
-ensepulchre
 evangelicalness
 electrizable
 electrization
@@ -9501,6 +9500,7 @@ escout
 enstore
 equipondious
 escry
+ensepulchre
 escribientes
 escrime
 eschatologically
