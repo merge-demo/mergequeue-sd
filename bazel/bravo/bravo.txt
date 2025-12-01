@@ -5508,7 +5508,6 @@ baryton
 bewares
 birding
 brahmas
-bagatine
 bludgeoned
 baklava
 bemurmured
@@ -5912,6 +5911,7 @@ belotte
 bowden
 bechancing
 benzalcyanhydrin
+bagatine
 beden
 backswordmen
 batswing
