@@ -16740,6 +16740,7 @@ apheses
 antiphoner
 aggresses
 admirer
+agapeically
 aftermast
 accidentals
 amianthiform
@@ -21487,7 +21488,6 @@ aspers
 adenosarcoma
 asperse
 abecedaries
-agapeically
 asperser
 astrochronological
 arianistical
