@@ -12147,6 +12147,7 @@ crateral
 chryselectrum
 calumny
 cuadrillas
+colourless
 chevying
 chrysemys
 cynodon
@@ -19462,7 +19463,6 @@ cisterna
 crociary
 corposant
 colourist
-colourless
 ceruleum
 colourman
 colpenchyma
