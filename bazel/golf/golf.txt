@@ -8807,6 +8807,7 @@ glimpsers
 grandchildren
 gelatinochloride
 gunslinger
+galenobismutite
 garbles
 guileful
 generable
@@ -9377,7 +9378,6 @@ germigenous
 grannyknot
 garnishry
 gloved
-galenobismutite
 gobelin
 glaymore
 gelatinized
