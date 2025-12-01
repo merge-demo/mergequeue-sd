@@ -2259,7 +2259,6 @@ fsiest
 fustee
 footfalls
 forgetters
-fenchene
 favn
 feluccas
 ficoid
@@ -10399,6 +10398,7 @@ flags
 fitche
 footer
 fraggings
+fenchene
 filigree
 flow
 fictility
