@@ -145,7 +145,6 @@ guy
 gratelike
 garrot
 geryon
-galipot
 graniteware
 gasthauser
 ghettoized
@@ -660,6 +659,7 @@ gantryman
 genecologically
 galeated
 gunkhole
+galipot
 grihyasutra
 gallantries
 goodheartedly
