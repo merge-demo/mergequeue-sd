@@ -9288,6 +9288,7 @@ chauffeurship
 chauffeuse
 civy
 carcoon
+calligram
 cerris
 custos
 chauk
@@ -20968,7 +20969,6 @@ comique
 clockkeeper
 compsothlypidae
 chillums
-calligram
 crypteronia
 curucanecan
 compte
