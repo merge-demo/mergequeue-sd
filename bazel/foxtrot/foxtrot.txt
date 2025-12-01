@@ -4958,7 +4958,6 @@ flamingant
 foremarch
 flaminical
 fomenters
-fintadores
 frenulum
 flyway
 feebleheartedly
@@ -8254,6 +8253,7 @@ fogdog
 facily
 frateries
 freud
+fintadores
 forgetfulness
 forgett
 faits
