@@ -10100,6 +10100,7 @@ categorizers
 compagnie
 chevener
 cheventayn
+cardiophrenia
 cheverel
 carcassed
 cheveret
@@ -24363,7 +24364,6 @@ cosmoramic
 coolness
 coolnesses
 cytochemical
-cardiophrenia
 coolung
 coolweed
 coolwort

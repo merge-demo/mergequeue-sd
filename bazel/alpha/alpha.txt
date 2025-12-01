@@ -13381,7 +13381,6 @@ annalistic
 antiinflammatory
 ankylodontia
 assumption
-ankyloglossia
 auditress
 ankylopodia
 alamiqui
@@ -22705,6 +22704,7 @@ apogonidae
 athymic
 antimonyl
 athing
+ankyloglossia
 askarel
 athink
 athyria
