@@ -14744,7 +14744,6 @@ citizenish
 coneen
 citizenism
 countercarte
-citizenize
 citizenized
 citizenly
 citizenry
@@ -19032,6 +19031,7 @@ coatings
 colliculus
 cometographer
 collidin
+citizenize
 cetacea
 cepous
 collier
