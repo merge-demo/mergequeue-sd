@@ -18395,7 +18395,6 @@ crescive
 cognizor
 cognomens
 claught
-carnally
 cathedral
 cognominated
 cognomination
@@ -23693,6 +23692,7 @@ compunctious
 contraindicates
 contraindications
 cologarithm
+carnally
 contralateral
 crappers
 conjunctural
