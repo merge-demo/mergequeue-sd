@@ -4011,7 +4011,6 @@ arrows
 ankuses
 acronymize
 advect
-aphaeresis
 admerveylle
 aeromotor
 admi
@@ -4020,6 +4019,7 @@ apopemptic
 anticontagious
 apokatastasis
 adminicula
+aphaeresis
 akolouthia
 anergy
 adminicular
