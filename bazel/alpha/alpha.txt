@@ -7185,7 +7185,6 @@ alack
 amole
 airworthiness
 anadromous
-alacran
 advertized
 automatic
 ameloblast
@@ -15922,6 +15921,7 @@ atacaman
 alphabetisation
 acetobromanilide
 antiprojectivity
+alacran
 antiprostate
 antiprostatic
 adiabat
