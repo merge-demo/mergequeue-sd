@@ -508,6 +508,7 @@ dalliances
 dallied
 discomforter
 disenthralling
+dori
 denaturalize
 denaturalizing
 dinkey
@@ -880,7 +881,6 @@ dieback
 deuteronomistic
 dummerer
 diagnostication
-dori
 dermotherm
 daguerrean
 dripproof
