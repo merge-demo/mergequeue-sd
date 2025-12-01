@@ -5004,6 +5004,7 @@ earthgall
 exencephalia
 ebonises
 exiguous
+enologist
 essentia
 exul
 effuses
@@ -10869,7 +10870,6 @@ emborders
 econometrics
 ergot
 esodic
-enologist
 excised
 exanthematic
 encalendar
