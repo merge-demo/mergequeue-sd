@@ -3155,7 +3155,6 @@ gelechiidae
 geoscopy
 gordonia
 gelasian
-germanophobe
 ghostship
 gutturalizing
 gramoches
@@ -8116,6 +8115,7 @@ gallygaskins
 grilladed
 gazabos
 garderobe
+germanophobe
 gaspergous
 gynaeolater
 gulfed
