@@ -1693,7 +1693,6 @@ calorification
 cardiograph
 calappa
 curelessly
-calorifics
 caricography
 calorifier
 calorimetry
@@ -9275,6 +9274,7 @@ chalutz
 cordite
 chaucerian
 chauchat
+calorifics
 ceratophyllaceae
 cuorin
 conjunctive
