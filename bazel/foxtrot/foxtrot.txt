@@ -874,6 +874,7 @@ forold
 flyaways
 flamfew
 fingerlet
+furan
 furfooz
 foundationlessness
 forestlike
@@ -7394,7 +7395,6 @@ flavorsomeness
 flake
 finks
 flinging
-furan
 forereport
 forceless
 fasciolar
