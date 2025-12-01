@@ -2099,6 +2099,7 @@ gillian
 governments
 gubbertush
 graminological
+grangerite
 gawk
 gratingly
 gozzard
@@ -5301,7 +5302,6 @@ glister
 grenier
 glibnesses
 glyceria
-grangerite
 genialize
 guardsmen
 guatemala
