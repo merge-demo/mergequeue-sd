@@ -10922,7 +10922,6 @@ amobyr
 abel
 amoebaea
 avowable
-alipata
 artlike
 affrontiveness
 aquilian
@@ -23630,6 +23629,7 @@ auntlike
 auntre
 acanthon
 acidemia
+alipata
 antistrophal
 anglophil
 auntrous
