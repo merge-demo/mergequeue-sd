@@ -9252,6 +9252,7 @@ chatterboxes
 chattered
 chincapin
 chatterers
+clarions
 circuitously
 cassidoine
 chattererz
@@ -17257,7 +17258,6 @@ coannexed
 coannexes
 coannihilate
 cobol
-clarions
 corresol
 churrigueresque
 coapparition
