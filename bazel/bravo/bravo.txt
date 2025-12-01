@@ -5140,7 +5140,6 @@ bridgeport
 budworm
 before
 biotic
-boomorah
 broadside
 beggarer
 buccinatory
@@ -6637,6 +6636,7 @@ bronchia
 beezers
 bergaptene
 bimane
+boomorah
 bawdric
 beefing
 bakshishing
