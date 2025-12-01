@@ -5572,6 +5572,7 @@ episcopant
 enfeoffment
 exestuate
 exhaustedly
+eclectics
 ethions
 enfettering
 enophthalmos
@@ -10515,7 +10516,6 @@ eucgia
 eightpenny
 enologies
 exorbitant
-eclectics
 epulary
 exemplifying
 emmetropic
