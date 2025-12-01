@@ -2859,7 +2859,6 @@ geatas
 genuflecting
 gaberdine
 guildship
-gratifier
 guser
 gullish
 genuflects
@@ -5609,6 +5608,7 @@ gurges
 garuda
 ginks
 gipsyry
+gratifier
 gravestone
 governance
 goller
