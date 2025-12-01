@@ -2652,7 +2652,6 @@ germantown
 globulicidal
 genetika
 gurgeon
-gathering
 greatest
 guaraguao
 gospodipoda
@@ -9299,6 +9298,7 @@ groenlandicus
 glucuronic
 goyana
 gurge
+gathering
 gangliate
 galactophagous
 gunj
