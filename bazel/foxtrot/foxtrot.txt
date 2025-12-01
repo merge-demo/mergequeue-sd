@@ -3825,6 +3825,7 @@ facette
 fairyism
 fluoridisation
 flebotomy
+footwear
 forestaves
 faut
 fazendeiro
@@ -11286,7 +11287,6 @@ femmes
 fogy
 fiscalize
 flurrying
-footwear
 farcing
 fourfold
 folletti
