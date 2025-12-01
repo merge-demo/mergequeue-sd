@@ -1591,6 +1591,7 @@ gondoliere
 globicephala
 gymnura
 gauntlet
+gypsous
 gutteral
 gulanganes
 galleria
@@ -10520,7 +10521,6 @@ giftling
 gyrational
 gimmicks
 goalee
-gypsous
 garn
 goblinry
 gundie

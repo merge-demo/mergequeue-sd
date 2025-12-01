@@ -12478,7 +12478,6 @@ clairvoyants
 chromophore
 chromophorous
 chromophotography
-chromophotographic
 cranky
 corundophilite
 colonists
@@ -26096,6 +26095,7 @@ cosmically
 canterelle
 chiefdoms
 cotranslator
+chromophotographic
 conspiratorial
 cosmism
 cosmisms
