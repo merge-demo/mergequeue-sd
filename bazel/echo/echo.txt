@@ -1949,7 +1949,6 @@ endict
 exarchateship
 elementalist
 ejaculatory
-erdvark
 elishah
 ejectively
 enfierce
@@ -7393,6 +7392,7 @@ epeirogenically
 erythrina
 electrolytical
 ensue
+erdvark
 exuviate
 encloses
 exonship
