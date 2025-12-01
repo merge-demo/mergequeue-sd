@@ -4744,7 +4744,6 @@ bedlar
 bazoo
 bibliotic
 blackseed
-burbled
 bedmate
 bogey
 biz
@@ -9790,6 +9789,7 @@ babblingly
 bubblebow
 bisulfate
 biblioklept
+burbled
 bromatology
 bocca
 bitable
