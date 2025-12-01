@@ -6280,7 +6280,6 @@ electrofishing
 extraepiphyseal
 enrapt
 eurygaean
-enrapted
 enrapts
 ethynyl
 experimentative
@@ -10144,6 +10143,7 @@ exheredation
 emballonurid
 eupion
 exemplifier
+enrapted
 endive
 earstone
 epithalami
