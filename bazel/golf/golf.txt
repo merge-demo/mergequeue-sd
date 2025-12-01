@@ -1151,6 +1151,7 @@ genion
 granddam
 gypsologist
 gander
+gasometrically
 gravamens
 guava
 goners
@@ -2054,7 +2055,6 @@ gyroscopics
 gerocomia
 gavelocks
 gattine
-gasometrically
 goaf
 gallied
 glime
