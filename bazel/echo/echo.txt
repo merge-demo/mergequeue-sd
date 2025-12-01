@@ -5190,6 +5190,7 @@ electromedical
 endoenzyme
 epitrochoid
 entresol
+enthymematical
 elytrorrhaphy
 encyclic
 eurystheus
@@ -7703,7 +7704,6 @@ electrotautomerism
 expoundable
 epideistic
 extrait
-enthymematical
 eriocaulaceous
 effluxion
 estrus
