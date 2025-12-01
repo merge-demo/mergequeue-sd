@@ -20884,6 +20884,7 @@ atherosperma
 asaphia
 alberttype
 azotized
+assayable
 aerosinusitis
 asaphidae
 ascosporic
@@ -21638,7 +21639,6 @@ anteflected
 alkalizes
 acetometrically
 anisomerous
-assayable
 afterpotential
 alkoran
 argyroneta
