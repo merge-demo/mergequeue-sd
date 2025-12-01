@@ -1511,6 +1511,7 @@ calles
 callet
 caramelen
 calliandra
+catholicist
 cedulas
 curraghs
 calligrapha
@@ -5996,7 +5997,6 @@ chalkography
 catholicisation
 choreographs
 catholicised
-catholicist
 chaitya
 coprolagnist
 catholicity
