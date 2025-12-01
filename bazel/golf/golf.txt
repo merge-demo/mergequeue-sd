@@ -4949,6 +4949,7 @@ geomaly
 gangway
 guvacoline
 gallimatia
+griphe
 gradational
 grasping
 gynecocentric
@@ -9686,7 +9687,6 @@ gristy
 gruelers
 glossography
 graphologies
-griphe
 gametange
 gradative
 glareous
