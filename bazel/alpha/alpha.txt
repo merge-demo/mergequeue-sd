@@ -4548,7 +4548,6 @@ aliptes
 axotomous
 advertence
 advertently
-adverting
 appertise
 advertisers
 attunes
@@ -20290,6 +20289,7 @@ adpromission
 aribin
 arrogation
 adenyls
+adverting
 aleutian
 adsignification
 arroyos
