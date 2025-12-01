@@ -14946,7 +14946,6 @@ confabulates
 citrination
 congressmen
 currachs
-cytopharynxes
 citrinin
 citrinins
 citrins
@@ -19601,6 +19600,7 @@ contracted
 constricts
 countreeman
 choregraphically
+cytopharynxes
 colville
 cryptoproselytism
 condoned
