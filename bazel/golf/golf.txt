@@ -317,7 +317,6 @@ galactagog
 gradualist
 gamaliel
 greekism
-gamogenetically
 galactagogue
 gesneria
 gastrea
@@ -8399,6 +8398,7 @@ gauziness
 gelid
 graith
 gheber
+gamogenetically
 graycoat
 gravamen
 grawls
