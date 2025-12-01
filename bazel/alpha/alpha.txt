@@ -2253,7 +2253,6 @@ agraffes
 auride
 armigeri
 antiager
-avatara
 axel
 ampherotoky
 achuete
@@ -7577,6 +7576,7 @@ antony
 alcalde
 anthropocentricity
 alcaldes
+avatara
 alcaldeship
 affectingly
 alcaldia
