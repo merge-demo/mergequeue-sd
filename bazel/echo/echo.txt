@@ -2688,7 +2688,6 @@ esophagism
 electrotactic
 eyra
 emmanuel
-earhead
 emborder
 electrotechnician
 exports
@@ -9035,6 +9034,7 @@ echinulation
 evertor
 electromyographic
 eurychoric
+earhead
 erythroblastic
 extrafoliaceous
 errancy
