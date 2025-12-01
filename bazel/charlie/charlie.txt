@@ -2501,6 +2501,7 @@ candidates
 candidatures
 candide
 chausse
+counterlit
 churls
 candidiasis
 candidness
@@ -17785,7 +17786,6 @@ cohabits
 communion
 cunjah
 conium
-counterlit
 counselling
 cacking
 codeine
