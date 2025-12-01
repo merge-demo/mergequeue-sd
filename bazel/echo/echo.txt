@@ -9979,6 +9979,7 @@ estuosity
 edibleness
 expatriates
 erythromelalgia
+extincting
 esugarization
 endowers
 entonement
@@ -13730,7 +13731,6 @@ exerting
 epitrochoidal
 ectosphere
 extincted
-extincting
 enterostomies
 editable
 encephalomeningitis
