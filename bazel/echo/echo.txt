@@ -1693,7 +1693,6 @@ esophagi
 eddoes
 elaioleucite
 eyebright
-electrotheraputics
 extemporaneous
 eyecup
 emollescence
@@ -3826,6 +3825,7 @@ expiratory
 esthetical
 emparl
 ethnohistorical
+electrotheraputics
 extolled
 economic
 engrain
