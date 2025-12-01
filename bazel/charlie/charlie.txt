@@ -11488,7 +11488,6 @@ chokeberries
 chaetangiaceae
 compester
 chokedamp
-chokeys
 camerata
 cephalalgic
 congenetic
@@ -30661,6 +30660,7 @@ circumtabular
 chanelled
 caterwauls
 cudbear
+chokeys
 cyprian
 cudden
 collis
