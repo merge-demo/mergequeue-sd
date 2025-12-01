@@ -5824,7 +5824,6 @@ datableness
 diaxial
 deceit
 distalwards
-dacker
 deepnesses
 decoupled
 deposers
@@ -13570,6 +13569,7 @@ divergence
 disseminations
 digredient
 dismeasured
+dacker
 depeopling
 disseminative
 devotee
