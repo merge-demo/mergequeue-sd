@@ -5405,6 +5405,7 @@ disgruntle
 dawned
 denting
 defrayal
+dilatorily
 demagogically
 duotype
 dentirostral
@@ -17428,7 +17429,6 @@ drosser
 drawdown
 dagaba
 dedicate
-dilatorily
 disserts
 diazoimido
 drostdy
