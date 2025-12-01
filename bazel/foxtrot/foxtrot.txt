@@ -3032,6 +3032,7 @@ forensical
 felstones
 friendlies
 fibbers
+forspoke
 fustin
 fiber
 fiberizes
@@ -8652,7 +8653,6 @@ frigidness
 frictionproof
 faintest
 footing
-forspoke
 fellatory
 flaunt
 flawed
