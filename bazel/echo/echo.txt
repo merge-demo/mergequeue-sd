@@ -5519,6 +5519,7 @@ energizers
 eosinophilia
 elasmosaurus
 esterifiable
+ergothioneine
 epiploic
 energizes
 electroscopic
@@ -6590,7 +6591,6 @@ enhuile
 exolemma
 emove
 eligenda
-ergothioneine
 exodontia
 eruditional
 eurygnathous
