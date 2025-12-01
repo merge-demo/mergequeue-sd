@@ -7567,6 +7567,7 @@ flubs
 fogram
 flambeaus
 filtrate
+fringetail
 felicities
 factual
 fleshquake
@@ -10014,7 +10015,6 @@ fringelet
 fruitier
 fringent
 feminacy
-fringetail
 foreplot
 fimbles
 farmerlike
