@@ -3738,7 +3738,6 @@ cosmogonize
 caravaner
 coroparelcysis
 chetty
-caravans
 caravanserai
 chromoxylography
 caravanserial
@@ -26359,6 +26358,7 @@ cans
 coteen
 cotele
 curlers
+caravans
 cotemporanean
 cotemporaneously
 cotemporaries
