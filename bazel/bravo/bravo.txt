@@ -1692,7 +1692,6 @@ bryan
 ballyhoos
 buskers
 brokerage
-botan
 borealis
 brachypyramid
 broon
@@ -2082,6 +2081,7 @@ bornan
 bronchostomy
 besetment
 betrough
+botan
 branchihyal
 bourkha
 birthrights
