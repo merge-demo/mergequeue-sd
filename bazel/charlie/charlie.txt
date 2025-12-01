@@ -21733,7 +21733,6 @@ condonable
 clayed
 condonance
 condonation
-condone
 condonement
 condoner
 condoners
@@ -26729,6 +26728,7 @@ confutable
 countercathexis
 counterchanged
 countercharm
+condone
 counterclaim
 cirriform
 counterclaims
