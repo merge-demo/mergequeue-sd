@@ -8968,7 +8968,6 @@ countersignature
 compartment
 charism
 charismata
-chokecherry
 consuete
 charismatic
 collationer
@@ -16831,6 +16830,7 @@ cupflower
 confirmity
 conred
 caravanned
+chokecherry
 cahokia
 clubhauled
 clubhauls
