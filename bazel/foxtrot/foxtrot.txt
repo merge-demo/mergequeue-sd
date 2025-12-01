@@ -477,6 +477,7 @@ fleetful
 fuseau
 fakeer
 fissiparism
+fascioloid
 fretting
 featherleaf
 fetiferous
@@ -698,7 +699,6 @@ forenotion
 farcemeat
 ferromagnetic
 futilitarianism
-fascioloid
 forehard
 fragrancy
 feminity
