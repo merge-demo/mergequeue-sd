@@ -3816,7 +3816,6 @@ electrized
 ekerite
 eosate
 expiratory
-esthetical
 emparl
 ethnohistorical
 electrotheraputics
@@ -11675,6 +11674,7 @@ exactitude
 esmayle
 electrohydraulic
 endocentric
+esthetical
 eleusinian
 endopolyploid
 exactness
