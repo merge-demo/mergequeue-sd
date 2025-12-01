@@ -8563,7 +8563,6 @@ frownful
 fornaxid
 foraminule
 fratchety
-featherer
 frogtongue
 futurities
 fasciation
@@ -9217,6 +9216,7 @@ foresighted
 fishbed
 foraneous
 facts
+featherer
 frayedness
 fabulize
 fidging
