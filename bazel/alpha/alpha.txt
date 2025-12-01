@@ -8003,6 +8003,7 @@ acrospire
 antheses
 amphitheatrical
 aprilis
+automatin
 argan
 ampheclexis
 alew
@@ -24226,7 +24227,6 @@ argumentative
 automaticity
 aperu
 antidogmatically
-automatin
 antepatriarchal
 antronasal
 acutenaculum
