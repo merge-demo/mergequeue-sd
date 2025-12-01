@@ -4353,7 +4353,6 @@ enami
 estranging
 enamorado
 enamorato
-endleaves
 extraordinariness
 electuary
 enamorment
@@ -10819,6 +10818,7 @@ ethide
 estivates
 euphemizer
 emanation
+endleaves
 ethicalism
 exequatur
 eighteenth
