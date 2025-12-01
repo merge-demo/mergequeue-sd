@@ -4245,6 +4245,7 @@ flots
 frangipanni
 fusarium
 flaxbird
+fumid
 fax
 foreignize
 feverish
@@ -5980,7 +5981,6 @@ faitour
 floorboard
 flashness
 floorcloths
-fumid
 fluidizing
 folkways
 foreplays
