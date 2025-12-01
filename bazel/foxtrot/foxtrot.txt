@@ -4865,7 +4865,6 @@ fady
 fixes
 firmhearted
 ferrimagnetism
-frondiferous
 fetching
 factuality
 frightenedness
@@ -11329,6 +11328,7 @@ fuseplug
 frailejon
 foalhood
 fashioners
+frondiferous
 fallacy
 fricandel
 formalith
