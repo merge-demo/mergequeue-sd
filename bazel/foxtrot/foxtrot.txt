@@ -1638,7 +1638,6 @@ fiard
 flophouse
 fied
 foreannounce
-fellowless
 fipenny
 four
 fdnames
@@ -5317,6 +5316,7 @@ foregather
 fifteen
 fumarole
 feasts
+fellowless
 filial
 fant
 firelocks
