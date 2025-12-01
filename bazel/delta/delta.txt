@@ -1513,6 +1513,7 @@ downlinked
 deacetylate
 duststorm
 donas
+diprotic
 duppies
 defraudment
 deacetylating
@@ -10746,7 +10747,6 @@ dippings
 draff
 dipppier
 doubtingly
-diprotic
 dianoialogy
 descriptions
 durions
