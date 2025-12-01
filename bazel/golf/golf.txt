@@ -1452,7 +1452,6 @@ giusto
 germinate
 guild
 garbages
-gulfy
 grosgrained
 gainward
 glossarial
@@ -10121,6 +10120,7 @@ gnotobiologies
 grouping
 gaskets
 gabe
+gulfy
 gauderies
 grummels
 granado
