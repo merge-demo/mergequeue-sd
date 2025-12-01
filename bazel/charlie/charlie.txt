@@ -9054,6 +9054,7 @@ charontas
 cardplayer
 coleophora
 charophyta
+chlorioninae
 courantes
 cannily
 cabala
@@ -9993,7 +9994,6 @@ cumbu
 canna
 compactedly
 cherries
-chlorioninae
 capharnaism
 cherrying
 cherrylike
