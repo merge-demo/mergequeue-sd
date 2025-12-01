@@ -7419,7 +7419,6 @@ detonative
 detonize
 detour
 duncifying
-detectability
 detouring
 deliriums
 dermacentor
@@ -8611,6 +8610,7 @@ demonship
 dimercury
 diaphtherin
 dulcifies
+detectability
 durative
 demihake
 digressionary
