@@ -3712,7 +3712,6 @@ bronteon
 battlefronts
 bringall
 brucella
-barnstorms
 battler
 battleships
 barrace
@@ -16831,6 +16830,7 @@ brotchen
 botchiness
 borderless
 buffeters
+barnstorms
 bistros
 baikerite
 bubalises
