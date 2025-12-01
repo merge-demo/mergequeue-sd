@@ -1784,7 +1784,6 @@ escalloping
 eyesight
 epigenic
 enormities
-eparchs
 erinose
 entericoid
 epigraphical
@@ -11809,6 +11808,7 @@ extracorpuscular
 euripidean
 ekphore
 epimerise
+eparchs
 extrospective
 exorcises
 epirot
