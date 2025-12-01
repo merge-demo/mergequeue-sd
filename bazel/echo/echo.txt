@@ -4776,6 +4776,7 @@ enclaves
 entrepreneurs
 epichondrotic
 euthermic
+ectozoon
 evanishing
 embarrass
 eyren
@@ -7281,7 +7282,6 @@ earshot
 evaluating
 embetter
 etonian
-ectozoon
 endurableness
 echeneidid
 effigial
