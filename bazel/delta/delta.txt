@@ -7121,7 +7121,6 @@ desto
 disvalues
 darted
 damselfish
-destour
 demonial
 destrer
 destressed
@@ -17027,6 +17026,7 @@ donned
 dipsosis
 dreamsily
 depressively
+destour
 dressed
 disgarrison
 diphyes
