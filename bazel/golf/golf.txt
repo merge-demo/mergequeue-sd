@@ -272,7 +272,6 @@ grenada
 gnomon
 glauconiferous
 groser
-gigavolt
 gummata
 galiongee
 gainliness
@@ -3360,6 +3359,7 @@ gaboon
 ganapati
 globiferous
 girland
+gigavolt
 goniodoris
 germon
 ghostcraft
