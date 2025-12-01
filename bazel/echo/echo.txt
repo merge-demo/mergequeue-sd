@@ -4105,7 +4105,6 @@ entries
 ethmophysal
 entoilment
 emplaster
-entozoology
 encephalospinal
 enantiomer
 elevating
@@ -11024,6 +11023,7 @@ enquire
 encyclopaedic
 eternalist
 euryprosopic
+entozoology
 excipuliform
 eroses
 exornate

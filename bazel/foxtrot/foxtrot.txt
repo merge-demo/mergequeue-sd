@@ -1245,7 +1245,6 @@ frocked
 futteret
 fama
 favella
-forevouch
 femalize
 fatuate
 fearful
@@ -9416,6 +9415,7 @@ felidae
 foliiferous
 flamines
 fliers
+forevouch
 foodstuff
 foreteeth
 frary
