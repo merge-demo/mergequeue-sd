@@ -1486,6 +1486,7 @@ dazes
 dazzle
 dawnstreak
 discriminative
+dorsoventrality
 diffusor
 dasypaedal
 discolorated
@@ -16287,7 +16288,6 @@ dca
 decentralization
 dropman
 downier
-dorsoventrality
 downiest
 dictator
 downiness
