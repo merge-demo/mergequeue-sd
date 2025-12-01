@@ -756,7 +756,6 @@ fancied
 frazzled
 fulfil
 fetidness
-fezzan
 fibroangioma
 ferv
 frequently
@@ -9508,6 +9507,7 @@ floppiness
 fattrels
 frontways
 footling
+fezzan
 finiteness
 fringier
 finiglacial
