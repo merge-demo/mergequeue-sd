@@ -14032,7 +14032,6 @@ anapes
 alexiteric
 atamans
 axopodium
-atmometry
 accomplished
 aetiotropic
 antiparastatitis
@@ -23789,6 +23788,7 @@ accursing
 austausch
 abdest
 agrements
+atmometry
 austemper
 aspermia
 auster

@@ -4194,7 +4194,6 @@ gaiter
 gibbeted
 gelofre
 genealogy
-gollar
 gymnorhinal
 gaspergou
 gluttony
@@ -6256,6 +6255,7 @@ gormandizing
 gregorianizer
 gob
 goban
+gollar
 greediness
 gadslid
 gobber
