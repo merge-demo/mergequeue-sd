@@ -11639,6 +11639,7 @@ discontinuee
 disprepare
 daggletail
 discover
+disrelated
 dieselizing
 dreamlessness
 downweed
@@ -17304,7 +17305,6 @@ dandyish
 dromometer
 defoul
 decrypts
-disrelated
 dubitation
 dronage
 discovenant
