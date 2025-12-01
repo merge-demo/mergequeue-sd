@@ -6025,7 +6025,6 @@ diagrammitically
 depthlessness
 diobols
 demonetization
-dacite
 delimiting
 decohere
 disapprove
@@ -13802,6 +13801,7 @@ docoglossa
 defections
 disturbedly
 disenchants
+dacite
 dion
 dissuasion
 depravedly
