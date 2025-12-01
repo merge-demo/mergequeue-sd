@@ -8319,6 +8319,7 @@ fod
 fraughan
 fossilizable
 forhow
+freestone
 fanflower
 ficoidaceae
 facelift
@@ -10873,7 +10874,6 @@ filagreing
 fractiously
 foreskins
 forehinting
-freestone
 flayer
 furore
 fullish
