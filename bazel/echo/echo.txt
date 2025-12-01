@@ -4927,6 +4927,7 @@ encumbrance
 extrabureau
 english
 erythroneocytosis
+encyclopaedize
 evolves
 ephyrula
 eyednesses
@@ -7798,7 +7799,6 @@ epigastraeum
 electropneumatic
 expectably
 elementality
-encyclopaedize
 engjateigur
 eschewing
 epigastria
