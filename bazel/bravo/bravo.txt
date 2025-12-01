@@ -14665,6 +14665,7 @@ baned
 brasils
 brasque
 bloc
+bitake
 bullwhack
 brassages
 brassard
@@ -17061,7 +17062,6 @@ baetylus
 barrelling
 bullberry
 braggadocios
-bitake
 baluga
 bullboat
 babylonite
