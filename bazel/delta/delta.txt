@@ -10543,6 +10543,7 @@ divinize
 dihydrocupreine
 dipyrenous
 dipyridyl
+dogvane
 dichter
 duper
 daughter
@@ -13819,7 +13820,6 @@ demurral
 deader
 driftpin
 dramatis
-dogvane
 decapod
 diamondizing
 digram
