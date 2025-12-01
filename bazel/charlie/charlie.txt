@@ -2708,7 +2708,6 @@ catostomus
 cankerfret
 compiles
 calcemia
-cankery
 cannoneering
 cankerroot
 cauponize
@@ -23261,6 +23260,7 @@ consultable
 crevalle
 carbora
 commote
+cankery
 calmative
 checkrooms
 cutlash
