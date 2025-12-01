@@ -4830,7 +4830,6 @@ aconites
 arrivederci
 aerobiologist
 acrotrophoneurosis
-awakener
 autocross
 aerobiosis
 addleheaded
@@ -16617,6 +16616,7 @@ athirst
 amphigonic
 affiliate
 abrasax
+awakener
 apepsinia
 adumbrate
 antonio
