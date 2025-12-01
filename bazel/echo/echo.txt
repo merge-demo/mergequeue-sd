@@ -8447,7 +8447,6 @@ embolo
 exsuction
 eurytropic
 electroanalytic
-electroencephalography
 eponym
 etiolate
 eponymus
@@ -14006,6 +14005,7 @@ eustacy
 extraregarding
 endogen
 extraregularly
+electroencephalography
 expirers
 exiling
 exsertile
