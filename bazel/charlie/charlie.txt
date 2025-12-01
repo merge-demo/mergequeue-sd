@@ -14750,6 +14750,7 @@ callithump
 corruptibleness
 cascan
 citizens
+cultivatable
 cytoanalyzer
 catharsis
 cis
@@ -29556,7 +29557,6 @@ criticizing
 criticship
 criticule
 critique
-cultivatable
 cabals
 chopine
 critiqued
