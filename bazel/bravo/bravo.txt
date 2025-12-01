@@ -2783,7 +2783,6 @@ barites
 bolding
 bell
 betulaceous
-baroqueness
 banded
 blonder
 brazee
@@ -10534,6 +10533,7 @@ bacterize
 bonks
 bulbocodium
 bibless
+baroqueness
 blastophoral
 bootikin
 backlash
