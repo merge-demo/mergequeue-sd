@@ -1220,7 +1220,6 @@ frigidity
 fenders
 flexural
 flinched
-fpsps
 fatuities
 feodatory
 frizzler
@@ -7731,6 +7730,7 @@ flamelike
 formalizations
 flicky
 fireshine
+fpsps
 filmographies
 frankpledge
 furfuraceous
