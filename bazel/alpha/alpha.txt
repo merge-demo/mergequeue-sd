@@ -3611,6 +3611,7 @@ adamhood
 amputating
 antimonite
 adelphian
+ahungry
 adelphic
 adelphous
 adipsous
@@ -6838,7 +6839,6 @@ atmolyses
 anacamptometer
 acerbophobia
 airless
-ahungry
 antelabium
 ambulatorily
 acock
