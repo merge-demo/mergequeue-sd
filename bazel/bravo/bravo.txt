@@ -11760,6 +11760,7 @@ bluisness
 billingsgate
 befooling
 buckwheat
+borborygmatic
 bouquets
 bocasin
 bookshops
@@ -13008,7 +13009,6 @@ blether
 bacilliculture
 borboridae
 beslow
-borborygmatic
 biggin
 borborygmus
 bettongia
