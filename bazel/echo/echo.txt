@@ -996,6 +996,7 @@ etymological
 edaphon
 ecchymotic
 expositors
+empaling
 endorsing
 excel
 enquiring
@@ -1557,7 +1558,6 @@ enmeshments
 erotopathy
 explication
 epiphysitis
-empaling
 effigiation
 eggnog
 exareolate
