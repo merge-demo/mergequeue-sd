@@ -10554,6 +10554,7 @@ fibration
 foreland
 fliping
 foughty
+fermage
 foreloper
 favose
 feudalist
@@ -11335,7 +11336,6 @@ formalith
 fulvene
 fertilisational
 forecastors
-fermage
 furlan
 foreglimpsed
 forswat
