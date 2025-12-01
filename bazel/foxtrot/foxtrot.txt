@@ -2204,7 +2204,6 @@ flounciest
 facetious
 finjan
 facilitated
-febricitation
 farraginous
 freyja
 fantasmagoria
@@ -10023,6 +10022,7 @@ farmerlike
 frogskin
 fortune
 fibrocystoma
+febricitation
 favors
 fringilline
 freedom
