@@ -4936,6 +4936,7 @@ glycerinize
 gliomata
 gorier
 gavotted
+gem
 glaiks
 gorse
 glauberite
@@ -8175,7 +8176,6 @@ goaded
 geniohyoid
 gied
 grim
-gem
 grapes
 grapeskin
 goldurned
