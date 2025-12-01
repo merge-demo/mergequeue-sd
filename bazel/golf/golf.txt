@@ -4769,6 +4769,7 @@ gryphite
 goad
 gaels
 gentilitian
+gyrostatic
 gasometer
 gomarian
 giuseppe
@@ -7311,7 +7312,6 @@ griddlecake
 goyetian
 gambled
 ganglion
-gyrostatic
 genet
 gutturally
 guze
