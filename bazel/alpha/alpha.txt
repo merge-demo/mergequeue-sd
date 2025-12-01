@@ -5892,7 +5892,6 @@ aggiornamenti
 antidicomarianite
 acrogenous
 antimethodicalness
-agglomerate
 anychia
 amblyoscope
 agglomerates
@@ -12228,6 +12227,7 @@ archinfamy
 arbalests
 acetoveratrone
 alignment
+agglomerate
 anchorman
 auriculae
 avars
