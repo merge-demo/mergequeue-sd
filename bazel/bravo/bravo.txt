@@ -1823,7 +1823,6 @@ bindings
 brigading
 banders
 broadlings
-befogging
 barkinji
 bandfile
 bandh
@@ -15843,6 +15842,7 @@ butyls
 bindingly
 beno
 battered
+befogging
 bloodstainedness
 babiism
 bloomsburian
