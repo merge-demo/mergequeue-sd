@@ -6287,6 +6287,7 @@ fertilisability
 fuliginosity
 fluent
 flukeworm
+foreparent
 follicle
 ferryhouse
 fob
@@ -7350,7 +7351,6 @@ feudalism
 forescene
 forby
 famelessly
-foreparent
 forebodingly
 footplate
 flakiness
