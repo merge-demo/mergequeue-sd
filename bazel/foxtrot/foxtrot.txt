@@ -3069,7 +3069,6 @@ flowerfly
 fatstock
 finances
 forfeitableness
-festology
 familiarizes
 fooler
 foreclosing
@@ -10319,6 +10318,7 @@ fluoridized
 finalisms
 fortiori
 flexible
+festology
 frondless
 feezing
 ferrado
