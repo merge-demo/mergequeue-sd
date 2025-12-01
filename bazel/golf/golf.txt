@@ -5045,7 +5045,6 @@ garibaldi
 glider
 gumweed
 gonocheme
-genesiology
 garavance
 glowed
 gelt
@@ -6260,6 +6259,7 @@ goban
 greediness
 gadslid
 gobber
+genesiology
 gazettes
 goateed
 guitarlike
