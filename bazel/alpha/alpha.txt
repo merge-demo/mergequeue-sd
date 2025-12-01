@@ -10005,7 +10005,6 @@ acrodonts
 ambicoloration
 abseiled
 albacore
-ambidexterity
 anthocephalous
 ambidexterities
 andorite
@@ -23927,6 +23926,7 @@ anisocotyly
 arabizing
 agile
 ataxite
+ambidexterity
 amphibologism
 authorhood
 acaridae
