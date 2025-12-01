@@ -12565,7 +12565,6 @@ amorists
 anepithymia
 awnlike
 ardennite
-antidoron
 appenditious
 aligns
 aboriginary
@@ -14628,6 +14627,7 @@ appet
 androsphinges
 antiaggressionist
 antienergistic
+antidoron
 andouille
 antiaggressiveness
 apatela

@@ -3956,6 +3956,7 @@ graphomaniac
 grice
 ganner
 graphis
+geomancer
 gimping
 grubworms
 gigawatts
@@ -8042,7 +8043,6 @@ geminiflorous
 gravels
 glenoidal
 granitiform
-geomancer
 gastrostomus
 granitite
 geomagnetism
