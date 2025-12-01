@@ -11582,7 +11582,6 @@ choledochotomies
 cholee
 cholehematin
 choleine
-circinal
 colorization
 cholelith
 conchotome
@@ -12238,6 +12237,7 @@ coynesses
 carpentered
 catnips
 circumconic
+circinal
 compensative
 christed
 civilize
