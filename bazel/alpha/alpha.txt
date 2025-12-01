@@ -5613,7 +5613,6 @@ anchoritically
 absorptivity
 aphototaxis
 aftervision
-actinomycoma
 afterwale
 amnesics
 afterward
@@ -12893,6 +12892,7 @@ anglings
 amphithurthura
 antirumor
 apperceiving
+actinomycoma
 ambulate
 arryish
 anglogaea
