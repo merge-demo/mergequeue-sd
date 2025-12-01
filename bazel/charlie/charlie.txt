@@ -15144,7 +15144,6 @@ clayier
 centetes
 clayiest
 calotermitid
-clayiness
 capsuler
 commendably
 claimant
@@ -27777,6 +27776,7 @@ crookneck
 chaetopterin
 coxcombic
 chondrus
+clayiness
 cordleaf
 coxcombity
 coxcomically
