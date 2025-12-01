@@ -2586,7 +2586,6 @@ declinational
 decasualization
 dipneumones
 dimmed
-distelfink
 dynasty
 declinatory
 disentwined
@@ -10257,6 +10256,7 @@ detractory
 duroc
 dinnerly
 dodos
+distelfink
 decillionth
 dishcross
 diphthong
