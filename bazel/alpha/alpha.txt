@@ -2132,7 +2132,6 @@ acroteral
 achilous
 achylous
 amakosa
-alts
 adawlut
 arend
 apiculate
@@ -4701,6 +4700,7 @@ aegemony
 alismaceae
 apneal
 agmatology
+alts
 areola
 aegicrania
 aegilops
