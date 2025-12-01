@@ -5718,7 +5718,6 @@ egotisticalness
 emerson
 eagerest
 engallant
-enlargedly
 exameter
 exogastric
 emeu
@@ -6062,6 +6061,7 @@ expromissor
 endosarcs
 expire
 ere
+enlargedly
 epiglottises
 enkindles
 edginess
