@@ -23,6 +23,7 @@ desmine
 dzeren
 deltiology
 dodkin
+dryster
 dependance
 dabs
 dabsters
@@ -1424,7 +1425,6 @@ deperms
 deportation
 dawdling
 dibbed
-dryster
 dichotomized
 damnit
 dasht
