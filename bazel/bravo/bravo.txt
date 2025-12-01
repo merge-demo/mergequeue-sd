@@ -7037,7 +7037,6 @@ bicephalic
 balsamous
 beryciform
 blepharedema
-brideknot
 boating
 bussings
 belletrist
@@ -16263,6 +16262,7 @@ brownouts
 brickly
 bhajan
 browntail
+brideknot
 belgravia
 blasties
 brownweed

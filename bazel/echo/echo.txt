@@ -173,7 +173,6 @@ exacts
 ejidal
 enchantingness
 eugenetic
-ergogram
 exploration
 elaps
 electromotion
@@ -8999,6 +8998,7 @@ extinctionist
 electrocardiograph
 elicitable
 elfin
+ergogram
 eristically
 employer
 exophthalmos
