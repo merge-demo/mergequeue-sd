@@ -573,7 +573,6 @@ frappe
 feeblish
 funerate
 fenugreek
-frighteningly
 furmety
 forelocks
 faufel
@@ -5580,6 +5579,7 @@ fiords
 flickermouse
 flannelmouthed
 flowery
+frighteningly
 furbearer
 froebelist
 fanaticized
