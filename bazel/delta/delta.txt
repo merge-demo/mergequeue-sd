@@ -7573,7 +7573,6 @@ dextrogyratory
 demidoctor
 dolichocranic
 dilettanteism
-disciferous
 deuteronomic
 demotics
 discriminational
@@ -14799,6 +14798,7 @@ docklands
 dominica
 dialogue
 dolors
+disciferous
 desmectasia
 dennet
 demonologist
