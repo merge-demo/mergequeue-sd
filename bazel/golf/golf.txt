@@ -913,6 +913,7 @@ genome
 guahivo
 genteeler
 gaverick
+gardenias
 geld
 guna
 gelatinate
@@ -2974,7 +2975,6 @@ geogeny
 gerara
 gullability
 grogger
-gardenias
 geognosy
 geognostically
 grenadian
