@@ -2919,6 +2919,7 @@ acrostic
 accidentiality
 anacromyodian
 armamentary
+agdistis
 advisive
 aerobatics
 albugineous
@@ -20158,7 +20159,6 @@ apharsathacites
 arraying
 areaway
 arrays
-agdistis
 acutilinguae
 arrand
 arrangeable
