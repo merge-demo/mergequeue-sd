@@ -5841,6 +5841,7 @@ floatier
 flustrum
 fulcrums
 flidge
+forswears
 fitz
 farine
 fertilisable
@@ -6539,7 +6540,6 @@ fluotantalate
 flutteriness
 flagrate
 fluttering
-forswears
 feedboard
 flensing
 flutterment
