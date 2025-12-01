@@ -3252,6 +3252,7 @@ fuzed
 foreknowledge
 freestanding
 fibrosity
+footropes
 forthrightly
 faradizer
 ferventness
@@ -9128,7 +9129,6 @@ frusta
 fracid
 foreshadows
 foraminulous
-footropes
 frothi
 flopover
 fluing
