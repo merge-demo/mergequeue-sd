@@ -5239,7 +5239,6 @@ almsman
 abnegative
 affiance
 angakok
-antievolutionistic
 affiants
 affiches
 affidare
@@ -18273,6 +18272,7 @@ adultlike
 arabism
 abstinent
 aquiculture
+antievolutionistic
 arabist
 appreciator
 arabit

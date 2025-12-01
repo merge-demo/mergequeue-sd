@@ -6334,7 +6334,6 @@ equijacent
 embowed
 enrut
 euclidean
-eidolic
 ens
 emmenagogue
 elenchtic
@@ -12917,6 +12916,7 @@ echea
 euryaleae
 erythropenia
 engr
+eidolic
 eosaurus
 enticingly
 expeditiousness
