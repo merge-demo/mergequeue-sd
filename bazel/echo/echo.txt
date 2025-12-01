@@ -7607,6 +7607,7 @@ enfeoffs
 essling
 effoliate
 ersar
+epithem
 endamoebic
 edelweiss
 epiclinal
@@ -13666,7 +13667,6 @@ exteriorisation
 exteriorised
 ecrus
 entapophysis
-epithem
 elfic
 encomiendas
 eject
