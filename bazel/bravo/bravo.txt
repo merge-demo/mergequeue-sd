@@ -8134,6 +8134,7 @@ beliefs
 bania
 boltonias
 boathouses
+barker
 bountith
 bidree
 bottle
@@ -12411,7 +12412,6 @@ backcast
 begloom
 bonbons
 batell
-barker
 bareboats
 bushiness
 bureaux
