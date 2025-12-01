@@ -8001,7 +8001,6 @@ farfugium
 fletton
 fissipedia
 foredeep
-forespecified
 forespencer
 fiz
 feist
@@ -11505,6 +11504,7 @@ fusariosis
 flypasts
 firebirds
 forethoughtless
+forespecified
 fuscin
 frictional
 fuscohyaline
