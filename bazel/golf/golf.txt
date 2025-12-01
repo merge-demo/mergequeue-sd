@@ -2231,6 +2231,7 @@ gooseskin
 goaves
 gemwork
 gastrolith
+girella
 gymnosperms
 galas
 gaster
@@ -4578,7 +4579,6 @@ geoagronomic
 girds
 guaranies
 grids
-girella
 gracefully
 girellidae
 grotesqueries
