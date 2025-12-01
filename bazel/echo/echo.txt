@@ -3762,6 +3762,7 @@ eutaxitic
 etuvee
 embryoism
 embryon
+esprise
 ethnish
 endoceratite
 ejulate
@@ -7709,7 +7710,6 @@ enthymematical
 eriocaulaceous
 effluxion
 estrus
-esprise
 extruder
 ellipticalness
 epidemically
