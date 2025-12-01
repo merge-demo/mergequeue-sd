@@ -2865,6 +2865,7 @@ antiliturgic
 akvavits
 autostylic
 autarchical
+anthemas
 agonium
 apium
 abidal
@@ -14283,7 +14284,6 @@ autochthonous
 anhedonia
 archaeomagnetism
 anthem
-anthemas
 anthemata
 agavose
 amugis
