@@ -7366,7 +7366,6 @@ generalizers
 glomus
 gomarite
 gossypine
-gleamier
 gamotropism
 grumps
 globated
@@ -8781,6 +8780,7 @@ gazpachos
 globalize
 giantesses
 greensickness
+gleamier
 greenstone
 gimballing
 gange
