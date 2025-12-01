@@ -6188,6 +6188,7 @@ fulgurate
 foretops
 feebling
 frequency
+flangeway
 flagmaker
 furbished
 fibroareolar
@@ -8148,7 +8149,6 @@ foretrace
 forecastleman
 fountful
 foreuse
-flangeway
 foreutter
 flavoursome
 fillercap
