@@ -8430,7 +8430,6 @@ fictitiously
 facsimilize
 felonsetter
 freyr
-febronian
 fique
 flaucht
 fantail
@@ -9479,6 +9478,7 @@ frauen
 fideicommissumissa
 friseur
 financed
+febronian
 facinorous
 ffa
 frauleins
