@@ -5433,7 +5433,6 @@ evangelium
 endotys
 endotracheal
 empresario
-exuviated
 ecclesial
 egomaniacal
 east
@@ -13519,6 +13518,7 @@ elephantous
 erotology
 exteriorization
 electrocauterization
+exuviated
 elbert
 earcap
 epitimesis
