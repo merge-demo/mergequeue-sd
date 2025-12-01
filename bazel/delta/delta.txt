@@ -1437,7 +1437,6 @@ dicarbonic
 daunters
 deflationist
 dawkin
-diploidy
 digresses
 demiurgical
 dawning
@@ -15814,6 +15813,7 @@ doxantha
 diestrus
 dorsi
 debosh
+diploidy
 dorsibranchiata
 distinctor
 didymitis
