@@ -8186,7 +8186,6 @@ cymbling
 callower
 chakobu
 chakram
-carpentry
 chaksi
 chal
 complection
@@ -12331,6 +12330,7 @@ chromatin
 caucasoids
 chromatype
 chromatist
+carpentry
 chemotic
 coracohyoid
 cholent
