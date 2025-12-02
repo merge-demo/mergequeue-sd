@@ -468,6 +468,7 @@ cadaster
 cadasters
 cadastral
 cadastration
+coplaintiff
 cadastres
 cadaver
 capronic
@@ -24520,7 +24521,6 @@ copepoda
 chromolithograph
 cleistothecopsis
 cyzicene
-coplaintiff
 coper
 copernican
 counterfix
