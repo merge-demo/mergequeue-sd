@@ -783,7 +783,6 @@ fanfaronading
 folkloric
 footworn
 forenotice
-fatality
 froster
 forensicality
 flipe
@@ -3219,6 +3218,7 @@ flexionless
 fango
 fuchsone
 forefend
+fatality
 frenchwise
 flunkies
 falern
