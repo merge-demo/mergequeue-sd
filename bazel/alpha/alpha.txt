@@ -11275,7 +11275,6 @@ actuated
 administratorship
 apiose
 acropodium
-amphisbaenas
 accordable
 amphisbaenoid
 abri
@@ -19245,6 +19244,7 @@ areach
 attractions
 antitarnish
 amaranthus
+amphisbaenas
 autotypes
 areal
 albified
