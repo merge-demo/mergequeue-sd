@@ -1075,6 +1075,7 @@ edhs
 esculic
 envergure
 exostotic
+exulceration
 edible
 expeditive
 embase
@@ -8420,7 +8421,6 @@ equals
 epizoon
 edemic
 emblossom
-exulceration
 epinasties
 epulones
 exchange

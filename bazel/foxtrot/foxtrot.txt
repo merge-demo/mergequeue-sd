@@ -7062,6 +7062,7 @@ folily
 footful
 foolhardiness
 fabulousness
+fen
 foolhardiship
 foredeck
 flapperdom
@@ -9995,7 +9996,6 @@ frillily
 falderal
 felid
 frilliness
-fen
 florid
 frilling
 fortified
