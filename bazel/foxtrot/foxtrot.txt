@@ -1796,7 +1796,6 @@ flamingos
 federalizes
 fetisher
 freeboard
-fores
 forbesite
 folkmots
 flak
@@ -4759,6 +4758,7 @@ flowe
 fashionize
 foreranks
 foulminded
+fores
 fellowshipped
 filigera
 forceps
