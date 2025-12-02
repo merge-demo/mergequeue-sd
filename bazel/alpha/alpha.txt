@@ -8971,7 +8971,6 @@ allophanates
 allophanic
 acredula
 antiscians
-allophyle
 arrow
 arrythmia
 angiostenosis
@@ -15485,6 +15484,7 @@ almander
 anandria
 affluentness
 anywhere
+allophyle
 alaudidae
 antimission
 although
