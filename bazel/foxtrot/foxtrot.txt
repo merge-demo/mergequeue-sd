@@ -4680,6 +4680,7 @@ fluorene
 fistlike
 fizgig
 fizgigs
+feltyflier
 figaro
 fairyish
 forsake
@@ -5786,7 +5787,6 @@ fellowess
 foreswearing
 filmer
 flamingly
-feltyflier
 flittermouse
 fellowship
 fathmur
