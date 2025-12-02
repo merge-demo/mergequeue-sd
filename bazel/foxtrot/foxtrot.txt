@@ -426,7 +426,6 @@ feal
 flitting
 fogmen
 fairway
-fulminate
 fragilariaceae
 fieldbird
 forebitt
@@ -9930,6 +9929,7 @@ frigates
 flocculated
 flavin
 frightens
+fulminate
 fontes
 frighting
 fumiduct

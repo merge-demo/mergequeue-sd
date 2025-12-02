@@ -6774,7 +6774,6 @@ grey
 grandmotherism
 ghostmonger
 gynander
-glycogens
 gaolers
 glaireous
 gobleted
@@ -10863,6 +10862,7 @@ gyri
 grozet
 guideress
 graduation
+glycogens
 guaranteer
 graphidiaceae
 gastrulation
