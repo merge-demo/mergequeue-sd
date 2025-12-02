@@ -2479,6 +2479,7 @@ bargelike
 bargellos
 beswinge
 begroans
+begladding
 barger
 bardash
 bractea
@@ -13608,7 +13609,6 @@ blowsy
 bouncier
 batteried
 barra
-begladding
 binning
 beclouded
 blepharophyma
