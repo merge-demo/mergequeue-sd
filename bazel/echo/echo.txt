@@ -7983,7 +7983,6 @@ epileptiform
 equilobed
 epimysia
 epocha
-esthesias
 expunger
 enflesh
 eteocreton
@@ -10739,6 +10738,7 @@ elicitory
 equiformal
 employless
 egriot
+esthesias
 eulachan
 ensulphur
 exhibiters
