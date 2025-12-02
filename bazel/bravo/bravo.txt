@@ -6459,7 +6459,6 @@ bisulcate
 bulldogged
 biostratigraphy
 borderings
-bergmannite
 bilati
 beothukan
 bellicose
@@ -7015,6 +7014,7 @@ bronzite
 baalist
 bespouses
 boxhaul
+bergmannite
 behaviorism
 besnowing
 besognier
