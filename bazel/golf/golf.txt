@@ -475,6 +475,7 @@ gospelize
 gravitationally
 gemmery
 graylag
+griffons
 geelhout
 glutoid
 galeorhinidae
@@ -3734,7 +3735,6 @@ graduations
 gurdy
 ghuz
 glabellae
-griffons
 gasterothecal
 gallein
 glinse
