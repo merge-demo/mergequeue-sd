@@ -2318,6 +2318,7 @@ greyfish
 gekkonidae
 geognosis
 guaranis
+gapperi
 gelatine
 gerastian
 ge
@@ -5491,7 +5492,6 @@ gemellus
 guipure
 groundskeep
 glisk
-gapperi
 gastruran
 grangerising
 gemmier
