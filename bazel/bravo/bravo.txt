@@ -12783,6 +12783,7 @@ bookwright
 booleans
 booleys
 bardy
+babion
 booly
 backhanding
 betatters
@@ -14655,7 +14656,6 @@ bogle
 broilingly
 buffets
 bravers
-babion
 brasilins
 beginners
 bitted
