@@ -3000,7 +3000,6 @@ furiousness
 fossiform
 faintheartedness
 filmiform
-forma
 fiars
 fiascos
 ferricyanogen
@@ -10918,6 +10917,7 @@ fidgeters
 filtration
 forlay
 flavorful
+forma
 flighthead
 forge
 flavone
