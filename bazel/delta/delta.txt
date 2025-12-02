@@ -2767,6 +2767,7 @@ dictates
 dissembling
 decore
 dewcup
+distil
 decorist
 dragged
 durum
@@ -13901,7 +13902,6 @@ dephased
 dobos
 dimerous
 discina
-distil
 derisive
 distyle
 disinhabit
