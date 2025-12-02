@@ -705,6 +705,7 @@ gals
 galtrap
 gianthood
 gastroenterologically
+grimoire
 galumphs
 guebucu
 gimbawawed
@@ -4130,7 +4131,6 @@ gammacism
 gargoyle
 glosts
 genetor
-grimoire
 grayishness
 geoglossum
 gyropilot
