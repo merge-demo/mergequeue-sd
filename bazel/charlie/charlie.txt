@@ -3660,7 +3660,6 @@ chronometrical
 caraipi
 carlish
 cucumiform
-caraja
 carajas
 carambole
 coextensively
@@ -31857,6 +31856,7 @@ cutlings
 cutoff
 cutoffs
 cutout
+caraja
 collenchyma
 cutpurse
 cyclothyme
