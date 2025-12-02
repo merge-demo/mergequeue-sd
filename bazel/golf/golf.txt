@@ -8874,6 +8874,7 @@ grieved
 gateless
 gyroceracone
 genappe
+grievant
 guesthouses
 greyfly
 gregau
@@ -9729,7 +9730,6 @@ gorfly
 gascromh
 gundygut
 gastrogenic
-grievant
 goldeneyes
 goodwills
 gargantuan
