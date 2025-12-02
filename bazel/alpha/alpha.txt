@@ -2814,7 +2814,6 @@ aerie
 acquirer
 acromegaly
 analogs
-antiscience
 acromelalgia
 airworthier
 armorproof
@@ -22103,6 +22102,7 @@ artilleryman
 anteromedial
 amphigamous
 amphipeptone
+antiscience
 aguaji
 asteriskos
 acidheads

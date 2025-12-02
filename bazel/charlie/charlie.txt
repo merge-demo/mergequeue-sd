@@ -11305,6 +11305,7 @@ chromicizing
 chloroforms
 chlorogenic
 caducary
+calybite
 chloroid
 curably
 coradicate
@@ -21412,7 +21413,6 @@ chemicalize
 cementlike
 cyetic
 conclusory
-calybite
 conclusum
 caseful
 chapellage
