@@ -4848,6 +4848,7 @@ clachans
 carriages
 crosstie
 carriagesmith
+colorisms
 cinchonicin
 carriageway
 carryall
@@ -19389,7 +19390,6 @@ colorin
 coloring
 colorings
 conges
-colorisms
 cystous
 coloristically
 cytophysiology
