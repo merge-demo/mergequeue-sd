@@ -1417,6 +1417,7 @@ diligentia
 disintegrable
 dulcid
 dechoralize
+damndests
 deperms
 deportation
 dawdling
@@ -13767,7 +13768,6 @@ disenshroud
 dreamboat
 desugaring
 degression
-damndests
 dangering
 downlooker
 disbarments
