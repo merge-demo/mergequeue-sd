@@ -8824,6 +8824,7 @@ erd
 eyehook
 eagers
 erechtheum
+euphonic
 erechtites
 euphemist
 exomologesis
@@ -10760,7 +10761,6 @@ epicycloidal
 excystation
 extrasystolic
 elderbush
-euphonic
 erodable
 enid
 ephemerae
