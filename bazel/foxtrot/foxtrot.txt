@@ -8205,7 +8205,6 @@ fishways
 faded
 frijolito
 faze
-forage
 funicles
 fauvists
 fruticulose
@@ -8761,6 +8760,7 @@ fated
 frugality
 floroon
 fashionative
+forage
 fumbler
 forhooie
 face

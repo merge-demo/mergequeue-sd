@@ -10114,7 +10114,6 @@ eumolpus
 eutopia
 euphausiacea
 entities
-epiboly
 etherealization
 earthlike
 extrusible
@@ -13006,6 +13005,7 @@ etatisms
 endocondensation
 evanescenrly
 equivale
+epiboly
 elderbrotherish
 estoppage
 embitterer
