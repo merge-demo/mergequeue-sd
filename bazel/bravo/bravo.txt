@@ -6305,7 +6305,6 @@ bodleian
 besodden
 brigalow
 battens
-balourdise
 baltic
 benzalacetophenone
 bonum
@@ -16113,6 +16112,7 @@ breathful
 bundweed
 budget
 bolsterers
+balourdise
 bratstvo
 brookweed
 brool
