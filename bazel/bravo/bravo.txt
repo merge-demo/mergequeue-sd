@@ -1642,7 +1642,6 @@ balmawhapple
 bimodality
 birdwatch
 burton
-butyrinase
 boko
 betokens
 balmonies
@@ -1717,6 +1716,7 @@ balsams
 beseechingness
 bruise
 bismutite
+butyrinase
 bibliokelpt
 baltheus
 burse
