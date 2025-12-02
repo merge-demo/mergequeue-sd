@@ -14938,6 +14938,7 @@ breastplates
 bestudded
 basidorsal
 breastplow
+baroneted
 bulking
 blither
 business
@@ -17778,7 +17779,6 @@ burrhead
 burrheaded
 bedcovers
 burrheadedness
-baroneted
 bicuspid
 blinkered
 backing
