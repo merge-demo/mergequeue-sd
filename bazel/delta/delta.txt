@@ -14942,6 +14942,7 @@ derricks
 dramatist
 dreadless
 demophile
+disagreeance
 discoursively
 dodman
 dodoma
@@ -16480,7 +16481,6 @@ degumming
 dracone
 decelerator
 draconian
-disagreeance
 douzieme
 drumread
 draconites
