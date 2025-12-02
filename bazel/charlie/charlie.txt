@@ -4543,6 +4543,7 @@ cosession
 convulsed
 carnelian
 carneole
+coffeehousing
 coroner
 chartula
 coacervating
@@ -7179,7 +7180,6 @@ cladoceran
 centrifugate
 centrifuge
 centrifugence
-coffeehousing
 centring
 centrings
 clivia
