@@ -10073,7 +10073,6 @@ gelofer
 gimmal
 gyneconitis
 grabens
-goblinize
 gumshoed
 gonomere
 gutterman
@@ -10165,6 +10164,7 @@ gal
 glideness
 guardianly
 git
+goblinize
 gingely
 grabby
 grown
