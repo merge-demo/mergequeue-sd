@@ -5342,6 +5342,7 @@ eliminability
 endosclerite
 extrahepatic
 eurybathic
+enclosers
 endoscope
 endoscopes
 equivocalities
@@ -8143,7 +8144,6 @@ extratabular
 episcopalianism
 engineered
 elaeosaccharum
-enclosers
 epicede
 elutriation
 ebenales
