@@ -3959,6 +3959,7 @@ enstate
 emory
 exopathic
 estella
+eccentric
 escapologist
 emirate
 euxanthin
@@ -12112,7 +12113,6 @@ escuage
 enflames
 exploit
 editress
-eccentric
 echinologist
 eartag
 electromagnet
