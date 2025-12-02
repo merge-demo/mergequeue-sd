@@ -14158,7 +14158,6 @@ desulfurated
 decrepit
 daybook
 dragoon
-daters
 diterpene
 defleaing
 dezaley
@@ -15291,6 +15290,7 @@ dose
 dolomitic
 descriptives
 dorididae
+daters
 dryfarmer
 dumpty
 dofunny
