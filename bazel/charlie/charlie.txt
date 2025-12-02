@@ -27337,7 +27337,6 @@ carcaneted
 cantillation
 courgette
 courida
-cherokees
 courlan
 charging
 couronne
@@ -30685,6 +30684,7 @@ colorer
 cudgel
 communalizing
 comparability
+cherokees
 cudgeled
 cudgeler
 calymene
