@@ -5913,7 +5913,6 @@ benzalcyanhydrin
 bagatine
 beden
 backswordmen
-batswing
 blitzkrieg
 butterroot
 belast
@@ -18081,6 +18080,7 @@ booklet
 buccally
 boatsman
 barrancos
+batswing
 benzhydrol
 butacaine
 bidi
