@@ -13807,7 +13807,6 @@ appartement
 acetylate
 anorn
 anorogenic
-anthropologies
 airthing
 anorth
 atacamite
@@ -22066,6 +22065,7 @@ astatines
 astatize
 alejandro
 alphanumerical
+anthropologies
 asbestoses
 allelisms
 avenous

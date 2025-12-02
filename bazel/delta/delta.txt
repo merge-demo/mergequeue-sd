@@ -10654,7 +10654,6 @@ diplomatists
 domer
 discogastrula
 deaminized
-diauli
 diplomats
 dysporomorph
 drawfile
@@ -13897,6 +13896,7 @@ disty
 dotardy
 druthers
 distichal
+diauli
 demisable
 diadelphia
 dephased
