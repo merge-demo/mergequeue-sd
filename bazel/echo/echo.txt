@@ -7359,6 +7359,7 @@ exile
 erinaceus
 eunomian
 environmentalism
+envisages
 euchlorophyceae
 edibile
 eriophyes
@@ -12513,7 +12514,6 @@ eluviates
 exaggeration
 enteropneusta
 erythrophage
-envisages
 epicentral
 embosture
 executrixship
