@@ -9967,6 +9967,7 @@ bultong
 bryum
 balustraded
 besauce
+biquartz
 baresma
 blattidae
 brevirostral
@@ -12272,7 +12273,6 @@ blee
 bombaster
 bodock
 bowfront
-biquartz
 brogans
 biflected
 boltrope
