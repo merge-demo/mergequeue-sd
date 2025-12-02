@@ -2978,7 +2978,6 @@ bedumb
 barsac
 backhatch
 becowarding
-bioassay
 blarneyer
 bart
 brahma
@@ -10122,6 +10121,7 @@ blackband
 blackberrylike
 bunkload
 bacchant
+bioassay
 bilaminate
 berbers
 bootleggers
