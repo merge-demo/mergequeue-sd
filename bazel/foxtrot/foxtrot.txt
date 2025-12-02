@@ -2283,6 +2283,7 @@ flotation
 foreface
 fistulizing
 floorwise
+flintlike
 flagelliferous
 fenestrae
 foreword
@@ -9114,7 +9115,6 @@ fleeceflower
 floridly
 floozies
 fr
-flintlike
 furdle
 funambulated
 faulkner
