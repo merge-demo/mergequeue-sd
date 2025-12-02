@@ -7067,7 +7067,6 @@ foredeck
 flapperdom
 fraken
 fledge
-fedayeen
 foolish
 ferryboats
 frecklish
@@ -10495,6 +10494,7 @@ freshment
 frillery
 favouringly
 frot
+fedayeen
 formulatory
 fanman
 forays
