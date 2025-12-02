@@ -3222,6 +3222,7 @@ flexionless
 fango
 fuchsone
 forefend
+frenchwise
 flunkies
 falern
 forewarnings
@@ -8544,7 +8545,6 @@ formulisation
 friaries
 famulus
 fred
-frenchwise
 fluorographic
 fleered
 formulizing
