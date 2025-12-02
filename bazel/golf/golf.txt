@@ -304,7 +304,6 @@ gaudful
 glanderous
 gourami
 gadolinium
-gauzily
 gangrels
 grundsil
 gelatins
@@ -7606,6 +7605,7 @@ gloeosporium
 goodyness
 gemmula
 grabhook
+gauzily
 grabouche
 gripsack
 gigolo
