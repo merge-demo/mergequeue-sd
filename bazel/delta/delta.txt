@@ -8511,7 +8511,6 @@ downset
 directionize
 dodecyl
 draconitic
-downgrades
 diamondbacked
 debaucher
 declassify
@@ -10728,6 +10727,7 @@ deepen
 dipnoans
 danelaw
 doublewords
+downgrades
 dipodic
 dipodid
 deleble
