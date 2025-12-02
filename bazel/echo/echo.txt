@@ -2914,6 +2914,7 @@ eleventh
 evicts
 excitation
 emplaning
+epizoisms
 elevons
 eurydice
 elf
@@ -6503,7 +6504,6 @@ espanoles
 elocation
 entr
 embrocated
-epizoisms
 ensurance
 ensuring
 equators
