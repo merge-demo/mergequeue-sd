@@ -23552,7 +23552,6 @@ andalusite
 aldeia
 amidocapric
 advents
-algedi
 alizarate
 auld
 aulder
@@ -23990,6 +23989,7 @@ apologiser
 aminolysis
 antiprohibition
 autoboating
+algedi
 autobuses
 autobusses
 ariettes

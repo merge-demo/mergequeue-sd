@@ -2161,7 +2161,6 @@ electropult
 elation
 euphonise
 enrib
-effloresces
 extrapolar
 explanative
 externalism
@@ -13317,6 +13316,7 @@ espousers
 efformation
 eminences
 ethicalities
+effloresces
 eclipsareon
 extracosmic
 extogenous
