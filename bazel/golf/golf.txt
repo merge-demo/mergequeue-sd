@@ -540,7 +540,6 @@ gamodemes
 galler
 grandmammy
 gunnera
-grandsirs
 germanium
 gastraea
 gallera
@@ -10468,6 +10467,7 @@ gyrosyn
 greetings
 grakle
 gummatous
+grandsirs
 gneissy
 gerrymandered
 geistlich

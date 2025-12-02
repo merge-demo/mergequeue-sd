@@ -1025,7 +1025,6 @@ farinose
 founce
 flannelly
 firesafety
-flourishing
 farinosel
 foussa
 fulfill
@@ -10874,6 +10873,7 @@ flayer
 furore
 fullish
 fractostratus
+flourishing
 foeman
 frigorifico
 fulgurated
