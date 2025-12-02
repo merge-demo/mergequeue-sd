@@ -5557,7 +5557,6 @@ denotement
 directionality
 drought
 dyvour
-disilicate
 disattire
 debunked
 deutomala
@@ -16619,6 +16618,7 @@ deprecated
 didelphian
 dragonhood
 downily
+disilicate
 deveins
 dissent
 dwellers
