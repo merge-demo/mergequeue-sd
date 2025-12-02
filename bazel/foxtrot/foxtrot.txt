@@ -1828,6 +1828,7 @@ farcicality
 foreign
 febricant
 frilly
+fanga
 febricitant
 frictions
 fore
@@ -9981,7 +9982,6 @@ footpaths
 foreshroud
 framableness
 fenceless
-fanga
 forerevelation
 fecundations
 foredeclare
