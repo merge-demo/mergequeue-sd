@@ -2466,7 +2466,6 @@ cancroid
 clientele
 cuya
 contuse
-crystallitic
 cancrum
 cancrums
 cand
@@ -8983,6 +8982,7 @@ cloaks
 comus
 charking
 chiels
+crystallitic
 charlady
 charladies
 criterions
