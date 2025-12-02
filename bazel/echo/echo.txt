@@ -283,6 +283,7 @@ erythrocytorrhexis
 emir
 enwwoven
 essoin
+epanaleptic
 ecotopic
 easters
 eponymy
@@ -12079,7 +12080,6 @@ embalmed
 excortication
 eschewals
 eruptions
-epanaleptic
 exceptionable
 expediate
 entrainer
