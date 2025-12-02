@@ -17,7 +17,6 @@ emblazon
 erythrophobia
 eadios
 entradas
-enravished
 euthytropic
 electrobiologist
 eagerness
@@ -4747,6 +4746,7 @@ erosional
 eelware
 exalbuminose
 encist
+enravished
 exponentially
 encysting
 eugenol

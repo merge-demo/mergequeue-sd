@@ -6353,6 +6353,7 @@ fluocerine
 felis
 fren
 flang
+favourableness
 fullterm
 fluoran
 fennish
@@ -6830,7 +6831,6 @@ frescoers
 format
 favoringly
 foliate
-favourableness
 facemaking
 fistiness
 floridities
