@@ -4626,7 +4626,6 @@ aq
 avicularian
 advocatress
 audiovisuals
-advoteresse
 anastrophe
 apish
 advt
@@ -10068,6 +10067,7 @@ axmen
 antiformant
 amblycephalus
 atmology
+advoteresse
 asymptomatically
 ammoniemia
 agarita
