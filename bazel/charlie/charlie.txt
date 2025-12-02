@@ -7629,7 +7629,6 @@ ceremony
 chrysoeriol
 ceremonial
 chiquero
-ceremonialism
 ceremonialist
 ceremonialize
 ceremonialness
@@ -31289,6 +31288,7 @@ curbs
 curbside
 curbstone
 curbstoner
+ceremonialism
 curcas
 curch
 curculio
