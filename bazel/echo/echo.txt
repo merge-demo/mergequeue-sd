@@ -9598,7 +9598,6 @@ epihippus
 enterohemorrhage
 esophagalgia
 esophagean
-esophago
 equidistance
 esophagogastroscopy
 entrike
@@ -11411,6 +11410,7 @@ epichoric
 euxanthone
 erpetoichthys
 escaladed
+esophago
 extrinsical
 embanking
 evangelising
