@@ -20141,7 +20141,6 @@ commit
 commitment
 clavecinist
 curiouser
-commitments
 commits
 calycoid
 chutist
@@ -26178,6 +26177,7 @@ conatural
 calorimeter
 cycloidally
 cosmotellurian
+commitments
 cysteines
 cosmotheist
 cosmozoans
