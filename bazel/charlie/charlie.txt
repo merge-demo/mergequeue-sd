@@ -5901,6 +5901,7 @@ catgut
 chancellorism
 cath
 cannibalic
+complimentally
 catha
 capillatus
 convolutionary
@@ -20752,7 +20753,6 @@ cricketings
 coenesthesis
 coalyard
 complimental
-complimentally
 complimentarily
 complimentariness
 complimentarity
