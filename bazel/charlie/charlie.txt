@@ -3631,6 +3631,7 @@ curliest
 crustate
 caracolite
 caracolled
+cmd
 caracoller
 cosmopolitanize
 colarin
@@ -16977,7 +16978,6 @@ clutterment
 cm
 coinclude
 chm
-cmd
 cml
 cofferdams
 croconate
