@@ -12656,7 +12656,6 @@ cyanastrum
 campoody
 curches
 chucklers
-chuckles
 chucklesome
 chiavetta
 cymblin
@@ -27921,6 +27920,7 @@ crackings
 crackled
 crackles
 crackless
+chuckles
 crackly
 cracklier
 crassament
