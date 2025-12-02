@@ -3882,7 +3882,6 @@ glumpy
 glazed
 gloweringly
 gigahertzes
-galloperdix
 gigaherz
 guillotines
 gymnarchidae
@@ -5750,6 +5749,7 @@ geologize
 gratia
 gammons
 goldsmithery
+galloperdix
 glockenspiel
 gallopade
 glossohyal
