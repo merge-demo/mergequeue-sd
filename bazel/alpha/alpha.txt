@@ -4077,6 +4077,7 @@ automan
 astrophotometrical
 amaracus
 acromion
+anticoagulate
 agamoid
 asarotum
 areometric
@@ -20120,7 +20121,6 @@ anapophyses
 arr
 arracach
 airwayman
-anticoagulate
 amphithalami
 audibertia
 ambassy
