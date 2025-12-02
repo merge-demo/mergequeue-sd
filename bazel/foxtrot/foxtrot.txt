@@ -7570,7 +7570,6 @@ flightworthy
 fatuity
 footslogs
 forestaller
-flacherie
 flory
 forjudgment
 fatimid
@@ -10816,6 +10815,7 @@ flisk
 fuddler
 ferrocalcite
 florimania
+flacherie
 ferniest
 fulciment
 fs
