@@ -10928,7 +10928,6 @@ cokers
 crost
 ceramic
 chiromantic
-cabret
 crudites
 coalition
 challa
@@ -27231,6 +27230,7 @@ counterweighted
 counterweights
 counterwheel
 counterwilling
+cabret
 counterwitness
 counterwork
 counterworker
