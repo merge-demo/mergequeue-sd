@@ -265,7 +265,6 @@ glyph
 gumminess
 grapta
 graziery
-geoplagiotropism
 grenada
 gnomon
 glauconiferous
@@ -5060,6 +5059,7 @@ gatch
 grutched
 guards
 gaedown
+geoplagiotropism
 goldweed
 glycogen
 gerefa
