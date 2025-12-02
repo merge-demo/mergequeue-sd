@@ -14282,7 +14282,6 @@ circumpose
 condite
 circumquaque
 circumradius
-circumradiuses
 charitable
 claver
 conferring
@@ -20861,6 +20860,7 @@ compotor
 compounded
 complicatedness
 cotarnin
+circumradiuses
 colicine
 carbonyls
 clonked
