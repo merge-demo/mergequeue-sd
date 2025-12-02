@@ -5180,6 +5180,7 @@ glb
 gastratrophia
 geckotian
 gossipred
+gasteria
 gnostic
 gesticulator
 glossocomon
@@ -8264,7 +8265,6 @@ gladii
 graphophone
 grossulariaceae
 graphophonic
-gasteria
 graphoscope
 glycoprotein
 grinderies
