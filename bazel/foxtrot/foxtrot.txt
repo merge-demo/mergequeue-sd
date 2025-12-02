@@ -2770,6 +2770,7 @@ floppier
 fiction
 fraze
 festivity
+femalely
 forker
 feston
 flatly
@@ -6603,7 +6604,6 @@ focalizes
 forwrap
 federacies
 forgave
-femalely
 focsle
 fineish
 feminism
