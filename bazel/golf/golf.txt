@@ -2913,6 +2913,7 @@ gigots
 glycollic
 glints
 gallipots
+graminivorous
 glittering
 gledes
 gonocyte
@@ -6760,7 +6761,6 @@ gripped
 geneticist
 georgic
 gulash
-graminivorous
 galvanolysis
 giddyberry
 guaiasanol
