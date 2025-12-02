@@ -1853,7 +1853,6 @@ erastian
 eila
 evenoo
 eileen
-epictetian
 eurygnathism
 epexegesis
 epicentra
@@ -4196,6 +4195,7 @@ emporte
 ecstasy
 exegeses
 ensteep
+epictetian
 evasible
 empower
 ecumenics
