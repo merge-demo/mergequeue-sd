@@ -5668,7 +5668,6 @@ goodbye
 garnet
 gratefuller
 gating
-glasses
 glassrope
 glorifications
 garefowls
@@ -6798,6 +6797,7 @@ ganglioside
 gossiping
 geront
 gymnogyps
+glasses
 gentilitial
 gyrostatics
 genal
