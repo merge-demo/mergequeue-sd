@@ -2992,7 +2992,6 @@ eliminable
 etymologizing
 eradiation
 eliminate
-enfelon
 etiologies
 embind
 explait
@@ -13152,6 +13151,7 @@ embellishing
 engelmannia
 experimenters
 enheaven
+enfelon
 empyreuma
 ecesises
 effronted
