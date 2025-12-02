@@ -4616,6 +4616,7 @@ euphemism
 endosarcode
 ethnolinguistics
 embryophagous
+eventuating
 eeriest
 epicerastic
 estradas
@@ -11417,7 +11418,6 @@ embanking
 evangelising
 eventualize
 eventually
-eventuating
 evictors
 epithelioglandular
 effendi
