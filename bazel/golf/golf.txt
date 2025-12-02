@@ -408,6 +408,7 @@ galaxias
 gynecol
 gastroenteralgia
 gotham
+gustatorially
 gelder
 gneu
 gymnogynous
@@ -4641,7 +4642,6 @@ gaudeamus
 gyrodactylus
 grego
 grapeshot
-gustatorially
 gallup
 greenheart
 gyrating
