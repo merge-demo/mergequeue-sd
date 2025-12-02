@@ -5314,7 +5314,6 @@ density
 defat
 degasifier
 dispositioned
-diatomaceoid
 denouncers
 detestable
 detinue
@@ -13951,6 +13950,7 @@ doolee
 diagenesis
 discrepance
 drawtubes
+diatomaceoid
 dacryadenalgia
 dorsispinal
 defoam
