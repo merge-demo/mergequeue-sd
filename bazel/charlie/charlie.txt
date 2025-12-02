@@ -8075,7 +8075,6 @@ chaffery
 carcanets
 chastening
 costarring
-conjugational
 carryalls
 chaffinch
 caressable
@@ -19127,6 +19126,7 @@ collodion
 crushproof
 collodionization
 collogen
+conjugational
 chouses
 cataract
 chaetopoda
