@@ -16477,6 +16477,7 @@ acronal
 anviltops
 altesse
 anxietude
+amphoras
 adipocele
 arquated
 antioxidant
@@ -21357,7 +21358,6 @@ androphore
 amyloses
 acreak
 analectic
-amphoras
 azobacter
 asyndeton
 abditive
