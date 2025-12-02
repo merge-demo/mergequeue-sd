@@ -2777,6 +2777,7 @@ equangular
 explorations
 ebracteate
 exteriorising
+emiction
 eurithermophilic
 excecate
 elytrous
@@ -6557,7 +6558,6 @@ empanel
 eatings
 entasis
 extreat
-emiction
 eclectic
 engroove
 entelechies
