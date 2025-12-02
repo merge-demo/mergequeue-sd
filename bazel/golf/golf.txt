@@ -7140,6 +7140,7 @@ gynecoid
 grinderman
 gorbelly
 gyttja
+glassworker
 gremio
 gagtooth
 gorble
@@ -9224,7 +9225,6 @@ gibberosity
 grippleness
 grazier
 gryllotalpa
-glassworker
 griqualander
 geminis
 gleaning

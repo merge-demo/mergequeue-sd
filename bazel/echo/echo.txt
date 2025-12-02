@@ -835,7 +835,6 @@ etamines
 ectocarpus
 eriophorum
 eosinophil
-ectocommensal
 ectocondylar
 endophytic
 efficient
@@ -11489,6 +11488,7 @@ evidences
 ethereous
 ethonomic
 eutechnics
+ectocommensal
 escargatoire
 eucharis
 evidencing
