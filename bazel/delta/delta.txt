@@ -10127,6 +10127,7 @@ dynamos
 dadoing
 dynamostatic
 decreing
+drightin
 dynamotor
 disfrocks
 dissembles
@@ -16776,7 +16777,6 @@ diatomaceous
 dravidian
 dayboy
 dravidic
-drightin
 diplomate
 developed
 dumbness
