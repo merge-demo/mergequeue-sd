@@ -15524,7 +15524,6 @@ anthracnose
 abstracted
 angelot
 actualized
-arrack
 antimonarchism
 arianism
 aviating
@@ -21920,6 +21919,7 @@ acrocephaly
 autovaccination
 associatedness
 andesine
+arrack
 autolyse
 autocarist
 ambagious
