@@ -2484,6 +2484,7 @@ fawningness
 fortunize
 fluters
 fatales
+fontinal
 ferociously
 flashforward
 fumarin
@@ -11589,7 +11590,6 @@ fussers
 faradic
 fargite
 fussing
-fontinal
 fideicommissary
 forced
 fraternal
