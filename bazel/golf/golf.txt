@@ -8120,7 +8120,6 @@ garderobe
 germanophobe
 gaspergous
 gynaeolater
-gulfed
 gloat
 glowflies
 granulators
@@ -10742,6 +10741,7 @@ groundlessly
 gypsyisms
 gnomonological
 galloot
+gulfed
 garnish
 gournard
 gagers

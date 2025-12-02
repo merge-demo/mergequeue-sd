@@ -7614,7 +7614,6 @@ bewitched
 boughed
 bewitcher
 bewitches
-barbion
 bryological
 beswink
 boons
@@ -9122,6 +9121,7 @@ bionomical
 biostatic
 biostatical
 buffleheaded
+barbion
 bletting
 banc
 beefburger
