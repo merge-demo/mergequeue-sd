@@ -2515,7 +2515,6 @@ dovekies
 duckwing
 deckle
 dulls
-diatropism
 deferral
 duds
 dishonourary
@@ -5118,6 +5117,7 @@ deadrise
 dendrocygna
 discomfit
 dedimus
+diatropism
 dispone
 dissipated
 dissimulates
