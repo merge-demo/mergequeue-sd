@@ -5965,6 +5965,7 @@ elysia
 euphonising
 espalier
 effluviography
+explorator
 educatee
 enjoyably
 enhypostasia
@@ -7787,7 +7788,6 @@ electrodynamical
 etymologies
 endophytal
 etherizer
-explorator
 epiblemata
 epiproct
 eupatridae

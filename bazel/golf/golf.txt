@@ -5466,7 +5466,6 @@ gingivitis
 glandaceous
 gaea
 glyptolith
-galvanocontractility
 grotesques
 girsle
 gonfanon
@@ -5963,6 +5962,7 @@ gonopodia
 governante
 germlike
 gastrohydrorrhea
+galvanocontractility
 grangerize
 glanduligerous
 gensengs
