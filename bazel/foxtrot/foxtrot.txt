@@ -2625,6 +2625,7 @@ fabric
 falanaka
 freshes
 fluocerite
+feazing
 frumpling
 ferrumination
 fluviatic
@@ -7260,7 +7261,6 @@ frache
 fenestral
 fagald
 finchbacked
-feazing
 forsaking
 fishyard
 fibulocalcaneal
