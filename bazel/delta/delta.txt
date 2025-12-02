@@ -2584,6 +2584,7 @@ distiller
 declensionally
 declensions
 decretist
+disasinize
 declimatize
 driblets
 declinational
@@ -11144,7 +11145,6 @@ disarticulation
 detruded
 disembargoing
 disarticulator
-disasinize
 deliciously
 descriptors
 deaminated

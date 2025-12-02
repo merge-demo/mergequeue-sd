@@ -24178,6 +24178,7 @@ colleterial
 compost
 cunning
 convocations
+cinemese
 convocative
 convocator
 cantabrize
@@ -29397,7 +29398,6 @@ carites
 crypturidae
 cris
 cormels
-cinemese
 chairperson
 crisic
 crispated
