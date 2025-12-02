@@ -10855,7 +10855,6 @@ endostomata
 envineyard
 enchase
 eisteddfodau
-euphotic
 entailable
 equitability
 eructation
@@ -11000,6 +10999,7 @@ ecologically
 ennuye
 eunicidae
 electrokinematics
+euphotic
 excavates
 eurybenthic
 endeared
