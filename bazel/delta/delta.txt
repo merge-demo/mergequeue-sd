@@ -1469,7 +1469,6 @@ deltation
 dietotoxicity
 dawtit
 dawts
-damages
 disbarred
 doublehanded
 daze
@@ -7747,6 +7746,7 @@ devilize
 delative
 diverged
 devilkins
+damages
 doubling
 discanonization
 dichroous
