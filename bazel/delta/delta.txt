@@ -11940,7 +11940,6 @@ discuses
 disease
 dentalisation
 defectively
-deductile
 diseased
 deifying
 dissyllabify
@@ -12728,6 +12727,7 @@ dacryoadenitis
 declassing
 divel
 drafty
+deductile
 dialysing
 decodings
 dolabriform
