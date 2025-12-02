@@ -12474,7 +12474,6 @@ exfiltrate
 equilibrial
 electrolysing
 endoskeletal
-exhuming
 epifaunal
 enthronization
 elegiac
@@ -13213,6 +13212,7 @@ elapinae
 emphatically
 embale
 expires
+exhuming
 earthworms
 esteemable
 expressivity
