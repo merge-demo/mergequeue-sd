@@ -4372,7 +4372,6 @@ fishbolts
 flechette
 funt
 featheredged
-flagged
 forbearances
 frenums
 fishbowls
@@ -11024,6 +11023,7 @@ floriferously
 festal
 furzery
 fuming
+flagged
 foresights
 fora
 filiferous
