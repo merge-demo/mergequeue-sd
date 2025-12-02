@@ -20706,7 +20706,6 @@ complexionless
 cultivar
 cahuapana
 chronologic
-complexive
 chrematist
 cytoplast
 chefdoms
@@ -31374,6 +31373,7 @@ curie
 curiet
 curietherapy
 curying
+complexive
 cyclopentane
 cerebrosensorial
 counterconquest
