@@ -2059,7 +2059,6 @@ bannisters
 birthmarks
 bioflavinoid
 bannock
-buyers
 bannocks
 boilinglike
 bivittate
@@ -16518,6 +16517,7 @@ bagnet
 bolivia
 brutally
 babbittism
+buyers
 brute
 buddling
 bangtailed
