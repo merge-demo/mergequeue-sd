@@ -2846,7 +2846,6 @@ brushlessness
 bicep
 blanketless
 barrad
-bridebowl
 boskage
 biform
 bashawism
@@ -4766,6 +4765,7 @@ binnacle
 bedral
 bedraping
 bedread
+bridebowl
 bedrench
 baldling
 blast
