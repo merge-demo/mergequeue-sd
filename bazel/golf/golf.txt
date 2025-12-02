@@ -4027,7 +4027,6 @@ gesticulates
 gansey
 ginnier
 gubbings
-gellert
 grounds
 gilds
 gildhall
@@ -10392,6 +10391,7 @@ griddles
 glycyls
 gelatiniser
 gutta
+gellert
 gullies
 gems
 groans
