@@ -5433,7 +5433,6 @@ ectopatagia
 erthling
 echinocactus
 euryalean
-electively
 evangelium
 endotys
 endotracheal
@@ -8655,6 +8654,7 @@ expels
 emphyteuta
 elutriating
 emergently
+electively
 equinate
 enameller
 emerging
