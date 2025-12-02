@@ -14077,7 +14077,6 @@ epigastral
 equilibrative
 ebonize
 explicits
-entwinement
 extremeless
 extremely
 etymography
@@ -14136,6 +14135,7 @@ episcopates
 ebonizing
 ephemerality
 enseraph
+entwinement
 enplanement
 emulates
 enlard
