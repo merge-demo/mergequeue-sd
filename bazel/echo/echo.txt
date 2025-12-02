@@ -12026,6 +12026,7 @@ excavational
 expensed
 eryngium
 everyone
+expone
 enterfeat
 exampleship
 essentials
@@ -13331,7 +13332,6 @@ electromyograph
 elusively
 eyewear
 encomendero
-expone
 ephoralty
 exponency
 extrared
