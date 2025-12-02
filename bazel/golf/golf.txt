@@ -6853,7 +6853,6 @@ graynesses
 gingerade
 gallican
 gamelotte
-gymnodontes
 gastroenterostomies
 gunnings
 gagwriter
@@ -8068,6 +8067,7 @@ gamone
 gaiters
 geomorphogeny
 giblets
+gymnodontes
 grimily
 granophyre
 gooseliver
