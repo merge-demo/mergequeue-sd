@@ -8306,6 +8306,7 @@ efractory
 equivalve
 ennobles
 exactions
+enates
 epithalline
 elastase
 einstein
@@ -9164,7 +9165,6 @@ epiloguize
 ectoenzyme
 ectocinerea
 encolor
-enates
 ernes
 erode
 enduring
