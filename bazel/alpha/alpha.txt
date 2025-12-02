@@ -8662,7 +8662,6 @@ askeses
 australoid
 alleys
 alephzero
-afrasian
 automatonlike
 alleyway
 alchitran
@@ -16334,6 +16333,7 @@ autotrepanation
 anatexis
 autophytography
 anemometrograph
+afrasian
 amalgamated
 annunciative
 aquabelle
