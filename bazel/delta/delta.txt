@@ -5495,7 +5495,6 @@ deoppilant
 deceives
 detectably
 deoppilate
-dep
 doss
 deorganization
 deistic
@@ -16799,6 +16798,7 @@ demitube
 demirobe
 dyscrasial
 dichroscopic
+dep
 diprimary
 drawbore
 deare
