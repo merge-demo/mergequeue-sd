@@ -2312,6 +2312,7 @@ ganofs
 gelant
 glyceric
 ganta
+gitoxin
 granulation
 gelatinating
 greyfish
@@ -4165,7 +4166,6 @@ gymnodiniaceous
 gallowses
 gerontological
 gazee
-gitoxin
 generalissimos
 gramicidin
 gustatorily
