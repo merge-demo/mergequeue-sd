@@ -1307,7 +1307,6 @@ fibromata
 functionarism
 feculency
 fulvous
-flear
 flirtation
 fluoridised
 flookan
@@ -3536,6 +3535,7 @@ featherhead
 fulvescent
 formant
 foulsome
+flear
 filamentary
 filament
 flannelleaves

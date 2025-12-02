@@ -2771,6 +2771,7 @@ girling
 genteelize
 gonfalonier
 gentiana
+gnome
 gastrotympanites
 gentianella
 gregatim
@@ -10512,7 +10513,6 @@ garbardine
 germigene
 guauaenok
 goupin
-gnome
 graveman
 gonocytes
 genuineness
