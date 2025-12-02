@@ -752,6 +752,7 @@ aeromechanics
 abashment
 autogyro
 agnition
+akroter
 accordatura
 asperation
 attuning
@@ -7138,7 +7139,6 @@ atopite
 akre
 akrochordite
 allophore
-akroter
 akroteria
 arithmetization
 aktistetae
