@@ -11794,7 +11794,6 @@ decaudation
 demasts
 discrepated
 diskless
-discrepation
 dullardism
 dehydrogenize
 drawplate
@@ -16629,6 +16628,7 @@ drunkeness
 dragonroot
 dilutant
 detesting
+discrepation
 dragonwort
 dabber
 dedolent
