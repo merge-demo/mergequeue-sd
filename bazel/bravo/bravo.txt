@@ -10948,7 +10948,6 @@ batement
 benchmar
 blinkingly
 blinter
-batel
 blocky
 brassage
 blintzes
@@ -15214,6 +15213,7 @@ bouldering
 brickhood
 buddhists
 basifier
+batel
 brickyard
 bricking
 brickish
