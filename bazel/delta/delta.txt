@@ -1472,6 +1472,7 @@ disbarred
 doublehanded
 daze
 discerptibility
+dured
 disinherison
 dipropellant
 deuteroplasm
@@ -18517,7 +18518,6 @@ dissilition
 durbars
 dissonate
 diau
-dured
 decollated
 disparting
 dapperly
