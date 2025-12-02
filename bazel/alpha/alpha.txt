@@ -4736,6 +4736,7 @@ affricate
 adawe
 acquisitiveness
 antiradicalism
+ambalam
 aenigmatite
 ated
 alluvial
@@ -5675,7 +5676,6 @@ agalaxia
 anisomelus
 agalena
 agalenidae
-ambalam
 asperating
 agallochs
 acupunctuation
