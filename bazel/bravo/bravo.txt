@@ -5802,6 +5802,7 @@ biremes
 butlerism
 bandstop
 bondsmen
+billete
 bellyached
 bismethyl
 bellyacher
@@ -13921,7 +13922,6 @@ brooky
 boxcars
 bishopful
 barwing
-billete
 bostonese
 bowsie
 byerlite
