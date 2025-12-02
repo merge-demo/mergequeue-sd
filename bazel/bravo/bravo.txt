@@ -1854,7 +1854,6 @@ bryology
 bewend
 bonaght
 battutos
-bevies
 batukite
 bishoplike
 backy
@@ -5513,6 +5512,7 @@ begnawn
 blotted
 beisance
 bouvier
+bevies
 broadloom
 bejant
 blintz
