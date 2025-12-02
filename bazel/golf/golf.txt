@@ -383,6 +383,7 @@ gansy
 glumpily
 goatskins
 grandmamma
+gentilization
 guisian
 gps
 galant
@@ -7919,7 +7920,6 @@ gliriform
 gooseberries
 grandad
 goggling
-gentilization
 gladded
 gallantly
 grandads
