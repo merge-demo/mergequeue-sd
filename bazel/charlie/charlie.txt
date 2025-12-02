@@ -7502,7 +7502,6 @@ cambrian
 ceraunoscopy
 cyathophyllidae
 cercal
-calelectricity
 cercaria
 corticosterone
 chivvy
@@ -23521,6 +23520,7 @@ contiguity
 circumferent
 continentalize
 continentals
+calelectricity
 cochranea
 contingence
 carpenter
