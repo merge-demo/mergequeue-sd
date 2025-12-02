@@ -323,7 +323,6 @@ dourine
 dalasi
 daybooks
 deckman
-desand
 desquamative
 desmidiaceae
 dribbling
@@ -12838,6 +12837,7 @@ daubs
 devolutive
 demiparadise
 dismals
+desand
 dithalous
 disman
 dismantles
