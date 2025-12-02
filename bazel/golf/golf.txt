@@ -4293,7 +4293,6 @@ gesturing
 grumpiness
 geraniums
 goatlike
-gregos
 gigantesque
 grousing
 gumlike
@@ -9788,6 +9787,7 @@ gelidities
 globetrotter
 ganza
 grunt
+gregos
 grunter
 gravemaking
 griffin
