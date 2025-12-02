@@ -10575,7 +10575,6 @@ alcuinian
 archduchy
 aequian
 anophele
-amygdalin
 antepenuit
 antiderivative
 anachromasis
@@ -22030,6 +22029,7 @@ amphiuma
 acclimate
 argentums
 anoia
+amygdalin
 aggressing
 antitrinitarian
 aliyahaliyahs

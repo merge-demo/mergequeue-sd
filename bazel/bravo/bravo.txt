@@ -3487,6 +3487,7 @@ batched
 batcher
 bargemen
 bogging
+bedaubs
 bitterhearted
 bateau
 bateleur
@@ -17006,7 +17007,6 @@ bulge
 behemoth
 braziers
 bibliothecarial
-bedaubs
 bubblish
 banjoists
 bulger
