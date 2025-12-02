@@ -17622,6 +17622,7 @@ auditory
 apolaustic
 antiagglutination
 antediluvial
+applicableness
 agouta
 apostlehood
 appestats
@@ -17716,7 +17717,6 @@ arenous
 applicable
 anticyclonically
 androgonia
-applicableness
 asilid
 aristarchian
 amylogenesis
