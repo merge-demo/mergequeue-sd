@@ -10602,7 +10602,6 @@ dermatomycosis
 digammate
 doek
 dashiki
-denote
 dislikes
 disequilibrium
 disslander
@@ -14978,6 +14977,7 @@ disjection
 dogaressa
 diaspinae
 disarmature
+denote
 disobstruct
 domestics
 dogberry

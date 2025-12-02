@@ -1458,6 +1458,7 @@ balkiness
 bemoans
 balking
 budgy
+brawlier
 backbiter
 boyarisms
 blighter
@@ -8154,7 +8155,6 @@ bivalencies
 bloodbird
 bateaux
 bieldy
-brawlier
 bossa
 bellicoseness
 bielding
