@@ -6604,7 +6604,6 @@ brotula
 beetlers
 butterine
 bacharach
-bukh
 bodyplate
 beant
 bereaves
@@ -7710,6 +7709,7 @@ bivouacking
 bookrack
 bugre
 bagleaves
+bukh
 bacillosis
 byproducts
 bulbotuber

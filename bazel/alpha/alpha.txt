@@ -14534,7 +14534,6 @@ arimaspian
 admirability
 arborean
 admass
-anthropomorphisms
 awanyu
 anthropomorphized
 anthropomorphology
@@ -15302,6 +15301,7 @@ antihero
 amphoriskos
 azulejo
 anticonscriptive
+anthropomorphisms
 abirritation
 antihierarchy
 akimbo
