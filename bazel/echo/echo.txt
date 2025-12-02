@@ -2116,7 +2116,6 @@ elastically
 eurycephalous
 edenite
 exudes
-emberiza
 effete
 exocoelic
 eberthella
@@ -4432,6 +4431,7 @@ encapsulation
 emitted
 encapsuled
 enure
+emberiza
 effectively
 encapsuling
 encaptivate
