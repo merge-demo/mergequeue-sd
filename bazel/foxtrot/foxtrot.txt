@@ -4796,7 +4796,6 @@ fasciolaria
 fancifulness
 flinching
 floatiest
-fullwords
 faena
 fellowshipping
 falsen
@@ -9723,6 +9722,7 @@ flaccidness
 frenchwomen
 frenetical
 fideicommissioner
+fullwords
 frigorifical
 factful
 firmament
