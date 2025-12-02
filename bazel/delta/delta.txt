@@ -1291,7 +1291,6 @@ datsuns
 disband
 demigardebras
 dissyllabize
-dentition
 dysodyle
 doitrified
 dardanarius
@@ -11325,6 +11324,7 @@ discardment
 discards
 dentals
 discarnate
+dentition
 duskier
 dimit
 discusser
