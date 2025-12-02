@@ -2293,7 +2293,6 @@ baobab
 biasways
 breloque
 bathyscape
-barbicel
 bemitred
 barbicels
 bathonian
@@ -11183,6 +11182,7 @@ borean
 bronchiloquy
 boulevardiers
 bicyclists
+barbicel
 brooching
 boththridia
 bereavers
