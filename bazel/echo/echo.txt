@@ -7065,6 +7065,7 @@ epinikian
 enzymolytic
 excitomuscular
 encompassed
+etchimin
 enumerability
 entry
 epris
@@ -13434,7 +13435,6 @@ expressionists
 eventuality
 equipoising
 expressionlessness
-etchimin
 expresso
 erogate
 ethnodicy
