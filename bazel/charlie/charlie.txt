@@ -13772,7 +13772,6 @@ cysticercoid
 carcinophobia
 cinenchyma
 concreate
-cinene
 cinenegative
 cineol
 creeky
@@ -30663,6 +30662,7 @@ cudden
 collis
 cuddy
 cuddie
+cinene
 chuppoth
 coprocessing
 cuddies
