@@ -5834,6 +5834,7 @@ encloser
 enray
 ephoi
 effluvia
+enemying
 environing
 elephant
 electroencephalograms
@@ -10788,7 +10789,6 @@ epharmony
 eucharistizing
 establishmentarian
 erumpent
-enemying
 eumenides
 emblema
 encrinus
