@@ -629,6 +629,7 @@ gillie
 geophysicist
 gigartina
 glide
+glutael
 gradatory
 guenepe
 guideline
@@ -8359,7 +8360,6 @@ guru
 grandstander
 gemelled
 glides
-glutael
 gladsomeness
 ganoid
 granites
