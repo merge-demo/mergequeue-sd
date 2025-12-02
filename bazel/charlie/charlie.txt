@@ -3714,6 +3714,7 @@ clawlike
 carapine
 canvasback
 cucumaria
+cowkine
 coraji
 carara
 cheneaux
@@ -27689,7 +27690,6 @@ chamite
 cycloplegia
 chaussures
 cowk
-cowkine
 cumulatively
 coordinately
 cowl
