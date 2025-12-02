@@ -4185,7 +4185,6 @@ cardiorrhaphy
 cardiorrheuma
 cardiospermum
 celts
-cardiosphygmogram
 cardiosphygmograph
 catmalison
 citternhead
@@ -18968,6 +18967,7 @@ collectivise
 collectivism
 collectivist
 circumcircle
+cardiosphygmogram
 collectivistically
 cocainization
 contraflow
