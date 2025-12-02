@@ -7627,7 +7627,6 @@ chrysoeriol
 ceremonial
 chiquero
 ceremonialist
-ceremonialize
 ceremonialness
 counterlocking
 contrabass
@@ -17380,6 +17379,7 @@ coaxation
 coaxes
 coaxy
 cordigeri
+ceremonialize
 coaxial
 cellarman
 coaxing
