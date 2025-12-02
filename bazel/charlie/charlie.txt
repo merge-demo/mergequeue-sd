@@ -629,7 +629,6 @@ caenostyly
 caesalpinia
 caenostylic
 commentarial
-caenozoic
 caeoma
 chera
 cero
@@ -10177,6 +10176,7 @@ chiarooscuro
 chiaroscuros
 chuvash
 coulis
+caenozoic
 chias
 cheesecakes
 chiasma
