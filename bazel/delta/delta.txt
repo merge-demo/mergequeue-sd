@@ -8633,7 +8633,6 @@ dispunitive
 donatio
 diapophysis
 decigramme
-dibatis
 dystaxia
 diapsida
 dyskinetic
@@ -8850,6 +8849,7 @@ dysphotic
 dodecagonal
 divination
 dib
+dibatis
 disincorporation
 dyspraxia
 dibbing
