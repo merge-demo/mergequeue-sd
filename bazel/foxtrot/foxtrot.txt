@@ -3060,7 +3060,6 @@ frounceless
 freend
 flopping
 fibrillating
-flirters
 forches
 flowerfly
 fatstock
@@ -3507,6 +3506,7 @@ fulgorid
 fusicladium
 figurer
 fute
+flirters
 flyweight
 fleetingly
 frivolized
