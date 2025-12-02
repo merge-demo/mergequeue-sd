@@ -11141,7 +11141,6 @@ fernlike
 foederal
 fruitiest
 frumple
-francas
 fingerhold
 funeralize
 footnoted
@@ -11552,6 +11551,7 @@ figurations
 feedback
 fishboat
 friskful
+francas
 fusile
 flytier
 fulgurator
