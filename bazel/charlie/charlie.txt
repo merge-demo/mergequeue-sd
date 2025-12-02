@@ -11257,7 +11257,6 @@ chrysidella
 chloroacetone
 childe
 conservation
-chloroamide
 chloroamine
 chloroaurate
 chloroaurite
@@ -26509,6 +26508,7 @@ chalcedonies
 cottonseeds
 camomile
 cymarose
+chloroamide
 cephalopodic
 cottontails
 cabuyas
