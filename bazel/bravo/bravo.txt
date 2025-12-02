@@ -15486,6 +15486,7 @@ bakery
 bratstva
 bibliopegistic
 banal
+baldness
 bringers
 bodega
 bringeth
@@ -15775,7 +15776,6 @@ broiled
 bastide
 blare
 birthdays
-baldness
 broiling
 brokage
 bulletin
