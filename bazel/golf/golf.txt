@@ -3200,6 +3200,7 @@ golilla
 grievants
 greatheartedness
 gloater
+glucolipin
 globosely
 gepidae
 gremlin
@@ -5261,7 +5262,6 @@ gaited
 gemmipara
 golgi
 genuflectory
-glucolipin
 golf
 gab
 gunter
