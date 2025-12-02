@@ -2180,7 +2180,6 @@ georgian
 gharris
 gerontine
 gdinfo
-gnomide
 golfings
 gds
 gaycat
@@ -3739,6 +3738,7 @@ gallein
 glinse
 goonie
 geometdecrne
+gnomide
 getatable
 ginnery
 goldfield
