@@ -3228,6 +3228,7 @@ furbisher
 forestay
 forestish
 fictionized
+formic
 frankheartness
 fictionizing
 foutre
@@ -9425,7 +9426,6 @@ flambant
 funbre
 fraternally
 felonsetting
-formic
 fledgling
 fraternised
 footstone
