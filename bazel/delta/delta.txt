@@ -5545,7 +5545,6 @@ diamagnetometer
 downheaded
 depardieu
 dinger
-dewdrops
 diaxon
 denials
 departer
@@ -10790,6 +10789,7 @@ dipsomaniacs
 diestrual
 dipsopathy
 deutonephron
+dewdrops
 daintiest
 dipstick
 diazotize

@@ -12494,7 +12494,6 @@ appropriated
 aimlessness
 antipacifist
 anemography
-anemographically
 anemologic
 anticonfederationist
 anemometrically
@@ -18627,6 +18626,7 @@ adiathermal
 artemisic
 adoral
 archaeologic
+anemographically
 archaeological
 anilinophile
 abyssa
