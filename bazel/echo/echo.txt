@@ -2484,7 +2484,6 @@ eupolyzoa
 eleve
 exegete
 ellipsoids
-eurythmical
 enstatite
 electrogasdynamics
 embryographer
@@ -12862,6 +12861,7 @@ exoticness
 enantioses
 ensile
 exotics
+eurythmical
 exotoxic
 exacerbate
 enlarger
