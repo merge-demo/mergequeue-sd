@@ -568,7 +568,6 @@ fdubs
 frequentative
 frappe
 feeblish
-funerate
 fenugreek
 furmety
 forelocks
@@ -8247,6 +8246,7 @@ forgetful
 fogdog
 facily
 frateries
+funerate
 freud
 fintadores
 forgetfulness
