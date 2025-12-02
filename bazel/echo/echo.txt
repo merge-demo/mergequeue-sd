@@ -2172,7 +2172,6 @@ ethoxycaffeine
 entrances
 epizoan
 endocyclic
-evanescently
 elbowy
 elbowpiece
 elbows
@@ -2755,6 +2754,7 @@ elegiacally
 eighthly
 exprobate
 encoil
+evanescently
 excrescently
 ergastic
 erythropoiesis

@@ -12117,6 +12117,7 @@ calibogus
 caraunda
 chrysalid
 coronet
+crasser
 chrysalida
 cascarilla
 chrysaline
@@ -17089,7 +17090,6 @@ coadjutorship
 coadjutress
 coadjutrix
 coadjuvate
-crasser
 coadminister
 civic
 coadministratrix
