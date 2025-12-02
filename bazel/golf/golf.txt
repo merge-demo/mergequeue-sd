@@ -381,7 +381,6 @@ gansy
 glumpily
 goatskins
 grandmamma
-gentilization
 guisian
 gps
 galant
@@ -9182,6 +9181,7 @@ greenhornism
 gripment
 grimacers
 grypotherium
+gentilization
 gooral
 gridlock
 gliss
