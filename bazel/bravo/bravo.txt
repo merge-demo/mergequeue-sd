@@ -5166,6 +5166,7 @@ buoyage
 befriended
 bellbind
 beardfish
+bibliophobia
 befriender
 benignly
 blasphemously
@@ -12807,7 +12808,6 @@ beamwork
 boronatrocalcite
 betalk
 boomkin
-bibliophobia
 bondswoman
 barquest
 bootes
