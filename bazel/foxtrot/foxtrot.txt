@@ -7101,7 +7101,6 @@ fibrillae
 fuscous
 fulminic
 football
-flaglet
 frowning
 feh
 frigid
@@ -7918,6 +7917,7 @@ fike
 firy
 fantasticness
 federalisation
+flaglet
 fopdoodle
 freeheartedness
 foreshadow

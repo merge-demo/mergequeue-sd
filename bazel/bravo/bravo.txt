@@ -3464,7 +3464,6 @@ blotlessness
 biennium
 boyla
 batamote
-biosis
 batarde
 bullaces
 batatas
@@ -18280,6 +18279,7 @@ boomeranging
 burrowing
 butty
 biovulate
+biosis
 buggane
 buffoonism
 bamah
