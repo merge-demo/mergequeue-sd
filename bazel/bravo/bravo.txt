@@ -1708,6 +1708,7 @@ balsaminaceae
 balsamine
 become
 balsamitic
+bonnetiere
 balsamiticness
 benzoylating
 boldheartedly
@@ -12562,7 +12563,6 @@ brachelytra
 bonnethead
 bedway
 bagie
-bonnetiere
 bonnetlike
 bonnibel
 blurts
