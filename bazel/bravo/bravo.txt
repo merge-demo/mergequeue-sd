@@ -6780,7 +6780,6 @@ binturong
 banshee
 bitte
 bedscrew
-boteler
 bumpier
 busulfan
 busying
@@ -13797,6 +13796,7 @@ bedfellowship
 basquine
 baseplate
 bemuffle
+boteler
 brachychronic
 bramblebush
 blabberer
