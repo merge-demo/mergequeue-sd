@@ -10179,6 +10179,7 @@ ferryage
 famines
 fending
 flakes
+fullgrownness
 foggages
 frazing
 faros
@@ -11186,7 +11187,6 @@ frenzelite
 forepaling
 flinter
 fluorophosphate
-fullgrownness
 frontiersman
 fusobacteria
 foetalization
