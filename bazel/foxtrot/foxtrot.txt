@@ -5673,7 +5673,6 @@ flinkite
 flint
 fluffer
 ferratin
-footpound
 folioliferous
 fresnels
 factional
@@ -7610,6 +7609,7 @@ fimbrillae
 flotten
 feminised
 fabular
+footpound
 funfest
 foolhardy
 flaxy
