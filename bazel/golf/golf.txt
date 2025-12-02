@@ -5669,7 +5669,6 @@ garnet
 gratefuller
 gating
 glassrope
-glorifications
 garefowls
 gentlefolks
 gnatlike
@@ -8000,6 +7999,7 @@ glaucine
 gunstocking
 gastronomy
 gastronomics
+glorifications
 gata
 gunstock
 gossiper
