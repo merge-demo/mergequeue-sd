@@ -741,7 +741,6 @@ gonoplasm
 galvanoglyph
 gerbillinae
 ggr
-gar
 goniometric
 gnawer
 greenshank
@@ -5209,6 +5208,7 @@ gabble
 gharial
 grifting
 gleamingly
+gar
 garroters
 gaviiformes
 gastrologically

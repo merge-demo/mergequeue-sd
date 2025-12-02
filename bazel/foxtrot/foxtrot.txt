@@ -6243,7 +6243,6 @@ fedoras
 flatfooting
 fearing
 febronianism
-fanteague
 flota
 fadingly
 fluxer
@@ -7280,6 +7279,7 @@ fip
 forelock
 fopperies
 fopperly
+fanteague
 fraternized
 foujdar
 facers
