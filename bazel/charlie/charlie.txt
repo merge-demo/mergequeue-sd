@@ -1250,6 +1250,7 @@ cauliferous
 calenda
 counterfaller
 chlored
+cotted
 cambrel
 calendarial
 cicadid
@@ -26475,7 +26476,6 @@ cottars
 cahuy
 cottas
 cotte
-cotted
 cotter
 cottered
 cottid
