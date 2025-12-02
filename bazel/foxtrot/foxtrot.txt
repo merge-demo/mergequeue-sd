@@ -1217,7 +1217,6 @@ fixator
 fissure
 frustrately
 firmitude
-furthermore
 frigidity
 fenders
 flexural
@@ -4765,6 +4764,7 @@ flagelliform
 feridji
 fever
 folie
+furthermore
 flagellula
 flickeringly
 fauve
