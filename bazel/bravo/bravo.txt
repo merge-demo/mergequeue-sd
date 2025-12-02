@@ -15093,6 +15093,7 @@ brachymetropic
 brettice
 betty
 brickwork
+barbouillage
 blisterweed
 bradawl
 breva
@@ -16448,7 +16449,6 @@ bollixed
 brushful
 brushier
 bunkoed
-barbouillage
 bluenoser
 bloodshotten
 bendys
