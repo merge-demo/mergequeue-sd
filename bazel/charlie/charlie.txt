@@ -9854,6 +9854,7 @@ cruiser
 coaxer
 candent
 chemoreception
+chort
 chemoreceptive
 chemoreceptivity
 coteller
@@ -12011,7 +12012,6 @@ chorook
 cyclops
 choroti
 chorous
-chort
 chortle
 chondrodite
 chortlers
