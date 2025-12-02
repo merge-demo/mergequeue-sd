@@ -19615,7 +19615,6 @@ aridity
 admonishes
 analogies
 aridities
-anaxagorean
 afghanis
 alchemilla
 ariels
@@ -24906,6 +24905,7 @@ atavisms
 arimasp
 awaiting
 awaitlala
+anaxagorean
 awakable
 acoelomate
 awake

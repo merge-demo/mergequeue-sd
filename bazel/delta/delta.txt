@@ -8396,7 +8396,6 @@ dialysability
 diastolic
 dimerizing
 dermamycosis
-diminutal
 deplanes
 dialysable
 dorobo
@@ -16418,6 +16417,7 @@ doxastic
 doxasticon
 dghaisa
 doxie
+diminutal
 distad
 dhoora
 doxography
