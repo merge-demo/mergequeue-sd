@@ -15644,7 +15644,6 @@ clausule
 cheekily
 clausure
 claut
-clavacin
 clavae
 centres
 claval
@@ -18664,6 +18663,7 @@ commutate
 coital
 conflictful
 codium
+clavacin
 coitally
 chaoush
 capitulated
