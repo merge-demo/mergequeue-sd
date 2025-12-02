@@ -8906,7 +8906,6 @@ biodegradable
 becassocked
 beleap
 biodegraded
-biodegrading
 biodynamical
 bridoon
 biodynamics
@@ -11728,6 +11727,7 @@ becrippling
 bedamns
 brynza
 bajocian
+biodegrading
 breton
 bajree
 bobsledded
