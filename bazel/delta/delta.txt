@@ -2431,6 +2431,7 @@ deciles
 decylic
 dorsiparous
 deciliter
+dorsiferous
 druidry
 destituent
 doodads
@@ -17561,7 +17562,6 @@ dactylate
 diatomous
 dactyls
 drumlins
-dorsiferous
 diciest
 dulia
 drumloidal

@@ -8692,7 +8692,6 @@ alleluiah
 agers
 amnesiacs
 appareled
-allemand
 allentato
 agaty
 alsine
@@ -19146,6 +19145,7 @@ antipathogenic
 actualism
 aspread
 agnostically
+allemand
 arcograph
 apneic
 azurmalachite
