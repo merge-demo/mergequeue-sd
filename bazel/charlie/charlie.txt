@@ -10930,6 +10930,7 @@ chiromantic
 cabret
 crudites
 coalition
+challa
 cicatrixes
 chiromantis
 chirometer
@@ -25277,7 +25278,6 @@ cormogen
 cormophyta
 cardiotherapy
 cormous
-challa
 corn
 cornaceae
 chaetophorous
