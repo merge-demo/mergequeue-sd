@@ -4478,7 +4478,6 @@ eumenidae
 euryzygous
 electrotechnologist
 exaggerator
-extemporaneousness
 endophagy
 eczematous
 encash
@@ -12342,6 +12341,7 @@ equilin
 elvanitic
 exercitorian
 effront
+extemporaneousness
 efs
 elaidate
 eulogizers
