@@ -7298,6 +7298,7 @@ gerated
 gastraeadae
 glandular
 gunl
+germinability
 goofing
 gamostelic
 garcon
@@ -10546,7 +10547,6 @@ gossipingly
 gudesakes
 gentamicin
 gunge
-germinability
 gunjah
 gaucheries
 genisaro
