@@ -7807,7 +7807,6 @@ fluidimeter
 fashes
 frounces
 forenote
-fastness
 fleamy
 frailero
 fashionableness
@@ -9725,6 +9724,7 @@ frenetically
 forlorner
 frenula
 frenular
+fastness
 footlicker
 fornicate
 friends
