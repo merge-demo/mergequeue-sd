@@ -7852,7 +7852,6 @@ accorders
 alecost
 alectoria
 agroof
-aprosopia
 arbors
 anatto
 apachism
@@ -16554,6 +16553,7 @@ antitrochanter
 allochetia
 apalit
 apanaged
+aprosopia
 alouatta
 arabize
 apandry
