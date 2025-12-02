@@ -4464,6 +4464,7 @@ blackmail
 barbone
 bursicle
 blenniidae
+butyrone
 bucklers
 bustling
 becry
@@ -10564,7 +10565,6 @@ blatiform
 biotelemetric
 biffies
 blats
-butyrone
 blatta
 blackbreast
 biostrome
