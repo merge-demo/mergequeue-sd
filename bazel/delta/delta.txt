@@ -143,6 +143,7 @@ dyophone
 daddles
 dowdyism
 daffodillies
+deject
 dropsicalness
 dalea
 demissionary
@@ -6343,7 +6344,6 @@ dephlegmatory
 delacrimation
 dermestid
 dextrogyration
-deject
 debit
 disseminating
 defensorship
