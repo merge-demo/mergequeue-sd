@@ -3135,7 +3135,6 @@ capelan
 capelans
 chromid
 capelin
-cornette
 capeline
 chondrocele
 crocked
@@ -25248,6 +25247,7 @@ conventionalized
 chachapuya
 corker
 corkers
+cornette
 corkier
 chytridiaceous
 cervelats
