@@ -17168,6 +17168,7 @@ coaita
 coak
 coakum
 coalas
+currier
 chimmesyan
 coalbag
 coalbagger
@@ -31489,7 +31490,6 @@ curricula
 curricularize
 cardiomyoliposis
 chid
-currier
 ceratopteridaceous
 chirivita
 chogak
