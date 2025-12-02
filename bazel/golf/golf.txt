@@ -2082,6 +2082,7 @@ gavots
 garnered
 gomari
 giftless
+gametophyll
 glossers
 gingkoes
 glorious
@@ -4780,7 +4781,6 @@ gosther
 giveable
 gederite
 gelidly
-gametophyll
 glene
 gaullist
 gotta
