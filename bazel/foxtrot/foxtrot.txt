@@ -3087,7 +3087,6 @@ fantasia
 fennecs
 fiercehearted
 frontispiece
-frozen
 frenching
 faddiness
 fisherboy
@@ -7899,6 +7898,7 @@ forewarned
 feiseanna
 featherworker
 faitor
+frozen
 feeblehearted
 frakturs
 foreseeable
