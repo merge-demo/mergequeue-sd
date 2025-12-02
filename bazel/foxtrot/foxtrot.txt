@@ -1598,7 +1598,6 @@ fixings
 florae
 fiddlebow
 forereaching
-floppies
 faffle
 funambulo
 functionating
@@ -2263,6 +2262,7 @@ facaded
 florentinism
 flatulence
 firebombed
+floppies
 fumaria
 forshape
 full
