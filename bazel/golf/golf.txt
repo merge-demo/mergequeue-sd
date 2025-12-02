@@ -171,7 +171,6 @@ garoted
 glamour
 greyhen
 gorgoneion
-groggily
 goliathize
 goniometry
 gluteoperineal
@@ -5618,6 +5617,7 @@ giantesque
 grithbreach
 grime
 girdlecake
+groggily
 grossular
 grabman
 groundwall
