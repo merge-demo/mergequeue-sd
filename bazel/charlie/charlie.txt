@@ -5274,7 +5274,6 @@ cuculine
 cantar
 cacological
 cassy
-charabancs
 cichoraceous
 cassia
 cassicus
@@ -23430,6 +23429,7 @@ cruelty
 cholecystocolotomy
 contended
 contendent
+charabancs
 contending
 contendress
 cornstalk
