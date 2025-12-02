@@ -9566,6 +9566,7 @@ altos
 antivolition
 aglets
 attackman
+analogue
 amygdaloncus
 aworth
 accentuate
@@ -11857,7 +11858,6 @@ adendric
 albescent
 alconde
 analogousness
-analogue
 analphabet
 analphabete
 amphibium
