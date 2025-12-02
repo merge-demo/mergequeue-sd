@@ -1194,7 +1194,6 @@ enscroll
 ensweep
 educational
 extratracheal
-estipulate
 estimation
 eroded
 elenge
@@ -7262,6 +7261,7 @@ eolian
 eolopiles
 enraptures
 emulsification
+estipulate
 exsector
 echoless
 electrocatalytic
