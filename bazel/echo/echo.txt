@@ -5933,6 +5933,7 @@ epiplastron
 emphases
 ecarinate
 execrators
+embox
 exaggerativeness
 epitomise
 edeitis
@@ -7991,7 +7992,6 @@ emusifies
 expander
 epinaos
 eirack
-embox
 estab
 eliminand
 enomaniac
