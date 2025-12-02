@@ -2272,6 +2272,7 @@ defuzes
 domineerer
 distractibility
 dustbox
+diphenylene
 determinative
 decelerates
 dentolabial
@@ -10458,7 +10459,6 @@ diphenylamine
 diphenylaminechlorarsine
 diervilla
 diphenylchloroarsine
-diphenylene
 despend
 diphenylenimine
 ditcher
