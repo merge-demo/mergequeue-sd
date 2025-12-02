@@ -10370,7 +10370,6 @@ aneled
 antidancing
 audio
 americanizing
-americanly
 aguroth
 alacriously
 almuds
@@ -12326,6 +12325,7 @@ autoirrigation
 adipocerite
 americanism
 alexines
+americanly
 alkenna
 apolytikion
 assiduous
