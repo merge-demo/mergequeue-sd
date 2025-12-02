@@ -3368,7 +3368,6 @@ glaucescence
 griseous
 garment
 gigartinaceae
-gypseous
 gaertnerian
 gynandries
 gospodin
@@ -3701,6 +3700,7 @@ ghostish
 gelatigenous
 gracilescent
 gussying
+gypseous
 guppy
 glossiphonia
 gadgeteer
