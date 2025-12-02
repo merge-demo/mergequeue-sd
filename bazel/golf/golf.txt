@@ -1544,7 +1544,6 @@ gilpy
 genearch
 gravaminous
 galileo
-giraffesque
 gracilariid
 gery
 grype
@@ -7493,6 +7492,7 @@ gastromenia
 griffade
 gavelmen
 getmesost
+giraffesque
 galliardize
 glossodynia
 generalization
