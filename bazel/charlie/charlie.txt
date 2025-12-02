@@ -904,6 +904,7 @@ caproic
 crimple
 chloroacetophenone
 cajoles
+chilindre
 cajoling
 cautionaries
 crinkles
@@ -8690,7 +8691,6 @@ chaparro
 chapati
 candids
 cathexion
-chilindre
 chapatties
 chapattis
 codify
