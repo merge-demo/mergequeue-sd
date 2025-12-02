@@ -4518,7 +4518,6 @@ encephalographic
 ekphorize
 episematic
 earlock
-enamelling
 euchysiderite
 esthesiophysiology
 elsewhat
@@ -7802,6 +7801,7 @@ epigastraeum
 electropneumatic
 expectably
 elementality
+enamelling
 engjateigur
 eschewing
 epigastria
