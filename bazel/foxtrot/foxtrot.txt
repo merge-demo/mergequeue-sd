@@ -4599,6 +4599,7 @@ flowmanostat
 folsom
 footweary
 foresaying
+forewrought
 fasciotomy
 fleckless
 fruitgrowing
@@ -8109,7 +8110,6 @@ foretaster
 forefin
 fretsaw
 falisci
-forewrought
 fractionate
 fanaticalness
 foretell
