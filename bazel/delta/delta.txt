@@ -191,7 +191,6 @@ diel
 diaplasma
 daedalous
 divulgated
-defilable
 decontamination
 daemony
 deforesting
@@ -7468,6 +7467,7 @@ daroga
 deviate
 dancer
 drumfire
+defilable
 disequilibriums
 densitometry
 disseised
