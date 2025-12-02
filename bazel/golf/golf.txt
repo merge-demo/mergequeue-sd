@@ -4239,7 +4239,6 @@ gabbiness
 gobbing
 gastornis
 gynaeconitis
-geysers
 gaillard
 gynandria
 gladiators
@@ -8043,6 +8042,7 @@ geminiflorous
 gravels
 glenoidal
 granitiform
+geysers
 gastrostomus
 granitite
 geomagnetism
