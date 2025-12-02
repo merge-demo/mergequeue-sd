@@ -8849,7 +8849,6 @@ eremitism
 euploidy
 ecuelling
 embelif
-epitheloid
 enkernel
 ecospecifically
 esthesiometer
@@ -11469,6 +11468,7 @@ ectonephridium
 erinnic
 effectually
 electrotypist
+epitheloid
 escapades
 empyreumatize
 electrolytes
