@@ -5600,6 +5600,7 @@ gaysome
 gripless
 geochemist
 geophysical
+giddybrain
 gasaliers
 gefilte
 gownlet
@@ -7022,7 +7023,6 @@ glad
 gossipry
 garrat
 graviers
-giddybrain
 gladdener
 gasthauses
 goondie
