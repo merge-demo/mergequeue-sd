@@ -7703,6 +7703,7 @@ flinchingly
 foreignly
 fishy
 foreignness
+fortuneless
 feudalists
 foreimpressed
 firnismalerei
@@ -10676,7 +10677,6 @@ fg
 foreset
 foresheets
 fleuretty
-fortuneless
 fringilla
 fecks
 formularising
