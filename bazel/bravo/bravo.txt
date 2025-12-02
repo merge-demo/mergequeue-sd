@@ -4878,7 +4878,6 @@ burglarproof
 beebee
 biophysical
 bradystalsis
-bewpers
 beechen
 beechnut
 breakstone
@@ -8571,6 +8570,7 @@ billfishes
 bradypode
 bellflower
 balkanized
+bewpers
 bhuts
 bastionary
 bearskin
