@@ -293,7 +293,6 @@ fraenums
 forebar
 fistnotes
 flambeed
-floosies
 frappeing
 fiddlesticks
 faeryland
@@ -2665,6 +2664,7 @@ foremelt
 feasing
 ferulaceous
 ferular
+floosies
 foreimpression
 fireshaft
 feruled
