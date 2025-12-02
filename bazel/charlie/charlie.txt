@@ -3340,7 +3340,6 @@ cotyledon
 concavely
 cirrous
 chaos
-calabash
 caponise
 corslets
 captivate
@@ -16973,6 +16972,7 @@ cattier
 conglutinating
 cyanopathy
 cluttered
+calabash
 clutterment
 cm
 coinclude
