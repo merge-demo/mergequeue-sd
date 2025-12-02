@@ -14579,6 +14579,7 @@ diesinking
 deuteromyosinose
 dispensing
 divorcee
+diallelon
 disembower
 dihedrals
 delight
@@ -18349,7 +18350,6 @@ duodenation
 depurge
 degelation
 dyestuff
-diallelon
 duodene
 duodenitis
 denominationalism
