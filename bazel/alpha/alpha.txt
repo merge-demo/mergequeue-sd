@@ -11273,6 +11273,7 @@ amphimixes
 adamant
 acalycinous
 aloofly
+aerified
 amphisarca
 aqua
 aperitifs
@@ -12277,7 +12278,6 @@ affectedly
 ancistrocladaceous
 ancistroid
 ancodont
-aerified
 anubing
 ancoly
 ancome
