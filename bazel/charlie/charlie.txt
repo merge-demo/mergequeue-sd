@@ -15739,6 +15739,7 @@ ciniphes
 consanguinity
 coiffeuse
 cerebellar
+coccygeal
 chainlet
 couma
 cleanliest
@@ -17542,7 +17543,6 @@ coccidiosis
 coccidium
 coccidology
 coccids
-coccygeal
 coccygean
 cornify
 coccygectomy
