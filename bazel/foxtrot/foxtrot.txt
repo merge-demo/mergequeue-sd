@@ -3038,7 +3038,6 @@ fibred
 fibrefill
 fenestra
 fasciolidae
-foursquare
 fishier
 fibreless
 foregone
@@ -10748,6 +10747,7 @@ frutage
 faithlessly
 footraces
 frutex
+foursquare
 fruticetum
 fecklessness
 foreinclined
