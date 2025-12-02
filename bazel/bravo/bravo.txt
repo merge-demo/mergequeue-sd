@@ -4028,7 +4028,6 @@ beakless
 beaks
 beala
 burglarproofing
-buchu
 bom
 butled
 beamed
@@ -16467,6 +16466,7 @@ byrling
 brushpopper
 brashier
 brushwood
+buchu
 brushwork
 burdock
 beecher
