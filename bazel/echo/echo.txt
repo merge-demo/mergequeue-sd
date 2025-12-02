@@ -4797,7 +4797,6 @@ emboite
 erosiveness
 enscrolling
 elucubration
-elator
 enclosures
 emprent
 erethic
@@ -5869,6 +5868,7 @@ eulerian
 embergeese
 engramme
 epicarpal
+elator
 engrammes
 extensors
 edwardine
