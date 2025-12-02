@@ -2444,6 +2444,7 @@ gesticulation
 graduator
 goas
 gype
+gritty
 grograms
 glutch
 grandpas
@@ -8667,7 +8668,6 @@ goopy
 geyser
 glossless
 gateado
-gritty
 gres
 gymnosoph
 galerum
