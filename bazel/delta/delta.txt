@@ -4931,6 +4931,7 @@ deigns
 diminuendo
 dialogist
 demonologer
+disburgeon
 demonology
 demonologically
 disluster
@@ -11670,7 +11671,6 @@ denser
 discursative
 discommune
 denominates
-disburgeon
 dragooner
 divell
 dismemberer
