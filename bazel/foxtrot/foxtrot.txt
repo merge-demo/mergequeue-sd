@@ -233,6 +233,7 @@ fringy
 functionaries
 fulimart
 frostbound
+falutin
 fritterer
 facultize
 fulgur
@@ -2169,7 +2170,6 @@ frontiers
 folkmoot
 falsities
 felonwort
-falutin
 flatterdock
 fraudproof
 fligger
