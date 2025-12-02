@@ -464,7 +464,6 @@ battik
 benzoates
 backspaces
 blepharocera
-backspacing
 butteries
 beestings
 brubu
@@ -9789,6 +9788,7 @@ babblingly
 bubblebow
 bisulfate
 biblioklept
+backspacing
 burbled
 bromatology
 bocca
