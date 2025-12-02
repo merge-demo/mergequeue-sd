@@ -1852,6 +1852,7 @@ declinograph
 dewberry
 doorstead
 doughnut
+disulfuret
 debellator
 darapti
 drugmaker
@@ -12018,7 +12019,6 @@ disdainful
 disemploy
 disroots
 dooket
-disulfuret
 disemployment
 decoic
 disenabled
