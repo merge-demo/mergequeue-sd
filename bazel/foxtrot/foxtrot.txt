@@ -2358,7 +2358,6 @@ frapped
 falconiformes
 frogling
 feudist
-fibrocrystalline
 francic
 freeloving
 fenchol
@@ -10892,6 +10891,7 @@ fliskier
 forsworn
 falloffs
 fides
+fibrocrystalline
 fulleries
 finfish
 fleets
