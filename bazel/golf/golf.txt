@@ -2661,6 +2661,7 @@ grangerisation
 gloriosity
 gangliectomy
 gourde
+grapnel
 gervas
 gardening
 gynophagite
@@ -8612,7 +8613,6 @@ gerrymanderer
 gemmeous
 genethliacs
 gentlemanly
-grapnel
 gerb
 grappled
 guti
