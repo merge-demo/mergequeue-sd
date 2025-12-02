@@ -3688,7 +3688,6 @@ erythrons
 enwheel
 everse
 everywheres
-enchytrae
 entrancer
 envenom
 eternised
@@ -4534,6 +4533,7 @@ endoerythrocytic
 entothorax
 embiidae
 encephalomyelitic
+enchytrae
 epochally
 extramorainal
 epirrheme
