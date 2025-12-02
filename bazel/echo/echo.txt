@@ -4265,6 +4265,7 @@ eumeristic
 expolish
 expendible
 expressways
+erroneous
 equidiagonal
 epityphlon
 escutcheons
@@ -10204,7 +10205,6 @@ envenomation
 ethician
 emydian
 ethicians
-erroneous
 erotica
 emptores
 ethicoaesthetic
