@@ -1744,7 +1744,6 @@ bufonidae
 bluntish
 brittled
 boothes
-bamalip
 basswood
 bamban
 bambochade
@@ -3441,6 +3440,7 @@ bibliolatrous
 bathylite
 bovine
 basts
+bamalip
 banuyo
 basural
 bovarism
