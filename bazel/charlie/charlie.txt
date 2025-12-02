@@ -10114,6 +10114,7 @@ chevin
 cheviots
 chevres
 centuplicated
+corchat
 chevret
 counterexamples
 chevrolet
@@ -24951,7 +24952,6 @@ circumstantially
 curatives
 corbula
 celidographer
-corchat
 corchorus
 corcyraean
 corcle
