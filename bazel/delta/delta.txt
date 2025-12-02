@@ -5925,7 +5925,6 @@ diablene
 diamondiferous
 duffy
 duplicity
-deprehend
 disprofit
 damsel
 diploptera
@@ -11511,6 +11510,7 @@ decencies
 dionysiacal
 discoloration
 discolorations
+deprehend
 discolored
 dar
 doest

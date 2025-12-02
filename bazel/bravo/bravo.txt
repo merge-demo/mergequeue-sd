@@ -2605,7 +2605,6 @@ buttonhook
 bravery
 beduchess
 bantamweight
-birdhouses
 bilges
 botanise
 begirdle
@@ -10204,6 +10203,7 @@ badawi
 brollies
 boars
 beaverlike
+birdhouses
 blackies
 bottomlessness
 bemuslined
