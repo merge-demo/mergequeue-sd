@@ -5379,7 +5379,6 @@ ganoses
 gipsyism
 geotechnics
 glycosidically
-gitter
 gelandejump
 gunplays
 glazework
@@ -5659,6 +5658,7 @@ gingalls
 gastralgic
 growsome
 grubbiest
+gitter
 gapy
 glaringly
 groma
