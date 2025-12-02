@@ -8854,7 +8854,6 @@ characterization
 characterizing
 characterless
 characterlessness
-characterology
 coffle
 crosshead
 confirming
@@ -14958,6 +14957,7 @@ citrometer
 contaminous
 citron
 cenobium
+characterology
 carbonium
 citronalis
 comparison
