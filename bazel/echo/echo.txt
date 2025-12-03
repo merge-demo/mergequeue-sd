@@ -5890,6 +5890,7 @@ extravagence
 engraver
 expalpate
 entree
+extincteur
 engysseismology
 ethiops
 episyntheton
@@ -9827,7 +9828,6 @@ evolving
 estampede
 estang
 ethnographist
-extincteur
 econometrician
 eatables
 entrance
