@@ -265,6 +265,7 @@ eightsmen
 electrostatic
 encashed
 electroplated
+enumerable
 expiries
 easterling
 emotionalize
@@ -458,7 +459,6 @@ enanthesis
 expediteness
 evector
 ecclesia
-enumerable
 eucommia
 ecclesiarchy
 extoll
