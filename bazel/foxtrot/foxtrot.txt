@@ -3945,6 +3945,7 @@ fruitcakey
 frenziedly
 foreshown
 funneled
+fibreware
 farcical
 follyproof
 fossil
@@ -10335,7 +10336,6 @@ filicoid
 fezziwig
 fidding
 formicaries
-fibreware
 forswore
 flatmate
 flamiest

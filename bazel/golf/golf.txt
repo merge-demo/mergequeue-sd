@@ -3852,7 +3852,6 @@ geochronometry
 goldbeating
 grece
 griddlecakes
-gifola
 galleriies
 geometer
 glossophorous
@@ -7135,6 +7134,7 @@ glottological
 generalia
 gonothecae
 garnett
+gifola
 gnathostomatous
 grundyism
 gamecock
