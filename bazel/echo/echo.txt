@@ -6635,6 +6635,7 @@ eartagged
 excitator
 empyreumata
 enantiomeric
+eudipleural
 encraty
 elephantlike
 enzymologies
@@ -12852,7 +12853,6 @@ eisteddfods
 enumerations
 evangelistship
 exoticist
-eudipleural
 encircled
 exoterically
 erythremomelalgia
