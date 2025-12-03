@@ -9621,6 +9621,7 @@ arachnoid
 anaglyptography
 atonalist
 abridges
+ancestors
 aluminate
 alumines
 archicontinent
@@ -13225,7 +13226,6 @@ anientise
 achtelthaler
 animosity
 aftosas
-ancestors
 aegithognathous
 animus
 administrationist
