@@ -5517,6 +5517,7 @@ foamily
 foreordain
 flagon
 fol
+flabs
 forestays
 favellae
 flexion
@@ -9700,7 +9701,6 @@ floatable
 footmanry
 facework
 fluviograph
-flabs
 forestick
 flycaster
 fanworts
