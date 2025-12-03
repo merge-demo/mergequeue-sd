@@ -8773,6 +8773,7 @@ exhedra
 enfeebler
 euphyllite
 eradicable
+entrochus
 enticement
 eradicant
 epineolithic
@@ -12279,7 +12280,6 @@ eds
 emarginating
 ensignry
 evilwishing
-entrochus
 efflorescency
 enteromegaly
 els
