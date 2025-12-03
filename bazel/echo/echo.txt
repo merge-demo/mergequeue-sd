@@ -5769,7 +5769,6 @@ emplectite
 engirds
 electroblasting
 eyeglance
-extraverted
 extemporised
 endofaradism
 ethylation
@@ -6998,6 +6997,7 @@ eclipsing
 endjunk
 entreaties
 excavatorial
+extraverted
 enfuddle
 eager
 entreats
