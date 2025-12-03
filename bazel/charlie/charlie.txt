@@ -6923,6 +6923,7 @@ cemetaries
 cemetery
 copesettic
 cemeterial
+circulator
 catchpenny
 concours
 ceratinous
@@ -28758,7 +28759,6 @@ crescendoing
 crescendos
 crescentade
 cussing
-circulator
 crescentader
 cleaving
 crescented
