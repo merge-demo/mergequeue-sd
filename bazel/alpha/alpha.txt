@@ -19682,7 +19682,6 @@ affirmatively
 aerobacteriological
 alfarga
 aristate
-ascesis
 aristeas
 alertness
 aristeia
@@ -21419,6 +21418,7 @@ ambulantes
 apartheid
 asoka
 anthracitism
+ascesis
 asomatous
 ambrosially
 antarthritic
