@@ -2117,7 +2117,6 @@ fellatrice
 fluoresage
 floruit
 frigate
-fletch
 faujdar
 fuchsite
 fosterling
@@ -5007,6 +5006,7 @@ forepaw
 ferries
 fizz
 forekeel
+fletch
 faithbreaker
 faconne
 fulmarus
