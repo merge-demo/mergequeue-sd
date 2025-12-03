@@ -9237,7 +9237,6 @@ bipinnated
 bipinnatipartite
 butyrals
 bow
-bipinnatisect
 bobsledding
 brighter
 bipyramid
@@ -9503,6 +9502,7 @@ bakairi
 byrthynsak
 basilyst
 birthless
+bipinnatisect
 blastemata
 berceuses
 bacteria
