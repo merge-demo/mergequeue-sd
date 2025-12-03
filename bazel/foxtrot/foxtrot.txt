@@ -3149,7 +3149,6 @@ fenceplay
 fisheries
 flowerier
 fatso
-fossate
 freeloaders
 forthfare
 femurs
@@ -9413,6 +9412,7 @@ forlore
 frescoer
 fulsomeness
 fenman
+fossate
 fausant
 filmslide
 fireboats
