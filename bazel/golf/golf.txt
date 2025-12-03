@@ -4569,6 +4569,7 @@ goosebill
 geometrid
 grating
 goupen
+gastrohysterotomy
 grasscutter
 giojoso
 greegree
@@ -9828,7 +9829,6 @@ guahiban
 groundbreaker
 gutsily
 glomerulonephritis
-gastrohysterotomy
 gnotobiotics
 garpikes
 greasewood
