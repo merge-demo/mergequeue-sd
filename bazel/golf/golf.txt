@@ -1160,6 +1160,7 @@ gigmaness
 gantelope
 genitors
 grocer
+galahs
 gled
 gantleted
 gripier
@@ -10107,7 +10108,6 @@ grub
 guyot
 gresil
 gilaki
-galahs
 gastropods
 garrulus
 ghostwrote
