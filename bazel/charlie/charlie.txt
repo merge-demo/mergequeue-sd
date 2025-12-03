@@ -6880,6 +6880,7 @@ cardiorrhexis
 consol
 camis
 ceratomandibular
+cytotactic
 clocklike
 celtuce
 calor
@@ -14898,7 +14899,6 @@ camouflaged
 cordwood
 cytostromatic
 compromised
-cytotactic
 cerebroganglion
 cytotaxis
 creosols
