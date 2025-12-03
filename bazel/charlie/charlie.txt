@@ -1771,6 +1771,7 @@ chrysomelid
 calutrons
 calvados
 calvadoses
+cisium
 chloridella
 componental
 calvaire
@@ -14465,7 +14466,6 @@ cephaloplegic
 ciseaux
 courante
 cising
-cisium
 curnock
 cisjurane
 cisleithan
