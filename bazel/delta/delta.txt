@@ -1114,6 +1114,7 @@ dissidently
 dash
 designado
 doctorization
+dolite
 dashed
 dicentra
 dipnoid
@@ -15229,7 +15230,6 @@ depreciated
 downing
 defamers
 dolisie
-dolite
 dolium
 darogha
 dureful
