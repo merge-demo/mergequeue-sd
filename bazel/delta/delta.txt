@@ -274,7 +274,6 @@ dagomba
 dagswain
 daguerreotype
 downspout
-dolichopodous
 dhotee
 degermed
 doradilla
@@ -7975,6 +7974,7 @@ dextranase
 doublelunged
 disallowable
 demicylinder
+dolichopodous
 defunctive
 downsteepy
 diathermal
