@@ -6854,7 +6854,6 @@ flasks
 friability
 flourished
 flioma
-folky
 fibromyxosarcoma
 fidejussory
 footings
@@ -8819,6 +8818,7 @@ frakfurt
 fleeringly
 fossillike
 foozles
+folky
 fossilogy
 fload
 fashionability
