@@ -406,6 +406,7 @@ epact
 eutrophic
 excelsitude
 evangelist
+equalizes
 ebriose
 elumbated
 entrenching
@@ -13687,7 +13688,6 @@ externalise
 escarp
 earthing
 ewelease
-equalizes
 externalistic
 euphorbium
 explorativeness

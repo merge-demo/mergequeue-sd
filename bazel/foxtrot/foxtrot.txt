@@ -3933,6 +3933,7 @@ foeniculum
 flitted
 fictionmonger
 furcating
+fastenings
 fogyism
 foxtongue
 foal
@@ -9354,7 +9355,6 @@ frayne
 frankish
 functionary
 fummle
-fastenings
 fowk
 frails
 franklinic
