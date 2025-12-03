@@ -16714,7 +16714,6 @@ colouristic
 couthy
 cloudy
 cloudiest
-cloudily
 cloudiness
 clouding
 centimeter
@@ -19916,6 +19915,7 @@ coruler
 crepidoma
 commandment
 chronophotographic
+cloudily
 campylotropal
 cozzes
 croquis
