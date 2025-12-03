@@ -17613,7 +17613,6 @@ cushite
 cochairing
 chlorothiazide
 cocher
-colonopexy
 cochero
 cochief
 containerized
@@ -24190,6 +24189,7 @@ convoluting
 convolution
 convolutional
 convolutions
+colonopexy
 convolve
 ceratothecae
 cringingly
