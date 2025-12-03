@@ -4940,6 +4940,7 @@ facepiece
 floorages
 flamingant
 foremarch
+fanleaf
 flaminical
 fomenters
 frenulum
@@ -9013,7 +9014,6 @@ flaxwort
 fractus
 forwork
 fiendship
-fanleaf
 feudaries
 flirtational
 flintified
