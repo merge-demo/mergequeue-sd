@@ -8554,7 +8554,6 @@ emblement
 ethylenoid
 enorganic
 easts
-exclusively
 epichoristic
 equative
 electre
@@ -10972,6 +10971,7 @@ echiurid
 erythematous
 embrittlement
 echinus
+exclusively
 embosk
 eperva
 expirant
