@@ -1120,7 +1120,6 @@ graptolitic
 gallants
 guillotining
 gwyniad
-grivet
 granet
 giddier
 gesith
@@ -10580,6 +10579,7 @@ gerbo
 gesneraceae
 gyneocracy
 gallivanter
+grivet
 grasset
 gunmetal
 grecoue

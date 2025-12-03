@@ -10452,7 +10452,6 @@ aegle
 aphanisia
 antireactive
 achimenes
-acanthoma
 aponogetonaceous
 amianthus
 arcform
@@ -21186,6 +21185,7 @@ anticar
 alphabetics
 asemic
 asepses
+acanthoma
 anagogical
 assiduate
 arginases
