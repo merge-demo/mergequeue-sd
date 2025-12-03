@@ -12758,6 +12758,7 @@ angiogeny
 anyway
 angiohemophilia
 anhelous
+assoluto
 anglophilia
 antiricin
 angioid
@@ -18405,7 +18406,6 @@ arauan
 araucanian
 araucaria
 anarchize
-assoluto
 araucariaceae
 actions
 araucarioxylon

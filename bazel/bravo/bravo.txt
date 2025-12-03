@@ -15384,7 +15384,6 @@ bombe
 baronetcy
 brighid
 boisseau
-bannerlike
 brighten
 becket
 brainwork
@@ -17822,6 +17821,7 @@ bestialise
 benzbitriazole
 beuncled
 booze
+bannerlike
 banjara
 bursitos
 burst
