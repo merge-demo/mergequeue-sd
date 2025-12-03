@@ -5926,6 +5926,7 @@ euthyroid
 episcopalian
 excessman
 expend
+epitenon
 enhaemospore
 epiplastron
 emphases
@@ -12022,7 +12023,6 @@ excitovascular
 enamouring
 exclaiming
 exclaims
-epitenon
 exclamative
 endolymphic
 epithermally
