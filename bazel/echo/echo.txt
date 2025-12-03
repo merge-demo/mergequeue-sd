@@ -6983,6 +6983,7 @@ epistolar
 endostylic
 ephectic
 erian
+esophago
 ecthlipses
 eyebrows
 ensaint
@@ -11411,7 +11412,6 @@ epichoric
 euxanthone
 erpetoichthys
 escaladed
-esophago
 extrinsical
 embanking
 evangelising
