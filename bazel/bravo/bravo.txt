@@ -5337,6 +5337,7 @@ begnaw
 biharmonic
 borderlines
 balmy
+betroths
 ballroom
 begone
 baryte
@@ -7435,7 +7436,6 @@ bathybius
 braveries
 betrothing
 betrothment
-betroths
 bromine
 betrousered
 boshboks
