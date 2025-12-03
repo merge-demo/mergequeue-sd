@@ -2716,6 +2716,7 @@ granularity
 gingers
 geek
 genip
+gooseboy
 gilbertese
 genyplasty
 glashan
@@ -7059,7 +7060,6 @@ genyantrum
 gare
 gastrodermis
 genealogist
-gooseboy
 goschen
 gliffing
 galenic
