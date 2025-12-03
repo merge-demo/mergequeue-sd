@@ -9244,7 +9244,6 @@ bipyramid
 bring
 bipyridyl
 biangulated
-bubale
 broadsides
 bacterioidal
 bedouinism
@@ -11771,6 +11770,7 @@ bodings
 boccaro
 bobsleding
 bocce
+bubale
 bugbears
 beefheaded
 burgled
