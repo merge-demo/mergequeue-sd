@@ -1648,7 +1648,6 @@ gastricism
 glycolipid
 gaskin
 grists
-goalkeeper
 grants
 gamobium
 gaseousness
@@ -7966,6 +7965,7 @@ glandiform
 grandiosity
 gudok
 gothonic
+goalkeeper
 ganglionectomy
 glottologies
 gnomonologically
