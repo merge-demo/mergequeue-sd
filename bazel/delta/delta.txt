@@ -5898,6 +5898,7 @@ deprecatory
 deoxidised
 desensitization
 deota
+disframe
 degradingness
 dregless
 dirk
@@ -17383,7 +17384,6 @@ dipleurula
 droppers
 diurnalness
 dropping
-disframe
 declaims
 departmentalisation
 droppings
