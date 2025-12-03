@@ -5312,6 +5312,7 @@ apophantic
 androsin
 affixers
 affixes
+acanthodii
 afterpiece
 affixial
 aspatia
@@ -20267,7 +20268,6 @@ arrogant
 arrogated
 alaloi
 astonied
-acanthodii
 adorns
 allotriuria
 amateurish
