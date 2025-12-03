@@ -5412,7 +5412,6 @@ edges
 ethylidene
 evicted
 envolupen
-evocatory
 endotheliomas
 excercise
 explicators
@@ -11107,6 +11106,7 @@ electrocapillary
 evangelisation
 expiring
 energized
+evocatory
 evans
 expiate
 eusthenopteron
