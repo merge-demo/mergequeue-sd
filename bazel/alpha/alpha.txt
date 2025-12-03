@@ -3795,7 +3795,6 @@ apologies
 anthobiology
 alberta
 awol
-animation
 azoxybenzoic
 aglaia
 antecedal
@@ -7639,6 +7638,7 @@ antisepticist
 alcidine
 abstracter
 alcine
+animation
 alphabetically
 atomist
 alcyonacean
