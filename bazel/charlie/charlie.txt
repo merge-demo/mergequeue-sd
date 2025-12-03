@@ -8276,7 +8276,6 @@ crummable
 chalicotheriidae
 cephalohumeralis
 chantress
-courtyard
 chalina
 coonskin
 complexity
@@ -17774,6 +17773,7 @@ codecs
 cellularly
 codefendant
 codeina
+courtyard
 carby
 cognisableness
 cakemaking
