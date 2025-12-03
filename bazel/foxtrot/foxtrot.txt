@@ -2833,7 +2833,6 @@ firmisternal
 fetology
 fibroglia
 forespeed
-furunculosis
 fixures
 flatwares
 formol
@@ -7805,6 +7804,7 @@ fashes
 frounces
 forenote
 fleamy
+furunculosis
 frailero
 fashionableness
 fowlerite
