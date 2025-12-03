@@ -3916,7 +3916,6 @@ dismast
 discastle
 dissect
 disp
-dyscrasite
 deerdog
 decrial
 demihogshead
@@ -13867,6 +13866,7 @@ distempering
 distemperoid
 distending
 drowns
+dyscrasite
 disalike
 dyslexia
 dissavage
