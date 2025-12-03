@@ -1164,7 +1164,6 @@ crunches
 chilopoda
 calculability
 counterrampant
-calculableness
 calculably
 cosing
 confabular
@@ -17078,6 +17077,7 @@ coccygalgia
 cohesive
 ctenophoric
 copiable
+calculableness
 coadjudicator
 coadjutant
 campement
