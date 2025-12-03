@@ -2251,7 +2251,6 @@ facaded
 florentinism
 flatulence
 firebombed
-floppies
 fumaria
 forshape
 full
@@ -10313,6 +10312,7 @@ frondless
 feezing
 ferrado
 fantasized
+floppies
 frondlet
 frondose
 focometer
