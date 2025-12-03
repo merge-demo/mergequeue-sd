@@ -6384,7 +6384,6 @@ dermosclerite
 deco
 dermotropic
 dastardliness
-derms
 diacatholicon
 defined
 dioc
@@ -12299,6 +12298,7 @@ diminuendos
 disgospelize
 disgracer
 dipicrate
+derms
 disenchanted
 delicacies
 disgracious
