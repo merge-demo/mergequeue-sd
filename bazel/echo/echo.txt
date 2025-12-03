@@ -13284,7 +13284,6 @@ etches
 echinital
 electrohomeopathy
 earner
-eolation
 eyeshield
 exploded
 englifier
@@ -13406,6 +13405,7 @@ expounder
 eulogised
 ems
 excoriated
+eolation
 enthrong
 evaluative
 express
