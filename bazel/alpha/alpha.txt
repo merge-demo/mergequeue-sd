@@ -750,7 +750,6 @@ admetus
 abrash
 abrasing
 aeromechanics
-abashment
 autogyro
 agnition
 akroter
@@ -15087,6 +15086,7 @@ abruptest
 amphitokal
 artotypy
 aspherical
+abashment
 anoplanthus
 antidromically
 apparance

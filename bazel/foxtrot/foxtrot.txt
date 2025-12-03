@@ -3990,6 +3990,7 @@ furazolidone
 fluorosis
 fishery
 forleft
+fewneses
 fingersmith
 failingly
 ferison
@@ -6134,7 +6135,6 @@ ferrums
 fuses
 fewness
 fcp
-fewneses
 farrieries
 fabella
 flowcharted
