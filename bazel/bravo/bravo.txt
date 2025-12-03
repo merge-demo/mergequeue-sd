@@ -4601,6 +4601,7 @@ beckon
 baptise
 bedbugs
 boden
+bibracteolate
 bedtick
 bedchair
 bedchairs
@@ -5048,7 +5049,6 @@ bowfin
 bloodthirst
 befamilied
 biogeography
-bibracteolate
 bemas
 bewith
 befeather
