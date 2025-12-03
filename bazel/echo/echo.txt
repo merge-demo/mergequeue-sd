@@ -15,6 +15,7 @@ euchologion
 emigate
 emblazon
 erythrophobia
+extraposition
 eadios
 entradas
 euthytropic
@@ -13995,7 +13996,6 @@ extralimital
 enfigure
 extrapolatory
 entemple
-extraposition
 electrolytic
 extraprofessional
 extrapunitive
