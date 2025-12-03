@@ -11932,6 +11932,7 @@ coaggregated
 confabulating
 confarreate
 choriambus
+conjunction
 choric
 chorines
 collunarium
@@ -12320,7 +12321,6 @@ chromas
 coffeeweed
 cenote
 chromate
-conjunction
 chromates
 cantred
 chrysomonadine

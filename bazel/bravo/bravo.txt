@@ -1848,7 +1848,6 @@ bushie
 bandie
 bandied
 bilinear
-bandikai
 batrachoplasty
 biparty
 bimetalism
@@ -12035,6 +12034,7 @@ bebloom
 balisaurs
 boilable
 bromocresol
+bandikai
 befrounce
 blindage
 boilerful
