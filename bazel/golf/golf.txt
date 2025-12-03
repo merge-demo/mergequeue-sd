@@ -3167,7 +3167,6 @@ gelasian
 ghostship
 gutturalizing
 gramoches
-geoscopic
 geosphere
 gapless
 guerilla
@@ -9748,6 +9747,7 @@ gratiosolin
 googolplex
 guying
 grummet
+geoscopic
 gable
 gibbetting
 genuflector
