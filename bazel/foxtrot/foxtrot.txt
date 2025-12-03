@@ -1662,7 +1662,6 @@ flatfootedly
 frisker
 fearedness
 fluidizes
-fanmaker
 fathometer
 frypan
 faucets
@@ -6341,6 +6340,7 @@ farmhouses
 foppy
 flatlings
 flowchart
+fanmaker
 flagpole
 fluocerine
 felis
