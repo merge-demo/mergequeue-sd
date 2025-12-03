@@ -1792,7 +1792,6 @@ gonion
 grx
 guanine
 grouchiest
-gastropulmonic
 granitic
 globously
 gambados
@@ -10432,6 +10431,7 @@ gnateater
 gillbird
 giller
 geepound
+gastropulmonic
 graphiology
 gum
 gandhi
