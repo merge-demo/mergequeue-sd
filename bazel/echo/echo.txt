@@ -2595,7 +2595,6 @@ exhilarator
 erythroblastosis
 eirenicon
 essaying
-embassies
 elysian
 electropathy
 electropathology
@@ -13393,6 +13392,7 @@ endurable
 expanders
 empodium
 expostulative
+embassies
 entobranchiate
 expostulatively
 euscaro

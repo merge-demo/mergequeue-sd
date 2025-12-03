@@ -1990,7 +1990,6 @@ feere
 flipper
 fautor
 fours
-feeze
 fimicolous
 furmity
 funnelled
@@ -8315,6 +8314,7 @@ forelouper
 furnished
 fautorship
 flytraps
+feeze
 fusate
 facade
 forisfamiliation
