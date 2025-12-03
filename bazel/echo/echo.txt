@@ -2148,6 +2148,7 @@ exoneration
 electrosurgical
 endleaf
 enfoil
+exhibition
 exterminatress
 enanthematous
 epoxy
@@ -12411,7 +12412,6 @@ estriol
 encephalology
 ephemerida
 exposures
-exhibition
 enforce
 eradiate
 exhibitionism
