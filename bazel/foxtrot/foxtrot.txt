@@ -2010,7 +2010,6 @@ fireworky
 fractionizing
 furlongs
 freshens
-farmers
 fieldwards
 fathomage
 fradicin
@@ -10079,6 +10078,7 @@ fondant
 fritz
 furnisher
 foozling
+farmers
 farmhands
 fordam
 faki
