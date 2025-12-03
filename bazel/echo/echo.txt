@@ -5243,7 +5243,6 @@ eparchy
 eretrian
 equipluve
 equilibrate
-endomitosis
 endomorphy
 exta
 ekebergite
@@ -11141,6 +11140,7 @@ exploitable
 enol
 eurasia
 exsiliency
+endomitosis
 euthytatic
 exopt
 erne
