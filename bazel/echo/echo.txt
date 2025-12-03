@@ -4324,7 +4324,6 @@ ers
 exercisers
 embryocardia
 enacture
-exfodiation
 egranulose
 empowering
 enterable
@@ -14074,6 +14073,7 @@ enfect
 errantry
 entoplastral
 epigastral
+exfodiation
 equilibrative
 ebonize
 explicits
