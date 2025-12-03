@@ -9838,7 +9838,6 @@ chawer
 chemitypy
 chemizo
 colligated
-chastizer
 curiological
 chemokinetic
 chemolysis
@@ -31275,6 +31274,7 @@ curber
 curbers
 cadastrally
 cribbled
+chastizer
 churchill
 concussing
 catatonias

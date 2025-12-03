@@ -558,6 +558,7 @@ debacle
 detains
 damars
 decoratory
+deambulatory
 devocate
 doesnt
 delivers
@@ -12062,7 +12063,6 @@ disenjoyment
 discourteous
 diaspidinae
 deciduousness
-deambulatory
 devotionist
 disenmesh
 dyehouse
