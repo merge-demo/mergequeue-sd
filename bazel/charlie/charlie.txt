@@ -6401,7 +6401,6 @@ compurgatorial
 collocationable
 condemningly
 cautioner
-cautioners
 caff
 cornutus
 cienega
@@ -10410,6 +10409,7 @@ capsomer
 conquered
 coryphaena
 clinocephalic
+cautioners
 courtiery
 chihfu
 cephalograph
