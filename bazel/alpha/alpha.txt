@@ -14337,7 +14337,6 @@ arithmetic
 anthoecologist
 anthogenetic
 anticreation
-anthoid
 anthokyan
 autographic
 antinovels
@@ -21817,6 +21816,7 @@ assessment
 aphacial
 assessors
 anthophile
+anthoid
 apotheose
 antiquarium
 asseveration
