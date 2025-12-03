@@ -5433,6 +5433,7 @@ groovy
 glutenin
 granomerite
 groceress
+granularly
 groupageness
 geared
 gastroesophageal
@@ -7776,7 +7777,6 @@ grimiest
 gormed
 glee
 grainways
-granularly
 grumbletonian
 gnomish
 gralline
