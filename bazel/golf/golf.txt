@@ -2829,7 +2829,6 @@ gallates
 galactophlysis
 grayhair
 graminous
-graininess
 gypseian
 gentlemouthed
 galactorrhea
@@ -9444,6 +9443,7 @@ gemmate
 garroted
 glandulation
 gluttingly
+graininess
 geonic
 gabelle
 gotchy
