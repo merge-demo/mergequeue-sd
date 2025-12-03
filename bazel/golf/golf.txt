@@ -5185,6 +5185,7 @@ geckotian
 gossipred
 gasteria
 gnostic
+gator
 gesticulator
 glossocomon
 guavas
@@ -8236,7 +8237,6 @@ glam
 geranin
 grouthead
 glucosan
-gator
 giantly
 gyrations
 gram
