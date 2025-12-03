@@ -1273,7 +1273,6 @@ griffes
 gapper
 glutinosity
 guib
-grimaces
 galvanologist
 garran
 gaia
@@ -4179,6 +4178,7 @@ globuloid
 gelinotte
 graphemic
 glycoproteid
+grimaces
 gastroarthritis
 goodly
 guaranin
