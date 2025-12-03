@@ -564,6 +564,7 @@ folklorism
 forjudger
 falloff
 flamier
+fanatics
 fdubs
 frequentative
 frappe
@@ -1890,7 +1891,6 @@ fremescent
 fainly
 filicologist
 flowerlessness
-fanatics
 flimsy
 forgiver
 farrowing

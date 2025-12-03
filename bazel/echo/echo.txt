@@ -4001,6 +4001,7 @@ essie
 eupatorin
 eyestalks
 evenhand
+eophytic
 empearl
 electroretinography
 each
@@ -7515,7 +7516,6 @@ extensively
 ephrathite
 estrins
 estall
-eophytic
 endited
 eastmost
 electrosynthesis
