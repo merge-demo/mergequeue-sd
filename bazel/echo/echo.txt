@@ -4718,7 +4718,6 @@ epichristian
 ennuying
 efficience
 everybody
-epilog
 ecstrophy
 esthematology
 epanaphora
@@ -13811,6 +13810,7 @@ elating
 extracarpal
 extratropical
 extendible
+epilog
 excepted
 editorializing
 extracerebral
