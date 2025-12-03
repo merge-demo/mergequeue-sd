@@ -3967,6 +3967,7 @@ eugregarinida
 epimeron
 emolument
 elevator
+excussed
 emotivity
 epileptology
 exorability
@@ -12198,7 +12199,6 @@ exposure
 ellipse
 econometrical
 ethmoturbinate
-excussed
 estranges
 eusol
 epigraphically
