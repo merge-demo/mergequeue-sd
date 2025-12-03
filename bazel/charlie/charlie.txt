@@ -7352,6 +7352,7 @@ cephalofacial
 cephalogram
 cephaloid
 culminates
+cliffier
 cuticles
 crepuscle
 cephalology
@@ -26378,7 +26379,6 @@ ciminite
 concavities
 centipoise
 clergess
-cliffier
 coterminousness
 cotes
 cycloidian
