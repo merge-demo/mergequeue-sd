@@ -4662,7 +4662,6 @@ fixer
 fluey
 forefeeling
 fixidity
-fixing
 flannelleaf
 fixt
 flopwing
@@ -9243,6 +9242,7 @@ fretwise
 fascinery
 faradomuscular
 frontispieced
+fixing
 fraktur
 fasciolet
 fresnel
