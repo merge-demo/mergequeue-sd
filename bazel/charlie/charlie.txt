@@ -13175,6 +13175,7 @@ cyclane
 cataphonic
 clin
 craftsmanlike
+circularization
 chetahs
 coworker
 compesce
@@ -14113,7 +14114,6 @@ climacterically
 canioned
 colanders
 connexion
-circularization
 chartology
 circularizes
 choriambs
