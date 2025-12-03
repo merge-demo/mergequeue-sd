@@ -2272,6 +2272,7 @@ diapyetic
 deceiving
 definitized
 defuzes
+describent
 domineerer
 distractibility
 dustbox
@@ -16350,7 +16351,6 @@ dichord
 dovetails
 daylight
 downslide
-describent
 downslip
 decibel
 downslope

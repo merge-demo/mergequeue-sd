@@ -8808,6 +8808,7 @@ ectoskeleton
 ekename
 erasers
 effectuate
+extradural
 eventuations
 eldmother
 equestrial
@@ -10049,7 +10050,6 @@ endangerment
 escargots
 eternisation
 elegious
-extradural
 eternish
 elod
 editresses
