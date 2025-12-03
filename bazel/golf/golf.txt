@@ -3155,6 +3155,7 @@ geochronologically
 gellant
 gavotte
 glowered
+gregarinous
 ginnings
 goat
 graduating
@@ -5136,7 +5137,6 @@ grassland
 grebes
 glycoside
 glossate
-gregarinous
 glali
 gnatflower
 gaumed

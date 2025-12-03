@@ -11089,7 +11089,6 @@ deadpan
 disappointedly
 diakinesis
 decarbonylate
-disappearer
 doroscentral
 droning
 deedy
@@ -14658,6 +14657,7 @@ diagnose
 djagoong
 disemboguement
 djave
+disappearer
 doubtfully
 drill
 djebels
