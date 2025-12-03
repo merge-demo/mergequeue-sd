@@ -18368,7 +18368,6 @@ coarct
 countergambit
 cognised
 creepy
-chatchkas
 chirimoya
 clypeal
 compactedness
@@ -24942,6 +24941,7 @@ consimilarity
 carpools
 celtist
 curacies
+chatchkas
 cistic
 corbina
 condurango
