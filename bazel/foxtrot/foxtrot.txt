@@ -9384,6 +9384,7 @@ fidgeter
 forbye
 fibreglass
 fondu
+foozlers
 frenum
 ficaria
 forequoted
@@ -9828,7 +9829,6 @@ friskle
 foreappointment
 fricace
 fricandeaux
-foozlers
 footcloths
 fluellen
 foredestine
