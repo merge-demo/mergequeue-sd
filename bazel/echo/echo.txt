@@ -2911,7 +2911,6 @@ emplaning
 epizoisms
 elevons
 eurydice
-elf
 elfenfolk
 endogeny
 elfinwood
@@ -4390,6 +4389,7 @@ endoplastule
 euornithes
 enapt
 ethnog
+elf
 elemi
 encages
 evilsayer
