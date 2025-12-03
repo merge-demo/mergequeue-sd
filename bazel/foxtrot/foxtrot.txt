@@ -383,7 +383,6 @@ filicauline
 forbid
 fairfieldite
 facets
-faceoff
 fairground
 fairy
 foresettle
@@ -2990,6 +2989,7 @@ flirts
 flaggelation
 forbs
 furiousness
+faceoff
 fossiform
 faintheartedness
 filmiform
