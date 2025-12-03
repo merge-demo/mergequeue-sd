@@ -2201,7 +2201,6 @@ gecarcinian
 greasepaint
 gecarcinidae
 gynaecologist
-garrotte
 greedily
 grough
 glycerinating
@@ -7349,6 +7348,7 @@ galloglass
 geochronometric
 gibby
 glareole
+garrotte
 ghee
 groggery
 gossep
