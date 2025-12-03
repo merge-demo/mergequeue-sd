@@ -5539,6 +5539,7 @@ enzymosis
 enervation
 ethnically
 enetophobia
+excitory
 enfaces
 earthshattering
 elizabethans
@@ -10680,7 +10681,6 @@ excrements
 ecrasite
 expeditate
 entwine
-excitory
 endocytosis
 estragon
 easternism
