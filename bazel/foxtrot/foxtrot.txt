@@ -968,6 +968,7 @@ foxhound
 fusion
 fardelet
 futtah
+flaffer
 fleshhood
 famelic
 friarbird
@@ -9886,7 +9887,6 @@ fornices
 fritts
 frogskins
 forepeaks
-flaffer
 fines
 filamentose
 fogeater
