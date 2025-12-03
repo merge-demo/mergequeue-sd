@@ -2063,7 +2063,6 @@ gantry
 gazzetta
 gutterize
 gavia
-geminiform
 gio
 grapheme
 gaynesses
@@ -6174,6 +6173,7 @@ grihastha
 genovino
 gazetteers
 groveling
+geminiform
 goal
 griffithite
 galactophore
