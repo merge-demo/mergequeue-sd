@@ -19099,7 +19099,6 @@ archprimate
 acroataxia
 archregent
 archruler
-apparentness
 antimediaevalism
 arachnophagous
 ancha
@@ -19809,6 +19808,7 @@ adaptivity
 armariumaria
 armatoles
 arsphenamine
+apparentness
 armatures
 albation
 anarchal
