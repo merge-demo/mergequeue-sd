@@ -5227,6 +5227,7 @@ dyings
 daemon
 doghole
 decephalization
+dimetry
 deathly
 diaheliotropic
 detruncating
@@ -9948,7 +9949,6 @@ ductilely
 dermatoptic
 drear
 direly
-dimetry
 disorganizes
 densimetry
 dimyaria
