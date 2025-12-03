@@ -182,7 +182,6 @@ didromies
 degami
 daedalic
 diminish
-diphenylmethane
 dipsey
 drachmai
 dopiest
@@ -6121,6 +6120,7 @@ deboites
 dendrometer
 deracinating
 domiciliar
+diphenylmethane
 deracination
 divinising
 decurring
