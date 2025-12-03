@@ -212,7 +212,6 @@ earthwall
 entte
 exoticalness
 edaphodont
-empetrous
 echogram
 europeanization
 euripupi
@@ -8336,6 +8335,7 @@ elvan
 epicarp
 earthy
 evg
+empetrous
 excursional
 essonites
 episthotonos
