@@ -1812,7 +1812,6 @@ apprehendable
 anthropomorphous
 afterend
 allamanda
-acephalist
 anonymousness
 adumbratively
 acephalocyst
@@ -20182,6 +20181,7 @@ arratel
 asclepieion
 apothem
 arrau
+acephalist
 assiduously
 arrearage
 aromaticity
