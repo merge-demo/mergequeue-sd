@@ -10442,6 +10442,7 @@ amiability
 amiableness
 antiautolysin
 aswooned
+autocephaly
 aspalax
 auxosubstance
 aegle
@@ -11364,7 +11365,6 @@ alchemising
 artels
 anagrammatization
 alupag
-autocephaly
 absorptance
 aiguiere
 amplication
