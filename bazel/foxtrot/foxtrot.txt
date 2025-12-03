@@ -1138,7 +1138,6 @@ fiberization
 frumety
 fidelis
 flax
-fatally
 fearbabe
 feebleminded
 feller
@@ -6509,6 +6508,7 @@ frotted
 forspread
 furcular
 fluther
+fatally
 foldskirt
 fortifying
 flexuousness

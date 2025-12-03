@@ -8725,6 +8725,7 @@ garlics
 glossectomy
 grifts
 gynoecia
+galactopoiesis
 goldenly
 girn
 greenbug
@@ -9579,7 +9580,6 @@ gauteite
 gruels
 gesticularious
 gymnostomata
-galactopoiesis
 giftlike
 geophones
 granted
