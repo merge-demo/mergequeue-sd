@@ -15574,7 +15574,6 @@ biopsychical
 born
 bromacetanilide
 bristlelike
-brigander
 beingless
 borer
 babyhoods
@@ -17100,6 +17099,7 @@ bulletlike
 burghmote
 braconniere
 breadseller
+brigander
 bacteric
 bombazeen
 bulletproofing
