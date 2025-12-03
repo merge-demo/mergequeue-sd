@@ -251,7 +251,6 @@ daggerproof
 diskettes
 dagging
 disavaunce
-dollhouses
 decameters
 daggles
 dassie
@@ -10623,6 +10622,7 @@ dunderbolt
 dominus
 diploidize
 doorman
+dollhouses
 diploma
 decasyllabon
 dolorogenic
