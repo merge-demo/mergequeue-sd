@@ -2610,7 +2610,6 @@ addiction
 acanthopterous
 alginates
 acquiescement
-aureation
 acquiescence
 acquiescency
 abacli
@@ -7156,6 +7155,7 @@ argovian
 antiodontalgic
 aweigh
 alabamide
+aureation
 alabamine
 armillaria
 alkalinizes
