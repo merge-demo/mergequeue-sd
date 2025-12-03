@@ -4991,7 +4991,6 @@ delectated
 decate
 drabbletail
 deradenitis
-demote
 demoted
 demotes
 disomus
@@ -12802,6 +12801,7 @@ deblocking
 dunk
 debouch
 dissensions
+demote
 diathesic
 duplicatus
 derepression
