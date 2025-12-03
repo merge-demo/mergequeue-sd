@@ -3887,6 +3887,7 @@ carbonise
 clarets
 choirmaster
 canister
+crystallite
 carbonitride
 cincinatti
 countertranslation
@@ -6581,7 +6582,6 @@ calamariaceae
 cebalrai
 culteranismo
 cebell
-crystallite
 cecidogenous
 cebid
 coutel
