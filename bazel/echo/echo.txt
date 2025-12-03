@@ -5404,6 +5404,7 @@ elateridae
 encorbellment
 elamitic
 extuberant
+eradiating
 erstwhiles
 eosphorite
 existant
@@ -6248,7 +6249,6 @@ exhortator
 enorn
 eumeromorph
 enos
-eradiating
 egophony
 epitapher
 eradiation
