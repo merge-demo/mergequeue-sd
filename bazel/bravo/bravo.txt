@@ -8177,7 +8177,6 @@ ballote
 bienly
 browpost
 boyism
-brahmi
 biens
 benefice
 bathroom
@@ -12498,6 +12497,7 @@ broncholith
 bacquet
 bilberries
 boneshaker
+brahmi
 bridesman
 bidets
 backbeat
