@@ -3656,7 +3656,6 @@ ghibli
 gobline
 ghiblis
 guided
-geebung
 goths
 groinery
 glottides
@@ -5693,6 +5692,7 @@ galvanographic
 glandulous
 garo
 gallophile
+geebung
 gristliest
 greenlandman
 gnomonia
