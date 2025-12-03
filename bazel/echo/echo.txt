@@ -12065,7 +12065,6 @@ ervum
 excommunicator
 expetible
 extrication
-excoriated
 electroanalysis
 excoriating
 egestions
@@ -13406,6 +13405,7 @@ exter
 expounder
 eulogised
 ems
+excoriated
 enthrong
 evaluative
 express
