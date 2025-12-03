@@ -5411,7 +5411,6 @@ disgruntle
 dawned
 denting
 defrayal
-dilatorily
 demagogically
 duotype
 dentirostral
@@ -12604,6 +12603,7 @@ disintegrity
 disinter
 disinterest
 disinterestedly
+dilatorily
 disinterestedness
 disheaven
 dimyary
