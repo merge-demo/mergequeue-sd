@@ -5971,6 +5971,7 @@ begirdles
 belvedere
 bluewood
 belvedered
+beauing
 blueblossom
 barothermohygrogram
 bosslet
@@ -15763,7 +15764,6 @@ becaps
 beglare
 bove
 bedecks
-beauing
 billethead
 backstrokes
 backhandedly
