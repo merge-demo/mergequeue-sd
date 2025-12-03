@@ -23753,7 +23753,6 @@ contrariwise
 contrarotation
 conjunctival
 centrifugal
-contrascriptural
 contrast
 cosec
 costocolic
@@ -29805,6 +29804,7 @@ cincinnatian
 cropman
 contraindication
 colleagued
+contrascriptural
 cochleate
 croppy
 cropping
