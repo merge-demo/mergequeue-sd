@@ -5824,6 +5824,7 @@ englutted
 edeoscopy
 enceintes
 euchre
+extraretinal
 enterons
 encrinal
 episode
@@ -12823,7 +12824,6 @@ exotericism
 extenuated
 emboldener
 embossmen
-extraretinal
 evangelicity
 ensepulchered
 ecanda
