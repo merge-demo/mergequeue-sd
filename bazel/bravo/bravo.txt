@@ -3715,6 +3715,7 @@ battler
 battleships
 barrace
 budgerigar
+biomathematics
 blushiness
 battlesome
 brigantes
@@ -8994,7 +8995,6 @@ bewhite
 brender
 bremsstrahlung
 bacterioagglutinin
-biomathematics
 bets
 byp
 biomechanical
