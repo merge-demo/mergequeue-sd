@@ -11973,7 +11973,6 @@ bacchical
 bogtrotting
 batfowler
 bombastry
-bimillenary
 brother
 bogued
 bogus
@@ -14306,6 +14305,7 @@ bye
 biznaga
 blubbing
 barefit
+bimillenary
 brahmachari
 blacklist
 brahmana
