@@ -7805,7 +7805,6 @@ biangulous
 biannually
 bhagavata
 biarchy
-biarcuate
 biarticulate
 barrulee
 breccia
@@ -11109,6 +11108,7 @@ bougies
 bygane
 bums
 barotaxy
+biarcuate
 bacchanalia
 bolivian
 bloodcurdlingly
