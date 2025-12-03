@@ -4813,7 +4813,6 @@ carport
 carpos
 chibouk
 carposporangial
-catalase
 carlist
 carposporous
 carpsucker
@@ -24821,6 +24820,7 @@ calcimeter
 coracobrachialis
 combite
 cosheries
+catalase
 coracoclavicular
 chompers
 coracocostal
