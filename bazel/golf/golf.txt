@@ -3242,7 +3242,6 @@ gesturer
 gutti
 gigantism
 geratologous
-guidership
 gametophytic
 goodhearted
 grainedness
@@ -10311,6 +10310,7 @@ gigantically
 gorges
 gridded
 galliard
+guidership
 gulpier
 galactosidase
 girasol
