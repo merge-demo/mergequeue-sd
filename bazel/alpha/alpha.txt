@@ -7510,6 +7510,7 @@ ask
 abbasid
 anthranilate
 albuminate
+allegorical
 abrased
 arhythmia
 adiaphonon
@@ -10889,7 +10890,6 @@ affronter
 allamoth
 antiphilosophy
 amerindic
-allegorical
 amniocentesis
 amniochorial
 arado
