@@ -8272,6 +8272,7 @@ graphophonic
 graphoscope
 glycoprotein
 grinderies
+guerdonless
 graphotype
 grapier
 gusseting
@@ -8591,7 +8592,6 @@ gathic
 gossameriness
 gametically
 genealogical
-guerdonless
 gestic
 gibbeting
 geothermometer
