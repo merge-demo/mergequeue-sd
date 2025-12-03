@@ -2410,7 +2410,6 @@ dino
 decidedly
 dragging
 dewclaw
-decidence
 destabilized
 dwyka
 deciders
@@ -9436,6 +9435,7 @@ diffusibleness
 diffusing
 deuteranomalous
 dereling
+decidence
 dowerless
 dredge
 dismountable
