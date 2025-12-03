@@ -3324,7 +3324,6 @@ fandom
 fulcra
 forsung
 flench
-furuncle
 fidge
 frogfoot
 fractionally
@@ -7064,6 +7063,7 @@ fraken
 fledge
 foolish
 ferryboats
+furuncle
 frecklish
 fascinating
 fleapit
