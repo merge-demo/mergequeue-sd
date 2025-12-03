@@ -5808,6 +5808,7 @@ englobed
 enneahedral
 envelopment
 extirp
+extracloacal
 englut
 emhpasizing
 encored
@@ -13832,7 +13833,6 @@ encarditis
 embrake
 euvrou
 euplectella
-extracloacal
 expos
 euthenics
 excudit
