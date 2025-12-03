@@ -20641,6 +20641,7 @@ abruptiones
 arthropodal
 ambustion
 abmhos
+aswim
 archaists
 arthropods
 arthropomata
@@ -24999,7 +25000,6 @@ awhile
 atlatls
 awhir
 awhirl
-aswim
 autotruck
 antedon
 awikiwiki
