@@ -416,6 +416,7 @@ flints
 footboard
 fibrotic
 festae
+furibund
 fibroligamentous
 fauchards
 frockmaker
@@ -1480,7 +1481,6 @@ fishmeal
 fairgoer
 fila
 flutings
-furibund
 flunkeyish
 furanose
 foundering
