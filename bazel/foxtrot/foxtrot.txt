@@ -1982,7 +1982,6 @@ fitched
 flossflower
 fortunel
 fural
-floative
 fayed
 futiley
 fissipeds
@@ -7454,6 +7453,7 @@ featless
 fawning
 flashpan
 fleyedness
+floative
 featherwood
 fordoes
 faecal
