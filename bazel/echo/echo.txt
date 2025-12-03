@@ -7601,6 +7601,7 @@ extricate
 epichorion
 epicycle
 epicyemate
+empedoclean
 eeyuch
 experiments
 esogastritis
@@ -13615,7 +13616,6 @@ experientially
 esopgi
 englishwomen
 expurgates
-empedoclean
 effossion
 elinvar
 epsilon
