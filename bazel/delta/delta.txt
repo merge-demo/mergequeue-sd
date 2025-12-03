@@ -8317,7 +8317,6 @@ disadvantageously
 dependancy
 dynamiting
 dagesh
-desonation
 digitation
 doombook
 dialyzer
@@ -16319,6 +16318,7 @@ downshifted
 downshore
 dephlegmatize
 dibbler
+desonation
 dragonism
 dainteth
 deplored
