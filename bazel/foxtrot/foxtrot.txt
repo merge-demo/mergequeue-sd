@@ -1829,6 +1829,7 @@ fore
 fratcheous
 feastless
 febrific
+florula
 flaccid
 feloid
 febrile
@@ -6803,7 +6804,6 @@ freeing
 foraminiferan
 fikery
 feuille
-florula
 fragmentizer
 foretold
 fructifier
