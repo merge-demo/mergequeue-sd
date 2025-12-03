@@ -10639,7 +10639,6 @@ balanophoraceae
 bandspreading
 boardinghouse
 bernese
-bollies
 bishopscap
 bleaky
 buist
@@ -11792,6 +11791,7 @@ bobberies
 bocconia
 byrl
 blennorrheal
+bollies
 bices
 bepommel
 bystreets
