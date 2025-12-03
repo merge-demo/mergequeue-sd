@@ -5258,7 +5258,6 @@ encinder
 ecologic
 endoparasitica
 etiotropically
-endopathic
 endopelvic
 encyclopaedist
 endoperidium
@@ -13627,6 +13626,7 @@ enfeeble
 emamelware
 epitaph
 extending
+endopathic
 endoblastic
 experienced
 ears
