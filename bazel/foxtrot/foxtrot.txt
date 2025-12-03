@@ -5012,6 +5012,7 @@ faconne
 fulmarus
 flapdock
 fluvialist
+fumatoriums
 familiarized
 flowered
 fissures
@@ -7940,7 +7941,6 @@ fenerate
 fozier
 foreshot
 ficelle
-fumatoriums
 fibrinogenous
 fitness
 freestones
