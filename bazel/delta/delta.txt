@@ -7318,7 +7318,6 @@ disseized
 diffusivity
 dollies
 diaxone
-disturbor
 desiccative
 doukhobor
 devisers
@@ -14166,6 +14165,7 @@ dammish
 deringer
 dunair
 disunify
+disturbor
 disorientates
 dolesman
 diastatically
