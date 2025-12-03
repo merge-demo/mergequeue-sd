@@ -7839,6 +7839,7 @@ bibbler
 blooms
 bufonite
 borazon
+blandiloquence
 bajri
 broose
 bibelot
@@ -12168,7 +12169,6 @@ byrled
 brabbler
 boleweed
 biometeorology
-blandiloquence
 baklawas
 benzodiazine
 bridgeboard
