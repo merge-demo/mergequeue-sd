@@ -8918,7 +8918,6 @@ dichotomist
 dicasteries
 dicastic
 dysmenorrhea
-diccon
 depolariser
 daimio
 dermatitis
@@ -10193,6 +10192,7 @@ deltidia
 dues
 diverticulate
 diploblastic
+diccon
 defogging
 distraint
 downy
