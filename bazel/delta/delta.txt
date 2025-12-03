@@ -2744,7 +2744,6 @@ decor
 diplopic
 dappledness
 decurves
-decorable
 deist
 delectable
 duetto
@@ -5002,6 +5001,7 @@ demarking
 dihdroxycholecalciferol
 dimethyltryptamine
 datos
+decorable
 dissipate
 deified
 duncedom
