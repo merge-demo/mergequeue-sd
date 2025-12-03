@@ -1451,7 +1451,6 @@ gymnasiums
 governless
 glumpiest
 gnosticity
-gadget
 giusto
 germinate
 guild
@@ -3671,6 +3670,7 @@ gillnets
 glops
 gurgly
 governorships
+gadget
 gadgeteers
 glyptician
 gnomoniaceae
