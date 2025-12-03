@@ -8439,7 +8439,6 @@ glaciarium
 goonch
 gratuitant
 glossograph
-grenatite
 guaguanche
 globulariaceous
 gnathopodous
@@ -9154,6 +9153,7 @@ grammaticalness
 gazeful
 groat
 grusinian
+grenatite
 gearcase
 grooming
 gardant
