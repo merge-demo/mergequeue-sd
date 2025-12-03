@@ -7428,7 +7428,6 @@ betonies
 berkshire
 bombesin
 bradshaw
-behaviours
 bookbinders
 bromated
 betrayed
@@ -15983,6 +15982,7 @@ burntweed
 bambuseae
 baillone
 bronchophony
+behaviours
 bayoneting
 bibionidae
 braced
