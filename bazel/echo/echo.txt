@@ -1138,7 +1138,6 @@ ecphory
 expunction
 enclosed
 emblematising
-editorializers
 elephantic
 eupyrchroite
 enation
@@ -3162,6 +3161,7 @@ expurgators
 extinguishment
 eloins
 etioporphyrin
+editorializers
 ectotropic
 embalms
 eloise

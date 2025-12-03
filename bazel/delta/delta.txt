@@ -5779,6 +5779,7 @@ deconsider
 depoh
 decd
 depolarise
+disserts
 dehumidify
 depolarization
 dernly
@@ -17433,7 +17434,6 @@ drosser
 drawdown
 dagaba
 dedicate
-disserts
 diazoimido
 drostdy
 diabaterial
