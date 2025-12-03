@@ -3744,7 +3744,6 @@ boing
 brahmanic
 broideress
 biologese
-biologists
 bowstringed
 beachwear
 battues
@@ -11263,6 +11262,7 @@ backups
 blowing
 blowings
 basify
+biologists
 brigandage
 belage
 bredstitch
