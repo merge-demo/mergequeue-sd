@@ -8283,6 +8283,7 @@ complexity
 carbure
 corallet
 choyroot
+creance
 chalinitis
 chalkboard
 chalked
@@ -28427,7 +28428,6 @@ cotarnine
 chiefling
 creams
 cindery
-creance
 chabot
 creancer
 carpintero
