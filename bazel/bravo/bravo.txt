@@ -11432,6 +11432,7 @@ beaverkill
 bluesmen
 bluestems
 beguiles
+begazes
 bigeneric
 blenched
 bananalander
@@ -13751,7 +13752,6 @@ bovinely
 bezil
 bestrowed
 bovinities
-begazes
 buffet
 blesseder
 bedlam

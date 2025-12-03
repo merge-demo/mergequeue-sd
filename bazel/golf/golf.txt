@@ -1105,6 +1105,7 @@ ganister
 goriest
 giroflore
 gotiglacial
+glovey
 grooviness
 grannies
 gonangium
@@ -7676,7 +7677,6 @@ gardeny
 grader
 gobble
 grouseward
-glovey
 gradient
 gasp
 galey
