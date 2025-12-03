@@ -5801,7 +5801,6 @@ category
 choledoch
 cinurous
 categorial
-chieftainship
 cylindrocephalic
 categoric
 coliidae
@@ -31645,6 +31644,7 @@ cheeker
 crabber
 carduelis
 conscripttion
+chieftainship
 curvulate
 cuscohygrin
 cuscohygrine
