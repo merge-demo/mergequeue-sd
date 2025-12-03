@@ -820,7 +820,6 @@ galoots
 granose
 ginney
 gnarring
-gramp
 gamblesomeness
 greenback
 genseng
@@ -6235,6 +6234,7 @@ gilbertine
 grooved
 garrisoned
 gastrimargy
+gramp
 guillotinade
 gamopetalae
 gp

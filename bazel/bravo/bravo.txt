@@ -11036,6 +11036,7 @@ between
 bloats
 brachygnathous
 blob
+barding
 bimetallic
 bicentrically
 bromoiodized
@@ -15804,7 +15805,6 @@ beaconing
 backlasher
 brokerly
 bradykinesia
-barding
 broking
 bushfighter
 brainwash
