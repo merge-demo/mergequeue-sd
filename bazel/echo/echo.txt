@@ -12219,7 +12219,6 @@ elementalism
 excelse
 execratively
 excreter
-enragedness
 economised
 emoluments
 execrator
@@ -12813,6 +12812,7 @@ egotist
 elementalistically
 excitomotor
 embryology
+enragedness
 epicystotomy
 equine
 excellency
