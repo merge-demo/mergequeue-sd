@@ -3225,7 +3225,6 @@ deracine
 deinotherium
 defectors
 dandiest
-dismayful
 docosanoic
 dozenths
 defectum
@@ -14131,6 +14130,7 @@ deployment
 darter
 defeating
 diswarrening
+dismayful
 daisy
 ducker
 disulfid
