@@ -2906,6 +2906,7 @@ elevenses
 eleventeenth
 eleventh
 evicts
+ethnologists
 excitation
 emplaning
 epizoisms
@@ -10084,7 +10085,6 @@ ethanolysis
 excretion
 ensepulcher
 exode
-ethnologists
 endoparasitism
 epipolize
 englishing
