@@ -13728,7 +13728,6 @@ congestus
 cineaste
 convoke
 chlamydomonas
-cynegild
 cubbyholes
 cinema
 cinemactic
@@ -20603,6 +20602,7 @@ cantor
 citrate
 cosmosophy
 cahow
+cynegild
 complacentially
 complacently
 chantant
