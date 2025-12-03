@@ -7639,6 +7639,7 @@ ensient
 entocnemial
 eventfully
 engines
+event
 elne
 exactest
 extrafascicular
@@ -10494,7 +10495,6 @@ ehuawa
 etoile
 etrenne
 exsurgent
-event
 etrog
 equatoreal
 etruscology
