@@ -3358,7 +3358,6 @@ eats
 embain
 egglike
 epanthous
-embays
 ethylenediamine
 extranormal
 emballonuridae
@@ -6647,6 +6646,7 @@ eyeing
 exoderms
 enthralled
 entomophagan
+embays
 exchangite
 escambron
 enteroischiocele
