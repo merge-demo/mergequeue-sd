@@ -12064,7 +12064,6 @@ anemosis
 architeuthis
 anastate
 anastigmat
-anastigmatic
 alvah
 alichel
 amazeful
@@ -15173,6 +15172,7 @@ aberrometer
 amil
 arctocephalus
 aerostat
+anastigmatic
 aseptically
 antifatigue
 antifebrin
