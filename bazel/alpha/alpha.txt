@@ -9827,7 +9827,6 @@ antigraph
 aloes
 amaranth
 anchylosing
-amaranthaceae
 argonon
 acrobatically
 appale
@@ -12315,6 +12314,7 @@ andantino
 annunciate
 almicore
 antithetics
+amaranthaceae
 anodynia
 abatua
 asterolepidae
