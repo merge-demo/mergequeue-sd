@@ -3865,7 +3865,6 @@ floria
 firmnesses
 frizzles
 fanglomerate
-figurings
 farleu
 fimbrillate
 fany
@@ -10612,6 +10611,7 @@ ferity
 franc
 forswearing
 flumped
+figurings
 forwaste
 fleeting
 flatnesses
