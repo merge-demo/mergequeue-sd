@@ -5816,7 +5816,6 @@ benevolences
 bemata
 beleaps
 bestorm
-bldg
 bricks
 bellicism
 beyonds
@@ -17153,6 +17152,7 @@ bullyrag
 butcherly
 bullyragger
 booklice
+bldg
 benzoylformic
 brunches
 balantidial
