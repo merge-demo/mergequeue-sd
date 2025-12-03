@@ -20794,7 +20794,6 @@ aspiculate
 angico
 assimilated
 autophobia
-alicant
 alienors
 artlessness
 animalcule
@@ -22179,6 +22178,7 @@ arviculture
 asthmatical
 aspirins
 aceric
+alicant
 aeromantic
 asthmatoid
 arthrotomies
