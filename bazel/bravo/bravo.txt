@@ -3602,6 +3602,7 @@ brooklet
 bookmobile
 besought
 blithelike
+bobbysoxers
 batidaceous
 becrowds
 beshouted
@@ -8757,7 +8758,6 @@ binbashi
 blandly
 broadwise
 birotatory
-bobbysoxers
 barkevikitic
 binderies
 barterer
