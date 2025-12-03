@@ -4057,7 +4057,6 @@ actionless
 actinobacillotic
 ailurophilia
 abiotrophic
-amyotaxia
 allylic
 autorotational
 aloyau
@@ -8055,6 +8054,7 @@ antidotical
 archcity
 aefaldness
 assailable
+amyotaxia
 appropriators
 aeciotelium
 artarine
