@@ -6255,6 +6255,7 @@ flared
 fissiparation
 fortissimos
 footlock
+fabulize
 fluidmeter
 fearnought
 fakirism
@@ -9208,7 +9209,6 @@ foraneous
 facts
 featherer
 frayedness
-fabulize
 fidging
 flagmaking
 flashier
