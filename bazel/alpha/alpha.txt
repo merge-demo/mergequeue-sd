@@ -17703,7 +17703,6 @@ axhead
 antiquities
 applejohn
 analogice
-antidotism
 apples
 applewoman
 adopts
@@ -24968,6 +24967,7 @@ ashstone
 archconfraternities
 aweek
 acanthology
+antidotism
 aweel
 anaerobism
 acyl
