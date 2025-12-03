@@ -14010,7 +14010,6 @@ belemnoidea
 barriguda
 braceros
 butcherbroom
-bacchanalism
 bracherer
 basiate
 blackguards
@@ -17008,6 +17007,7 @@ bubblish
 banjoists
 bulger
 boyhood
+bacchanalism
 belier
 bersim
 bulgiest
