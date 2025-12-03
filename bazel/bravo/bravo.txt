@@ -2503,6 +2503,7 @@ beflowers
 baggy
 bariatrician
 banderilla
+befriends
 baric
 barycenter
 bemused
@@ -3172,7 +3173,6 @@ bauld
 blotch
 bronchiarctia
 basically
-befriends
 basicerite
 basicity
 baloneys
