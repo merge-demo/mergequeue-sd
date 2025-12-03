@@ -6338,7 +6338,6 @@ elenchtic
 ensanguine
 eloquent
 enlargingly
-emporium
 ergotin
 ecstatica
 eschar
@@ -6908,6 +6907,7 @@ etiquettes
 endamageable
 epispore
 ectocardia
+emporium
 endometria
 equipments
 eucalyn
