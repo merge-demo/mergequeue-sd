@@ -6404,7 +6404,6 @@ dielec
 derodidymus
 derog
 demeanour
-doronicum
 despond
 derogate
 derogates
@@ -15320,6 +15319,7 @@ displeasured
 doating
 dix
 domage
+doronicum
 domainal
 dourines
 dummel

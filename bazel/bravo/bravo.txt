@@ -6456,7 +6456,6 @@ barangay
 biternate
 benzothiofuran
 burs
-benzothiophene
 benzotrichloride
 bolection
 benzoxyacetic
@@ -15271,6 +15270,7 @@ bridewain
 beholding
 brideweed
 bahiaite
+benzothiophene
 biochemics
 bullying
 belles
