@@ -3721,7 +3721,6 @@ fillmore
 forwear
 fiscally
 facingly
-fosse
 foujdary
 fourierian
 flavorousness
@@ -8797,6 +8796,7 @@ flunks
 favorably
 falcinellus
 frogfish
+fosse
 frailes
 fetchers
 flotillas
