@@ -28174,7 +28174,6 @@ crankpins
 colipyuria
 churchman
 cranks
-corpulent
 crannage
 caesar
 crannel
@@ -29318,6 +29317,7 @@ cryptographal
 certiorating
 cryptoheresy
 cryptoheretic
+corpulent
 cryptolite
 cytochalasin
 cryptolith
