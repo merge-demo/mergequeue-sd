@@ -7851,7 +7851,6 @@ epicarps
 empyocele
 exoerythrocytic
 epithelium
-exarchate
 exophoria
 ejaculator
 eddish
@@ -8350,6 +8349,7 @@ endured
 enchannel
 exercised
 emulating
+exarchate
 eagling
 epitheme
 evangelise

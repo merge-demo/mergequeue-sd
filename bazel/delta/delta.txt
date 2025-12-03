@@ -8612,6 +8612,7 @@ diapirs
 diaplases
 disk
 deprived
+devouress
 dinosaurian
 destroying
 doormaking
@@ -17947,7 +17948,6 @@ disamenity
 deve
 durras
 dugento
-devouress
 dactylous
 dugongidae
 diminutional
