@@ -1697,7 +1697,6 @@ foreshape
 feased
 folic
 fumigant
-fingrigo
 forprise
 fibrinoalbuminous
 forestep
@@ -6567,6 +6566,7 @@ firebrand
 forebitten
 firming
 filiated
+fingrigo
 fluorhydric
 finfishes
 fortuitist
