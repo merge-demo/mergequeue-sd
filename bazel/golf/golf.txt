@@ -2937,6 +2937,7 @@ gallons
 glabreity
 gulley
 growlier
+goads
 glumpish
 gavelkind
 growleries
@@ -10587,7 +10588,6 @@ gneissitic
 gatewoman
 grenadiership
 grommets
-goads
 garnisher
 grilly
 gymnogene
