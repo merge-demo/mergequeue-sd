@@ -4258,6 +4258,7 @@ adposition
 acmispon
 azonium
 armorer
+antipedobaptist
 alchornea
 aesculapius
 annoyful
@@ -11824,7 +11825,6 @@ anallagmatic
 anallantoidean
 acclimature
 amitoses
-antipedobaptist
 antisociality
 abas
 appulsion
