@@ -8915,6 +8915,7 @@ achromatizable
 astroalchemist
 agnathostomatous
 allantoid
+amphidiscophoran
 admired
 alloyage
 alloiogenesis
@@ -11204,7 +11205,6 @@ acridan
 auroral
 acanthoid
 aircoaches
-amphidiscophoran
 antisyphilitic
 aerophilia
 amphigam
