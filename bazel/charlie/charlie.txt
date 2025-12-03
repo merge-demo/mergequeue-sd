@@ -21502,6 +21502,7 @@ concretor
 climes
 cupuliform
 cubital
+continental
 cupromanganese
 concubinary
 coeducation
@@ -29491,7 +29492,6 @@ crystallomancy
 crystallometry
 continuist
 conjunctional
-continental
 culpatory
 crystallometric
 crystallose
