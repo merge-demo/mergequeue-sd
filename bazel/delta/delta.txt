@@ -7357,7 +7357,6 @@ detorsion
 deashed
 disagreed
 disvulnerability
-determiner
 diameters
 didine
 determinism
@@ -16439,6 +16438,7 @@ draughthouse
 dextrotartaric
 duchesses
 dichotomousness
+determiner
 disgregated
 dolichocercic
 decidement

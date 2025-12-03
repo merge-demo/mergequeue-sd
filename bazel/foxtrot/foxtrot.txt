@@ -283,7 +283,6 @@ febrifacient
 footpounds
 firbolg
 flagarie
-fideism
 fissle
 foxfire
 fledges
@@ -6316,6 +6315,7 @@ fullback
 fillock
 floyd
 finessed
+fideism
 fixtureless
 fourb
 flunkyish
