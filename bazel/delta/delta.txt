@@ -5405,7 +5405,6 @@ delivery
 disappropriation
 dipmeter
 drub
-duplications
 demonio
 disemburden
 diazenithal
@@ -6074,6 +6073,7 @@ desmotrope
 deflates
 dicephalism
 doug
+duplications
 discriminately
 dripple
 dissyllabised
