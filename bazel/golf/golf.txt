@@ -1981,7 +1981,6 @@ greywacke
 glairs
 garnishments
 glamor
-gallamine
 gnomonical
 gimbal
 geology
@@ -10193,6 +10192,7 @@ glossophobia
 geostrategist
 gerusia
 gastropathy
+gallamine
 granulated
 greed
 governable
