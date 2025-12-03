@@ -4693,6 +4693,7 @@ autocriticism
 adduct
 amphibologically
 aegemony
+anelasticity
 alismaceae
 apneal
 agmatology
@@ -12466,7 +12467,6 @@ appealed
 anechoic
 amazed
 adar
-anelasticity
 augurship
 anelectrode
 appui
