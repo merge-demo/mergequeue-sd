@@ -1577,6 +1577,7 @@ fleecelike
 fourstrand
 falsettist
 fibrinogen
+furfurals
 filespec
 favorites
 furstone
@@ -10573,7 +10574,6 @@ fluorimetry
 fustier
 fragmental
 forks
-furfurals
 filiation
 francophobe
 feeblebrained
