@@ -6937,7 +6937,6 @@ aglyphous
 aptian
 aventine
 airview
-agrypnias
 abdicative
 airway
 aflutter
@@ -8763,6 +8762,7 @@ antiketogen
 allicient
 anglist
 anticeremonially
+agrypnias
 allied
 allies
 alligated

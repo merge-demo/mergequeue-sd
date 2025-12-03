@@ -2168,6 +2168,7 @@ giunta
 gunships
 geheimrat
 gallophobe
+gastrohypertonic
 gantlopes
 guayaberas
 gurjan
@@ -5063,7 +5064,6 @@ geoplagiotropism
 goldweed
 glycogen
 gerefa
-gastrohypertonic
 grizzlers
 gandering
 gisarmes
