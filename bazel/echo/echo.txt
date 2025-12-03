@@ -104,7 +104,6 @@ enchisel
 enmarble
 earreach
 engineership
-extraught
 enamoured
 eusteles
 earrings
@@ -8492,6 +8491,7 @@ electrodissolution
 eydent
 expansions
 externally
+extraught
 endball
 exculpation
 eleemosynariness
