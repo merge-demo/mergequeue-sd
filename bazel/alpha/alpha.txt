@@ -4574,6 +4574,7 @@ anicca
 adiaphorism
 advisal
 autohypnotism
+adeems
 antheridial
 alferez
 aune
@@ -11185,7 +11186,6 @@ astrobiologists
 amphicoelous
 amongst
 anarchistic
-adeems
 amphicreatinine
 analabos
 amphictyon
