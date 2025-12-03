@@ -2076,7 +2076,6 @@ felicitator
 fudger
 frightened
 foredefine
-fainty
 fesapo
 filletlike
 fear
@@ -2349,6 +2348,7 @@ favoritism
 ferforth
 frapped
 falconiformes
+fainty
 frogling
 feudist
 francic
