@@ -2062,7 +2062,6 @@ elamite
 elamitish
 episcope
 electrophorese
-evilly
 eudialyte
 elanet
 elanus
@@ -7656,6 +7655,7 @@ elixirs
 enhungered
 extrabold
 electrophoridae
+evilly
 epicoracoid
 exocrine
 ellachick
