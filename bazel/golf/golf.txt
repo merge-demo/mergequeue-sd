@@ -3178,7 +3178,6 @@ guardiancy
 germina
 geotechnic
 graplin
-glycans
 geraniaceae
 gazon
 griffado
@@ -4928,6 +4927,7 @@ glaga
 geologies
 glagolic
 gethsemane
+glycans
 geminates
 glaieul
 glossotomy
