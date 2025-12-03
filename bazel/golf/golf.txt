@@ -5750,7 +5750,6 @@ grieshuckle
 girasols
 gyrolite
 geologize
-gratia
 gammons
 goldsmithery
 galloperdix
@@ -7769,6 +7768,7 @@ graithly
 guatemalans
 gilpey
 gluttonously
+gratia
 gangan
 gonotype
 grorudite
