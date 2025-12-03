@@ -1020,6 +1020,7 @@ groundward
 gynobase
 ghassanid
 gilse
+gametophytic
 grubber
 gurnetty
 granitizing
@@ -3243,7 +3244,6 @@ gesturer
 gutti
 gigantism
 geratologous
-gametophytic
 goodhearted
 grainedness
 genuses
