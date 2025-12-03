@@ -19222,7 +19222,6 @@ ceviches
 colodyspepsia
 cuidado
 coloenteritis
-closefitting
 colog
 choel
 colognes
@@ -29964,6 +29963,7 @@ cuarenta
 crosswise
 cerebrology
 coccygotomy
+closefitting
 crisle
 crosswiseness
 crostarie
