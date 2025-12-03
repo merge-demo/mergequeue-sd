@@ -3418,7 +3418,6 @@ dorey
 defleaed
 dicotyledons
 disseats
-damnum
 ditremidae
 defleas
 downlinks
@@ -11006,6 +11005,7 @@ dissyllabising
 deepwaterman
 decapoda
 dulcinea
+damnum
 disafforestment
 disaggregative
 duly

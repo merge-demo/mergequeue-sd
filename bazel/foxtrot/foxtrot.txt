@@ -905,6 +905,7 @@ ferrate
 faquir
 farad
 faradaic
+footballer
 filleted
 fluorometer
 flamed
@@ -11388,7 +11389,6 @@ furnishable
 fluoroformol
 frontirostria
 forgiveably
-footballer
 flushness
 fourposter
 fleak
