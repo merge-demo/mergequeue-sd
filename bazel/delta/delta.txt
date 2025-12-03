@@ -11741,7 +11741,6 @@ discoverable
 distilland
 disworth
 dorms
-dockman
 discoverer
 decancellation
 discoverture
@@ -15671,6 +15670,7 @@ distemperance
 dopey
 decrements
 doper
+dockman
 dextropinene
 disbarring
 doorposts
