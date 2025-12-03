@@ -9286,7 +9286,6 @@ forsado
 flinting
 fluidise
 faulting
-flappers
 forty
 foveae
 figured
@@ -11037,6 +11036,7 @@ fumishing
 friendliness
 fermented
 fumuli
+flappers
 fungated
 fere
 fascias

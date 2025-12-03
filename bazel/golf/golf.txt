@@ -978,7 +978,6 @@ genetically
 gamp
 graysby
 gastrolobium
-genre
 galliferous
 gilgamesh
 grouting
@@ -5794,6 +5793,7 @@ gestio
 goosecap
 groovers
 galacaceae
+genre
 gangways
 goofiest
 garlicky
