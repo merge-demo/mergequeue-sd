@@ -9823,7 +9823,6 @@ aestuous
 attornment
 amarantaceous
 abumbral
-antigraph
 aloes
 amaranth
 anchylosing
@@ -21554,6 +21553,7 @@ asphodel
 aspy
 aspidinol
 aladdinize
+antigraph
 aspidiske
 autotypies
 aspidistra
