@@ -1278,6 +1278,7 @@ dusted
 diazoic
 denari
 demitasses
+destinezite
 datives
 deplane
 desmids
@@ -7078,7 +7079,6 @@ dessertspoon
 distillage
 disenthroning
 duramen
-destinezite
 driveable
 dessous
 devall
