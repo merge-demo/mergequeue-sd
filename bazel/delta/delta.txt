@@ -5118,7 +5118,6 @@ decuria
 derailed
 dietetic
 donatary
-decalogist
 dendrochirota
 dessicate
 describing
@@ -16289,6 +16288,7 @@ dropman
 downier
 downiest
 dictator
+decalogist
 downiness
 downingia
 diabrosis
