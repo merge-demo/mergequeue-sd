@@ -11909,6 +11909,7 @@ cosmochemistry
 choreoid
 crocidolite
 chorepiscopal
+clamb
 chorepiscope
 catheterize
 canoodling
@@ -15823,7 +15824,6 @@ cleaver
 cleavers
 crusilee
 coremaker
-clamb
 cleche
 capacitance
 clechee
