@@ -605,7 +605,6 @@ geocronite
 germanity
 gigue
 guarauno
-galactose
 galbulinae
 guaranian
 glockenspiels
@@ -5235,6 +5234,7 @@ gastrocoele
 groundsheet
 gale
 gleamless
+galactose
 gleed
 gramophone
 germinant
