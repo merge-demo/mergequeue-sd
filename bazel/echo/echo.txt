@@ -11604,7 +11604,6 @@ elaeocarpus
 extorted
 earringed
 ectromelic
-encephalosepsis
 evolutoid
 elegize
 enchiridion
@@ -12183,6 +12182,7 @@ elasmobranchian
 exiguity
 excusably
 enswathing
+encephalosepsis
 entertainments
 ethaldehyde
 estrado
