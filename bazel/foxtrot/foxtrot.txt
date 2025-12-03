@@ -5410,7 +5410,6 @@ forager
 fashion
 frolickly
 forseek
-fitchery
 fusobteria
 femur
 filterable
@@ -7052,6 +7051,7 @@ farles
 forejudger
 felix
 formfeeds
+fitchery
 fellfare
 folily
 footful

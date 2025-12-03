@@ -9433,7 +9433,6 @@ demilitarizing
 diamin
 diffusible
 demagoguism
-diffusibleness
 diffusing
 deuteranomalous
 dereling
@@ -15369,6 +15368,7 @@ dehumidifies
 deciliters
 difformity
 dislocatedly
+diffusibleness
 dikaryotic
 disencumbrance
 domett
