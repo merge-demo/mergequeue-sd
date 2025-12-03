@@ -13585,6 +13585,7 @@ decant
 dismeasurable
 deuterotoky
 diplomacies
+dividendus
 demicritic
 drawnet
 dorcopsis
@@ -14495,7 +14496,6 @@ decolonised
 dewfalls
 divided
 dividends
-dividendus
 divident
 dromograph
 dividivis
