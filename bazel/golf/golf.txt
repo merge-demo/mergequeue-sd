@@ -4320,7 +4320,6 @@ glazings
 grieves
 gippy
 grads
-gluttonous
 garganeys
 gentisein
 gustativeness
@@ -8600,6 +8599,7 @@ grangerism
 gaufrettes
 glucose
 geometrizing
+gluttonous
 graziers
 gravidate
 gallberry
