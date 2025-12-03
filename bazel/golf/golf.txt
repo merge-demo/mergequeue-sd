@@ -3545,6 +3545,7 @@ geums
 gangues
 garmentworker
 ganglions
+granulitization
 gymnorhina
 geomagnetist
 gluconeogenesis
@@ -3581,7 +3582,6 @@ gnomelike
 gregarinaria
 gavial
 glutinose
-granulitization
 galvanic
 gyrocar
 greg
