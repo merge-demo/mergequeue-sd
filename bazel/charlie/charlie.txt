@@ -6688,7 +6688,6 @@ celadon
 complexionally
 cutidure
 celadonite
-coleen
 celaeno
 celandines
 consultant
@@ -8813,6 +8812,7 @@ characids
 cataria
 cheville
 characine
+coleen
 creasiest
 coercibly
 cenospecific
