@@ -1052,7 +1052,6 @@ etchareottine
 excisable
 eyeless
 endoskeleton
-eqpt
 edgar
 eringos
 eagerly
@@ -7910,6 +7909,7 @@ emancipist
 enchantresses
 elephancy
 extortionateness
+eqpt
 ecotones
 echinozoa
 earthenhearted
