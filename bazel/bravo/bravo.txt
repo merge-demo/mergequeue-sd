@@ -6679,7 +6679,6 @@ berycoidea
 barpost
 berycomorphi
 bunsenite
-berigora
 beryl
 beryllonate
 berimed
@@ -6938,6 +6937,7 @@ bargoose
 badder
 bismuths
 bagheli
+berigora
 brott
 bilihumin
 bagoong
