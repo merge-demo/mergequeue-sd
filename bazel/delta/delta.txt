@@ -3481,6 +3481,7 @@ dipleurogenetic
 dormient
 duelists
 dehumidifier
+dafla
 damp
 discomfortably
 debyes
@@ -5136,7 +5137,6 @@ deperition
 ductings
 dravya
 dipsomania
-dafla
 dendrocoelan
 dendrocoele
 dendrocolaptidae
