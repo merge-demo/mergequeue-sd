@@ -1593,7 +1593,6 @@ gondoliere
 globicephala
 gymnura
 gauntlet
-gypsous
 gutteral
 gulanganes
 galleria
@@ -10475,6 +10474,7 @@ grandsirs
 gneissy
 gerrymandered
 geistlich
+gypsous
 graphitization
 gastroadenitis
 gusset
