@@ -9082,7 +9082,6 @@ charro
 concional
 cicatrize
 chylocaulous
-coagulin
 controversional
 charruas
 cloamer
@@ -22367,6 +22366,7 @@ cordiner
 coniferous
 conifers
 cnidoscolus
+coagulin
 chevy
 conification
 coniform
