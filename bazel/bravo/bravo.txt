@@ -6481,6 +6481,7 @@ broached
 bletted
 burge
 backdate
+bombycidae
 bellon
 bepatched
 bettergates
@@ -14058,7 +14059,6 @@ brandify
 bavary
 bitts
 bald
-bombycidae
 boffin
 brachydont
 brachydontism
