@@ -3009,7 +3009,6 @@ greasiness
 glitnir
 glycolic
 gadean
-gibbering
 gentilhomme
 goldenknop
 gorgoniacean
@@ -8681,6 +8680,7 @@ griper
 glissading
 gismondite
 gutterling
+gibbering
 glacification
 germanious
 galactophygous
