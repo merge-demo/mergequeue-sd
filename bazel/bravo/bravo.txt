@@ -5290,6 +5290,7 @@ backstab
 beneficiaire
 buddy
 brachytic
+bogan
 barretries
 boltonia
 beforested
@@ -10503,7 +10504,6 @@ benignities
 beadsmen
 blastoneuropore
 bombinate
-bogan
 blastophyllum
 bewigged
 blueprinter
