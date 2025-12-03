@@ -5530,6 +5530,7 @@ granadillo
 glutinously
 gestalter
 grudgeons
+geon
 greencoat
 glob
 gestured
@@ -9714,7 +9715,6 @@ gifblaar
 gropple
 galloflavin
 gasses
-geon
 gazet
 granola
 ghostlier
