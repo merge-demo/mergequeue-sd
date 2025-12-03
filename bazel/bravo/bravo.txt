@@ -3619,7 +3619,6 @@ birlinn
 batiks
 became
 bolting
-batistes
 boxtree
 beastly
 batlet
@@ -8650,6 +8649,7 @@ bilocular
 biloculina
 braches
 bilophodont
+batistes
 boshvark
 baxterian
 brattish
