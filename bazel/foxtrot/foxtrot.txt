@@ -5935,7 +5935,6 @@ floodlight
 forthinking
 furzes
 fearlessly
-favonius
 frailly
 floodlilit
 fivepins
@@ -8991,6 +8990,7 @@ forra
 firethorn
 fourther
 fasnacht
+favonius
 fireroom
 fouter
 foliator
