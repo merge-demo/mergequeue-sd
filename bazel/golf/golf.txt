@@ -4820,6 +4820,7 @@ glaciered
 gages
 gonged
 gifted
+gappy
 gadi
 gein
 grapewort
@@ -9102,7 +9103,6 @@ gladiatorism
 goatherds
 guajira
 glads
-gappy
 galactidrosis
 giraffa
 glairiness
