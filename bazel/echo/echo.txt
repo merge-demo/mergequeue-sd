@@ -3153,7 +3153,6 @@ eloiners
 essentiate
 eburated
 ethnarchs
-eskimoes
 euryphage
 eloining
 endobronchial
@@ -7464,6 +7463,7 @@ endogenously
 extraperiodic
 extracurricular
 exercise
+eskimoes
 elohimic
 enfile
 ecchondrotome
