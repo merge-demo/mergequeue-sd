@@ -4429,6 +4429,7 @@ encapsulation
 emitted
 encapsuled
 enure
+electronographic
 emberiza
 effectively
 encapsuling
@@ -7485,7 +7486,6 @@ ephemeridae
 ephemeroptera
 eigne
 extrafocal
-electronographic
 eyess
 extracivically
 ephetae
