@@ -14919,6 +14919,7 @@ attroupement
 abret
 anticlines
 anticlinoria
+apostolic
 amphigouri
 anticlinorium
 axised
@@ -16963,7 +16964,6 @@ alveolars
 affreight
 aplite
 alfione
-apostolic
 aplites
 amulet
 aplitic
