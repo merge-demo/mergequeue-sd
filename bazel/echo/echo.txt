@@ -9733,7 +9733,6 @@ european
 essart
 embayed
 edulcorative
-esse
 evangelizing
 elementarism
 embryol
@@ -11662,6 +11661,7 @@ ergastoplasm
 elaterite
 epileptogenic
 elephanticide
+esse
 exacter
 equianchorate
 epitaphical
