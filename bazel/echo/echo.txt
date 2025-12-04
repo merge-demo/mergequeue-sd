@@ -8035,7 +8035,6 @@ exscript
 epigonal
 enoplion
 employers
-eliminators
 emetin
 envapour
 emigating
@@ -10979,6 +10978,7 @@ euproctis
 endophasia
 excluder
 eoan
+eliminators
 emydea
 estufa
 eupsychics
