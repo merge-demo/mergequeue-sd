@@ -3505,7 +3505,6 @@ femoropopliteal
 fodderless
 fly
 fissipalmation
-flexuoseness
 feud
 fitchets
 floundering
@@ -9128,6 +9127,7 @@ fodient
 faired
 florulae
 feoffees
+flexuoseness
 flamineous
 frolicked
 fabrications
