@@ -4245,7 +4245,6 @@ astore
 ados
 acromegalia
 alexias
-anthropomorphisation
 arsenotherapy
 alright
 archaic
@@ -22899,6 +22898,7 @@ archtreasurership
 atomism
 atabek
 alligatored
+anthropomorphisation
 analgesic
 abricock
 applicabilities
