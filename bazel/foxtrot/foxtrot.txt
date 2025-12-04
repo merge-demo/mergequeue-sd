@@ -1319,7 +1319,6 @@ flyable
 factionally
 frantically
 fluxible
-fatherly
 fartherer
 feest
 features
@@ -2323,6 +2322,7 @@ fer
 firecoat
 featherstitching
 ferae
+fatherly
 fronton
 fetations
 filmable
