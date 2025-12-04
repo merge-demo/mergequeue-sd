@@ -14821,7 +14821,6 @@ anthropomorphosis
 akiyenik
 applauder
 activations
-antichreses
 antichrist
 antichristianism
 aforetime
@@ -21086,6 +21085,7 @@ auricularia
 attachedly
 amblygon
 ascogone
+antichreses
 abstinency
 antipleuritic
 adjournment

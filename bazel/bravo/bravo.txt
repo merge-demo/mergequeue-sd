@@ -8244,7 +8244,6 @@ berthage
 byestreet
 biformity
 bifront
-bavarian
 bhavani
 brainfag
 bifurcated
@@ -12432,6 +12431,7 @@ bless
 bondar
 bockerel
 bastardly
+bavarian
 bonderize
 belabored
 bloodline
