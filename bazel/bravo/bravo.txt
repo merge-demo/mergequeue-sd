@@ -902,7 +902,6 @@ bandyball
 bardiglio
 bismarine
 boscage
-bagrationite
 berryless
 bivinyl
 bedsit
@@ -4988,6 +4987,7 @@ bouchon
 bombycilla
 breakfasters
 beerpull
+bagrationite
 beers
 beest
 blowers
