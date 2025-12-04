@@ -11016,6 +11016,7 @@ brassia
 breading
 blk
 birri
+blende
 bhoosa
 bakwiri
 bromin
@@ -17111,7 +17112,6 @@ burliness
 brimfully
 bullfinches
 bullflower
-blende
 bettine
 baromotor
 bodeword

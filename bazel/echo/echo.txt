@@ -2240,7 +2240,6 @@ effluve
 endoplasma
 elector
 exhume
-elks
 encyclopedian
 encell
 epauletted
@@ -12738,6 +12737,7 @@ elderberry
 elaeodochon
 esprove
 enthelminthes
+elks
 embryography
 exceeds
 exorbitation
