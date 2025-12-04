@@ -1964,7 +1964,6 @@ fravashi
 frden
 feeds
 fern
-futurists
 forbiddal
 furile
 fishgig
@@ -10774,6 +10773,7 @@ flittermice
 films
 freehandedness
 flagstaffs
+futurists
 fth
 feuars
 footsoldiers
