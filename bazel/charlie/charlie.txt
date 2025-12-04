@@ -4386,7 +4386,6 @@ carillonneur
 cityish
 carillonning
 carillons
-carinae
 carinal
 cavum
 carinas
@@ -5789,6 +5788,7 @@ catechists
 catechization
 catechizer
 calamondin
+carinae
 cojoin
 cheveys
 callicarpa
