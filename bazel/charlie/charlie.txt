@@ -7835,7 +7835,6 @@ cesarevitch
 caramelizing
 cesarian
 cesarians
-cruisers
 calcinable
 chinned
 cesious
@@ -16858,6 +16857,7 @@ chinches
 cometoid
 cypselae
 compendiously
+cruisers
 clucky
 concussional
 connectional
