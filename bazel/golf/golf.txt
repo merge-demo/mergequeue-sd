@@ -9109,7 +9109,6 @@ gherkin
 groggy
 gentlehood
 grinch
-goldwork
 geoid
 garotte
 governableness
@@ -10462,6 +10461,7 @@ gittite
 gastronomically
 grimacing
 gladsomely
+goldwork
 gummaking
 gjetost
 gallotannic
