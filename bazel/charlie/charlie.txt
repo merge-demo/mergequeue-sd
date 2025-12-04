@@ -6480,7 +6480,6 @@ cavernlike
 cavernoma
 cavernous
 cavernously
-cavernulous
 caves
 cavetti
 calusar
@@ -14201,6 +14200,7 @@ chattation
 circumfluous
 ceratobatrachinae
 caseoses
+cavernulous
 clumplike
 ccesser
 circumforaneous
