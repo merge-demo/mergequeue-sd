@@ -3839,6 +3839,7 @@ grimsir
 giver
 goldang
 gids
+glutaminic
 gingeleys
 grandchild
 granulitize
@@ -5979,7 +5980,6 @@ garreted
 groucho
 gimmicked
 gastroplication
-glutaminic
 gimbri
 gome
 glutelins
