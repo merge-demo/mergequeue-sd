@@ -3451,6 +3451,7 @@ dimethylhydrazine
 downrightness
 dudgeon
 debasement
+dermobranchiate
 deflocculate
 deflocculating
 dermatoptera
@@ -6357,7 +6358,6 @@ drawbores
 dendrologist
 diaplasis
 dejectory
-dermobranchiate
 dangles
 diagrammatical
 dermogastric
