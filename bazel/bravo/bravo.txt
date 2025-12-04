@@ -1277,6 +1277,7 @@ bittocks
 burgomaster
 bari
 boldoine
+bepuzzlement
 brahmism
 boteroll
 bluetops
@@ -15662,7 +15663,6 @@ burr
 bedog
 beholder
 braggiest
-bepuzzlement
 babool
 badgemen
 broadling
