@@ -3367,6 +3367,7 @@ equus
 energeticalness
 eternising
 esquirearchy
+extratorrid
 enregistration
 egal
 excursioner
@@ -8534,7 +8535,6 @@ equalitarian
 equalitarianism
 essee
 evitate
-extratorrid
 expressly
 ethmoiditis
 epiphysis

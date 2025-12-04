@@ -9327,7 +9327,6 @@ felinities
 frothy
 fleawood
 fortypenny
-fecaloid
 fatuitousness
 frankalmoign
 filibustrous
@@ -11362,6 +11361,7 @@ foreassign
 fizzes
 frousier
 flayed
+fecaloid
 fluencies
 fornicated
 fremescence
