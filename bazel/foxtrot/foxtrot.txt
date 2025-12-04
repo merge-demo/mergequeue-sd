@@ -4558,6 +4558,7 @@ foliages
 flunkyism
 fissidens
 fossilify
+folky
 fisheye
 fieldstone
 fistuca
@@ -8814,7 +8815,6 @@ frakfurt
 fleeringly
 fossillike
 foozles
-folky
 fossilogy
 fload
 fashionability
