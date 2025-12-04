@@ -8996,7 +8996,6 @@ glander
 genizah
 gushers
 getable
-gigant
 glenlike
 greenbelt
 guiltier
@@ -10572,6 +10571,7 @@ grandmaster
 goustie
 gemmiest
 gatepost
+gigant
 glyphs
 guanays
 gunmaking
