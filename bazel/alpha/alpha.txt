@@ -11556,6 +11556,7 @@ approbate
 applecart
 anacampsis
 almighty
+armariolum
 archhead
 after
 anacamptics
@@ -17658,7 +17659,6 @@ adultness
 allworthy
 alphabetizes
 alisos
-armariolum
 assoilment
 aegeriidae
 asperuloside
