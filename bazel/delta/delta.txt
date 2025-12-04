@@ -864,7 +864,6 @@ defix
 dubiosity
 devoicing
 decalcification
-dowered
 disorchard
 dankishness
 discardable
@@ -11061,6 +11060,7 @@ disanalogy
 deinosauria
 dentallia
 disanalogous
+dowered
 disanchor
 deliberations
 disanimation
