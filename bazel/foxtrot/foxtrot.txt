@@ -8499,7 +8499,6 @@ fetiparous
 fishwoman
 fluid
 facsimiling
-fetlock
 formols
 fiddledeedee
 formosity
@@ -10878,6 +10877,7 @@ fulgurated
 forgathers
 freedwomen
 finished
+fetlock
 fucused
 foreteller
 fractural
