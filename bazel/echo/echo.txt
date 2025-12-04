@@ -3102,7 +3102,6 @@ eke
 elm
 embarrassment
 educing
-expiscatory
 epistolographist
 edgewise
 engrossers
@@ -4006,6 +4005,7 @@ eophytic
 empearl
 electroretinography
 each
+expiscatory
 exultancy
 esothyropexy
 effloresce
