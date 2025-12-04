@@ -4822,6 +4822,7 @@ beshrouded
 bolometer
 bedstraw
 bedstraws
+bovey
 bedstring
 boundedly
 beautiless
@@ -16656,7 +16657,6 @@ buckberry
 boily
 bebaron
 broilers
-bovey
 buckboards
 bailpiece
 bloodspiller
