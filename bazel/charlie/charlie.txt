@@ -7823,7 +7823,6 @@ cerviconasal
 cholelithotripsy
 cribrous
 crotchy
-cervicothoracic
 cervicovesical
 cervinae
 cosignatory
@@ -16933,6 +16932,7 @@ consols
 cluricaune
 clusia
 clusiaceae
+cervicothoracic
 clusterings
 clusiaceous
 chlorosilicate

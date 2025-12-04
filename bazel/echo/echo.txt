@@ -4369,7 +4369,6 @@ enamours
 episperm
 euphrasia
 ectropionized
-escadrille
 equimolar
 epotation
 eggars
@@ -13833,6 +13832,7 @@ encarditis
 embrake
 euvrou
 euplectella
+escadrille
 expos
 euthenics
 excudit
