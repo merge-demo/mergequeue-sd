@@ -2130,6 +2130,7 @@ famously
 fires
 fornical
 foliature
+forerank
 fitch
 fawnier
 fezzy
@@ -4702,7 +4703,6 @@ fumers
 flacianist
 fife
 foresey
-forerank
 faldfee
 forthink
 fablemongering
