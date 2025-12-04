@@ -3360,6 +3360,7 @@ balaenicipites
 basiphobia
 besilver
 buccheros
+brucine
 branchiopulmonate
 bassalia
 bootable
@@ -16303,7 +16304,6 @@ barely
 biolytic
 brucia
 brucin
-brucine
 brucines
 bleachman
 bruckleness
