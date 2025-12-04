@@ -17924,7 +17924,6 @@ captiving
 colpocele
 coelectron
 centrist
-ciborium
 clubwood
 circumvolving
 coelentera
@@ -25538,6 +25537,7 @@ coronis
 chese
 coronium
 cremocarp
+ciborium
 coronofrontal
 catenates
 crenelation
