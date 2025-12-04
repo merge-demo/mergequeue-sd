@@ -1073,6 +1073,7 @@ colory
 chitinocalcareous
 circumcisions
 calceolaria
+coenospecifically
 calceolate
 cowhide
 calceus
@@ -18086,7 +18087,6 @@ causing
 craneman
 coenomonoecism
 coenospecies
-coenospecifically
 chicory
 coenosteum
 cacopharyngia
