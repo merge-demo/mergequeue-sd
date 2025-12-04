@@ -7235,7 +7235,6 @@ disafforest
 desulfurised
 doomsdays
 dehiscence
-demultiplexing
 detainee
 detaining
 disinfecter
@@ -13096,6 +13095,7 @@ displicency
 diastyle
 dispensatory
 detrain
+demultiplexing
 develed
 dispensatress
 dadaisms
