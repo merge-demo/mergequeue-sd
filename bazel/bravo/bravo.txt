@@ -3355,6 +3355,7 @@ byordinary
 basophilic
 basques
 bass
+being
 brans
 bassa
 balaenicipites
@@ -15916,7 +15917,6 @@ bromphenol
 backbitten
 bathroomed
 blattering
-being
 burgh
 bromuret
 bromus
