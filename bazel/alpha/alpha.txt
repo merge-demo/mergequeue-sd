@@ -13617,6 +13617,7 @@ arborator
 acrity
 adrenaline
 adinole
+absumption
 aulostomus
 adat
 arthroempyesis
@@ -24668,7 +24669,6 @@ aventails
 axiom
 alypine
 aspirants
-absumption
 asteer
 arabized
 actinidia
