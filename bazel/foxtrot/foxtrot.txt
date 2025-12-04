@@ -2009,6 +2009,7 @@ freshens
 fieldwards
 fathomage
 fradicin
+furzes
 frogger
 forewings
 fantasticly
@@ -5927,7 +5928,6 @@ fraudlessness
 feretories
 floodlight
 forthinking
-furzes
 fearlessly
 frailly
 floodlilit
