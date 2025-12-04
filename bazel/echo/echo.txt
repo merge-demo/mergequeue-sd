@@ -4324,7 +4324,6 @@ entrenches
 esture
 elytroclasia
 expulsive
-expansibleness
 entity
 enactor
 epigrammatize
@@ -8991,6 +8990,7 @@ effected
 erysipelatous
 erraticalness
 expletively
+expansibleness
 erysipeloid
 endothoracic
 embiotocid
