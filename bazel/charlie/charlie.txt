@@ -11138,7 +11138,6 @@ chladnite
 chondrite
 churlishly
 chlamyd
-chlamydate
 chlamydobacteriaceous
 cantion
 chlamydobacteriales
@@ -28654,6 +28653,7 @@ crenated
 chalcosiderite
 crenately
 cortins
+chlamydate
 crotches
 crenation
 cellblocks
