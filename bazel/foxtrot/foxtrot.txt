@@ -480,6 +480,7 @@ foremastman
 fireflies
 foin
 faker
+fainer
 flaneries
 fohns
 formicariidae
@@ -4799,7 +4800,6 @@ fishberries
 firepower
 flinthead
 fleay
-fainer
 foil
 finlet
 fatagaga
