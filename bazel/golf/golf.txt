@@ -4805,6 +4805,7 @@ gjedost
 gastropleuritis
 gyniatrics
 grandiloquent
+gubernacula
 gravedo
 glorifies
 gibbosity
@@ -7618,7 +7619,6 @@ gigolo
 gerenda
 garpike
 gilbertite
-gubernacula
 glacialist
 gracefuller
 gallerying

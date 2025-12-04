@@ -6639,7 +6639,6 @@ flaringly
 foetation
 filt
 forewisdom
-frontad
 figurism
 foeti
 fumigatory
@@ -9411,6 +9410,7 @@ forlore
 frescoer
 fulsomeness
 fenman
+frontad
 fossate
 fausant
 filmslide
