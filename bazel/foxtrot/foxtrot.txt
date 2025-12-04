@@ -2986,6 +2986,7 @@ furiousness
 faceoff
 fossiform
 faintheartedness
+frolicsomely
 filmiform
 fiars
 fiascos
@@ -11609,7 +11610,6 @@ foresightless
 fixable
 forint
 facsimile
-frolicsomely
 fortissimi
 farci
 fibrous
