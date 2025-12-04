@@ -2813,7 +2813,6 @@ brahminism
 barothermograph
 barotrauma
 bulgurs
-behowling
 bravest
 barotraumas
 barotropic
@@ -5743,6 +5742,7 @@ bailees
 burnettize
 bewailingly
 bamboozled
+behowling
 bonos
 bretwaldaship
 bellacoola
