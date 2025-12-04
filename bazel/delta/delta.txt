@@ -7485,7 +7485,6 @@ distalia
 detruding
 disulphid
 detruncation
-damneder
 dodgery
 detrusion
 detumescence
@@ -16482,6 +16481,7 @@ dracone
 decelerator
 draconian
 douzieme
+damneder
 drumread
 draconites
 deliveryman
