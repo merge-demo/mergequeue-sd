@@ -20901,6 +20901,7 @@ cambogia
 compressed
 colluctation
 circummeridional
+cantiga
 compressibility
 compressibleness
 criminals
@@ -25975,7 +25976,6 @@ corvo
 chamade
 corvoid
 corvorant
-cantiga
 corvus
 commissars
 cosaque
