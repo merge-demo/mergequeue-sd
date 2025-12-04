@@ -6476,6 +6476,7 @@ borderings
 bilati
 beothukan
 bellicose
+bastarda
 braggartly
 basidiogenetic
 bedrocks
@@ -15066,7 +15067,6 @@ baldricks
 bankruptship
 brushmaker
 bodiment
-bastarda
 begot
 brents
 bearance
