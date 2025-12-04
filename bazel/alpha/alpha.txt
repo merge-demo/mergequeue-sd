@@ -4981,6 +4981,7 @@ abluted
 agenizes
 aeronat
 aeronaut
+apeiron
 aeronautic
 argentose
 agama
@@ -22527,7 +22528,6 @@ atar
 atrociousness
 aggros
 autodidactically
-apeiron
 affectlessness
 atatschite
 angiospermous
