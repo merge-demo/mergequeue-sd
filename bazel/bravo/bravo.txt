@@ -603,7 +603,6 @@ benomyls
 behearse
 bacterid
 baraka
-barracked
 brin
 bletherskate
 bisellia
@@ -5727,6 +5726,7 @@ blankite
 budge
 bencite
 believingly
+barracked
 brerd
 burials
 backsight
