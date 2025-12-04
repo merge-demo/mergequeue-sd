@@ -922,7 +922,6 @@ ferneries
 flyleaf
 foundry
 ft
-fasola
 fourchite
 fortunateness
 forebay
@@ -9322,6 +9321,7 @@ fishless
 facelessness
 fetichistic
 felinities
+fasola
 frothy
 fleawood
 fortypenny
