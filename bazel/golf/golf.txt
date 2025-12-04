@@ -6434,7 +6434,6 @@ grotto
 grasswidowhood
 goitrogenic
 galibi
-garbing
 glossopteris
 golaseccan
 gobiesocid
@@ -8992,6 +8991,7 @@ germinating
 galingale
 guaranteed
 gradgrindish
+garbing
 glander
 genizah
 gushers
