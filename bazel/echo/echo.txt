@@ -1293,6 +1293,7 @@ epyllia
 epicranius
 earthless
 effectiveness
+epopoean
 eesome
 escuages
 explicatively
@@ -2080,7 +2081,6 @@ enchainements
 ecphractic
 epi
 eugene
-epopoean
 earwitness
 epispermic
 emu
