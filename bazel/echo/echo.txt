@@ -2308,7 +2308,6 @@ electrization
 enterohepatitis
 excavated
 epicotyl
-errorful
 escalate
 eyras
 electroacoustic
@@ -9444,6 +9443,7 @@ enamber
 eschel
 eschele
 embroaden
+errorful
 effulging
 ecod
 ensnarement
