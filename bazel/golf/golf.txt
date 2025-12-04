@@ -211,7 +211,6 @@ goslings
 gomashta
 greyest
 gaius
-glug
 gambiers
 gentleness
 graphing
@@ -8068,6 +8067,7 @@ gasconader
 grannam
 gybes
 grandfathership
+glug
 glandularly
 gasiform
 gribane
