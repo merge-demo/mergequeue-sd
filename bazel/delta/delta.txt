@@ -2567,6 +2567,7 @@ dwined
 dorn
 disjudication
 declass
+depolarise
 dimorphs
 dweller
 declassification
@@ -5770,7 +5771,6 @@ depoetize
 deconsider
 depoh
 decd
-depolarise
 disserts
 dehumidify
 depolarization
