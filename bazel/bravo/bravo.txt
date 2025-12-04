@@ -10439,6 +10439,7 @@ bimuscular
 bugseed
 boyards
 barytostrontianite
+brachiate
 blaoner
 burinist
 belibeled
@@ -12202,7 +12203,6 @@ brimstone
 blamable
 bollock
 bema
-brachiate
 beginner
 bolloxes
 bolls
