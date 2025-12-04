@@ -2072,6 +2072,7 @@ frightened
 foredefine
 fesapo
 filletlike
+franchise
 fear
 firmers
 flavian
@@ -4386,7 +4387,6 @@ fascistic
 flavines
 fiancees
 feirie
-franchise
 fowlpox
 fleta
 fishfinger
