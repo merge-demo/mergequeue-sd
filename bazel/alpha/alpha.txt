@@ -1172,7 +1172,6 @@ allethrin
 ammoniacal
 azimuths
 advancing
-acana
 antilopine
 anemophily
 acanonical
@@ -24425,6 +24424,7 @@ accoutered
 appanaging
 auteciously
 architrave
+acana
 adstipulated
 argenter
 ampullated
