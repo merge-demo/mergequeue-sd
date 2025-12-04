@@ -10061,7 +10061,6 @@ brings
 bellpulls
 bugbanes
 backwatered
-bizygomatic
 boarhound
 bokos
 burglarious
@@ -12987,6 +12986,7 @@ bloomers
 bombazine
 balanid
 boracite
+bizygomatic
 boracous
 borage
 bueno
