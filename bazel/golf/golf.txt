@@ -5938,7 +5938,6 @@ gangliasthenia
 gemitorial
 globuliform
 gaylussacia
-gluishness
 geonyctinastic
 germy
 glumes
@@ -8990,6 +8989,7 @@ grievances
 gearbox
 germinating
 galingale
+gluishness
 guaranteed
 gradgrindish
 garbing
