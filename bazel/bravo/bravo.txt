@@ -365,6 +365,7 @@ barwares
 breaststroke
 background
 backhandedness
+bookie
 balkily
 brewery
 brachypodous
@@ -6025,7 +6026,6 @@ besaint
 blastoporic
 beautifulness
 bemoan
-bookie
 bemoaned
 bauxitic
 baccarats
