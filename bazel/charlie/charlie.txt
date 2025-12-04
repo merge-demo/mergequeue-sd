@@ -17124,6 +17124,7 @@ coadunite
 coadventure
 coadventured
 coadventuring
+channeller
 coadvice
 coaffirmation
 coafforest
@@ -31918,7 +31919,6 @@ comparators
 carbolineate
 coleopttera
 cotyledonar
-channeller
 czardas
 czarevitch
 czarevna
