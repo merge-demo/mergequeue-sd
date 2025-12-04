@@ -2007,6 +2007,7 @@ gristhorbia
 gaurie
 gaurs
 glamourous
+gyroscopic
 gaussage
 gaskings
 gageite
@@ -3387,7 +3388,6 @@ gorkun
 galbe
 gabrielrache
 glaciable
-gyroscopic
 gainor
 guttulate
 gymnoceratous
