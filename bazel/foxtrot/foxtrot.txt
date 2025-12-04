@@ -2264,7 +2264,6 @@ filator
 fraudlessly
 feuterer
 fashionless
-fundable
 foambow
 filicales
 flotation
@@ -11667,6 +11666,7 @@ fructiform
 fresne
 frwy
 fluorochrome
+fundable
 faade
 flames
 futurama
