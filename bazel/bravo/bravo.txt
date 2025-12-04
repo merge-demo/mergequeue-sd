@@ -641,7 +641,6 @@ beletter
 bronchocavernous
 bynames
 bungles
-bkpr
 boigid
 bacterized
 barefacedly
@@ -12895,6 +12894,7 @@ bungmaker
 babka
 bouffante
 bump
+bkpr
 bursectomy
 brachigerous
 byssogenous
