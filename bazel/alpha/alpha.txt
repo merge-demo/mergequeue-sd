@@ -17846,6 +17846,7 @@ abacate
 appraisive
 almique
 appreciated
+affidavit
 appreciatingly
 appreciativ
 ate
@@ -18248,7 +18249,6 @@ aptyalia
 antiprofiteering
 adherescent
 arbiters
-affidavit
 agoras
 arabians
 armor
