@@ -823,7 +823,6 @@ baftah
 battologizing
 brecciation
 baga
-benzenoid
 biniodide
 biochron
 bromodeoxyuridine
@@ -18277,6 +18276,7 @@ bolimba
 boomeranging
 burrowing
 butty
+benzenoid
 biovulate
 biosis
 buggane
