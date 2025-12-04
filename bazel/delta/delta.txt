@@ -6184,7 +6184,6 @@ drumloid
 ducatoon
 deregulatory
 dowsabels
-destructivism
 dereistic
 derelicts
 demast
@@ -15301,6 +15300,7 @@ delusional
 dialler
 diffuse
 diasporas
+destructivism
 dolphin
 dirling
 diospyros
