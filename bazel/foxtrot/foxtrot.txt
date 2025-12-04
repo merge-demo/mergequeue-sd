@@ -1794,6 +1794,7 @@ folkmots
 flak
 flaithship
 frustules
+fluxed
 fanfarade
 flyspecks
 fiddler
@@ -7790,7 +7791,6 @@ fossilizing
 forenoons
 flenched
 fibrilla
-fluxed
 fibromyomectomy
 florette
 fluidimeter
