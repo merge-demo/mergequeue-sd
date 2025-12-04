@@ -9154,7 +9154,6 @@ grammaticalness
 gazeful
 groat
 grusinian
-grenatite
 gearcase
 grooming
 gardant
@@ -10182,6 +10181,7 @@ gauloiserie
 guato
 grievous
 genres
+grenatite
 guidepost
 glossophobia
 geostrategist
