@@ -8153,6 +8153,7 @@ fairyship
 funmaker
 fingerprinted
 firepan
+foraminule
 florulent
 fruitfullest
 fluffily
@@ -8540,7 +8541,6 @@ frightment
 fanfarons
 frownful
 fornaxid
-foraminule
 fratchety
 frogtongue
 futurities
