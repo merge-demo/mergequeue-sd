@@ -6014,7 +6014,6 @@ enjail
 escaped
 emetomorphine
 ectomere
-encumbrancer
 eudromias
 equivaliant
 eudemon
@@ -9419,6 +9418,7 @@ electroretinographic
 enstool
 echeneid
 escaper
+encumbrancer
 embodied
 enfranchiser
 extent
