@@ -2401,7 +2401,6 @@ flabellifoliate
 fobbed
 festivities
 fatigate
-freemasons
 fractur
 frizzle
 fingered
@@ -6822,6 +6821,7 @@ frescoers
 format
 favoringly
 foliate
+freemasons
 facemaking
 fistiness
 floridities
