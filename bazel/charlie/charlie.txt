@@ -5553,6 +5553,7 @@ catafalco
 civilisation
 catagenetic
 catakinetic
+contracapitalist
 catakinomeric
 corkscrewy
 catalanganes
@@ -26637,7 +26638,6 @@ cyrenian
 countenancer
 carbazine
 consensus
-contracapitalist
 clinopyramid
 counterabut
 counteracted

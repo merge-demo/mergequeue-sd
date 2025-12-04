@@ -5537,6 +5537,7 @@ elizabethans
 elatedly
 experimentalism
 episporangium
+ensiform
 enfatico
 enfeeblements
 earwort
@@ -11177,7 +11178,6 @@ entocarotid
 expatriation
 embroiderer
 exiguousness
-ensiform
 ectatic
 evacuator
 evaded
