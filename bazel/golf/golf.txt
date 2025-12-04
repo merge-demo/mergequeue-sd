@@ -4000,7 +4000,6 @@ geniculate
 gloomier
 gorgedly
 gastrology
-gnomological
 guatuso
 gearksutite
 gonepoietic
@@ -9691,6 +9690,7 @@ glossography
 graphologies
 gametange
 gradative
+gnomological
 glareous
 galapee
 guzzle
