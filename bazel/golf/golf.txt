@@ -1187,7 +1187,6 @@ groatsworth
 glyptographer
 gasthaus
 gamolepis
-guidingly
 gaslights
 glouts
 gaon
@@ -3003,6 +3002,7 @@ gelly
 galvanocauteries
 gentlefolk
 goodnesses
+guidingly
 gambusia
 guatambu
 greasiness
