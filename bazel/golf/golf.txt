@@ -502,6 +502,7 @@ grama
 gullably
 ghostism
 geminations
+gangman
 gnomes
 gurrah
 gluconokinase
@@ -7541,7 +7542,6 @@ gorbellies
 gymnast
 governmental
 garageman
-gangman
 goldsmithing
 gunyah
 geodesies
