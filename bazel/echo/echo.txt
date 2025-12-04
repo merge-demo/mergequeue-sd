@@ -282,7 +282,6 @@ easterners
 eatability
 excamb
 erythrocytorrhexis
-emir
 enwwoven
 essoin
 epanaleptic
@@ -7856,6 +7855,7 @@ excardination
 encrinoid
 extirpationist
 essentialized
+emir
 euconjugatae
 epigonium
 euraquilo
