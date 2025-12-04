@@ -1489,6 +1489,7 @@ giddiness
 gaselier
 golet
 gastrophilus
+gravery
 gastric
 gisarme
 growly
@@ -10261,7 +10262,6 @@ gomontia
 geechee
 gonophore
 glacier
-gravery
 gustiness
 galvanometry
 galvanoplastically
