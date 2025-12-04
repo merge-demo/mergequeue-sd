@@ -6269,6 +6269,7 @@ enplane
 electromotor
 ecorticate
 enplaned
+englishry
 embryonary
 enamine
 ethnogeographical
@@ -7063,7 +7064,6 @@ excorticated
 ephods
 enheritance
 exclamation
-englishry
 engilded
 evangely
 evidencive
