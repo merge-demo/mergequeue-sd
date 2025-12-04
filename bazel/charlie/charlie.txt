@@ -6341,7 +6341,6 @@ crimison
 causeuses
 cannellated
 causewaying
-clubfeet
 causidical
 causon
 counterassurance
@@ -7940,6 +7939,7 @@ catheter
 cetraric
 celeriacs
 cetrarin
+clubfeet
 coenoecial
 cacotrichia
 cetus
