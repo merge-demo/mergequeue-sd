@@ -2899,7 +2899,6 @@ aureocasidium
 availableness
 acropore
 antialbumose
-augustest
 areographically
 acrosomes
 autolimnetic
@@ -11271,6 +11270,7 @@ amphimixes
 adamant
 acalycinous
 aloofly
+augustest
 aerified
 amphisarca
 aqua
