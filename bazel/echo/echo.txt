@@ -4288,7 +4288,6 @@ emulsoids
 enteropathogenic
 elohim
 enlay
-enamellers
 epicenes
 escarpments
 ectogenous
@@ -7384,6 +7383,7 @@ enunciate
 ecclesiastically
 embowerment
 ephesian
+enamellers
 ersatzes
 execrableness
 euclases
