@@ -6834,7 +6834,6 @@ foliose
 flachery
 flittingly
 foliot
-floribunda
 fasces
 forthby
 ferritungstite
@@ -8651,6 +8650,7 @@ fanlike
 freelance
 funariaceous
 flexuous
+floribunda
 fistuliform
 floured
 ferroprint
