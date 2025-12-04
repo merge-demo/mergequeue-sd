@@ -5587,7 +5587,6 @@ georgical
 gadus
 goffle
 gephyrophobia
-glycerizine
 grandames
 gconvert
 guars
@@ -7038,6 +7037,7 @@ golgothas
 goops
 gladioli
 gentil
+glycerizine
 gumshoes
 glazier
 glamorizes
