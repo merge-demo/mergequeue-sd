@@ -6154,6 +6154,7 @@ diphtheroid
 derater
 dijudicant
 disilane
+docmac
 duperies
 diabantite
 deservedness
@@ -14797,7 +14798,6 @@ disciferous
 desmectasia
 dennet
 demonologist
-docmac
 docoglossan
 disulphoxid
 detests

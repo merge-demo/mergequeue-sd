@@ -6195,6 +6195,7 @@ frugalist
 fluctuational
 forficula
 factioneer
+fevers
 fluegelhorn
 foalfoot
 fairgrounds
@@ -11584,7 +11585,6 @@ floscular
 fissional
 foregallery
 fussbudgety
-fevers
 filtrates
 fussers
 faradic
