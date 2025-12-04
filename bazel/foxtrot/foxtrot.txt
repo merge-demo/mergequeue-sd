@@ -6387,7 +6387,6 @@ flathead
 furanoside
 floatmaker
 fireworm
-fatiguabilities
 fossae
 fluoride
 fibromyositis
@@ -7444,6 +7443,7 @@ filer
 factures
 furciferous
 fordableness
+fatiguabilities
 fathership
 featless
 fawning
