@@ -5360,7 +5360,6 @@ fosterhood
 fivefoldness
 flecky
 fosterite
-farinaceous
 furole
 forecounsel
 flyswat
@@ -11382,6 +11381,7 @@ flashlamp
 furnariides
 flect
 facies
+farinaceous
 furnish
 fluorindine
 furnishable
