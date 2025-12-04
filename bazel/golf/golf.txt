@@ -7925,7 +7925,6 @@ gliriform
 gooseberries
 grandad
 goggling
-gladded
 gallantly
 grandads
 goracco
@@ -7985,6 +7984,7 @@ guanosine
 granada
 glazy
 gables
+gladded
 grandmotherly
 groutnoll
 glistens
