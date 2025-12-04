@@ -7231,7 +7231,6 @@ bagginess
 bestiary
 backdating
 byelorussia
-blastomeric
 bur
 bestiarian
 bestiarist
@@ -9444,6 +9443,7 @@ blastematic
 bignonias
 boldine
 batonga
+blastomeric
 botonee
 birl
 blockishly
