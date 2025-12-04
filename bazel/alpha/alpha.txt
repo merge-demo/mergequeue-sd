@@ -5309,7 +5309,6 @@ astipulate
 astrid
 americanoid
 affixation
-amortization
 affixed
 apophantic
 androsin
@@ -24359,6 +24358,7 @@ autorhythmus
 autophagi
 accurately
 aneurysmatic
+amortization
 aulical
 authorly
 amaroidal
