@@ -1533,7 +1533,6 @@ fauteuil
 fussy
 foreteach
 farrow
-forepayment
 frundel
 festival
 fauvette
@@ -8754,6 +8753,7 @@ frugality
 floroon
 fashionative
 forage
+forepayment
 fumbler
 forhooie
 face
