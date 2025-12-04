@@ -951,7 +951,6 @@ gannets
 gammock
 grouched
 gillnetted
-galactically
 gainsaid
 galumptious
 garrottes
@@ -2357,6 +2356,7 @@ gymnocerata
 gadinic
 glassy
 greengrocer
+galactically
 gutturalisation
 grubbiness
 gainturn

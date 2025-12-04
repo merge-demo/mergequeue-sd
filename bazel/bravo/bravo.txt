@@ -9803,6 +9803,7 @@ bytalks
 bitanhol
 bitartrate
 beneplacito
+burmannia
 bandonion
 biteable
 begin
@@ -11757,7 +11758,6 @@ becoom
 benevolentness
 biopyribole
 besmoothed
-burmannia
 barnful
 br
 bluisness
