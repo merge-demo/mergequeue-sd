@@ -11041,6 +11041,7 @@ elderwomen
 enrollments
 emissile
 episcopacies
+explement
 eliminator
 eliminating
 eurythmics
@@ -13241,7 +13242,6 @@ ety
 endemical
 ethize
 engram
-explement
 envine
 edacity
 endocranium
