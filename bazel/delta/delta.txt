@@ -6190,6 +6190,7 @@ demast
 droshkies
 dolours
 decrepitness
+driveways
 derestrict
 disputations
 derf
@@ -7898,7 +7899,6 @@ dewberries
 dewcap
 disbudder
 devocalised
-driveways
 dewclaws
 diaphonia
 dites
