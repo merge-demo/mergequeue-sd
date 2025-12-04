@@ -3124,6 +3124,7 @@ fibromyoma
 forehill
 fakir
 funduline
+feretrum
 forbearing
 fibromyotomy
 feuding
@@ -10761,7 +10762,6 @@ fustic
 fervent
 fatalism
 frightful
-feretrum
 fashious
 fascisticize
 finials
