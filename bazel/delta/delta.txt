@@ -7015,7 +7015,6 @@ disray
 despiteously
 despites
 decease
-diogenite
 dithionite
 douter
 diets
@@ -15360,6 +15359,7 @@ doment
 devicefully
 dicerous
 domestically
+diogenite
 doddle
 domesticating
 deflowerment
