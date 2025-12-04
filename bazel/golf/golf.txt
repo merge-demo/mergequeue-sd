@@ -6174,7 +6174,6 @@ gadsbud
 gauche
 grihastha
 genovino
-gazetteers
 groveling
 geminiform
 goal
@@ -9407,6 +9406,7 @@ grizzled
 genocide
 genesis
 grothine
+gazetteers
 greenleaf
 grothite
 glumiflorae
