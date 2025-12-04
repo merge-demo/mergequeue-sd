@@ -1562,7 +1562,6 @@ calliphorine
 callipygous
 callippic
 callirrhoe
-callisaurus
 callisteia
 callistephus
 callisthenic
@@ -7264,6 +7263,7 @@ countertenor
 carbonados
 century
 coda
+callisaurus
 centurial
 concerto
 covenably
