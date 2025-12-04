@@ -4992,7 +4992,6 @@ deradenitis
 demote
 demoted
 demotes
-disomus
 demotions
 deferent
 dysmeromorph
@@ -16100,6 +16099,7 @@ dropline
 doughtier
 dockside
 designfulness
+disomus
 deipnosophistic
 doughtiest
 doughtily
