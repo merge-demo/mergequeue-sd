@@ -4265,7 +4265,6 @@ epityphlon
 experiment
 endometrium
 electrodispersive
-evertile
 exclusivism
 eptatretus
 emulsion
@@ -7281,6 +7280,7 @@ echeneidid
 effigial
 eosinic
 ergatogynous
+evertile
 eclats
 endothorax
 eosinoblast

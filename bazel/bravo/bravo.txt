@@ -11386,7 +11386,6 @@ bibio
 bluecoated
 becquerelite
 borable
-berettas
 bowlderhead
 berycoidei
 bluecurls
@@ -11522,6 +11521,7 @@ blameworthiness
 boswellism
 buckaroos
 blunket
+berettas
 blunnen
 blunt
 befuddlements
