@@ -5963,7 +5963,6 @@ floricultural
 faitour
 floorboard
 flashness
-fluidizing
 folkways
 foreplays
 fawny
@@ -7291,6 +7290,7 @@ foaminess
 ferromolybdenum
 fixation
 foraying
+fluidizing
 frognose
 foralite
 foram
