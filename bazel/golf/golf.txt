@@ -8048,7 +8048,6 @@ gearman
 gleeking
 glassier
 gratae
-granite
 gypsydoms
 guttulae
 geminiflorous
@@ -10709,6 +10708,7 @@ gobbler
 gonadectomies
 gucked
 garbanzo
+granite
 grided
 gu
 grams
