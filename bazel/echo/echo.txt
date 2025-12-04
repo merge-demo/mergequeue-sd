@@ -7944,7 +7944,6 @@ enframes
 ecclesiography
 ensiferi
 entreater
-epizootiology
 epinikion
 epilogical
 entomophaga
@@ -11119,6 +11118,7 @@ espies
 esquiredom
 encage
 entune
+epizootiology
 emulated
 emblemish
 eutaenia
