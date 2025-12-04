@@ -4544,7 +4544,6 @@ encephalomyocarditis
 emancipate
 enactive
 emerita
-ephorate
 expatriated
 encephalopathia
 encephalophyma
@@ -6477,6 +6476,7 @@ encheck
 exercisable
 ensorcellment
 ensorrow
+ephorate
 encumberment
 ectodactylism
 endometriosis
