@@ -12341,7 +12341,6 @@ chromatin
 caucasoids
 chromatype
 chromatist
-carpentry
 chemotic
 coracohyoid
 cholent
@@ -21050,6 +21049,7 @@ comradeliness
 comradeship
 caulked
 chargfaires
+carpentry
 coms
 comsat
 clostridial
