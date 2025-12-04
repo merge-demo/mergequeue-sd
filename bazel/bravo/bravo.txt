@@ -2674,7 +2674,6 @@ boraxes
 beakhead
 burnouses
 bewaitered
-barnard
 benightment
 barnbrack
 betweenbrain
@@ -5067,6 +5066,7 @@ beferned
 befetished
 bandoline
 bilingual
+barnard
 balefire
 biocatalyst
 basenet
