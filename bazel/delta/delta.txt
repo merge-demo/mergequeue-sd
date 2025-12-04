@@ -3782,6 +3782,7 @@ dreadful
 dytiscidae
 doubleword
 dehorner
+dagoes
 diplography
 dehorners
 desiredness
@@ -12029,7 +12030,6 @@ decimus
 domicella
 distichous
 disendow
-dagoes
 disbalancement
 demideity
 desmodus
