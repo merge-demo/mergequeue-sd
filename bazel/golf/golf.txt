@@ -7624,6 +7624,7 @@ gallerying
 gracilariidae
 gravispheric
 gyn
+gitksan
 graphic
 giovanni
 gracilis
@@ -9433,7 +9434,6 @@ groupies
 ghastfully
 grouchiness
 geminally
-gitksan
 goldtit
 garbline
 glorify
