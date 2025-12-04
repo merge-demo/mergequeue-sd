@@ -2141,6 +2141,7 @@ gazebo
 gazeboes
 guestship
 genderless
+giants
 gen
 glumiferous
 galla
@@ -3753,7 +3754,6 @@ goggle
 greenfinch
 grumpishness
 greycoat
-giants
 gratifyingly
 glossology
 gentian
