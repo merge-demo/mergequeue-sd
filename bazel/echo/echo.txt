@@ -801,7 +801,6 @@ enter
 euplotid
 existability
 extravisceral
-evincibly
 eggment
 electrophotography
 ectasis
@@ -1343,6 +1342,7 @@ elemin
 explosives
 eelspear
 effeminising
+evincibly
 effeminize
 effeminizing
 exhibitionize
