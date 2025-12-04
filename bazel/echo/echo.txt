@@ -3800,7 +3800,6 @@ emend
 exscribe
 epistolizing
 eglandulose
-electroplax
 emendandum
 extracolumella
 endodontically
@@ -11480,6 +11479,7 @@ evictions
 explanatory
 emboldens
 eleocharis
+electroplax
 evictor
 evidence
 earned
