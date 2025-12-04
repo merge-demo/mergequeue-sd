@@ -2513,6 +2513,7 @@ geyan
 gastroalbuminorrhea
 gubbin
 gigacycle
+goniopholidae
 garlanding
 gittith
 genderer
@@ -8907,7 +8908,6 @@ glauconitic
 ghostified
 griquaite
 glomerella
-goniopholidae
 gentman
 gobang
 grete
