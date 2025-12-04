@@ -9439,6 +9439,7 @@ characterisation
 cheater
 cheatery
 campulitropous
+centerboards
 copyrights
 cussword
 cheatry
@@ -12719,7 +12720,6 @@ cajava
 complices
 chukchi
 chukka
-centerboards
 chukkar
 chukker
 chulha
