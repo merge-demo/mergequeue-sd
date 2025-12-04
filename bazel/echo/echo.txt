@@ -224,7 +224,6 @@ esophagal
 earwigginess
 exsiccation
 emmetrope
-environs
 enhaulse
 exceptively
 earwigs
@@ -10832,6 +10831,7 @@ exochorda
 exsibilate
 echinid
 extrusive
+environs
 enthralling
 extracultural
 eupatorium

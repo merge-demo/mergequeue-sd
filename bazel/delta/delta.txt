@@ -6450,7 +6450,6 @@ derrises
 duce
 deruinate
 derust
-decameronic
 dispathy
 dervishism
 des
@@ -12344,6 +12343,7 @@ dionaeaceae
 decametre
 daff
 dracontites
+decameronic
 disemployed
 dinos
 dragonne
