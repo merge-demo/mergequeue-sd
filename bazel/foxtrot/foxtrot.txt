@@ -2436,6 +2436,7 @@ firn
 fumbulator
 firstcomer
 fireproofing
+filosofe
 fishhood
 futility
 footscraper
@@ -9668,7 +9669,6 @@ femoral
 fingerroot
 functorial
 filch
-filosofe
 fanit
 flied
 femes
