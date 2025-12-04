@@ -3295,7 +3295,6 @@ flasket
 foreconscious
 facewise
 ferrohydrocyanic
-fossilologist
 folklorist
 featherlessness
 frustrates
@@ -5439,6 +5438,7 @@ fluozirconic
 fernbrake
 ferreter
 flora
+fossilologist
 funniness
 frequentness
 flensed
