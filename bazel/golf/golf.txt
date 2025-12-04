@@ -1757,7 +1757,6 @@ geogonical
 gastronosus
 gammon
 glibber
-gave
 gloeal
 glessite
 goric
@@ -7031,6 +7030,7 @@ gapes
 glad
 gossipry
 garrat
+gave
 graviers
 gladdener
 gasthauses
