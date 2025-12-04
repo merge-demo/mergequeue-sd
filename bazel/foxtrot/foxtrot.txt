@@ -9947,6 +9947,7 @@ forthfigured
 facias
 fragment
 formularizer
+flustrine
 forcers
 frigolabile
 fadlike
@@ -11352,7 +11353,6 @@ fiddleys
 firebombing
 furloughed
 ferlied
-flustrine
 fuchsin
 forfended
 furmenty

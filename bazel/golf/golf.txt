@@ -67,6 +67,7 @@ greffe
 gorcrow
 gloiosiphonia
 gandum
+gimballing
 graftproof
 galliums
 giddap
@@ -8787,7 +8788,6 @@ giantesses
 greensickness
 gleamier
 greenstone
-gimballing
 gange
 golems
 greenswarded
