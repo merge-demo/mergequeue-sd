@@ -2009,6 +2009,7 @@ fieldwards
 fathomage
 fradicin
 frogger
+forewings
 fantasticly
 faineant
 feigners
@@ -8171,7 +8172,6 @@ flourishable
 furores
 flockbed
 foghorn
-forewings
 flossed
 frenate
 furtherances
