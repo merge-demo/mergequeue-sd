@@ -7458,7 +7458,6 @@ endogenously
 extraperiodic
 extracurricular
 exercise
-eskimoes
 elohimic
 enfile
 ecchondrotome
@@ -7693,6 +7692,7 @@ extroversion
 epicuticular
 entomotomist
 exacta
+eskimoes
 eustele
 embrued
 enukki
