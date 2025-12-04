@@ -1268,7 +1268,6 @@ grassman
 garbill
 guyline
 goosebone
-ganomalite
 garbler
 gradings
 greasers
@@ -8047,6 +8046,7 @@ gastrulas
 gunzian
 gearman
 gleeking
+ganomalite
 glassier
 gratae
 gypsydoms
