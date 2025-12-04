@@ -3099,7 +3099,6 @@ finnick
 fibroenchondroma
 faring
 forefence
-fulminancy
 fibroferrite
 fundic
 firewarden
@@ -7492,6 +7491,7 @@ flaser
 forsakers
 flentes
 fleshbrush
+fulminancy
 frivoler
 foreboom
 foredooms
