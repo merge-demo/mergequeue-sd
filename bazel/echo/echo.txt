@@ -10045,7 +10045,6 @@ elegious
 eternish
 elod
 editresses
-energetical
 epitaphial
 esculetin
 evolutions
@@ -11113,6 +11112,7 @@ evans
 expiate
 eusthenopteron
 expediment
+energetical
 electros
 espies
 esquiredom
