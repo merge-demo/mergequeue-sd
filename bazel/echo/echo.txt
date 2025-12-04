@@ -1816,6 +1816,7 @@ ergatogyny
 ectepicondylar
 elbow
 exopodite
+epiopticon
 eigenvalues
 eudemony
 evaginated
@@ -4798,7 +4799,6 @@ emprent
 erethic
 eguttulate
 enterotomy
-epiopticon
 excusatory
 endocarpic
 encode
