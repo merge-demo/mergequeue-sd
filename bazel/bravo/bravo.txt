@@ -3514,6 +3514,7 @@ batfowl
 boiled
 batfowled
 bassists
+baccae
 batfowls
 bestore
 bulbocavernosus
@@ -13503,7 +13504,6 @@ bouch
 blacksmith
 boucharde
 belime
-baccae
 barometrography
 blundered
 bielid
