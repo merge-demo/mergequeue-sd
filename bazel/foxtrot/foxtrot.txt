@@ -249,7 +249,6 @@ furmint
 fibrillous
 floozy
 freeload
-forspend
 fidgets
 fluviation
 forwhy
@@ -5727,6 +5726,7 @@ filliping
 forelive
 footlessness
 flyswatter
+forspend
 filipiniana
 figmental
 forpass

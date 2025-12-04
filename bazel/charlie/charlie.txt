@@ -141,6 +141,7 @@ cable
 cablecast
 cardiolith
 catholici
+chording
 crudes
 cabled
 cablegram
@@ -11869,7 +11870,6 @@ chordee
 choriso
 cst
 contradictive
-chording
 chorditis
 circumferentor
 cecidomyian
