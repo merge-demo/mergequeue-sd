@@ -3744,7 +3744,6 @@ goonie
 geometdecrne
 gnomide
 getatable
-ginnery
 goldfield
 generator
 gropingly
@@ -9088,6 +9087,7 @@ gerent
 grimmiaceae
 ganglionectomies
 girthline
+ginnery
 glutination
 goadster
 gyres

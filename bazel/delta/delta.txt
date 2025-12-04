@@ -1990,6 +1990,7 @@ dau
 downcastly
 dragbar
 dupondidii
+dhooley
 disvalue
 dopant
 discostate
@@ -10875,7 +10876,6 @@ dirgeman
 debts
 dirgy
 doggedly
-dhooley
 dirian
 dirichletian
 diencephalon
