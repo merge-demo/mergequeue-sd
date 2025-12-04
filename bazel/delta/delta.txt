@@ -6078,7 +6078,6 @@ divorces
 devoteeism
 deucalion
 dispends
-duplicident
 drumlike
 deputed
 demanding
@@ -9627,6 +9626,7 @@ diddering
 druse
 diguanide
 dihalide
+duplicident
 derives
 deil
 deadline
