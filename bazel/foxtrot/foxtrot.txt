@@ -4736,6 +4736,7 @@ feif
 filipino
 flamboyance
 faikes
+fant
 falsifiability
 flowe
 fashionize
@@ -5294,7 +5295,6 @@ fumarole
 feasts
 fellowless
 filial
-fant
 firelocks
 forcepslike
 foulmouthedly
