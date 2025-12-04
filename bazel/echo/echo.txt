@@ -2087,7 +2087,6 @@ epispermic
 emu
 endamoebae
 eldfather
-eggberry
 ethmoturbinal
 extrovertedness
 extirpateo
@@ -5591,6 +5590,7 @@ eugenists
 enfants
 evulsion
 enfiled
+eggberry
 expediences
 evangel
 extratympanic
