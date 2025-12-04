@@ -1705,7 +1705,6 @@ gamed
 gommier
 grusian
 garlanded
-gibson
 gros
 gastroenteritis
 glycerolysis
@@ -5250,6 +5249,7 @@ gluttoness
 gaywing
 garnisheed
 gleeks
+gibson
 glycemic
 groundline
 garrulousness
