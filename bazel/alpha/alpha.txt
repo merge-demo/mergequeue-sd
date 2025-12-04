@@ -16396,7 +16396,6 @@ antlophobia
 antocular
 agitationist
 aurelius
-antodontalgic
 aberrated
 antoeci
 antoecian
@@ -18808,6 +18807,7 @@ allheals
 assurgent
 abumbrellar
 artfully
+antodontalgic
 antideflation
 archeries
 acoustically
