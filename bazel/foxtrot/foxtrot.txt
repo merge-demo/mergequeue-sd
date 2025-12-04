@@ -5393,7 +5393,6 @@ fabian
 feasten
 forefigure
 furor
-flurt
 fault
 firstfruits
 finnip
@@ -10439,6 +10438,7 @@ fwd
 fisted
 flche
 frontstall
+flurt
 forstall
 frizes
 fellah
