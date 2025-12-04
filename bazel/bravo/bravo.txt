@@ -7706,6 +7706,7 @@ brachydactylous
 bumblebee
 bereareft
 backfilling
+bane
 bezzo
 belemnites
 bromonaphthalene
@@ -12645,7 +12646,6 @@ boodled
 braccia
 bestowable
 boogeymen
-bane
 bellical
 buhrs
 bec
