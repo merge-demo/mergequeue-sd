@@ -9941,7 +9941,6 @@ flatlanders
 flanche
 frantic
 frigiddaria
-favor
 frigidly
 foundation
 forthfigured
@@ -11400,6 +11399,7 @@ feater
 forksmith
 forestership
 flumdiddle
+favor
 forcemeat
 fisticuffing
 flatterous
