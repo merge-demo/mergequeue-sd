@@ -584,7 +584,6 @@ electrostatically
 excommunicates
 electromeric
 elocutionize
-egomanias
 electrodynamics
 endophyllaceae
 estancia
@@ -8735,6 +8734,7 @@ explodable
 equities
 equivalenced
 equivalent
+egomanias
 ensiles
 ejections
 equivaluer
