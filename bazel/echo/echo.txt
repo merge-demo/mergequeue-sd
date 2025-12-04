@@ -2600,6 +2600,7 @@ eunectes
 electrocutioner
 ebulus
 exportability
+eluded
 etherical
 ecphova
 expurgative
@@ -2788,7 +2789,6 @@ elementaloid
 emperil
 essang
 encoronate
-eluded
 embelic
 evasive
 exclamations
