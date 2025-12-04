@@ -15669,7 +15669,6 @@ clavy
 clavicembalist
 clavicembalo
 claviceps
-caiarara
 cartage
 clavichord
 caulopteris
@@ -23337,6 +23336,7 @@ computation
 cuculi
 cumulating
 colibert
+caiarara
 cleistothecium
 contagions
 contagiosity
