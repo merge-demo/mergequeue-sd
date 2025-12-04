@@ -589,6 +589,7 @@ globelet
 gowan
 gladding
 gallicizer
+grover
 galliform
 gomphrena
 gabfest
@@ -2768,7 +2769,6 @@ gastroid
 glanditerous
 gramophonist
 gonangia
-grover
 glaister
 girling
 genteelize
