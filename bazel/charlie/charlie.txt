@@ -7340,6 +7340,7 @@ cephalochordata
 cephaloclast
 camanchaca
 cephalocone
+canulate
 cephalodia
 cephalodymus
 cephalodiscid
@@ -23711,7 +23712,6 @@ coyote
 crimped
 contraplete
 cataphoretically
-canulate
 cherogril
 carbonometry
 contraplex
