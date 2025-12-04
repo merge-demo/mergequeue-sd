@@ -8020,7 +8020,6 @@ bitemporal
 beedged
 byname
 bick
-bacteriology
 bicycler
 bluebooks
 bisiliac
@@ -8499,6 +8498,7 @@ balsameaceae
 backtrick
 beaches
 bemusk
+bacteriology
 barkle
 bannerer
 bilingually
