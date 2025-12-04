@@ -2328,7 +2328,6 @@ gerastian
 ge
 gagsters
 gravitation
-gingival
 guige
 gerocomy
 gerard
@@ -9651,6 +9650,7 @@ grozer
 grintern
 garse
 glochidian
+gingival
 gin
 griffinish
 griddling
