@@ -14516,7 +14516,6 @@ anthropometry
 anuloma
 anthropometric
 acrocarpi
-allan
 anthropometrist
 anthropomophitism
 antiphrastic
@@ -16319,6 +16318,7 @@ antitropy
 asonia
 arculite
 afros
+allan
 adfroze
 antitruster
 antituberculosis
