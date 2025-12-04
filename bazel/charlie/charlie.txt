@@ -20850,7 +20850,6 @@ composts
 cotemporaneous
 compot
 compotationship
-comedies
 cyclar
 compotes
 compotiers
@@ -25864,6 +25863,7 @@ crippled
 corse
 chemoautotrophically
 contradicting
+comedies
 cornish
 cakewalk
 corseleting
