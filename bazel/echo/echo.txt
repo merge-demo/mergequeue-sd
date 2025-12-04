@@ -397,7 +397,6 @@ emeries
 egoists
 ectoproctan
 eriphyle
-equivocator
 emotiveness
 ebonized
 enfolden
@@ -12795,6 +12794,7 @@ epeiridae
 enthusiastical
 eurycerotidae
 epomophorus
+equivocator
 exines
 extensional
 exarchist
