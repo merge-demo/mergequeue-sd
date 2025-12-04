@@ -818,7 +818,6 @@ completes
 cytophagy
 cayenned
 contouring
-cerberus
 corban
 cailcedra
 counterrestoration
@@ -1334,6 +1333,7 @@ carious
 cryptogrammatist
 chaucer
 calycate
+cerberus
 calyceraceae
 cardioparplasis
 calices
