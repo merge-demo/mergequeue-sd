@@ -10581,7 +10581,6 @@ braless
 bister
 brined
 bransle
-blatting
 blattodea
 blattoid
 brinny
@@ -18188,6 +18187,7 @@ buttonlike
 butolism
 beltway
 bibliokleptomaniac
+blatting
 butoxy
 bodyguards
 bulks
