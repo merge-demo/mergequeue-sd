@@ -6422,6 +6422,7 @@ ensiling
 ensilist
 exceptions
 ensilver
+encephalometer
 ensisternum
 equilibrating
 eye
@@ -6470,7 +6471,6 @@ embroideries
 elvira
 ensober
 ensorceled
-encephalometer
 earfuls
 encheck
 exercisable
