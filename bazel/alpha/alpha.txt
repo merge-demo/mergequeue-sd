@@ -7870,7 +7870,6 @@ arrentable
 alectryomancy
 anaptotic
 alectrion
-aerotow
 animoseness
 antinihilism
 anthotropism
@@ -12704,6 +12703,7 @@ akhmimic
 antimedicative
 agnamed
 anelectric
+aerotow
 antarchistical
 allograft
 angeluses
