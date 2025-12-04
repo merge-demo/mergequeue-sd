@@ -7080,7 +7080,6 @@ filipinization
 flagger
 footstick
 fickler
-fractionator
 fripper
 flaker
 fiddleback
@@ -9820,6 +9819,7 @@ fortescue
 fordicidia
 fissileness
 fruitage
+fractionator
 faden
 fribbler
 friskle
