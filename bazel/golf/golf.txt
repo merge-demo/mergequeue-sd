@@ -2418,7 +2418,6 @@ gloppy
 grow
 guianese
 groomed
-gruesomer
 gleemaiden
 gyrencephalous
 giddily
@@ -4441,6 +4440,7 @@ goosishness
 garruline
 gascoyne
 gynogenesis
+gruesomer
 glidingly
 gonosomal
 gymnasiarchy
