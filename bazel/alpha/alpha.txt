@@ -6258,7 +6258,6 @@ achoo
 antiracing
 agorot
 abearance
-agos
 afteryears
 anteprostatic
 analogion
@@ -16924,6 +16923,7 @@ apyonin
 apiosoma
 apyrases
 apyrexial
+agos
 apyrotype
 anteverts
 approbator
