@@ -11578,6 +11578,7 @@ fruitlike
 foretalking
 fthm
 fusionist
+faradic
 fusions
 freity
 floscular
@@ -11586,7 +11587,6 @@ foregallery
 fussbudgety
 filtrates
 fussers
-faradic
 fargite
 fussing
 fideicommissary

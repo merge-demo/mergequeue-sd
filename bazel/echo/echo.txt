@@ -5585,7 +5585,6 @@ evocators
 eugenists
 enfants
 evulsion
-enfiled
 eggberry
 expediences
 evangel
@@ -10931,6 +10930,7 @@ epipteric
 eulogies
 echinops
 euphuize
+enfiled
 eupyrion
 eupittone
 enteritis
