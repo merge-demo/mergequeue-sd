@@ -2587,7 +2587,6 @@ assist
 acoustoelectric
 acpt
 acridinic
-acquaint
 acquaintanceship
 acidophilus
 acquisible
@@ -14795,6 +14794,7 @@ archgomeral
 arthrocele
 anticeremoniously
 anticeremoniousness
+acquaint
 aristocratic
 antichamber
 allogenically
