@@ -1114,6 +1114,7 @@ coherently
 candareen
 cytherea
 cheeser
+cheetah
 calciner
 chomer
 clamworm
@@ -12557,7 +12558,6 @@ chronogram
 celestially
 chronogrammatic
 chronogrammatically
-cheetah
 cenospecifically
 chronogrammic
 chronograph
