@@ -2303,6 +2303,7 @@ chargeship
 commonwealth
 cytopahgous
 canakin
+cantinas
 canakins
 canal
 clerks
@@ -18214,7 +18215,6 @@ cohosting
 concessionary
 chartings
 coffeegrower
-cantinas
 carbonari
 coffeegrowing
 cladothrix
