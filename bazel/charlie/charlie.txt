@@ -4459,7 +4459,6 @@ carked
 corallic
 canarin
 carl
-coprincipate
 caseates
 cert
 carli
@@ -27504,6 +27503,7 @@ coadunate
 courtzilite
 coved
 clavately
+coprincipate
 covey
 coveys
 covelline

@@ -5335,7 +5335,6 @@ bor
 begloze
 busti
 brokenly
-baidar
 breviers
 beglue
 beerage
@@ -10617,6 +10616,7 @@ blazonment
 bouquet
 bladders
 bowllike
+baidar
 beyliks
 bleach
 branchiosaurus
