@@ -8338,7 +8338,6 @@ chalmer
 caseate
 chalon
 clonuses
-challenges
 cohered
 chalons
 coronograph
@@ -28168,6 +28167,7 @@ cranking
 crankle
 crankless
 contiguities
+challenges
 crink
 cromfordite
 crankling
