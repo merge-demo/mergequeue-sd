@@ -2193,7 +2193,6 @@ gastrotrichan
 goosegirl
 guacos
 galea
-goniostat
 goldfinches
 glistening
 gebbie
@@ -5256,6 +5255,7 @@ gleety
 glottidean
 guineaman
 glottiscope
+goniostat
 gastriloquist
 gibbals
 gourding
