@@ -6412,6 +6412,7 @@ farmed
 facsimileing
 fluorimetric
 flashers
+flamberge
 fluorobenzene
 fructifies
 foreship
@@ -11175,7 +11176,6 @@ frampler
 fridila
 fraughted
 fibronuclear
-flamberge
 farm
 forktail
 fundungi
