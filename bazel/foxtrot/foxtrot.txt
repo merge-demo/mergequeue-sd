@@ -10151,7 +10151,6 @@ frizzante
 fishyback
 finch
 fantad
-fragmentise
 fractionalism
 forebears
 fluttered
@@ -11051,6 +11050,7 @@ fangless
 flycatcher
 frictionizing
 funambulatory
+fragmentise
 fondaco
 fedia
 flamenship
