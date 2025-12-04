@@ -1264,7 +1264,6 @@ gravures
 grogged
 galactostasis
 gonglike
-gooroo
 grassman
 garbill
 guyline
@@ -2979,6 +2978,7 @@ graben
 glutinousness
 geyseric
 gastrotheca
+gooroo
 glitterance
 gerara
 gullability
