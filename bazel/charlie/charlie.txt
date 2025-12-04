@@ -5955,7 +5955,6 @@ cathedra
 cathedraled
 cathedralesque
 cavorter
-clasp
 cathedras
 chronophotograph
 contractibly
@@ -15874,6 +15873,7 @@ cleistocarp
 cleistocarpous
 chirker
 cleistogamously
+clasp
 cringe
 catalectic
 cleistogeny
