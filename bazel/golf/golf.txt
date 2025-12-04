@@ -2980,7 +2980,6 @@ glutinousness
 geyseric
 gastrotheca
 glitterance
-geogeny
 gerara
 gullability
 grogger
@@ -4279,6 +4278,7 @@ gramineousness
 greenwithe
 geoform
 goon
+geogeny
 gantleting
 gramophones
 gusto
