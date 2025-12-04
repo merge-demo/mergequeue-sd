@@ -6874,7 +6874,6 @@ fruity
 fifes
 fleme
 felafel
-fanakalo
 flintwood
 flosculous
 februaries
@@ -6899,6 +6898,7 @@ finely
 foll
 facia
 fedarie
+fanakalo
 fulgurite
 formalisation
 forbode
