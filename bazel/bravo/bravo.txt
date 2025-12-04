@@ -6911,7 +6911,6 @@ beryllosis
 beastie
 bougainvillaeas
 beseemliness
-benignancies
 beseems
 beseen
 burglariously
@@ -18392,6 +18391,7 @@ buzzing
 busycon
 bibcocks
 brachials
+benignancies
 brachygrapher
 buzzingly
 bothlike
