@@ -9633,7 +9633,6 @@ baptists
 bilateral
 bishopling
 biol
-bishopstool
 bishopweed
 bobbinets
 bestir
@@ -15105,6 +15104,7 @@ breviconic
 bunkered
 brevilingual
 bestirring
+bishopstool
 besmearer
 breviloquent
 blimp
