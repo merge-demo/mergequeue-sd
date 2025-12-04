@@ -6850,7 +6850,6 @@ daubery
 dockworker
 decidingly
 dictyoceratina
-desmanthus
 disleafing
 dreadfuls
 decayed
@@ -8916,6 +8915,7 @@ diceboard
 dazzles
 dilemi
 daunomycin
+desmanthus
 disbud
 dicentras
 dipyramid
