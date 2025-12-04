@@ -1206,6 +1206,7 @@ campimetrical
 caldrons
 charry
 calean
+coyote
 cystorrhea
 calebite
 calebites
@@ -23710,7 +23711,6 @@ cera
 contraoctave
 caste
 cacophonist
-coyote
 crimped
 contraplete
 cataphoretically
