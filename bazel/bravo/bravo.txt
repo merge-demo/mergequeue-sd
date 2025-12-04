@@ -4674,7 +4674,6 @@ bedgoer
 bradded
 balletomania
 breedling
-bedgowns
 bassets
 bedrowse
 bediamonded
@@ -15427,6 +15426,7 @@ battledoring
 brilliancies
 bagged
 brilliandeer
+bedgowns
 budgerigars
 buonamani
 brilliant
