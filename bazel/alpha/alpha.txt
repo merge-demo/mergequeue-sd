@@ -6100,7 +6100,6 @@ apteral
 ablock
 agamospore
 agitatrix
-agitprops
 aglance
 anchoritess
 attitudinized
@@ -7895,6 +7894,7 @@ actinology
 aleyrodes
 auricular
 advisers
+agitprops
 aleknight
 apractic
 archpastor
