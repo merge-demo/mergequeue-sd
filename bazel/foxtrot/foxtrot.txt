@@ -5775,6 +5775,7 @@ fructicultural
 fumeroot
 fallage
 fastigium
+falconiform
 fellowess
 foreswearing
 filmer
@@ -6563,7 +6564,6 @@ fluorhydric
 finfishes
 fortuitist
 flyboats
-falconiform
 foaling
 franseria
 friary
