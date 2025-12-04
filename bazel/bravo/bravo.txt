@@ -1245,6 +1245,7 @@ baldheaded
 balalaika
 birdberry
 batrachiate
+bayoneteer
 balan
 bedstead
 behindhand
@@ -10457,7 +10458,6 @@ bought
 begs
 blowth
 blarnid
-bayoneteer
 brachysclereid
 blashy
 bhutan
