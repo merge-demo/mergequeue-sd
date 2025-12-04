@@ -5651,7 +5651,6 @@ gunstick
 glueman
 granma
 granadilla
-gallinago
 gowkedness
 gasps
 geisenheimer
@@ -7835,6 +7834,7 @@ groaners
 glutter
 globs
 gristmilling
+gallinago
 graphospasm
 gerents
 goosander
