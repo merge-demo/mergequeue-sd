@@ -1324,7 +1324,6 @@ fatherly
 fartherer
 feest
 features
-frogginess
 fendering
 fbi
 fellani
@@ -9110,6 +9109,7 @@ fortifies
 fielded
 fleeceflower
 floridly
+frogginess
 floozies
 fr
 furdle
