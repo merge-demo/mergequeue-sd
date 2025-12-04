@@ -616,7 +616,6 @@ gorgoniacea
 ghostweed
 graveside
 gloryless
-galliots
 goulashes
 gurnets
 gramaries
@@ -3975,6 +3974,7 @@ geds
 genospecies
 gynecocratical
 guano
+galliots
 guardage
 grassnut
 grex
