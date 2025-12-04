@@ -45,6 +45,7 @@ genotypically
 groats
 graperies
 gangue
+gorgelet
 glaucolite
 guemal
 geometrine
@@ -7445,7 +7446,6 @@ goodmen
 grimacingly
 germens
 glycines
-gorgelet
 greggriffin
 gamotropic
 grewt
