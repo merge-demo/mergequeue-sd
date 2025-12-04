@@ -11716,6 +11716,7 @@ anagyrine
 anagyris
 anaglyph
 annulism
+alphabetizers
 anisopleural
 anaglyphs
 anaglypta
@@ -14256,7 +14257,6 @@ ashman
 ahypnia
 antevert
 anteverting
-alphabetizers
 americanist
 anthdia
 appraisals
