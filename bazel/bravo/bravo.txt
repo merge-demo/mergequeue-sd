@@ -3538,6 +3538,7 @@ blonds
 bathylithic
 bipinnaria
 bathymetry
+blacken
 bathymetrical
 biggonet
 bathing
@@ -14145,7 +14146,6 @@ bracked
 brackened
 bromochloromethane
 buckboard
-blacken
 beseeched
 bilifaction
 beadleship
