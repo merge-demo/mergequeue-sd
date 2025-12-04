@@ -6563,7 +6563,6 @@ greyskin
 guiders
 glandarious
 grandaddy
-gpcd
 glaziest
 gemminess
 ganowanian
@@ -8363,6 +8362,7 @@ glides
 gladsomeness
 ganoid
 granites
+gpcd
 genro
 gadsman
 guisards
