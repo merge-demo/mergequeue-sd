@@ -10831,7 +10831,6 @@ exsibilate
 echinid
 extrusive
 enthralling
-extracultural
 eupatorium
 ethnobiology
 eupatrids
@@ -13592,6 +13591,7 @@ embroiders
 epoxides
 elementally
 excern
+extracultural
 enteroceptor
 extance
 extemporally
