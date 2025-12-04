@@ -16966,6 +16966,7 @@ cleithral
 centrex
 clerestories
 clutching
+carboxy
 cymbaleer
 candela
 clutchingly
@@ -28328,7 +28329,6 @@ craver
 cothurnal
 cannoli
 campholytic
-carboxy
 cerography
 counterdraft
 christenhead
