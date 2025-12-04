@@ -1571,7 +1571,6 @@ gunsels
 glaik
 grulla
 glimes
-graphitized
 gainset
 gonydeal
 gibe
@@ -4885,6 +4884,7 @@ gunnen
 gallybagger
 guttersnipe
 guessed
+graphitized
 gorgonizing
 giinwale
 gladiatrix
