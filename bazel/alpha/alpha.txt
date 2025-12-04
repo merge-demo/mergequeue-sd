@@ -4040,6 +4040,7 @@ allegiantly
 administrates
 antihemolytic
 administrational
+aspis
 administrative
 affixion
 administratively
@@ -12078,7 +12079,6 @@ adjunction
 aborning
 archaeologian
 arquerite
-aspis
 angiosclerosis
 acidity
 avenalin
