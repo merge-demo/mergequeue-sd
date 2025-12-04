@@ -1307,6 +1307,7 @@ gestation
 garefowl
 gyrene
 garetta
+gerbils
 gnawingly
 gargalize
 guttles
@@ -3069,7 +3070,6 @@ glaciologists
 grands
 graphiter
 greensauce
-gerbils
 gamelin
 genepi
 glom
