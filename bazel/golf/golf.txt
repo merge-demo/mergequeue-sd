@@ -5105,7 +5105,6 @@ griffins
 granza
 gastroptosia
 guilders
-gravery
 glassmaking
 guerite
 glyc
@@ -10262,6 +10261,7 @@ gomontia
 geechee
 gonophore
 glacier
+gravery
 gustiness
 galvanometry
 galvanoplastically
