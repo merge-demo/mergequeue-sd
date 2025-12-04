@@ -10188,6 +10188,7 @@ chiasma
 cotesian
 chloasmata
 camacan
+cysticolous
 chiasmas
 chiasmata
 cavesson
@@ -14537,7 +14538,6 @@ cylindrite
 cysticercoidal
 cysticercosis
 cysticerus
-cysticolous
 corroboree
 cystid
 consociationism
