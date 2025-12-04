@@ -13421,6 +13421,7 @@ cie
 cierge
 cierzo
 certificator
+clarseth
 comeuppance
 courb
 cyesis
@@ -15485,7 +15486,6 @@ clarre
 clarseach
 corrodes
 clarsech
-clarseth
 chemotaxonomically
 clart
 clarty
