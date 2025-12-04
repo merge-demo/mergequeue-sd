@@ -9841,7 +9841,6 @@ chemistry
 chemists
 coenactor
 countess
-chawer
 chemitypy
 chemizo
 colligated
@@ -28015,6 +28014,7 @@ crayons
 comedic
 coxarthritis
 craisey
+chawer
 consorts
 captivators
 celebret

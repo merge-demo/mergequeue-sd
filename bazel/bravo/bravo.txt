@@ -1294,7 +1294,6 @@ boleite
 bacterioprecipitin
 beltings
 bate
-binational
 balanorrhagia
 balanta
 bottine
@@ -18165,6 +18164,7 @@ butyrometric
 botchwork
 bingle
 blastopore
+binational
 biog
 behead
 biodegradation
