@@ -1680,6 +1680,7 @@ formularies
 falsies
 felonous
 fearingly
+farthermore
 ferineness
 fearless
 forehammer
@@ -1839,7 +1840,6 @@ forrue
 fcs
 fibrinogenically
 fluidizer
-farthermore
 fruiterers
 febriphobia
 februarius
