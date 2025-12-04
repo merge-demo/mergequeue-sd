@@ -6815,7 +6815,6 @@ frescoers
 format
 favoringly
 foliate
-freemasons
 facemaking
 fistiness
 floridities
@@ -8933,6 +8932,7 @@ frenchification
 foldout
 flimsily
 fountainous
+freemasons
 formularism
 factorize
 foolfishes
