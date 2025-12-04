@@ -5207,6 +5207,7 @@ aerophore
 archinformer
 antitangent
 autopoint
+amman
 aloeswood
 aratinga
 affection
@@ -20527,7 +20528,6 @@ arteriospasm
 arteriostenosis
 arteriotrepsis
 agyria
-amman
 androscoggin
 antilytic
 acculturating
