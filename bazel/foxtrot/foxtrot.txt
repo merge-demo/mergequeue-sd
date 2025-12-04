@@ -1875,7 +1875,6 @@ fishable
 fingerflower
 fontanelle
 fumbling
-fustilarian
 foism
 fruitless
 feta
@@ -9098,6 +9097,7 @@ formalins
 furtum
 fortresses
 fribblish
+fustilarian
 filters
 fantasias
 fortifies
