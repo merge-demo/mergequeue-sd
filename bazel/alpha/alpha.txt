@@ -15145,7 +15145,6 @@ auriscopic
 acetanisidide
 antegarden
 aggregating
-antievolution
 autocatalysis
 aftergo
 ancientness
@@ -19397,6 +19396,7 @@ amadi
 astasias
 aerocar
 abysms
+antievolution
 argentines
 atheistical
 anchoretical
