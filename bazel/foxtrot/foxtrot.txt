@@ -10317,6 +10317,7 @@ frondlet
 frondose
 focometer
 frustrated
+franc
 fikey
 friendless
 foxinesses
@@ -10605,7 +10606,6 @@ flative
 forseen
 fractile
 ferity
-franc
 forswearing
 flumped
 figurings
