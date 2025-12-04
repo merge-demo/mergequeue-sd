@@ -4863,6 +4863,7 @@ gritter
 gunnel
 gnomonics
 gleg
+goldarn
 gigantize
 greenings
 goiterogenic
@@ -5924,7 +5925,6 @@ gymnospermous
 goitrous
 gasogene
 groveless
-goldarn
 gilgames
 gewgawish
 grackle
