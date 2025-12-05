@@ -8516,7 +8516,6 @@ atremate
 alkylbenzenesulfonates
 alkylic
 antiphonetic
-alkylidene
 afterburners
 autocoids
 astronautics
@@ -17477,6 +17476,7 @@ astrographic
 anglicisation
 ama
 adrammelech
+alkylidene
 aerostatics
 abstentious
 appar
