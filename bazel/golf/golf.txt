@@ -5815,7 +5815,6 @@ genupectoral
 goniometer
 globoid
 geobotanically
-garblers
 gosling
 gratters
 gigamaree
@@ -8755,6 +8754,7 @@ gladless
 gagged
 gralloch
 graminaceous
+garblers
 gerenuks
 greenish
 gluhwein
