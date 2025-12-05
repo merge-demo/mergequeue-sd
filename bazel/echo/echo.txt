@@ -10250,6 +10250,7 @@ eo
 exactingly
 eudorina
 epicurish
+evennesses
 estafet
 evectic
 economical
@@ -11393,7 +11394,6 @@ expensefulness
 eccyesis
 exaristate
 embolism
-evennesses
 eventful
 extraction
 epsom
