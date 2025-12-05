@@ -1010,7 +1010,6 @@ glareola
 generously
 glissette
 glossed
-gordunite
 ganga
 gangamopteris
 givers
@@ -5325,6 +5324,7 @@ guatemala
 gemitores
 gossoons
 glyoxilin
+gordunite
 glacialism
 granitical
 graveling
