@@ -233,7 +233,6 @@ bibliograph
 betonica
 bastinadoed
 bactrites
-betrothed
 bathyanesthesia
 bachelordom
 bachelorette
@@ -2320,6 +2319,7 @@ braggart
 barboy
 bubbletops
 bagging
+betrothed
 boxboards
 barbotine
 bones
