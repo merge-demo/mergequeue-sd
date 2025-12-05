@@ -8055,6 +8055,7 @@ babble
 bicolorous
 betrayal
 bicolors
+burry
 beadleism
 biconcave
 bidder
@@ -14354,7 +14355,6 @@ brionies
 brayers
 bougainvillia
 brutedom
-burry
 befleaing
 braies
 bleeping
