@@ -7943,6 +7943,7 @@ glairy
 greenhorn
 granddaughter
 got
+glonoin
 galleons
 glycerol
 glaziery
@@ -9371,7 +9372,6 @@ glamorize
 goggliest
 gwen
 goutiness
-glonoin
 gnomists
 glided
 garotes
