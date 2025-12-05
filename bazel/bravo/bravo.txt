@@ -18,7 +18,6 @@ bowstringing
 bistratose
 babaylanes
 branch
-beringite
 babasu
 bureaucratist
 bangy
@@ -677,6 +676,7 @@ badderlocks
 basidiomycetous
 brolga
 bischofite
+beringite
 baddest
 bombardo
 breathable
