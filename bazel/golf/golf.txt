@@ -5420,6 +5420,7 @@ glossily
 girdle
 gynandromorphic
 glimmer
+glycyl
 graphometry
 groundswell
 glaum
@@ -10777,7 +10778,6 @@ glamourie
 geranyl
 gibblegable
 guiles
-glycyl
 gutt
 gunny
 gerenuk
