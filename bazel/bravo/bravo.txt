@@ -4938,6 +4938,7 @@ beefsteak
 beeftongue
 biers
 beefwoods
+branchiomere
 beegerite
 bootlick
 bairnliness
@@ -14518,7 +14519,6 @@ blockage
 blackcurrant
 betrail
 branchiogenous
-branchiomere
 baikie
 bibliogony
 bottomless
