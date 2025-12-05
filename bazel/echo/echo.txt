@@ -64,7 +64,6 @@ eyn
 early
 excuss
 estuarine
-earlier
 einkorns
 empaneling
 earliest
@@ -13780,6 +13779,7 @@ embroiling
 endopterygotism
 earthliness
 euchite
+earlier
 emirship
 embargoing
 extortioners
