@@ -8262,7 +8262,6 @@ alchemized
 aliene
 auctors
 aspiree
-antisera
 antisiccative
 athermous
 avenges
@@ -14841,6 +14840,7 @@ antichthon
 abkhas
 antichthones
 acuan
+antisera
 acronymized
 azoology
 atmas
