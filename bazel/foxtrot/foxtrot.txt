@@ -780,6 +780,7 @@ folkloric
 footworn
 forenotice
 froster
+fatherliness
 forensicality
 flipe
 flea
@@ -10685,7 +10686,6 @@ fastidiously
 forecar
 finnier
 fantasizes
-fatherliness
 figent
 fitfully
 flary
