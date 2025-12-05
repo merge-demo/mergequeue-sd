@@ -1512,7 +1512,6 @@ fleecing
 foamers
 franklinite
 fattenable
-fauntleroy
 frankability
 flagellaria
 freely
@@ -2804,6 +2803,7 @@ floorman
 ferrozirconium
 floodlights
 fideicommiss
+fauntleroy
 fetichism
 fraction
 forebush
