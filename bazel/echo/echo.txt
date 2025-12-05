@@ -3438,7 +3438,6 @@ enchained
 exigently
 encolden
 embers
-estival
 enate
 epees
 elaeothesium
@@ -9003,6 +9002,7 @@ enterokinesia
 enormious
 erythemas
 earing
+estival
 eves
 eunuchized
 etiolize
