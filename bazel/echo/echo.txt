@@ -2889,6 +2889,7 @@ extraparochially
 entrancingly
 enthrall
 erzahler
+electromyography
 epitheliomuscular
 elevenses
 eleventeenth
@@ -6441,7 +6442,6 @@ epeirogenetic
 ecophene
 embarrassing
 endangerments
-electromyography
 espave
 espousal
 expandibility

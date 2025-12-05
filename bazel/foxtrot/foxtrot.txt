@@ -7338,6 +7338,7 @@ forebodingly
 footplate
 flakiness
 fortunous
+fanit
 flyness
 findy
 forbidals
@@ -9672,7 +9673,6 @@ femoral
 fingerroot
 functorial
 filch
-fanit
 flied
 femes
 feaking
