@@ -597,7 +597,6 @@ garron
 greaseball
 garthman
 gallinaceae
-gallinacean
 galesaurus
 guillotinism
 giftware
@@ -3166,6 +3165,7 @@ glowered
 gregarinous
 ginnings
 goat
+gallinacean
 graduating
 gelechiidae
 geoscopy
