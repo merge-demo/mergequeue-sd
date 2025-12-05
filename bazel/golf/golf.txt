@@ -5088,6 +5088,7 @@ grapplers
 gloxinia
 glasshouses
 gateaux
+gallocyanin
 gasts
 glued
 gnarr
@@ -6062,7 +6063,6 @@ gragers
 ganevs
 gastradenitis
 guerre
-gallocyanin
 gymnocarpic
 giesel
 gunate

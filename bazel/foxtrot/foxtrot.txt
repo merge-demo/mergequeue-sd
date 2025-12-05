@@ -2426,6 +2426,7 @@ fielding
 falla
 fornax
 ferruginated
+followable
 flowable
 fungal
 foliocellosis
@@ -4837,7 +4838,6 @@ froglet
 flagellatory
 ferocities
 formalness
-followable
 fulgora
 flails
 feuilletonism
