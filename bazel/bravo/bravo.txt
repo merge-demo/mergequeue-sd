@@ -11954,7 +11954,6 @@ blindfoldly
 boggier
 bayou
 boggle
-babakoto
 blastemas
 boggler
 bannerol
@@ -16184,6 +16183,7 @@ blowdown
 barbudo
 braird
 bilbie
+babakoto
 brotherwort
 brotocrystal
 bromoform
