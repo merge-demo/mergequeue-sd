@@ -24570,6 +24570,7 @@ copier
 cerebrogalactose
 copies
 copyfitter
+chemosterilant
 comvia
 copyfitting
 copygraph
@@ -29638,7 +29639,6 @@ crocodility
 cattishly
 costosuperior
 cognizer
-chemosterilant
 convulsiveness
 cotingid
 crocodylus
