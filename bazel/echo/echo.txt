@@ -8158,6 +8158,7 @@ emprosthotonus
 extrapolated
 endobatholithic
 ephippium
+equiaxial
 entrepas
 engyscope
 episcopization
@@ -12630,7 +12631,6 @@ extramurally
 emeus
 empory
 elephantidae
-equiaxial
 epexegeses
 exodic
 equipped
