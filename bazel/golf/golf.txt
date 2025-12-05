@@ -6326,7 +6326,6 @@ gastrocele
 gymnorhininae
 goblin
 gettable
-gullible
 gigartinaceous
 gunmen
 gargantua
@@ -8308,6 +8307,7 @@ gaingiving
 grainers
 gynaecia
 galimatias
+gullible
 glod
 gephyrocercy
 glacon
