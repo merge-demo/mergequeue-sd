@@ -6296,6 +6296,7 @@ debat
 doldrums
 diact
 dermatoneurosis
+digestment
 dustuck
 disprize
 doggier
@@ -9510,7 +9511,6 @@ diamonded
 dermad
 domically
 daintrel
-digestment
 dittography
 declinature
 diastataxic
