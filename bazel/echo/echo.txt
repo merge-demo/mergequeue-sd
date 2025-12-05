@@ -2018,7 +2018,6 @@ elixate
 elabrate
 endocrinotherapy
 epigaea
-erythrosine
 epitrophy
 encurl
 exophasia
@@ -9829,6 +9828,7 @@ ethnographist
 econometrician
 eatables
 entrance
+erythrosine
 enanthema
 estats
 eternise
