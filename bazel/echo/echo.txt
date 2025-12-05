@@ -3489,6 +3489,7 @@ epineuria
 extrascientific
 eldress
 emblements
+ensignment
 earmuffs
 expellee
 endemically
@@ -10301,7 +10302,6 @@ effacer
 ethmopalatal
 ectases
 epiphyllous
-ensignment
 ethnicist
 endymal
 elingued
