@@ -3819,7 +3819,6 @@ emerald
 elasticities
 emerge
 ecart
-escapology
 emerged
 edulcorated
 echinostomiasis
@@ -8717,6 +8716,7 @@ esculapian
 emulsifies
 equitableness
 employee
+escapology
 equitative
 electrican
 experimentee
