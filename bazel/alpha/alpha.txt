@@ -18588,7 +18588,6 @@ antitragi
 aperch
 araminta
 arcanite
-arcature
 anilinophilous
 arcatures
 acraeinae
@@ -20491,6 +20490,7 @@ archit
 asg
 arcula
 anticorrosively
+arcature
 admov
 aristological
 asterospondylous
