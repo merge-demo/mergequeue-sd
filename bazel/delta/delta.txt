@@ -595,6 +595,7 @@ develin
 drawboy
 demifusion
 dextrose
+disgruntled
 dups
 damine
 disbeliever
@@ -9578,7 +9579,6 @@ diglottist
 duumvir
 diallists
 demasculinised
-disgruntled
 dignifiedly
 decoying
 deionizing
