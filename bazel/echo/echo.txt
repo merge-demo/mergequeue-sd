@@ -2013,7 +2013,6 @@ emulsic
 equisonant
 endodontist
 eradiculose
-elixate
 elabrate
 endocrinotherapy
 epigaea
@@ -12829,6 +12828,7 @@ eroticization
 emicant
 expansive
 exothecal
+elixate
 emptied
 emboss
 exulting
