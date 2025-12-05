@@ -11639,7 +11639,6 @@ anacrogynous
 accents
 anacrotic
 altricial
-anacruses
 anaculture
 aortitis
 anacusic
@@ -20885,6 +20884,7 @@ ascosporic
 autodial
 asarabacca
 archshepherd
+anacruses
 asarin
 alecs
 asarite
