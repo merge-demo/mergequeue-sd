@@ -12181,6 +12181,7 @@ chrisms
 carinatae
 chrysoaristocracy
 cratsmanship
+cranched
 conciliative
 chinotto
 clangula
@@ -17304,7 +17305,6 @@ comptonite
 constrains
 cadis
 coarsely
-cranched
 coarsened
 circumsail
 coarseness
