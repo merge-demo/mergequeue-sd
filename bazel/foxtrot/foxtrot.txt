@@ -333,7 +333,6 @@ fimbricated
 furcal
 fayumic
 francisc
-fearsomely
 forkful
 failingness
 facultative
@@ -7680,6 +7679,7 @@ frayproof
 foreigneering
 friend
 flexes
+fearsomely
 flipped
 firm
 fleawort
