@@ -13855,7 +13855,6 @@ balr
 blatter
 beanfeast
 buchite
-beadiest
 bowyer
 bejape
 bowyers
@@ -17397,6 +17396,7 @@ bacillemia
 bejewels
 bunyah
 butoxyl
+beadiest
 balsamic
 bunyan
 blini
