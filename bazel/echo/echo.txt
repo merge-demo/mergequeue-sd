@@ -1173,7 +1173,6 @@ edriophthalmatous
 extramental
 educand
 emulsive
-educatability
 eident
 educatable
 educatedness
@@ -9152,6 +9151,7 @@ esrog
 ermanrich
 endotheca
 entailer
+educatability
 epizoarian
 equiponderancy
 ermiline
