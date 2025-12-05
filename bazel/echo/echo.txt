@@ -3589,7 +3589,6 @@ esperantism
 exhibits
 expostulatingly
 epitomically
-embows
 exanimate
 enculturate
 entamoeba
@@ -10605,6 +10604,7 @@ eucosmidae
 ecstasis
 expensing
 englobing
+embows
 evernioid
 elvanite
 eparchate
