@@ -1073,6 +1073,7 @@ chitinocalcareous
 circumcisions
 calceolaria
 coenospecifically
+cfs
 calceolate
 cowhide
 calceus
@@ -6231,7 +6232,6 @@ conically
 cauking
 cyrtoceracone
 cutinises
-cfs
 chloralism
 caul
 cubically
