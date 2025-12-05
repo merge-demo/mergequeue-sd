@@ -2314,6 +2314,7 @@ ganofs
 gelant
 glyceric
 ganta
+gymnostomous
 gitoxin
 granulation
 gelatinating
@@ -10334,7 +10335,6 @@ gnathions
 gujarati
 gametic
 gamodesmic
-gymnostomous
 gigantostraca
 gracy
 geographized

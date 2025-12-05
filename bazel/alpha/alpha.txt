@@ -3903,7 +3903,6 @@ ayes
 atrabiliousness
 adjectional
 antireductive
-anastatica
 autoactivation
 adjectives
 acetine
@@ -4690,6 +4689,7 @@ aldhafera
 attorneyism
 achilles
 accidented
+anastatica
 aegean
 autocriticism
 adduct
