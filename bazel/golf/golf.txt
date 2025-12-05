@@ -1235,7 +1235,6 @@ guatemaltecan
 galapago
 gastrotricha
 garapato
-getatableness
 gadded
 grocerymen
 gleetier
@@ -7816,6 +7815,7 @@ gravidas
 gooiest
 garneter
 glagol
+getatableness
 gestion
 guanche
 gangplank
