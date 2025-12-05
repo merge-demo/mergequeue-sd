@@ -7962,7 +7962,6 @@ bungalows
 batoka
 butic
 baseline
-butanone
 bowlders
 buoyed
 blockwood
@@ -14063,6 +14062,7 @@ bald
 boffin
 brachydont
 brachydontism
+butanone
 brachyfacial
 brachyglossal
 burgul
