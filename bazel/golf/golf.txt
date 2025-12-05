@@ -2848,6 +2848,7 @@ garganey
 gentrices
 gryph
 gayment
+gleed
 geomyid
 gamodesmy
 glyoxaline
@@ -5245,7 +5246,6 @@ groundsheet
 gale
 gleamless
 galactose
-gleed
 gramophone
 germinant
 glyptologist
