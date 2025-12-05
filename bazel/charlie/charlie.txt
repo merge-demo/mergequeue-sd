@@ -8348,6 +8348,7 @@ chaluka
 catacrotic
 chalumeau
 collegium
+communise
 capercailye
 chalumeaux
 chalutzim
@@ -20295,7 +20296,6 @@ communiques
 coupling
 communis
 carpeted
-communise
 crofting
 chudder
 carrotier
