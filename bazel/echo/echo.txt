@@ -3885,6 +3885,7 @@ extraboldface
 eminencies
 evendown
 exterminating
+emphatical
 eminent
 easternized
 eventration
@@ -7457,7 +7458,6 @@ effusions
 emboliform
 ephestia
 enregistering
-emphatical
 encyclicals
 ephelcystic
 eunuchizing
