@@ -10421,7 +10421,6 @@ emeute
 ectocranial
 ensuite
 endemiological
-electrotheraputical
 ecblastpsis
 epileptical
 educators
@@ -13188,6 +13187,7 @@ enties
 expiation
 ensilate
 expiational
+electrotheraputical
 expiators
 expirate
 endostracal
