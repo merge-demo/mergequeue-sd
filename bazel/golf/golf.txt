@@ -1430,6 +1430,7 @@ greenless
 gola
 garret
 graffer
+global
 gipsire
 goodnight
 griseofulvin
@@ -5005,7 +5006,6 @@ growled
 guilty
 guariba
 glandered
-global
 genially
 gangliest
 gateage
