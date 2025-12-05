@@ -11670,7 +11670,6 @@ blazoners
 bosks
 boatward
 boatwright
-bob
 biennales
 burglarize
 bepranked
@@ -16959,6 +16958,7 @@ buys
 beshivering
 bribe
 bukshee
+bob
 bul
 brittler
 brassworks
