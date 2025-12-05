@@ -11877,6 +11877,7 @@ bodiliness
 baalite
 bortzes
 battleplane
+bufflehead
 bouillons
 boedromion
 bovovaccine
@@ -12903,7 +12904,6 @@ boot
 big
 bhandari
 bootees
-bufflehead
 battlemented
 blunging
 bootery

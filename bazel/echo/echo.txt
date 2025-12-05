@@ -11621,7 +11621,6 @@ ewery
 exciding
 empires
 exundance
-ewes
 engraphia
 eucalypt
 everywhereness
@@ -14121,6 +14120,7 @@ endarch
 evokes
 eyeseed
 equivorous
+ewes
 existentialize
 eutrophy
 epithamia
