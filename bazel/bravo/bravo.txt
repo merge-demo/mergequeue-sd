@@ -925,6 +925,7 @@ brownout
 bagwigged
 bagwyn
 bustier
+bytime
 bagwork
 baker
 brumby
@@ -5654,7 +5655,6 @@ bovovaccination
 bolognan
 bignoniad
 blowpipes
-bytime
 brasiers
 bocher
 busks

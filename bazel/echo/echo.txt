@@ -8670,6 +8670,7 @@ epiglottides
 evangelists
 equiperiodic
 emendations
+excave
 equipoise
 endophyllous
 erotical
@@ -11876,7 +11877,6 @@ excaudate
 engracing
 excavator
 enlace
-excave
 eructated
 extancy
 elutes
