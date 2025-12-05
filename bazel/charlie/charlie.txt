@@ -9778,7 +9778,6 @@ cheliped
 chelys
 cydon
 chellean
-cheloids
 cutinizing
 chelonia
 contrails
@@ -19053,6 +19052,7 @@ cruset
 colligate
 colligating
 cookbook
+cheloids
 cecropia
 commutual
 colligative
