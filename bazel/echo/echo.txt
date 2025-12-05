@@ -742,7 +742,6 @@ ecosystem
 ephthianura
 enstyle
 erythristic
-ecospecific
 emblematised
 extoled
 effaces
@@ -3848,6 +3847,7 @@ enfettered
 emeses
 effigiate
 epalpate
+ecospecific
 ethnobotanical
 emesis
 entrapment
