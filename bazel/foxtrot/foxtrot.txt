@@ -5017,6 +5017,7 @@ fissures
 forecourse
 fatteners
 flaperon
+flagellum
 flippantly
 frib
 flappable
@@ -9224,7 +9225,6 @@ ficin
 feminate
 fissioning
 flopped
-flagellum
 furzetop
 fenagling
 femality
