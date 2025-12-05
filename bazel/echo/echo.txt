@@ -2355,7 +2355,6 @@ emulsifying
 egba
 episteme
 electrocolloidal
-everyone
 edulcoration
 exhaustable
 electroconvulsive
@@ -3305,6 +3304,7 @@ epical
 emanativ
 erupt
 enwreath
+everyone
 emasculates
 endoesophagitis
 emancipated
