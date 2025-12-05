@@ -3085,7 +3085,6 @@ executiveness
 esemplastic
 ellipticity
 extemporize
-elliptograph
 elliptoid
 extraparietal
 exite
@@ -11004,6 +11003,7 @@ eurybenthic
 endeared
 etacist
 eutaxies
+elliptograph
 eusynchite
 eurycephalic
 epiglot
