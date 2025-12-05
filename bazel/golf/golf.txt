@@ -2688,6 +2688,7 @@ guaican
 glyconean
 goggled
 gymnodont
+gator
 genic
 gradgrindian
 georgians
@@ -5191,7 +5192,6 @@ geckotian
 gossipred
 gasteria
 gnostic
-gator
 gesticulator
 glossocomon
 guavas
