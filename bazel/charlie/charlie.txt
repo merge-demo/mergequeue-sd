@@ -23344,6 +23344,7 @@ cleistothecium
 contagions
 contagiosity
 contagiousness
+copehan
 contagium
 contain
 contained
@@ -24509,7 +24510,6 @@ cope
 cappers
 capillus
 coetaneously
-copehan
 copeia
 copelata
 copeman
