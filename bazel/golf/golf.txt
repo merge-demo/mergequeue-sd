@@ -1341,7 +1341,6 @@ gested
 gheleem
 gieing
 gazaboes
-garroter
 gary
 groundling
 gristbite
@@ -5890,6 +5889,7 @@ genius
 gardenless
 gardon
 griddled
+garroter
 gasfiring
 geolatry
 grandesque
