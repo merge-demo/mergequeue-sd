@@ -603,7 +603,6 @@ echt
 ecchymosed
 excommenge
 exostoses
-eneclann
 eciliate
 emetics
 eurypharynx
@@ -9927,6 +9926,7 @@ electromagnetics
 exude
 exoculated
 enskies
+eneclann
 extravertive
 effemination
 epidermatic
