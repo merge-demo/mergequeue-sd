@@ -2303,7 +2303,6 @@ commonwealth
 cytopahgous
 canakin
 cantinas
-canakins
 canal
 clerks
 cookeys
@@ -11255,6 +11254,7 @@ chloritization
 chloritize
 culicid
 chlorize
+canakins
 cynocephalus
 chesterbed
 ceresin
