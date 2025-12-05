@@ -6162,7 +6162,6 @@ derbend
 debauch
 deploringly
 deft
-discostomatous
 derecho
 dereferenced
 designees
@@ -10458,6 +10457,7 @@ dogmatic
 diodon
 delace
 disglorify
+discostomatous
 disinterring
 diphenyls
 dispowder
