@@ -1236,7 +1236,6 @@ faradism
 fastening
 frocked
 foals
-futteret
 fama
 favella
 femalize
@@ -3069,6 +3068,7 @@ fiercehearted
 frontispiece
 frenching
 faddiness
+futteret
 fisherboy
 flabby
 ferrety
