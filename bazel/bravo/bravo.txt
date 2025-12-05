@@ -2611,6 +2611,7 @@ bilges
 botanise
 begirdle
 barkless
+baldrics
 battening
 bandusia
 bescorch
@@ -9227,7 +9228,6 @@ bipeltate
 bipennate
 bedlamize
 bevor
-baldrics
 built
 bipetalous
 bucciniform
