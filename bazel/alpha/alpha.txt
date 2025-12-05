@@ -7241,7 +7241,6 @@ alange
 antigonococcic
 arthrectomies
 alangium
-anchors
 astichous
 auditive
 alanines
@@ -16931,6 +16930,7 @@ animotheism
 apishamore
 aceturic
 axels
+anchors
 agamis
 alfa
 anemometrical
