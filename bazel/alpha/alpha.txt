@@ -10683,6 +10683,7 @@ autodiffusion
 aminobenzaldehyde
 anthrachrysone
 antichrome
+agalinis
 aminobenzoic
 altitudinarian
 appetency
@@ -11203,7 +11204,6 @@ amphophile
 amphidiarthrosis
 aryans
 amphidisc
-agalinis
 acridan
 auroral
 acanthoid

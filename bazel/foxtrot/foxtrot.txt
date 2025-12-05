@@ -4103,7 +4103,6 @@ falsehoods
 fornenst
 faff
 fontanel
-flywheel
 fersmite
 fratriage
 fipples
@@ -8113,6 +8112,7 @@ flexo
 featherpate
 flatcaps
 faithful
+flywheel
 featurette
 fuchsias
 fellable
