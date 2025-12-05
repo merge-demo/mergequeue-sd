@@ -8109,6 +8109,7 @@ grantia
 greekist
 grassplat
 gallet
+gentilism
 graustark
 grindelia
 gastrostomize
@@ -8782,7 +8783,6 @@ greenling
 grogram
 glaserite
 gatherable
-gentilism
 glyceryls
 goosish
 gravel
