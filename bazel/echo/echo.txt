@@ -1755,7 +1755,6 @@ embattle
 emule
 exhbn
 epigraphic
-eutony
 eyes
 ewhow
 encasing
@@ -5955,6 +5954,7 @@ enjoyably
 enhypostasia
 estmark
 electrotheraputically
+eutony
 endolemma
 exudence
 erethismic
