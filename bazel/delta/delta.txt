@@ -7885,6 +7885,7 @@ diffluence
 distemonous
 dewaters
 dermobranchiata
+denote
 drofland
 disard
 desmocyte
@@ -14970,7 +14971,6 @@ disjection
 dogaressa
 diaspinae
 disarmature
-denote
 disobstruct
 domestics
 dogberry
