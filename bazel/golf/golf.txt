@@ -2761,7 +2761,6 @@ guestchamber
 gorraf
 gipped
 gallused
-gastroid
 glanditerous
 gramophonist
 gonangia
@@ -10643,6 +10642,7 @@ geronto
 girns
 grillades
 gambette
+gastroid
 greenly
 gossipries
 gaylies
