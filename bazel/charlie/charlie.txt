@@ -1930,7 +1930,6 @@ cameline
 camelish
 cardigans
 camellia
-characteries
 camellike
 cornwallises
 camellin
@@ -23712,6 +23711,7 @@ caste
 cacophonist
 crimped
 contraplete
+characteries
 cataphoretically
 cherogril
 carbonometry
