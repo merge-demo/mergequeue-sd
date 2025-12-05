@@ -7746,7 +7746,6 @@ ape
 almsful
 alectoromorphous
 aldermanate
-aldermancy
 aldermaness
 archisphere
 aldermanical
@@ -9367,6 +9366,7 @@ archtyrant
 approachers
 areole
 alphas
+aldermancy
 alpheus
 attenuations
 arbitratorship
