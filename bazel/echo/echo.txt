@@ -6925,7 +6925,6 @@ evocations
 entoplasm
 euxenites
 extravaganzas
-estreats
 exiled
 eudora
 encradle
@@ -12381,6 +12380,7 @@ entermise
 exhales
 elihu
 elfins
+estreats
 erythrocatalysis
 elderbrotherhood
 exhaust
