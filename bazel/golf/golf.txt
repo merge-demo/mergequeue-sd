@@ -1285,7 +1285,6 @@ glenwood
 gnomonology
 granage
 ged
-gavall
 goethites
 gratten
 gromatical
@@ -2877,6 +2876,7 @@ glanduliform
 glossiphonidae
 glebes
 geol
+gavall
 guilefulness
 ganglionic
 gustavus
