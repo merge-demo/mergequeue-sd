@@ -909,7 +909,6 @@ cajoling
 cautionaries
 crinkles
 cajones
-cajun
 cajuput
 chemoses
 catharan
@@ -17649,6 +17648,7 @@ cochlidiid
 catalaunian
 calque
 conservationist
+cajun
 cochliodontidae
 cochliodus
 cochlite
