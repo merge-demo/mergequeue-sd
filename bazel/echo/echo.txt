@@ -6017,6 +6017,7 @@ enjoiners
 extravillar
 estafa
 exigence
+ergs
 electrodesiccate
 electricalness
 embolomerism
@@ -8034,7 +8035,6 @@ euthenist
 encoop
 electrodentistry
 epibasal
-ergs
 expilate
 eggar
 ease
