@@ -9393,6 +9393,7 @@ bullety
 birdies
 boondocker
 butterflying
+buzzgloak
 brimse
 basidial
 boastless
@@ -16390,7 +16391,6 @@ brunching
 bemeaning
 bedazed
 breathier
-buzzgloak
 brunelliaceae
 bielbrief
 bicuculline
