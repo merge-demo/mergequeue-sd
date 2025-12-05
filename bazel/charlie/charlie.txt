@@ -3735,6 +3735,7 @@ candor
 changuina
 campanological
 carauna
+collimators
 coventrize
 caravaneer
 cosmogonize
@@ -8760,7 +8761,6 @@ corrugators
 cuppa
 crips
 chapote
-collimators
 cave
 confoundingly
 carposporic
