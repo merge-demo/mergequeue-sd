@@ -3400,7 +3400,6 @@ embarricado
 embarring
 elementoid
 ethnarchy
-enosises
 emetophobia
 ephoral
 erinize
@@ -8057,6 +8056,7 @@ epiphanise
 ealdormen
 epiphanous
 expansiveness
+enosises
 expiator
 embarred
 epigrammatizer
