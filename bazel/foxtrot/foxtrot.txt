@@ -715,6 +715,7 @@ fired
 flagroot
 famous
 florigens
+fritted
 featherlet
 famp
 famuli
@@ -5791,7 +5792,6 @@ froggiest
 frivolize
 ferfet
 fluoridations
-fritted
 firehouse
 furbishes
 froust
