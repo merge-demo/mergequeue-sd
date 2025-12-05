@@ -4088,7 +4088,6 @@ cardialgia
 cirrostome
 calla
 cardiameter
-chlorotic
 cunners
 colibri
 cardianesthesia
@@ -12483,6 +12482,7 @@ chromophobic
 calamistrate
 clairvoyants
 chromophore
+chlorotic
 chromophorous
 chromophotography
 cranky
