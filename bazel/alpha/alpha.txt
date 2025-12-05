@@ -4924,6 +4924,7 @@ atmidometry
 adjourned
 amberfish
 antilogous
+astrotheology
 antinaturalistic
 accessit
 airplaning
@@ -22486,7 +22487,6 @@ astroscopus
 astrospectral
 acrasiaceae
 adversion
-astrotheology
 anisostemonous
 astrut
 agronomical
