@@ -9198,6 +9198,7 @@ chastiment
 chastise
 chastiser
 consulships
+contumelious
 clapperboard
 cheering
 corf
@@ -23878,7 +23879,6 @@ contumely
 consisted
 chadlock
 culling
-contumelious
 contund
 crippledom
 contused

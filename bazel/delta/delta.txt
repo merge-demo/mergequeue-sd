@@ -2763,7 +2763,6 @@ deductibility
 decoration
 diogenic
 decorator
-deliberated
 disaffiliate
 devonshire
 dictates
@@ -6977,6 +6976,7 @@ deiphobus
 debussyanize
 dribble
 distomian
+deliberated
 dioptases
 dicaryon
 discouragedly
