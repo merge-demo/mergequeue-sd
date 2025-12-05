@@ -2378,7 +2378,6 @@ ethnotechnics
 epicaridan
 electrodeless
 exponentials
-ectogenetic
 energist
 electrodeposition
 ebriosity
@@ -6581,6 +6580,7 @@ eruditional
 eurygnathous
 elocution
 enwrapment
+ectogenetic
 enlinking
 ectocarpaceous
 emm
