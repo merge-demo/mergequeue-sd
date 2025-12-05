@@ -1285,7 +1285,6 @@ fluctuous
 feroher
 flarfishes
 feminophobe
-falconoid
 fatalists
 forerunners
 fop
@@ -6442,6 +6441,7 @@ filth
 folkcraft
 frenchize
 fordy
+falconoid
 francia
 fellatrix
 forsar
