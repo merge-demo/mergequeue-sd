@@ -973,7 +973,6 @@ glomeruli
 graptolite
 gunshot
 glist
-genomic
 gamostele
 gallinule
 glottogony
@@ -1581,6 +1580,7 @@ geothermally
 gassed
 gypsumed
 grana
+genomic
 gentlemens
 gasser
 glutelin
