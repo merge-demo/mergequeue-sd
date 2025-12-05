@@ -5536,6 +5536,7 @@ grubble
 gerridae
 gloomingly
 garnishment
+gentlemanship
 gadaria
 gastroparietal
 gazingly
@@ -10023,7 +10024,6 @@ gateau
 gudame
 gibberose
 gone
-gentlemanship
 gnide
 gorgonised
 geomys
