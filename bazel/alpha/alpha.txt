@@ -10043,6 +10043,7 @@ antipatharia
 ambiopia
 ambisexuality
 afrasia
+agremens
 acquaints
 antagonizes
 ambisinister
@@ -12156,7 +12157,6 @@ anatropal
 antiquers
 ambitiousness
 andesinite
-agremens
 arachnidium
 antilife
 actional
