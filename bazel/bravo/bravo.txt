@@ -6629,6 +6629,7 @@ bereaves
 breeder
 boninesses
 bulgy
+basify
 basioccipital
 berede
 berengaria
@@ -11271,7 +11272,6 @@ blear
 bourbonian
 blowing
 blowings
-basify
 biologists
 brigandage
 belage
