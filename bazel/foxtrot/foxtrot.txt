@@ -1125,7 +1125,6 @@ foretasting
 falseheartedness
 fennels
 flexures
-flippers
 filberts
 forefends
 flockling
@@ -3686,6 +3685,7 @@ folder
 fillable
 frownless
 fiercen
+flippers
 flavorlessness
 featherers
 frail

@@ -6279,6 +6279,7 @@ cabbaged
 caulocarpic
 caulomic
 caulosarc
+cranioclast
 caulotaxis
 caulote
 cauls
@@ -28108,7 +28109,6 @@ caunus
 craniocerebral
 calligraphist
 counteracquittance
-cranioclast
 cussos
 celebrities
 chaetophora
