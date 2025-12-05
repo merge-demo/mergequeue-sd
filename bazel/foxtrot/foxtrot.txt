@@ -1846,6 +1846,7 @@ flabellation
 frutify
 fatuously
 fec
+foldouts
 fight
 fantoddish
 feelingly
@@ -9660,7 +9661,6 @@ flimflammery
 faldstool
 fringe
 fouquieria
-foldouts
 fourfiusher
 fraising
 fustle
