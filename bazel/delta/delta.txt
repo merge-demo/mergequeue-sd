@@ -1754,6 +1754,7 @@ dumble
 derogation
 disaccord
 deathtime
+deceivableness
 diverticular
 dhotis
 diphenan
@@ -15488,7 +15489,6 @@ diaculum
 donator
 detergence
 discodactyl
-deceivableness
 dispell
 desist
 deflagrated
