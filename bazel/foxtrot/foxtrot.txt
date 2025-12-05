@@ -7313,7 +7313,6 @@ foraminulate
 fought
 flabbily
 france
-farset
 foraneen
 ferrateen
 ferocious
@@ -10966,6 +10965,7 @@ forgettable
 fink
 fumaroidal
 flappier
+farset
 forerunning
 faipule
 foreadapt
