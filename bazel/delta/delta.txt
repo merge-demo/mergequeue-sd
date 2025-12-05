@@ -13867,7 +13867,6 @@ dendritically
 drinn
 distempering
 distemperoid
-distending
 drowns
 dyscrasite
 disalike
@@ -14769,6 +14768,7 @@ discords
 deplaster
 dodonaea
 dilatancy
+distending
 discutable
 docker
 disaccharidase
