@@ -872,6 +872,7 @@ gameless
 gammy
 gynecomazia
 ganglionitis
+grenadiers
 gilded
 gulinular
 garrooka
@@ -6610,7 +6611,6 @@ guesswork
 gonycampsis
 guerillas
 galeass
-grenadiers
 gigolos
 graphalloy
 good
