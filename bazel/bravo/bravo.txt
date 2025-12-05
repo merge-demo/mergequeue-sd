@@ -1139,7 +1139,6 @@ baittle
 baywoods
 bodhisat
 bridgeway
-ballasting
 balladized
 baiza
 baizas
@@ -6651,6 +6650,7 @@ berewick
 biunity
 banquettes
 bepelt
+ballasting
 bergall
 bergamasche
 bergamask
