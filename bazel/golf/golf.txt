@@ -2480,6 +2480,7 @@ glassing
 gourinae
 gemsbuck
 guardful
+globeholder
 greasy
 gimble
 gonopodial
@@ -3892,7 +3893,6 @@ gyroplane
 goodness
 gatherings
 geomorphogenic
-globeholder
 garnetiferous
 gulosities
 geckotid
