@@ -5028,7 +5028,6 @@ foveated
 fezes
 freir
 foreseers
-fullmouth
 frsiket
 fitches
 fluorescence
@@ -11733,6 +11732,7 @@ flows
 fluorinations
 funebrous
 filibustered
+fullmouth
 flatland
 futwa
 fete
