@@ -22200,6 +22200,7 @@ congeners
 coeffluent
 congenial
 commiserative
+continuativeness
 capes
 calaber
 congeniality
@@ -23553,7 +23554,6 @@ catholicising
 chaffweed
 continuation
 continuatively
-continuativeness
 continuator
 cathodical
 continue
