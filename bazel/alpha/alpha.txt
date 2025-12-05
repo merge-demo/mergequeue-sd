@@ -3718,6 +3718,7 @@ apomorphin
 autocarpic
 adeona
 attenuative
+arsenobenzol
 adephagous
 argoan
 amies
@@ -20353,7 +20354,6 @@ arsenization
 acrologically
 amphimacer
 acanthodidae
-arsenobenzol
 ankylocheilia
 ascogonial
 arsenobismite
