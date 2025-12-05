@@ -2712,7 +2712,6 @@ framing
 feedy
 fedity
 fascis
-foliolate
 fiercer
 fragmentarily
 fellinic
@@ -5892,6 +5891,7 @@ frontomalar
 facilely
 folliculosis
 frankalmoigne
+foliolate
 forjesket
 frostbites
 flogs
