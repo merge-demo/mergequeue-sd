@@ -12392,7 +12392,6 @@ bombonne
 bombora
 bawls
 beswarmed
-bombus
 bombardelle
 bomi
 bomos
@@ -17295,6 +17294,7 @@ bummel
 bummie
 bumming
 basilweed
+bombus
 bummler
 barberite
 bumped
