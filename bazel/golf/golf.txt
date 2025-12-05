@@ -1751,6 +1751,7 @@ goldstone
 genotypes
 glike
 gunsmiths
+grocery
 geogonical
 gastronosus
 gammon
@@ -4058,7 +4059,6 @@ gastritic
 grisettes
 gelatines
 gilliflower
-grocery
 gastronome
 glonoine
 genitorial
