@@ -1434,7 +1434,6 @@ efflux
 expressionlessly
 eduardo
 endoenteritis
-erythroclastic
 erythroscope
 emblazons
 ejectivity
@@ -6201,6 +6200,7 @@ elision
 ennoblement
 estuant
 ennoblements
+erythroclastic
 euryhaline
 exaspidean
 esker
