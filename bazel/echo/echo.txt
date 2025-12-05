@@ -9489,6 +9489,7 @@ estus
 eupneas
 essayistic
 esca
+ethine
 earthquaking
 eulogia
 electrolithotrity
@@ -11239,7 +11240,6 @@ eophyton
 eradiated
 evangeliarium
 enalyron
-ethine
 electropuncture
 evangelic
 evangelical
