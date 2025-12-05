@@ -9551,6 +9551,7 @@ aspidomancy
 anthema
 alchemistry
 ammocetes
+actinopterygian
 anoegenetic
 altimetrically
 abadite
@@ -21578,7 +21579,6 @@ aspidochirota
 admissively
 aspidospermine
 aleucemic
-actinopterygian
 aspirant
 amoraic
 agonizing
