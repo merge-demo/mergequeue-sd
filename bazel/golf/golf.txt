@@ -2788,7 +2788,6 @@ gristly
 gabies
 gangwayed
 governably
-glassie
 gelee
 gantlope
 goblets
@@ -3509,6 +3508,7 @@ gelignite
 gnomical
 guyots
 gramercies
+glassie
 gluier
 grandfatherless
 girding
