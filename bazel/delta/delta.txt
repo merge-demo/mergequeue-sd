@@ -13531,7 +13531,6 @@ disseason
 diazotype
 disseat
 disgood
-diphyodont
 donnism
 datelines
 doumas
@@ -14018,6 +14017,7 @@ druxiness
 disparadise
 disporum
 daddled
+diphyodont
 distrainable
 distraining
 dollin
