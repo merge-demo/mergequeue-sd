@@ -11279,6 +11279,7 @@ actuated
 administratorship
 apiose
 acropodium
+anapophyses
 accordable
 amphisbaenoid
 abri
@@ -20119,7 +20120,6 @@ apiologies
 arpents
 ascidia
 antihectic
-anapophyses
 arr
 arracach
 airwayman
