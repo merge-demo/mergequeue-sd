@@ -8180,7 +8180,6 @@ chairway
 cryptogamian
 conjunctivae
 chairwarmer
-chairwomen
 cyanocitta
 chaiseless
 chaises
@@ -20444,6 +20443,7 @@ customhouse
 compartimenti
 chimley
 comparting
+chairwomen
 compartition
 chained
 chemically
