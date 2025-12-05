@@ -11121,7 +11121,6 @@ antiorthodoxly
 amperometer
 asswage
 antiaphrodisiac
-anglomania
 assures
 ampersands
 amphanthia
@@ -23607,6 +23606,7 @@ aumrie
 alforjas
 amply
 adventuring
+anglomania
 andaqui
 antignostic
 arcsin
