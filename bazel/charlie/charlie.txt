@@ -580,6 +580,7 @@ caducean
 caducecei
 caducei
 caduceus
+currawong
 coinhabitant
 caduciary
 caducibranch
@@ -2937,7 +2938,6 @@ cantdog
 compensatively
 cantefable
 childlier
-currawong
 canter
 canterburian
 cladosporium
