@@ -1237,6 +1237,7 @@ flatdom
 faradism
 fastening
 frocked
+foals
 futteret
 fama
 favella
@@ -2200,7 +2201,6 @@ feminility
 feminin
 fondlesome
 fluorinates
-foals
 feudee
 freshmanhood
 fikie
