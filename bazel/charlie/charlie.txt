@@ -14308,6 +14308,7 @@ circumsinous
 circumsolar
 collow
 cocciferous
+concavities
 circumspangle
 crambid
 crystalwort
@@ -26379,7 +26380,6 @@ concaved
 cinderlike
 coterie
 ciminite
-concavities
 centipoise
 clergess
 coterminousness

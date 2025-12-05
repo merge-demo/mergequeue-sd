@@ -9438,6 +9438,7 @@ dismountable
 dejunkerize
 diffusions
 diffusive
+dunderheads
 diffusors
 diabolus
 detoxified
@@ -11005,7 +11006,6 @@ disagree
 dubbah
 despoils
 dizzying
-dunderheads
 discrive
 dithiobenzoic
 duoliteral
