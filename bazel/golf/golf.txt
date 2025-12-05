@@ -2582,7 +2582,6 @@ galenites
 grosses
 gaiterless
 giveaways
-generalized
 graywall
 guv
 gauchely
@@ -4854,6 +4853,7 @@ guideway
 gypaetus
 griffinism
 gynecidal
+generalized
 garlicwort
 glades
 graupels
