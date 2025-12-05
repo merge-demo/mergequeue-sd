@@ -11659,7 +11659,6 @@ ambuling
 antineutral
 aryepiglottidean
 anticarnivorous
-acoria
 argyrodite
 alphosises
 abaser
@@ -17085,6 +17084,7 @@ antistes
 administrant
 atomic
 apodemas
+acoria
 autogamy
 asportation
 apodematal
