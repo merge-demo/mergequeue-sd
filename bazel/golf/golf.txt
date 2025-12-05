@@ -3012,7 +3012,6 @@ goldenknop
 gorgoniacean
 gaps
 goatherdess
-guildsmen
 geomancy
 grumbled
 glosser
@@ -6281,6 +6280,7 @@ ghostiest
 gconv
 gentle
 gulpin
+guildsmen
 gynandrarchic
 galoch
 gospelly
