@@ -6160,7 +6160,6 @@ enmity
 eparchean
 entracte
 embattles
-ethicizes
 enmove
 emusified
 ethnomusicological
@@ -14136,6 +14135,7 @@ ephemerality
 enseraph
 entwinement
 enplanement
+ethicizes
 emulates
 enlard
 entocuneiform
