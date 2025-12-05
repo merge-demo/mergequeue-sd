@@ -1014,7 +1014,6 @@ feverweed
 fretful
 federalese
 filicornia
-fragmentalize
 flatboats
 finalists
 farinometer
@@ -5037,6 +5036,7 @@ fluctuates
 flamelet
 fun
 fuligo
+fragmentalize
 fundless
 fumettes
 flagstaff
