@@ -5085,7 +5085,6 @@ elevatingly
 eavesdrop
 eclecticism
 endearingly
-exemptible
 evertebrata
 emotiovascular
 endocarpal
@@ -8890,6 +8889,7 @@ excambion
 ergatogyne
 earflaps
 ergatomorphic
+exemptible
 ergo
 extrameridian
 ergodic
