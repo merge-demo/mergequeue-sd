@@ -3561,7 +3561,6 @@ bouzoukia
 bathysphere
 bigmouths
 burriest
-boliviano
 bathythermograph
 bathkol
 bipartite
@@ -4746,6 +4745,7 @@ butcherliness
 badmash
 bangs
 bedlams
+boliviano
 bienseance
 bedlar
 bazoo
