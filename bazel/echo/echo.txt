@@ -1963,7 +1963,6 @@ expressively
 eppy
 exenterated
 eastland
-eventration
 ejoo
 enravishing
 exanimation
@@ -3893,6 +3892,7 @@ evendown
 exterminating
 eminent
 easternized
+eventration
 esperance
 eminently
 enamored
