@@ -1101,6 +1101,7 @@ glares
 guarding
 gainfully
 graphicness
+guanyl
 gowdy
 goularo
 gormandizers
@@ -5759,7 +5760,6 @@ gantline
 gallant
 gaskins
 globoseness
-guanyl
 grieshuckle
 girasols
 gyrolite
