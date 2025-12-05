@@ -2354,7 +2354,6 @@ gustfulness
 gymnics
 geographism
 gelees
-geologist
 gurging
 gymnocerata
 gadinic
@@ -4404,6 +4403,7 @@ grindings
 groundhog
 gink
 goles
+geologist
 gorgoneia
 grandsonship
 gloss
