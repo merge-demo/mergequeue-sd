@@ -2621,7 +2621,6 @@ fluviatic
 fraters
 feedings
 felspathic
-fainaigue
 froufrou
 flickering
 foxfishes
@@ -8843,6 +8842,7 @@ facioscapulohumeral
 foreigners
 frenzily
 fot
+fainaigue
 florideous
 foreshorten
 fictious
