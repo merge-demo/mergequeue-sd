@@ -282,7 +282,6 @@ foreshortening
 ford
 febrifacient
 footpounds
-firbolg
 flagarie
 fissle
 foxfire
@@ -4212,6 +4211,7 @@ fireplace
 fiendishness
 fraist
 fussification
+firbolg
 flanky
 fracases
 freakishness
