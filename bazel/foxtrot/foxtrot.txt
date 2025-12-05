@@ -3249,6 +3249,7 @@ ferventness
 foppery
 flaught
 filbert
+frigorimeter
 freit
 furciferine
 fifteenthly
@@ -8805,7 +8806,6 @@ flexured
 friss
 familiarly
 feucht
-frigorimeter
 fluidible
 flushgate
 forespoke
