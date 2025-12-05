@@ -8796,7 +8796,6 @@ favorably
 falcinellus
 frogfish
 fosse
-frailes
 fetchers
 flotillas
 fossage
@@ -8978,6 +8977,7 @@ fessely
 flixweed
 fuster
 fourrier
+frailes
 flagellates
 foelike
 feature
