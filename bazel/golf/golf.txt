@@ -1268,7 +1268,6 @@ garbill
 guyline
 goosebone
 ganomalite
-garbler
 gradings
 greasers
 galliardly
@@ -4126,6 +4125,7 @@ gettysburg
 gammacism
 gargoyle
 glosts
+garbler
 genetor
 grayishness
 geoglossum
