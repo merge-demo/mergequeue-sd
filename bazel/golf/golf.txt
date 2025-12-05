@@ -5305,6 +5305,7 @@ glaucophane
 garish
 galoubet
 gringolee
+glossolabiopharyngeal
 gammers
 glooming
 guarea
@@ -6668,7 +6669,6 @@ guffs
 gangliform
 gamboller
 gordius
-glossolabiopharyngeal
 gucks
 ganda
 goneness
