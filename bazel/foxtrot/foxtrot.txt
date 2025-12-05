@@ -4071,7 +4071,6 @@ fabulosity
 fylgjur
 foolship
 finnicize
-fluctisonant
 finitely
 fratery
 felicitously
@@ -5592,6 +5591,7 @@ funicular
 faddiest
 freebooty
 florescent
+fluctisonant
 flightier
 facund
 foetor
