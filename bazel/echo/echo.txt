@@ -4769,7 +4769,6 @@ epistler
 entomophytous
 establishments
 exploratory
-extracardial
 encloister
 extend
 endosporously
@@ -11244,6 +11243,7 @@ enalyron
 electropuncture
 evangelic
 evangelical
+extracardial
 endoplastron
 extemporising
 evangelically
