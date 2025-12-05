@@ -8890,6 +8890,7 @@ charases
 charbonnier
 coldheartedly
 crumby
+confinable
 compassing
 chancellery
 calceolately
@@ -21948,7 +21949,6 @@ configurative
 configure
 configures
 coxcombry
-confinable
 confine
 comports
 confined
