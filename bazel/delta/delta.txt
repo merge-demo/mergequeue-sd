@@ -4407,7 +4407,6 @@ demasting
 dematerialisation
 dematerialised
 donal
-disproportionation
 dioeciousness
 dematerialized
 dematerializing
@@ -11336,6 +11335,7 @@ disced
 devaraja
 dost
 dalan
+disproportionation
 dinichthys
 dinner
 discepts
