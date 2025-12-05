@@ -5727,7 +5727,6 @@ dichroite
 daftlike
 depletions
 danton
-depletive
 denutrition
 disparities
 dishearteningly
@@ -13942,6 +13941,7 @@ dogwatch
 diaetetae
 doolee
 diagenesis
+depletive
 discrepance
 drawtubes
 diatomaceoid
