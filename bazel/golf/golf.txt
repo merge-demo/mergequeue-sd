@@ -9114,7 +9114,6 @@ gherkin
 groggy
 gentlehood
 grinch
-geoid
 garotte
 governableness
 glossophytia
@@ -9335,6 +9334,7 @@ guessing
 goter
 goldenback
 giggles
+geoid
 gamesome
 gauffre
 gallipot
