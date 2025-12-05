@@ -8797,7 +8797,6 @@ diazins
 dulcifying
 declarators
 defeat
-defrocking
 dictaphone
 dequeen
 dragsmen
@@ -13713,6 +13712,7 @@ demetrian
 dashnaktzutiun
 deadfall
 dissite
+defrocking
 disintermediation
 defects
 disengagedness
