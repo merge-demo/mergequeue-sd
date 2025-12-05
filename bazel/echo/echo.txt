@@ -7188,7 +7188,6 @@ emulate
 ethal
 electrons
 ecumenic
-elvishly
 enneasyllabic
 epoxying
 etheostoma
@@ -9997,6 +9996,7 @@ etamins
 enamdar
 entepicondylar
 etape
+elvishly
 escruage
 etapes
 exorhason
