@@ -3682,7 +3682,6 @@ geissospermin
 griphus
 groover
 gaslighted
-gelastic
 grapsus
 ghostfishes
 garrisonism
@@ -10117,6 +10116,7 @@ gonfaloniership
 gasoscope
 glottid
 gazetteer
+gelastic
 gonystylus
 giro
 goldenfleece
