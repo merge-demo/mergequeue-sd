@@ -310,7 +310,6 @@ fag
 feint
 fostell
 finagles
-fibrillated
 finochio
 flusker
 futureness
@@ -950,6 +949,7 @@ frape
 fastigiums
 forkers
 formalizer
+fibrillated
 fillagreed
 foundership
 ferninst
