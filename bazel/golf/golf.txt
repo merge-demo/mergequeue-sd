@@ -7362,7 +7362,6 @@ ghee
 groggery
 gossep
 graphs
-gaberlunzie
 gastroenterotomy
 gunation
 globe
@@ -7645,6 +7644,7 @@ girlies
 ghoster
 gears
 glancingly
+gaberlunzie
 guenons
 guardianless
 geomantic
