@@ -4200,7 +4200,6 @@ felicide
 footsoldier
 footsies
 fowls
-farinosely
 formed
 fohat
 firepinks
@@ -9232,6 +9231,7 @@ fortunately
 fraised
 flemishes
 frug
+farinosely
 fertilities
 futilely
 fraises
