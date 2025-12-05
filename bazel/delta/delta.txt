@@ -1321,7 +1321,6 @@ destin
 dissaved
 diobolons
 dishy
-defassa
 dolf
 daltonic
 defial
@@ -12538,6 +12537,7 @@ dicotyledonary
 disinfectants
 drafter
 dreg
+defassa
 disinfected
 deceivers
 denaturizer
