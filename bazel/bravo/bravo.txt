@@ -398,6 +398,7 @@ belook
 bacteriorhodopsin
 bwana
 backlit
+blesbuck
 betipple
 bailor
 brigadier
@@ -10920,7 +10921,6 @@ biclinia
 barth
 bourrees
 blinkard
-blesbuck
 bedlamism
 blinkards
 bowses

@@ -15132,7 +15132,6 @@ absents
 antiapoplectic
 aquilon
 antienthusiastic
-afterfame
 antienvironmentalism
 antienvironmentalists
 ataxonomic
@@ -15415,6 +15414,7 @@ antiloquy
 asafoetida
 antilottery
 adheres
+afterfame
 amplificatory
 antimalaria
 atelognathia
