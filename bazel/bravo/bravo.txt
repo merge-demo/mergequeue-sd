@@ -2928,6 +2928,7 @@ bracketed
 barrelwise
 barretor
 berberins
+bodkins
 bloodybones
 billowed
 bonus
@@ -11865,7 +11866,6 @@ benthopelagic
 bodywork
 bodyworks
 bodkin
-bodkins
 boardlike
 barmybrained
 bowknot
