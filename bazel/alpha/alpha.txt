@@ -52,7 +52,6 @@ astrakhan
 alcyone
 achira
 allusively
-arcella
 arcaded
 arguitively
 acanthotic
@@ -17112,6 +17111,7 @@ anticlea
 adenocarcinoma
 acmes
 autostethoscope
+arcella
 antibody
 appendicle
 apogamies
