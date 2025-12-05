@@ -1448,6 +1448,7 @@ engineeringly
 euphuisms
 enarbour
 esconson
+eupatrids
 electrophoresis
 eelpout
 effort
@@ -10827,7 +10828,6 @@ extrusive
 enthralling
 eupatorium
 ethnobiology
-eupatrids
 eluent
 exemplars
 enoptromancy

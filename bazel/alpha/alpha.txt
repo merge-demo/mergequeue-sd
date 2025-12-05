@@ -181,6 +181,7 @@ abaue
 annoyment
 arizona
 antepagments
+archaism
 abave
 anaberoga
 allosematic
@@ -18663,7 +18664,6 @@ acroanesthesia
 architraval
 archaises
 archaising
-archaism
 algebraically
 ati
 asporulate
