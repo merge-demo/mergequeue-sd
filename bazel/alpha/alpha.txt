@@ -4052,6 +4052,7 @@ administratrices
 antiarin
 admirable
 anlases
+ammunition
 admirably
 admirals
 ablutions
@@ -17735,7 +17736,6 @@ applications
 anecdotalist
 appositely
 applicative
-ammunition
 applicatively
 applicatory
 autoanticomplement
