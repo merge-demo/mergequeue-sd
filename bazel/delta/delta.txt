@@ -2649,7 +2649,6 @@ dumbcow
 dispensaries
 decolletage
 displeaser
-decollete
 discontinues
 desalter
 decoloring
@@ -12074,6 +12073,7 @@ disentangle
 dissensious
 dentine
 disentanglement
+decollete
 dolichos
 daymare
 drudge
