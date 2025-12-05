@@ -12015,6 +12015,7 @@ bootstrapped
 bohunks
 beverly
 beneficeless
+burnfire
 boyard
 boyardism
 bartholomean
@@ -17718,7 +17719,6 @@ bott
 bewinged
 bloodlike
 beknit
-burnfire
 buckeens
 burnish
 burnishable
