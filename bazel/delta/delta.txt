@@ -6641,7 +6641,6 @@ diaporthe
 dermatrophy
 dicarboxylate
 demembration
-demerol
 deperming
 dreamwhile
 desert
@@ -10918,6 +10917,7 @@ deputationize
 delusions
 denazify
 disabled
+demerol
 doorplates
 defrayer
 deterges
