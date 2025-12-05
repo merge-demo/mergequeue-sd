@@ -3610,7 +3610,6 @@ dermatocoptes
 drywall
 dawny
 depending
-disguise
 desilverize
 debunker
 degass
@@ -15385,6 +15384,7 @@ dearn
 dragginess
 domiciles
 domiciliate
+disguise
 domiciliated
 demineralizer
 detectivism
