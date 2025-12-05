@@ -11244,6 +11244,7 @@ electropuncture
 evangelic
 evangelical
 endoplastron
+extemporising
 evangelically
 erector
 eviler
@@ -11650,7 +11651,6 @@ extortions
 expulses
 enddamaged
 exactable
-extemporising
 exactas
 ergastoplasm
 elaterite
