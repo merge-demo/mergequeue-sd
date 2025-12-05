@@ -6313,6 +6313,7 @@ emodin
 embrocation
 ejusd
 enrolls
+enrollees
 eumycetes
 equijacent
 embowed
@@ -12497,7 +12498,6 @@ electroosmosis
 enomania
 escarbuncle
 esophagotomy
-enrollees
 eximidus
 eximious
 ense
