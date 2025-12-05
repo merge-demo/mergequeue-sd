@@ -5418,7 +5418,6 @@ behallow
 bowldering
 bedin
 betwit
-behammer
 bacula
 beshine
 boarstaff
@@ -9006,6 +9005,7 @@ benzazide
 bitting
 biologics
 busybodyish
+behammer
 bedstands
 bioluminescence
 bewhite
