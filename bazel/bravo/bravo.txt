@@ -1113,6 +1113,7 @@ bootful
 berne
 banquets
 backwall
+bronchus
 borates
 botete
 bankman
@@ -2053,7 +2054,6 @@ baulky
 bannerline
 bannerole
 blossomry
-bronchus
 bcf
 baldest
 blesses

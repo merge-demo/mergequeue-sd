@@ -1733,7 +1733,6 @@ auricomous
 anglicanum
 archtraitor
 antediluvian
-aporia
 abases
 antrotympanic
 arneb
@@ -16685,6 +16684,7 @@ antichurch
 arefaction
 avie
 aph
+aporia
 antilogical
 aggers
 acaridan
