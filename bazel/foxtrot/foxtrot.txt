@@ -5170,6 +5170,7 @@ flossies
 formularist
 fosterlings
 foliaging
+flightworthy
 foxiness
 frontierlike
 frivolers
@@ -7561,7 +7562,6 @@ factors
 ferrules
 foredefeated
 frankheartedness
-flightworthy
 fatuity
 footslogs
 forestaller
