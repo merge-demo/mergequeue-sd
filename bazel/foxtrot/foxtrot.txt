@@ -2879,7 +2879,6 @@ farsightedly
 fouettes
 floorcloth
 find
-febricide
 fibrose
 fimbricate
 featuring
@@ -10428,6 +10427,7 @@ forfex
 feetage
 finnesko
 feta
+febricide
 fescue
 follied
 foreadvice
