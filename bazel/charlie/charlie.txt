@@ -3278,7 +3278,6 @@ capito
 canulated
 capitol
 clingier
-crayfishing
 corregimiento
 capitoline
 capitolium
@@ -10437,6 +10436,7 @@ capiases
 chylaceous
 chilalgia
 consult
+crayfishing
 chylangioma
 chilaria
 coppernose
