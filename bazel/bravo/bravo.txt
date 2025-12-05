@@ -2971,6 +2971,7 @@ barrister
 bootless
 banda
 botts
+birthstones
 buat
 burrel
 barroom
@@ -9530,7 +9531,6 @@ birthright
 bugaboos
 baffeta
 births
-birthstones
 bracteolate
 brontephobia
 bulliform
