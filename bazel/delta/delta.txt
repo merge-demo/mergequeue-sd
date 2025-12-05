@@ -13502,6 +13502,7 @@ denasalize
 dissait
 diblastula
 dissatisfaction
+dumby
 dissatisfactions
 dissatisfiedly
 dustrag
@@ -18094,7 +18095,6 @@ dumbfounding
 denatures
 discourageable
 despisers
-dumby
 dumbing
 duplon
 deictically
