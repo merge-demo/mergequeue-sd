@@ -2725,6 +2725,7 @@ dareful
 deconsecrated
 detailedness
 demitrain
+difformity
 deconsideration
 decontaminating
 diatessaron
@@ -15368,7 +15369,6 @@ domesticator
 decylene
 dehumidifies
 deciliters
-difformity
 dislocatedly
 diffusibleness
 dikaryotic
