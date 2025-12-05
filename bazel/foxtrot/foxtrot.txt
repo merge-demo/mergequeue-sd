@@ -4711,7 +4711,6 @@ fertil
 furtherest
 fiddleneck
 freethinkers
-farcies
 feuillage
 fulldo
 flag
@@ -10086,6 +10085,7 @@ fenetre
 fluviometer
 fiberizing
 flyover
+farcies
 flintifying
 forefatherly
 franion

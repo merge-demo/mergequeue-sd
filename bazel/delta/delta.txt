@@ -3565,7 +3565,6 @@ dufoil
 drapery
 drowsiest
 defrauds
-defreeze
 defrocked
 dubbed
 derogately
@@ -9490,6 +9489,7 @@ detester
 disparateness
 dopy
 digestibility
+defreeze
 disserting
 demark
 digestible
