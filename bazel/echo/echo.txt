@@ -6828,6 +6828,7 @@ enl
 equestriennes
 ethnogenic
 epicranial
+erigerons
 exoticism
 entombs
 excremental
@@ -8946,7 +8947,6 @@ exothecium
 extrasensuous
 emotiomotor
 extrovertive
-erigerons
 echoers
 enables
 enzymatic
