@@ -8315,7 +8315,6 @@ challenger
 challengers
 challenging
 challie
-cricetid
 cenozoology
 challies
 challiho
@@ -8754,6 +8753,7 @@ curiboca
 crackup
 carpocapsa
 cognitives
+cricetid
 chapless
 chapleted
 countersmile
