@@ -5600,7 +5600,6 @@ evaporate
 ectognatha
 equalization
 epidendrum
-elutions
 enfold
 ethyl
 exceptionalness
@@ -12121,6 +12120,7 @@ electral
 electorates
 edrioasteroid
 excerpter
+elutions
 eubacterium
 ency
 excruciating
