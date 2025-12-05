@@ -4236,6 +4236,7 @@ abomas
 australianism
 adorn
 adornation
+arbusta
 amphibalus
 apartado
 apologizers
@@ -18560,7 +18561,6 @@ arales
 arbuscular
 ademonist
 arbust
-arbusta
 analytics
 arbutean
 alphean
