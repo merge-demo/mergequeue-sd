@@ -10352,7 +10352,6 @@ elephantine
 enquired
 explain
 etwite
-electrometallurgical
 ethnolinguist
 estensible
 erysibe
@@ -13785,6 +13784,7 @@ embargoing
 extortioners
 entomogenous
 elachista
+electrometallurgical
 ethnicism
 esquiring
 exacuate
