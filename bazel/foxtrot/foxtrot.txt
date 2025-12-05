@@ -1527,7 +1527,6 @@ foulish
 foreshift
 foetuses
 fauterer
-fauteuil
 fussy
 foreteach
 farrow
@@ -6108,6 +6107,7 @@ fangled
 farthingless
 falafel
 fishlines
+fauteuil
 fabrique
 footblower
 feely
