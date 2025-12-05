@@ -16799,7 +16799,6 @@ demitube
 demirobe
 dyscrasial
 dichroscopic
-dep
 diprimary
 drawbore
 deare
@@ -17525,6 +17524,7 @@ drugs
 druidess
 dunghilly
 druidical
+dep
 denumeral
 disulfuric
 druidisms
