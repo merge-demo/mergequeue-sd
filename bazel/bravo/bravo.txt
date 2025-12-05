@@ -6006,7 +6006,6 @@ bevaring
 bemask
 bricktop
 bossier
-brewis
 bribeability
 bruises
 bitterbark
@@ -12635,6 +12634,7 @@ beshadows
 bonze
 butterhead
 bonzer
+brewis
 betattered
 betided
 belluine
