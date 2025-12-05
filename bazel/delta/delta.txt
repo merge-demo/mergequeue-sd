@@ -6461,6 +6461,7 @@ dozened
 desacralization
 drizzled
 dictatorially
+dewan
 degenerating
 drugshop
 danseusse
@@ -8611,7 +8612,6 @@ destroying
 doormaking
 deorsumversion
 driftland
-dewan
 dissatisfied
 driller
 dispunitive
