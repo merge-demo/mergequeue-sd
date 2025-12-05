@@ -8027,7 +8027,6 @@ chaetal
 carromata
 chanidae
 clanks
-chaetifera
 chaetiferous
 cocytean
 chaetochloa
@@ -18900,6 +18899,7 @@ collapsability
 collapses
 contam
 collapsing
+chaetifera
 chlorines
 collarbird
 collarbone
