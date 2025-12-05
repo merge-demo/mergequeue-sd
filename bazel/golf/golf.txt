@@ -2307,7 +2307,6 @@ grosse
 gripmen
 geological
 grallatorial
-gelable
 gymnodiniaceae
 galidictis
 ganofs
@@ -5260,6 +5259,7 @@ gibson
 glycemic
 groundline
 garrulousness
+gelable
 gleety
 glottidean
 guineaman
