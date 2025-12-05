@@ -859,7 +859,6 @@ baggala
 borderlight
 bagganet
 baggara
-bawcock
 beseechingly
 beamsmen
 baggie
@@ -8177,6 +8176,7 @@ blossomed
 bivalencies
 bloodbird
 bateaux
+bawcock
 bieldy
 bossa
 bellicoseness
