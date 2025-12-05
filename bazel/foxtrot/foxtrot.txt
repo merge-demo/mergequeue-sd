@@ -8786,6 +8786,7 @@ firry
 flashtube
 frustula
 feoffing
+foreschooling
 firman
 flunks
 favorably
@@ -10353,7 +10354,6 @@ footlining
 frontcourt
 fructus
 folkmote
-foreschooling
 fragrances
 foreboard
 feldspathization

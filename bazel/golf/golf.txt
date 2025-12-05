@@ -94,7 +94,6 @@ gnomology
 garbling
 glottalizing
 gabbai
-gadge
 gynobaseous
 goldthread
 goodnaturedness
@@ -286,6 +285,7 @@ gibing
 gaslock
 gaddish
 groundliness
+gadge
 grubstaked
 globins
 geet
