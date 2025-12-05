@@ -1681,6 +1681,7 @@ deanships
 dothiorella
 deanthropomorphism
 diasynthesis
+dockyards
 deanthropomorphization
 deappetizing
 dearborn
@@ -14786,7 +14787,6 @@ dockhand
 dockhouse
 dilambdodont
 deringers
-dockyards
 docking
 dockization
 dockland
