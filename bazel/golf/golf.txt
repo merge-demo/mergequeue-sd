@@ -9098,7 +9098,6 @@ gyres
 gease
 graveyards
 glossoscopy
-glaucomys
 glumal
 glires
 gladiatorism
@@ -9677,6 +9676,7 @@ gyroidally
 gastrojejunostomies
 grueled
 glories
+glaucomys
 ghana
 guipures
 gamogony
