@@ -2632,6 +2632,7 @@ garaged
 gabelled
 gruesomest
 genetta
+gaugeable
 grendel
 geomorphist
 gypsyweed
@@ -4332,7 +4333,6 @@ gawks
 geodesist
 galeopsis
 gingered
-gaugeable
 guss
 guilds
 garrulity
