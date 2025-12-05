@@ -4638,6 +4638,7 @@ eulogical
 empyreumatical
 ectostosis
 epithalamiums
+eatery
 enajim
 ermelin
 eminence
@@ -7940,7 +7941,6 @@ epilogical
 entomophaga
 eurystomatous
 emitter
-eatery
 extrastapedial
 endosmosis
 exudates
