@@ -2193,7 +2193,6 @@ barbados
 broggle
 blobs
 badineur
-bawties
 bung
 bandgap
 barbara
@@ -8340,6 +8339,7 @@ biggy
 biggie
 blepharoceridae
 beribboned
+bawties
 bradyauxetic
 bepuff
 bronchoscope
