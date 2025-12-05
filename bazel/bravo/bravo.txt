@@ -4474,6 +4474,7 @@ bursicle
 blenniidae
 butyrone
 bucklers
+brachiopodous
 bustling
 becry
 becrime
@@ -14620,7 +14621,6 @@ bararesque
 branular
 babyishly
 basiparaplastin
-brachiopodous
 buffware
 brasenia
 braseros
