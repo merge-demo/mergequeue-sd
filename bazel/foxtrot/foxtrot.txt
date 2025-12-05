@@ -3096,6 +3096,7 @@ formulas
 frottages
 filoplume
 fountaineer
+furacious
 finnick
 fibroenchondroma
 faring
@@ -11262,7 +11263,6 @@ finbacks
 forrit
 funster
 furans
-furacious
 farces
 frabjous
 fernando
