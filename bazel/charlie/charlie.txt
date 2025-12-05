@@ -614,7 +614,6 @@ combwright
 coorg
 ctenodipterini
 caecilia
-caeciliidae
 chiropod
 citizenizing
 caecotomy
@@ -2156,6 +2155,7 @@ camphene
 camphenes
 camphine
 cufflinks
+caeciliidae
 conturbation
 channelizing
 coalbin
