@@ -3303,6 +3303,7 @@ bothering
 basisphenoidal
 barbut
 basitemporal
+brique
 beguilers
 balao
 besotment
@@ -15540,7 +15541,6 @@ barraclade
 braggadocio
 bryozoon
 belyingly
-brique
 bilbos
 brisances
 bination
