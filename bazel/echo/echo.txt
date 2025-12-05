@@ -5839,6 +5839,7 @@ exibilate
 epiblastema
 engrailed
 elsewards
+epigones
 epizoicide
 engrainer
 electrocratic
@@ -8057,7 +8058,6 @@ epiphegus
 enwombed
 emgalla
 eteocles
-epigones
 ectodermal
 exteriorly
 ego

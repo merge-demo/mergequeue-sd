@@ -4104,7 +4104,6 @@ fontanel
 fersmite
 fratriage
 fipples
-floscule
 firca
 foisted
 fluorometry
@@ -10886,6 +10885,7 @@ feeing
 fieldwort
 forsworn
 falloffs
+floscule
 fides
 fibrocrystalline
 fulleries
