@@ -4345,6 +4345,7 @@ exceeders
 exothermous
 enterodynia
 emulative
+eyres
 enamour
 enamouredness
 expostulator
@@ -7401,7 +7402,6 @@ everywhither
 earthmoving
 epembryonic
 equipollency
-eyres
 epencephala
 embittering
 emprise
