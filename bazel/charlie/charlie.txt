@@ -10531,7 +10531,6 @@ cordonazo
 citizenhood
 cardon
 cirsocele
-cymbocephaly
 cicadae
 chill
 cyclanthaceous
@@ -24449,6 +24448,7 @@ cheeseburger
 cootfoot
 crotyl
 cooty
+cymbocephaly
 cootie
 copps
 coelogyne
