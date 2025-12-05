@@ -9740,7 +9740,6 @@ goodwills
 gargantuan
 guidonian
 georgiana
-gandurah
 gambades
 greyhounds
 grocerwise
@@ -9845,6 +9844,7 @@ guaiac
 goitcho
 gymnotid
 ginny
+gandurah
 guaiaconic
 glebous
 guesstimated
