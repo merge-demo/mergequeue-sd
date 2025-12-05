@@ -9768,6 +9768,7 @@ elamp
 eurhythmy
 exitious
 enthusiast
+electropoion
 expressure
 essentialization
 essentially
@@ -13955,7 +13956,6 @@ expressless
 epimer
 endokaryogamy
 enface
-electropoion
 escheatage
 extraparochial
 equicurve
