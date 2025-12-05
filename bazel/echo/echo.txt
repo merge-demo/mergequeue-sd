@@ -2056,7 +2056,6 @@ encouragingly
 elaic
 elaioplast
 elamite
-elamitish
 episcope
 electrophorese
 eudialyte
@@ -11174,6 +11173,7 @@ evacuated
 epitomatory
 endeavored
 epexegetical
+elamitish
 evacuations
 evulse
 entropionize
