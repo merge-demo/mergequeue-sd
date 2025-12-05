@@ -6371,7 +6371,6 @@ blackbirding
 birdwise
 blossoming
 bragger
-beadiness
 billbeetle
 blastogranitic
 biophysicists
@@ -17795,6 +17794,7 @@ bursary
 bassine
 backstroked
 bacterizing
+beadiness
 brave
 banghy
 begani
