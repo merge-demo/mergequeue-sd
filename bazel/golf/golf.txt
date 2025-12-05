@@ -8541,6 +8541,7 @@ generates
 geranomorph
 geodetical
 gusla
+groenlandicus
 gilo
 germaneness
 gasolene
@@ -9297,7 +9298,6 @@ gecko
 gallstone
 graduale
 geoffrey
-groenlandicus
 glucuronic
 goyana
 gurge
