@@ -5664,7 +5664,6 @@ casten
 catapleiite
 catapulted
 catapultic
-catapultier
 colthood
 cataracts
 cataractwise
@@ -16322,6 +16321,7 @@ collocalia
 cliquy
 creasol
 cliquiest
+catapultier
 consentingness
 campaigner
 cliquing
