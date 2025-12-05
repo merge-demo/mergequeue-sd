@@ -14877,6 +14877,7 @@ crossopterygian
 cookbooks
 corypphaei
 ceased
+cofferfish
 cytopyge
 cantaro
 chimalapa
@@ -30531,7 +30532,6 @@ cubical
 catskinner
 catonic
 cubicities
-cofferfish
 cubicula
 costly
 collieries
