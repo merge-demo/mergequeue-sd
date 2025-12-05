@@ -4420,7 +4420,6 @@ attractor
 ablactated
 aurae
 antonella
-amaryllidaceous
 acastus
 almightiness
 alphanumerics
@@ -5130,6 +5129,7 @@ annihilated
 aestivate
 avocate
 aestivates
+amaryllidaceous
 azotite
 admonisher
 accosting
