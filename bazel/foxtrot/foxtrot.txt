@@ -8097,7 +8097,6 @@ foretaster
 forefin
 fretsaw
 falisci
-fractionate
 fanaticalness
 foretell
 filmiest
@@ -8148,6 +8147,7 @@ fideicommissor
 foundlings
 fingerboards
 fuliginous
+fractionate
 fidgeting
 fulicinae
 foreverness
