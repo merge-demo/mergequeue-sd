@@ -3461,7 +3461,6 @@ gynecology
 grum
 gubernance
 gove
-gaveler
 gudgeons
 gowl
 gelatinated
@@ -5419,6 +5418,7 @@ gastroduodenal
 greenest
 gona
 grates
+gaveler
 geoplana
 glossily
 girdle
