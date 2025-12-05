@@ -6447,7 +6447,6 @@ forsar
 flurn
 flurried
 futhorks
-fernbird
 furiosa
 ferried
 fumagine
@@ -6882,6 +6881,7 @@ forswear
 foreignization
 fellest
 fadmonger
+fernbird
 footsie
 freekirker
 flaxseeds
