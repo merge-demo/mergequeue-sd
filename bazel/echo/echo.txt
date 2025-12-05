@@ -7986,7 +7986,6 @@ estab
 eliminand
 enomaniac
 epidermous
-expenselessness
 epineuneuria
 enterocholecystostomy
 evolutionary
@@ -13942,6 +13941,7 @@ exotery
 employments
 extraoral
 extraordinary
+expenselessness
 enduement
 exterioration
 eschews
