@@ -1638,6 +1638,7 @@ gingili
 gleams
 gametogenesis
 gastralgy
+gallerygoer
 gaunted
 gastralgia
 gastreas
@@ -9366,7 +9367,6 @@ gimmick
 gonocoel
 gravestones
 groop
-gallerygoer
 glamorize
 goggliest
 gwen
