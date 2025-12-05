@@ -5199,6 +5199,7 @@ gassiest
 greathearted
 grief
 guidwillie
+gardener
 gainsay
 gunbright
 grandioseness
@@ -6229,7 +6230,6 @@ ganglionless
 grivois
 gossipdom
 gamblesome
-gardener
 geomyidae
 guahibo
 glyptodontidae
