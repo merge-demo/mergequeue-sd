@@ -411,6 +411,7 @@ extruct
 erythrinus
 espanol
 echowise
+effulges
 ebulliate
 essera
 exomphalus
@@ -3486,7 +3487,6 @@ edwardian
 erose
 extraterrene
 escamotage
-effulges
 electromechanically
 evilnesses
 encarnalising
