@@ -7807,7 +7807,6 @@ cervicapra
 cervicectomy
 cyanided
 caenogenesis
-cichloid
 cerviciplex
 cervicispinal
 cervicitis
@@ -24302,6 +24301,7 @@ crull
 creatable
 classist
 corncutting
+cichloid
 coarrange
 cookeite
 cooker
