@@ -7540,7 +7540,6 @@ echiuroid
 endungeon
 eaceworm
 ecuelle
-eudaimonism
 eulamellibranch
 epicardia
 eyebrow
@@ -12919,6 +12918,7 @@ ethnographical
 effluvias
 entodermic
 earstones
+eudaimonism
 electropuncturing
 epinine
 enteradenographic
