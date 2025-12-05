@@ -10697,7 +10697,6 @@ eva
 euglenaceae
 extrasyllabic
 enswathe
-ensigning
 embraced
 endopleural
 erebus
@@ -10903,6 +10902,7 @@ exothermic
 ethanoyl
 esthete
 electromuscular
+ensigning
 eastlander
 eanlings
 eudemian

@@ -12799,7 +12799,6 @@ angiopathy
 agnosis
 aeneolithic
 angioplasty
-androgyn
 asseize
 angiopressure
 acquaintance
@@ -14230,6 +14229,7 @@ askewgee
 antipart
 anterointernal
 anterolateral
+androgyn
 antiferroelectric
 automorphically
 agiotages
