@@ -6661,6 +6661,7 @@ gruss
 grittiest
 gyrodyne
 gateman
+gliders
 gropes
 gambusias
 gunnysack
@@ -8662,7 +8663,6 @@ grossulaceous
 gigartinales
 gummic
 gonocalycine
-gliders
 growthless
 glycohaemia
 gladys
