@@ -3439,6 +3439,7 @@ embellisher
 embellishers
 eutelegenic
 enchained
+exigently
 encolden
 embers
 estival
@@ -12438,7 +12439,6 @@ epapillate
 elengely
 ea
 entorganism
-exigently
 exhilaratingly
 encasserole
 endite

@@ -828,7 +828,6 @@ gnarring
 gamblesomeness
 greenback
 genseng
-gambogian
 gombroons
 grangerise
 genistin
@@ -5115,6 +5114,7 @@ grav
 gomerec
 grittier
 gunman
+gambogian
 garboards
 guilelessly
 glareproof
