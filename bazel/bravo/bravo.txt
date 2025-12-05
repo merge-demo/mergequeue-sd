@@ -4855,7 +4855,6 @@ bloomfell
 bedunce
 buskins
 bluebonnets
-brightened
 bustard
 berean
 biplane
@@ -15178,6 +15177,7 @@ briberies
 bactetiophage
 bicentennials
 bedeaf
+brightened
 blancs
 barbiturate
 batwa
