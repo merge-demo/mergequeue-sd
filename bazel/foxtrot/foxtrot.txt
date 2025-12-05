@@ -5469,6 +5469,7 @@ fleshy
 fillet
 ferally
 fleshing
+floreate
 fettuccine
 formatters
 fanjets
@@ -7383,7 +7384,6 @@ forereport
 forceless
 fasciolar
 flagellariaceae
-floreate
 flameholder
 fasciculation
 fey
