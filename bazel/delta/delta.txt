@@ -4728,7 +4728,6 @@ downswings
 dystocial
 decking
 derealization
-declaration
 demiurgos
 dewaxed
 drifting
@@ -8534,6 +8533,7 @@ dantomania
 disaccharides
 diapause
 diapauses
+declaration
 dronkelew
 donaries
 decarburize
