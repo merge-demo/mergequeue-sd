@@ -737,7 +737,6 @@ ensamples
 erythropoietin
 exclusory
 endocytotic
-ecumenically
 ecosystem
 ephthianura
 enstyle
@@ -8219,6 +8218,7 @@ exodontic
 effaceable
 episcia
 extracting
+ecumenically
 ermani
 elydoric
 exaltee
