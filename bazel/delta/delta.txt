@@ -1478,7 +1478,6 @@ deckhouses
 dazes
 dazzle
 dawnstreak
-discriminative
 dorsoventrality
 diffusor
 dasypaedal
@@ -8403,6 +8402,7 @@ dialystelic
 dialister
 dilatator
 diabase
+discriminative
 dialists
 deacetylated
 dragboat
