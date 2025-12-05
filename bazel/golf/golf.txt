@@ -2668,6 +2668,7 @@ gloriosity
 gangliectomy
 gourde
 grapnel
+genevois
 gervas
 gardening
 gynophagite
@@ -8212,7 +8213,6 @@ gooseneck
 graphemically
 gris
 gasconading
-genevois
 graphemics
 graphically
 glutamates
