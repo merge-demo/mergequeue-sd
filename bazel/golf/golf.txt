@@ -4401,7 +4401,6 @@ glottitis
 gowdnook
 grindings
 groundhog
-gink
 goles
 geologist
 gorgoneia
@@ -5247,6 +5246,7 @@ gramophone
 germinant
 glyptologist
 goldarnedest
+gink
 glandulousness
 gluttoness
 gaywing
