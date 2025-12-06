@@ -9246,6 +9246,7 @@ discontented
 dieldrin
 derelict
 decahedrodra
+divisory
 dieldrins
 dielectric
 doziest
@@ -17073,7 +17074,6 @@ dactyliographer
 dribbles
 dosers
 disthroning
-divisory
 dismally
 diclinies
 diaplexus
