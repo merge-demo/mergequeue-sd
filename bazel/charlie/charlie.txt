@@ -19133,7 +19133,6 @@ colloidality
 citylike
 colloider
 coalsheds
-czarship
 colloidochemical
 chemesthesis
 cordless
@@ -19636,6 +19635,7 @@ comanic
 comarum
 comate
 cowerer
+czarship
 coquilla
 camarilla
 copintank
