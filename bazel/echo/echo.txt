@@ -2822,6 +2822,7 @@ electroluminescent
 eustatic
 explicans
 evenhanded
+epiplastron
 enaluron
 elephantiasis
 elymi
@@ -5908,7 +5909,6 @@ excessman
 expend
 epitenon
 enhaemospore
-epiplastron
 emphases
 ecarinate
 execrators
