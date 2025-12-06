@@ -5590,6 +5590,7 @@ grained
 goatskin
 gambols
 grugrus
+gunyang
 gymnocalycium
 gussies
 granuloblast
@@ -5665,7 +5666,6 @@ genicular
 gloomily
 gloomings
 graveward
-gunyang
 germanics
 gubernacular
 geyserine
