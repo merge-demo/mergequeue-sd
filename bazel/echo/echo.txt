@@ -7836,7 +7836,6 @@ ejaculator
 eddish
 epigoni
 entomotaxy
-epigonic
 expletive
 excardination
 encrinoid
@@ -9195,6 +9194,7 @@ enchodus
 elates
 embryophyte
 electrographite
+epigonic
 empiricism
 exotropia
 enclasp
