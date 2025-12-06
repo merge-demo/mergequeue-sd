@@ -11551,6 +11551,7 @@ evite
 estrone
 emissi
 epidotiferous
+earners
 epiphytical
 eviting
 evangeline
@@ -13656,7 +13657,6 @@ ecphonesis
 extenuative
 exorcisation
 epilogism
-earners
 embacle
 evirate
 elevon
