@@ -4608,7 +4608,6 @@ demineralizing
 demiofficial
 demiorbit
 disbarment
-dendrolagus
 discharging
 dustlike
 dolichocrany
@@ -10705,6 +10704,7 @@ disorganizing
 deferring
 diiodide
 deepen
+dendrolagus
 dipnoans
 danelaw
 doublewords
