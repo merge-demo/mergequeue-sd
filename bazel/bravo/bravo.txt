@@ -564,7 +564,6 @@ bishopric
 breaths
 bistro
 baconianism
-baconism
 baragouinish
 brutishly
 blasphemous
@@ -2310,6 +2309,7 @@ bhutani
 barbituism
 barbituric
 bluetick
+baconism
 barbiturism
 barreler
 benzoperoxide
