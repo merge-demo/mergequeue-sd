@@ -2110,6 +2110,7 @@ guggles
 gimmicky
 giggledom
 grottolike
+guidable
 gardenia
 gastrostege
 geison
@@ -4215,7 +4216,6 @@ gutling
 geomagnetic
 gimped
 gimpier
-guidable
 galactolytic
 gippers
 gliosa
