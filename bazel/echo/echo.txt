@@ -7426,6 +7426,7 @@ escarpment
 eternalizing
 eperua
 embitters
+escapeless
 enworthed
 epistrophe
 elevate
@@ -9568,7 +9569,6 @@ estivation
 endocrinology
 euglenineae
 ecotypes
-escapeless
 earthboard
 effulgence
 edestan
