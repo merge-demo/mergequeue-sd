@@ -10550,7 +10550,6 @@ epitoxoid
 enceintes
 epistolized
 endogenic
-engolden
 euchlorine
 ectrodactylia
 enteropathy
@@ -13063,6 +13062,7 @@ expellent
 elaidic
 eardrop
 egueiite
+engolden
 evaluations
 euphonized
 expermentized

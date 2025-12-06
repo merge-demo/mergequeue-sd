@@ -1212,7 +1212,6 @@ acanthodes
 alcoholise
 aspirations
 alligations
-avowal
 antivitamin
 acanthomas
 acanthomeridae
@@ -19691,6 +19690,7 @@ aerobacteriological
 alfarga
 aristate
 aristeas
+avowal
 alertness
 aristeia
 acetanilide
