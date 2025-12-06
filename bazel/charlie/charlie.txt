@@ -6033,7 +6033,6 @@ coercive
 cathrin
 coversine
 cathud
-catydid
 continuos
 cyclicity
 catiline
@@ -24497,6 +24496,7 @@ clampdown
 cerographist
 coradical
 copastor
+catydid
 copastors
 candlebox
 copatriot
