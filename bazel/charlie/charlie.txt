@@ -9259,6 +9259,7 @@ chatterers
 clarions
 circuitously
 cassidoine
+cerement
 chattererz
 chattery
 chattermag
@@ -10908,7 +10909,6 @@ chirogymnast
 cautel
 cornu
 chirognomy
-cerement
 chirognomic
 chirognomically
 chuppahs
