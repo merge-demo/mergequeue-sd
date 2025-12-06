@@ -6632,6 +6632,7 @@ foeless
 faulted
 fulgurating
 flossing
+flogger
 foemanship
 fripperer
 fecifork
@@ -7783,7 +7784,6 @@ fecundify
 fleaweed
 forenight
 fondak
-flogger
 frondivorous
 fleshiest
 feedboxes
