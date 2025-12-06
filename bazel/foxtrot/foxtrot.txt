@@ -1693,6 +1693,7 @@ fumigant
 forprise
 fibrinoalbuminous
 forestep
+footstall
 fasciolariidae
 farouk
 flourless
@@ -2871,7 +2872,6 @@ farcin
 freighted
 fackins
 firefighters
-footstall
 fettucini
 fungiferous
 fistulate
