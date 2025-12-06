@@ -12916,7 +12916,6 @@ cuesta
 cia
 crystallised
 cyan
-cyanamid
 conspires
 coextension
 chipling
@@ -30008,6 +30007,7 @@ crotonate
 crotonyl
 crotonylene
 crotonization
+cyanamid
 chitchat
 corrump
 crotons
