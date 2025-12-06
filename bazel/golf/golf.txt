@@ -1392,7 +1392,6 @@ garniec
 governs
 greenyard
 ganodonta
-glossanthrax
 garnison
 greetingless
 garniture
@@ -7699,6 +7698,7 @@ gypsyesque
 gynostemium
 guildic
 getter
+glossanthrax
 gynandrophore
 gaspy
 gaw
