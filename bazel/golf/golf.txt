@@ -7362,7 +7362,6 @@ gossep
 graphs
 gastroenterotomy
 gunation
-globe
 galactin
 gymnospermic
 gaggler
@@ -10158,6 +10157,7 @@ gazolyte
 guller
 glareless
 greenier
+globe
 grudges
 granophyric
 gideonite

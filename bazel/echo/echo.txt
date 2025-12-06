@@ -1591,6 +1591,7 @@ euphonetics
 enablers
 eyewitnesses
 egomania
+euphuism
 erecting
 emblems
 egomaniacally
@@ -2285,7 +2286,6 @@ edana
 expert
 essene
 entheal
-euphuism
 endosteum
 eval
 escalatory
