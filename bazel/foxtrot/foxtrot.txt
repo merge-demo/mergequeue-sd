@@ -3898,7 +3898,6 @@ fullage
 frostproof
 fustianize
 foggage
-fang
 formalised
 filopodia
 fellowing
@@ -6595,6 +6594,7 @@ foulbrood
 focalizes
 forwrap
 federacies
+fang
 forgave
 femalely
 focsle
