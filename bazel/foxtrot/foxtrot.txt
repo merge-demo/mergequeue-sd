@@ -327,6 +327,7 @@ fail
 fireplough
 faineancy
 fayles
+forestaffs
 fimbricated
 furcal
 fayumic
@@ -6591,7 +6592,6 @@ fascioliasis
 flagrante
 fundholder
 flapperism
-forestaffs
 flirtier
 forecondemn
 fogey
