@@ -9591,7 +9591,6 @@ drachm
 departisanize
 deglazes
 dignitary
-dignitarian
 demophoon
 doubloons
 dignities
@@ -11993,6 +11992,7 @@ disembowelments
 dermatalgia
 disparition
 dismission
+dignitarian
 denominated
 disembowels
 droving

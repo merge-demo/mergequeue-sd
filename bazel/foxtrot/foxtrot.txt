@@ -4918,6 +4918,7 @@ firefanged
 funneling
 firmware
 fulcraceous
+fuzzy
 flagarie
 flamencos
 funtumia
@@ -6306,7 +6307,6 @@ fumatories
 fissipeda
 frags
 fluidity
-fuzzy
 flack
 futural
 fullback
