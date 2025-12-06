@@ -1684,7 +1684,6 @@ gryphon
 grungiest
 gastrocoel
 gamuts
-goodtemperedness
 gamelion
 gorkiesque
 gif
@@ -9683,6 +9682,7 @@ gibuses
 gowdie
 gastroscopy
 gascons
+goodtemperedness
 gowaned
 gorgonaceous
 globalist

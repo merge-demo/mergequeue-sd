@@ -1979,7 +1979,6 @@ assertions
 acetla
 acetoacetate
 alkyls
-alphabetiform
 absolutism
 amphidisk
 acetometer
@@ -20706,6 +20705,7 @@ atrichosis
 angami
 articularly
 axonemes
+alphabetiform
 articulars
 accessively
 articulated
