@@ -3381,7 +3381,6 @@ definitor
 desulphurized
 dogmouth
 dentils
-doles
 dagos
 deturn
 dictative
@@ -6875,6 +6874,7 @@ drawgear
 dupla
 desmoncus
 decolonize
+doles
 dissention
 danknesses
 dryobalanops

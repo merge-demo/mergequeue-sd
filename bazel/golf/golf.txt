@@ -2992,7 +2992,6 @@ gaolering
 geographies
 grievers
 galliardness
-geoids
 gloriole
 gendered
 galatine
@@ -9957,6 +9956,7 @@ gastroparalysis
 greening
 geomalic
 gathered
+geoids
 geoglyphic
 gedd
 galerite
