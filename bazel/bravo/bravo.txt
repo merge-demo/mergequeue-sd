@@ -11933,7 +11933,6 @@ bailiff
 bogart
 backboneless
 bisaxillary
-bogatyr
 boosies
 bogbeans
 bordels
@@ -18165,6 +18164,7 @@ botchwork
 bingle
 blastopore
 binational
+bogatyr
 biog
 behead
 biodegradation
