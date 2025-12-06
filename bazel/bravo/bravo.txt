@@ -6471,7 +6471,6 @@ barangay
 biternate
 benzothiofuran
 burs
-benzotrichloride
 bolection
 benzoxyacetic
 blanchers
@@ -13599,6 +13598,7 @@ bailiffry
 boogaloo
 boullework
 biurate
+benzotrichloride
 bodying
 besand
 bowstrings
