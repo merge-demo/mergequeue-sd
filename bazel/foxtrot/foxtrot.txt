@@ -4758,6 +4758,7 @@ fubsy
 figurately
 fasciculus
 fissurellidae
+flowcharted
 feuillants
 fortunetelling
 flocculable
@@ -6131,7 +6132,6 @@ fcp
 fewneses
 farrieries
 fabella
-flowcharted
 fungibles
 fumigate
 festivals
