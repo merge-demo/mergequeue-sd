@@ -606,6 +606,7 @@ forehand
 folly
 farrantly
 forelimb
+foetiferous
 funnies
 frictionless
 frame
@@ -5210,7 +5211,6 @@ fleas
 fluxroot
 flavid
 fluctuosity
-foetiferous
 forecastingly
 farley
 fidfad
