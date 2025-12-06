@@ -2332,6 +2332,7 @@ electromobilism
 excrementitial
 excrete
 espaliering
+excruciated
 encore
 encomia
 evenlong
@@ -12110,7 +12111,6 @@ emasculation
 embroche
 effervescing
 excruciable
-excruciated
 eudesmol
 epicerebral
 egressor
