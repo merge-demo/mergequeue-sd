@@ -11296,6 +11296,7 @@ arts
 apronless
 aleck
 aik
+adversity
 antimasks
 animisms
 amphiscians
@@ -23474,7 +23475,6 @@ auftakt
 antidictionary
 apomict
 augend
-adversity
 antiantidote
 aquiform
 anastrophy
