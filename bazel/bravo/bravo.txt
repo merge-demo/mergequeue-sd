@@ -6611,7 +6611,6 @@ berchemia
 borachio
 berdache
 battuta
-brazenly
 berdash
 booming
 birotation
@@ -13760,6 +13759,7 @@ bezil
 bestrowed
 bovinities
 buffet
+brazenly
 blesseder
 bedlam
 bogs
