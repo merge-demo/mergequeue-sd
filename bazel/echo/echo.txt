@@ -2439,6 +2439,7 @@ epidemiologies
 engladden
 elutriate
 elean
+ergatomorphism
 emerges
 eches
 ethanol
@@ -7224,7 +7225,6 @@ enguard
 effervesce
 embrave
 economese
-ergatomorphism
 evolutionally
 epicurize
 excrescences
