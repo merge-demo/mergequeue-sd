@@ -10882,7 +10882,6 @@ ammonolitic
 assemblage
 archeological
 ammonolytic
-aitches
 anticult
 allonymously
 amphib
@@ -19865,6 +19864,7 @@ agnoetae
 attributives
 abhenries
 armiger
+aitches
 aweto
 armigeros
 armigerous
