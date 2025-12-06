@@ -17841,7 +17841,6 @@ canis
 codifiers
 codifies
 cue
-codifying
 codilla
 cephid
 codille
@@ -27412,6 +27411,7 @@ courtroll
 ceratium
 committees
 courtship
+codifying
 cleach
 couscous
 castilloa
