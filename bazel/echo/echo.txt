@@ -4123,7 +4123,6 @@ employe
 estado
 etamin
 epigene
-epicanthus
 ejacula
 enrooting
 eslabon
@@ -8227,6 +8226,7 @@ eulamellibranchia
 electromagnetist
 elephantiasic
 epipharyngeal
+epicanthus
 exonerates
 epistatic
 empyrosis
