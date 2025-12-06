@@ -21734,7 +21734,6 @@ clematis
 conspiringly
 chemospheric
 circumscriptly
-condoning
 condos
 condottiere
 conduce
@@ -25741,6 +25740,7 @@ corrigiola
 corrival
 corrivality
 craniologist
+condoning
 corrivalry
 corrivalship
 corrivate
