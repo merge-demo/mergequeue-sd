@@ -11930,6 +11930,7 @@ arboreta
 athetoids
 afterharm
 alcaligenes
+amphichromatic
 anaphases
 anaphe
 apperception
@@ -21020,7 +21021,6 @@ ascians
 apiolin
 annexive
 apperil
-amphichromatic
 ascidiacea
 anyone
 ambones
