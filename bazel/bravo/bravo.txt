@@ -1744,7 +1744,6 @@ becollier
 buses
 biome
 biretta
-bedraggling
 balustrading
 bulbed
 bivvy
@@ -2706,6 +2705,7 @@ buoyantly
 branching
 barnumism
 beplumed
+bedraggling
 bienne
 bibliothecarian
 blitum
