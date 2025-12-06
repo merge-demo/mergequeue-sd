@@ -7164,6 +7164,7 @@ flocoon
 formedon
 flection
 faecalith
+flung
 flites
 footless
 footlights
@@ -7778,7 +7779,6 @@ fluoridated
 fatelike
 footrail
 fleshier
-flung
 forjudges
 formosan
 fluorescigenic
