@@ -14556,6 +14556,7 @@ bitty
 bambos
 bondager
 brandied
+brinehouse
 banate
 bacis
 blatterer
@@ -15483,7 +15484,6 @@ bryndza
 bleaters
 balloonfish
 bearskins
-brinehouse
 brineless
 backsaws
 bratstva
