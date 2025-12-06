@@ -1657,7 +1657,6 @@ euphuized
 ethylenes
 epiphloedal
 electromerism
-electrotaxis
 emigr
 ejusdem
 eyeish
@@ -1725,6 +1724,7 @@ epikia
 exert
 ecdemic
 eyelet
+electrotaxis
 empaled
 expwy
 evangelian
