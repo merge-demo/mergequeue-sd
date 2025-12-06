@@ -1081,7 +1081,6 @@ gradus
 gasserian
 glossic
 gangplows
-geomalic
 gist
 glaucoma
 glor
@@ -9958,6 +9957,7 @@ guardable
 guardedness
 gastroparalysis
 greening
+geomalic
 gathered
 geoglyphic
 gedd
