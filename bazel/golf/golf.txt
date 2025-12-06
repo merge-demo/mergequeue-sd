@@ -1942,6 +1942,7 @@ greaseless
 gushy
 greeve
 guttiness
+griffado
 galopades
 geckos
 glorifiers
@@ -3187,7 +3188,6 @@ geotechnic
 graplin
 geraniaceae
 gazon
-griffado
 gabler
 glycyrrhiza
 gingelies
