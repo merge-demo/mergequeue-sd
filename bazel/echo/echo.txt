@@ -2419,7 +2419,6 @@ electroencephalographical
 ellipsometry
 essentialize
 evoker
-electroendosmosis
 encipher
 epoist
 enslavements
@@ -6210,6 +6209,7 @@ enoint
 enterological
 ensues
 exclusioner
+electroendosmosis
 encelia
 enlivened
 enolic
