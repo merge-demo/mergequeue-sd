@@ -6517,6 +6517,7 @@ fulminant
 floggingly
 floodboard
 fierabras
+fustle
 flytail
 finecomb
 fluting
@@ -9666,7 +9667,6 @@ fringe
 fouquieria
 fourfiusher
 fraising
-fustle
 fallalishly
 formulating
 facty
