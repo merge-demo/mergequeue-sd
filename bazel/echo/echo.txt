@@ -15,7 +15,6 @@ euchologion
 emigate
 emblazon
 erythrophobia
-extraposition
 eadios
 entradas
 euthytropic
@@ -10559,6 +10558,7 @@ enteropathy
 estates
 ergosterol
 euchlorite
+extraposition
 eleutherodactylus
 elbuck
 euchology
