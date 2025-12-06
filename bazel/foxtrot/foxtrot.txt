@@ -6407,7 +6407,6 @@ fetialis
 flibbertigibbet
 freshish
 farmed
-facsimileing
 fluorimetric
 flashers
 flamberge
@@ -7741,6 +7740,7 @@ foremasts
 foremean
 fasciately
 followingly
+facsimileing
 fenouillette
 flavour
 foremen
