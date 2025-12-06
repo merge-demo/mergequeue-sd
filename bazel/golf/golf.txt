@@ -3607,7 +3607,6 @@ gananciales
 gantries
 glack
 gawkiness
-galleriidae
 glovers
 galactoid
 goetae
@@ -10527,6 +10526,7 @@ genuineness
 grecized
 goggles
 giftling
+galleriidae
 gyrational
 gimmicks
 goalee
