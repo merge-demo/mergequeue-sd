@@ -4734,7 +4734,6 @@ gumshoe
 glucosuria
 grudgingly
 garnisheeing
-galeae
 gowland
 gitanos
 gite
@@ -6676,6 +6675,7 @@ ganda
 goneness
 grumped
 gladsome
+galeae
 gonidangium
 graver
 gonepoiesis
