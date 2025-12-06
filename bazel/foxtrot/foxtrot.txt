@@ -4533,6 +4533,7 @@ fouldre
 familiarness
 fratricide
 fainaigued
+funkiness
 fisting
 faithfulness
 flattest
@@ -11236,7 +11237,6 @@ fornent
 factable
 forementioned
 fatherkin
-funkiness
 fezzes
 forerunnings
 frontispieces
