@@ -3796,6 +3796,7 @@ extolled
 economic
 engrain
 enlife
+ecmnesia
 expletory
 emended
 ecu
@@ -5287,7 +5288,6 @@ esterellite
 efik
 enchest
 engrafting
-ecmnesia
 endorsable
 entopterygoid
 excerpt
