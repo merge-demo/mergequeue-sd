@@ -17037,6 +17037,7 @@ counterdistinction
 coaches
 caprylin
 cornroot
+cripple
 cibaria
 coperose
 coachfellow
@@ -29202,7 +29203,6 @@ cyclospermous
 cryotherapies
 crip
 crippied
-cripple
 canzon
 cogboat
 characid
