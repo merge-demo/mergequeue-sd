@@ -4978,7 +4978,6 @@ groundwards
 glamors
 geldable
 granddada
-granita
 gainst
 growze
 gauziest
@@ -8469,6 +8468,7 @@ glossingly
 gov
 gagman
 ginglymoarthrodial
+granita
 gleyde
 gilders
 grivets
