@@ -5621,7 +5621,6 @@ epistemology
 enteroscopy
 elysium
 excitomotion
-esophoria
 enforceable
 ectocarpous
 encitadel
@@ -6210,6 +6209,7 @@ encelia
 enlivened
 enolic
 enolizable
+esophoria
 explicableness
 etiologic
 enological
