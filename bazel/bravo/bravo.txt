@@ -7612,6 +7612,7 @@ bastardize
 bloodripe
 begiggle
 barnacle
+bacubert
 bewhisker
 biplicate
 bleater
@@ -12546,7 +12547,6 @@ boniface
 battle
 bonification
 bolshevik
-bacubert
 bud
 brashness
 boniness
