@@ -5,7 +5,6 @@ brominating
 blepharosyndesmitis
 braille
 blackland
-baalim
 baalize
 backlogs
 baals
@@ -743,6 +742,7 @@ beadsman
 bechatter
 boric
 badinages
+baalim
 beblotch
 bearcoot
 bumboatmen
