@@ -19445,7 +19445,6 @@ calendering
 churchliest
 coloury
 colourific
-conferree
 cardita
 chondrosteoma
 crystallike
@@ -21457,6 +21456,7 @@ commands
 curliewurly
 cardiophobia
 concordances
+conferree
 cantalas
 concordancy
 concordant
