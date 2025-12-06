@@ -1138,6 +1138,7 @@ eupatrid
 easefulness
 editorship
 editorships
+eggbeater
 elasticness
 encrown
 enthrill
@@ -10948,7 +10949,6 @@ exdie
 editorializer
 equability
 eggnogs
-eggbeater
 epipelagic
 ends
 ecbolic
