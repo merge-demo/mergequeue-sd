@@ -13762,6 +13762,7 @@ approved
 amusable
 abortuses
 ambisyllabic
+allocatee
 altimeter
 accrementition
 ancyrene
@@ -16705,7 +16706,6 @@ aphanisis
 atropaceous
 arteriotomies
 agrotechny
-allocatee
 anthoxanthum
 actinomycesous
 autopotamic
