@@ -8712,7 +8712,6 @@ allergenicity
 atheology
 alang
 ankylotome
-actos
 actinopod
 amygdalopathy
 allergin
@@ -22871,6 +22870,7 @@ assemblages
 alphenic
 anyhow
 assonate
+actos
 accustomized
 aquo
 atmosphereless
