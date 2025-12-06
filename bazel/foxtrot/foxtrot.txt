@@ -2302,6 +2302,7 @@ faulkland
 favoring
 flippest
 furner
+fluoroscopes
 falbalas
 frillings
 fecula
@@ -8388,7 +8389,6 @@ flamingos
 filcher
 futhark
 form
-fluoroscopes
 fullerboard
 folksy
 formalesque

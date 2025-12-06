@@ -4978,6 +4978,7 @@ aeromancer
 anthonomus
 aerometer
 aspen
+avoiding
 amygdalus
 amenite
 amphictyonies
@@ -14445,7 +14446,6 @@ anthraquinone
 adoptianist
 alden
 antiphysical
-avoiding
 anaglyptical
 antimetabolite
 abiotrophy
