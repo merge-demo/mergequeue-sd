@@ -12581,7 +12581,6 @@ chronon
 choppily
 chronons
 chefrinia
-chronophotography
 chronoscopic
 chronoscopically
 cheesier
@@ -28640,6 +28639,7 @@ chasmal
 contagioned
 cupids
 cremosin
+chronophotography
 crena
 curtals
 cough
