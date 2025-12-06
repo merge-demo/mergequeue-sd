@@ -29384,6 +29384,7 @@ cholane
 cymoidium
 cryptovolcanism
 cryptozygy
+crownlike
 cannele
 cryptozygosity
 cryptozygous
@@ -30121,7 +30122,6 @@ cantilevering
 crownets
 caprinic
 crownless
-crownlike
 crownment
 clavolae
 complementing
