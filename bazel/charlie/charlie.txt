@@ -7083,7 +7083,6 @@ chimed
 centillionth
 crood
 centiloquy
-casziel
 canton
 caliculus
 centimetre
@@ -16154,6 +16153,7 @@ chechen
 chaunting
 clime
 counterpenalty
+casziel
 cavidae
 climograph
 conversazioni
