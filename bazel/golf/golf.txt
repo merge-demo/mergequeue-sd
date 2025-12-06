@@ -1045,6 +1045,7 @@ gleemen
 golp
 glanced
 gymnonoti
+guereza
 gayness
 groan
 glassfuls
@@ -7472,7 +7473,6 @@ gourded
 gospelist
 granuliferous
 gabbler
-guereza
 glossist
 grabbier
 grunerite
