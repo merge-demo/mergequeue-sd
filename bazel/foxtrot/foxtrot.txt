@@ -2954,6 +2954,7 @@ fewterer
 francophil
 fewtrils
 follower
+fricatives
 flanned
 freethinker
 ferrels
@@ -10126,7 +10127,6 @@ frivolling
 feasibility
 falchions
 finalize
-fricatives
 frivolousness
 foray
 faunula

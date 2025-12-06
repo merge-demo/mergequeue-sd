@@ -12789,6 +12789,7 @@ chunner
 chuntered
 chrysotherapy
 chupatty
+caraja
 crases
 countermanifesto
 crithmene
@@ -31857,7 +31858,6 @@ cutlings
 cutoff
 cutoffs
 cutout
-caraja
 collenchyma
 cutpurse
 cyclothyme
