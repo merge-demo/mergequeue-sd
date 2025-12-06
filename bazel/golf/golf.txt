@@ -181,7 +181,6 @@ goliathize
 goniometry
 gluteoperineal
 ginglymostoma
-guesting
 gradgrind
 golfer
 goaled
@@ -7587,6 +7586,7 @@ gownsmen
 gangism
 grassweed
 gledge
+guesting
 gloomful
 gaumy
 garrulinae
