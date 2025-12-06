@@ -3442,7 +3442,6 @@ brushfire
 brigade
 basto
 baguios
-bucklandite
 bibliolatrous
 bathylite
 bovine
@@ -6757,6 +6756,7 @@ bechalks
 beshrouding
 brakesmen
 bushtit
+bucklandite
 burrowers
 breadboxes
 boredoms
