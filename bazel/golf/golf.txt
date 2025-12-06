@@ -5711,6 +5711,7 @@ grieffully
 gahrwali
 guggling
 gumflower
+garbardine
 gillyflower
 glycosuric
 gushes
@@ -10517,7 +10518,6 @@ genizero
 geyserite
 gaggers
 gynecic
-garbardine
 germigene
 goupin
 graveman
