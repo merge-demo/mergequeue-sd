@@ -402,7 +402,6 @@ frustraneous
 fribbled
 fasciae
 fibrocartilaginous
-forthon
 flouting
 frows
 foredesk
@@ -2269,6 +2268,7 @@ filicales
 flotation
 foreface
 fistulizing
+forthon
 floorwise
 flintlike
 flagelliferous
