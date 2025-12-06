@@ -14530,6 +14530,7 @@ chondrule
 chackling
 cylindrite
 cysticercoidal
+cinerea
 cysticercosis
 cysticerus
 corroboree
@@ -19358,7 +19359,6 @@ chrisomloosing
 correspondingly
 chantable
 colorers
-cinerea
 carpocervical
 colorfastness
 chailletiaceae
