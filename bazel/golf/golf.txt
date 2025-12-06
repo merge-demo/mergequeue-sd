@@ -3591,6 +3591,7 @@ galvanic
 gyrocar
 greg
 gatewaymen
+girnie
 gustus
 gyrochrome
 gynostegigia
@@ -6451,7 +6452,6 @@ grows
 gentlemanliness
 gocart
 giddypate
-girnie
 goburra
 glucidic
 graduates
