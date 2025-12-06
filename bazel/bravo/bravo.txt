@@ -2124,7 +2124,6 @@ bonehead
 bricksetter
 burnishes
 bediapered
-brutism
 baptising
 butterless
 barleyhood
@@ -13059,6 +13058,7 @@ bannister
 bugseeds
 boodleism
 borel
+brutism
 borers
 barajillo
 bangling
