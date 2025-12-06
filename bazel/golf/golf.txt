@@ -3635,7 +3635,6 @@ gro
 gastroenterological
 goldest
 gauntleted
-gillnetting
 gonadotropic
 galactosan
 ghostdom
@@ -8709,6 +8708,7 @@ germiniparous
 greekize
 gleave
 gulravage
+gillnetting
 gramercy
 gavelling
 grammars

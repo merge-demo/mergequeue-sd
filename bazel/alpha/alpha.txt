@@ -5686,6 +5686,7 @@ agalaxia
 anisomelus
 agalena
 agalenidae
+apholates
 asperating
 agallochs
 acupunctuation
@@ -9524,7 +9525,6 @@ altheas
 adeptness
 altheine
 althionic
-apholates
 ablution
 ajutment
 asterikos
