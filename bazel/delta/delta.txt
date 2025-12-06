@@ -5723,7 +5723,6 @@ ducape
 dichroite
 daftlike
 depletions
-danton
 denutrition
 disparities
 dishearteningly
@@ -10163,6 +10162,7 @@ disaffiliations
 dynes
 desentimentalize
 deminatured
+danton
 dinetic
 dinette
 denazifies
