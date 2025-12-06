@@ -857,6 +857,7 @@ erythrocytolysin
 electrocution
 encomiastical
 endophyte
+endonucleolus
 entailed
 ectomorph
 ectoparasite
@@ -9264,7 +9265,6 @@ eulogist
 endosmos
 electropism
 esdras
-endonucleolus
 erred
 errhines
 excrescency
