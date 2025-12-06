@@ -15386,7 +15386,6 @@ barghests
 bowsed
 basicytoparaplastin
 blackfish
-bombe
 baronetcy
 brighid
 boisseau
@@ -17146,6 +17145,7 @@ bezaleel
 bombards
 bullyism
 bintangor
+bombe
 brushmaking
 bullion
 balkanization
