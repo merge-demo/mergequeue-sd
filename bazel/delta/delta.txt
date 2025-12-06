@@ -12492,7 +12492,6 @@ dertrum
 damageableness
 dancette
 dexterity
-defy
 deboise
 demesne
 dislimb
@@ -13032,6 +13031,7 @@ disparity
 disruptability
 dithecous
 dispeed
+defy
 dispark
 declarer
 discommoning
