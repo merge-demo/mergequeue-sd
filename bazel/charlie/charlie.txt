@@ -3281,6 +3281,7 @@ crabbit
 capitula
 crumbiest
 capitulant
+ceja
 centrists
 capitularies
 clathrus
@@ -6676,7 +6677,6 @@ coathangers
 colligation
 ceinture
 ceyx
-ceja
 clovery
 charcia
 celadon
