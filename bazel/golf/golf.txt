@@ -6581,6 +6581,7 @@ ground
 grabblers
 gesture
 gambeson
+glyptic
 gweeon
 grummets
 girons
@@ -9976,7 +9977,6 @@ gigadoid
 greably
 gritless
 guarrau
-glyptic
 googols
 gipsyfy
 galvayned
