@@ -3102,6 +3102,7 @@ ecdysones
 echinorhinidae
 etheriidae
 entombed
+eyespot
 epitomised
 elodeas
 enfaced
@@ -6326,7 +6327,6 @@ eschar
 euchred
 expiatory
 ensphered
-eyespot
 enseal
 estancias
 esophoric
