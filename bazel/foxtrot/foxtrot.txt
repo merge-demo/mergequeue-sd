@@ -3023,6 +3023,7 @@ forspoke
 fustin
 fiber
 fiberizes
+fancies
 fritillary
 formolite
 federalists
@@ -5022,7 +5023,6 @@ flippantly
 frib
 flappable
 frankalmoin
-fancies
 fermions
 figlike
 fishline
