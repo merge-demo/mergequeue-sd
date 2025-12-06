@@ -6383,6 +6383,7 @@ forefoot
 fronture
 furry
 formalization
+foremean
 frogspawn
 fafnir
 fecundatory
@@ -7741,7 +7742,6 @@ favillous
 flabelliform
 forsaker
 foremasts
-foremean
 fasciately
 followingly
 facsimileing
