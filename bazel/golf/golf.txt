@@ -21,7 +21,6 @@ gastroadynamic
 gashouse
 geotropic
 gabbro
-gabelleman
 grouchy
 glycic
 grossularious
@@ -6746,6 +6745,7 @@ gyrostats
 glomerate
 globulimeter
 geyseral
+gabelleman
 gurdfish
 gruine
 gainers

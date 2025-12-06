@@ -14450,7 +14450,6 @@ duopolist
 denies
 dindymene
 desynapsis
-divertibility
 diverticle
 daibutsu
 disguisedness
@@ -17486,6 +17485,7 @@ doubleheaders
 deficiently
 destructed
 disorientation
+divertibility
 devoices
 densities
 drubbers
