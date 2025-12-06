@@ -3975,7 +3975,6 @@ carcajous
 carcake
 carcanet
 carousel
-carcanetted
 carcases
 crueler
 carcass
@@ -22444,6 +22443,7 @@ cottonwood
 cerebrosis
 certainest
 chignoned
+carcanetted
 conjoinedly
 claviole
 conjointment
