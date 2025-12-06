@@ -79,6 +79,7 @@ flysch
 fordeal
 fullfaces
 facemark
+flusherman
 flunkeyhood
 flocklike
 forme
@@ -6928,7 +6929,6 @@ fauconnier
 ferrocyanic
 fisherpeople
 flaky
-flusherman
 fee
 follily
 feeblemindedness
