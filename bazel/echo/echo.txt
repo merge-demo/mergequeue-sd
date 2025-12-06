@@ -4076,6 +4076,7 @@ equitant
 enjambement
 erotophobia
 exteriorize
+engagements
 epiphonemae
 empathized
 eugenical
@@ -8566,7 +8567,6 @@ earnings
 equibalanced
 electrodialitic
 equicontinuous
-engagements
 eyebar
 endemial
 electrotherapeutic
