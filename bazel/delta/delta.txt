@@ -4709,7 +4709,6 @@ dees
 delectableness
 denationalizing
 demitint
-demitoilet
 deteriorated
 demitranslucence
 dyestuffs
@@ -6780,6 +6779,7 @@ desiliconization
 dribbed
 doubly
 disuniters
+demitoilet
 decollating
 delate
 deceased
