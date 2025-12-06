@@ -1766,6 +1766,7 @@ fishgarth
 frogmen
 flabra
 flutina
+ferule
 flaunts
 foredoes
 flannelet
@@ -5700,7 +5701,6 @@ feculent
 ferulas
 frontis
 farced
-ferule
 fleuronnee
 fungous
 fuzzball
