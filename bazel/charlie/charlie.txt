@@ -7351,6 +7351,7 @@ cephalogram
 cephaloid
 culminates
 cliffier
+cardueline
 cuticles
 crepuscle
 cephalology
@@ -23781,7 +23782,6 @@ contravalence
 cubitoplantar
 contravene
 contravener
-cardueline
 chlorinous
 contravening
 contraversion
