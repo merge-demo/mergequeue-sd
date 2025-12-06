@@ -740,6 +740,7 @@ flurries
 faraday
 fibrilliferous
 fanatism
+folily
 fabricating
 farcilite
 flybelt
@@ -7051,7 +7052,6 @@ felix
 formfeeds
 fitchery
 fellfare
-folily
 footful
 foolhardiness
 fabulousness
