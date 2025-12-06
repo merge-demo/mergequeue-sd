@@ -1616,7 +1616,6 @@ frankincense
 fresher
 faxes
 folkway
-featishly
 fazes
 fiard
 flophouse
@@ -3354,6 +3353,7 @@ freewomen
 fanioned
 feeless
 familistic
+featishly
 foreyards
 fusilades
 fastigate
