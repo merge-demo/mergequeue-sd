@@ -4840,7 +4840,6 @@ ethical
 ecize
 exhalate
 encouraged
-excellences
 epigne
 ephydriad
 expertise
@@ -11096,6 +11095,7 @@ endosome
 edo
 economiser
 egoity
+excellences
 exulceratory
 ekacaesium
 epistemolog

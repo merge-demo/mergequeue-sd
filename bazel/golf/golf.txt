@@ -3790,6 +3790,7 @@ gelastocoridae
 gemsboks
 gnattier
 gemmates
+gynandroid
 grimnesses
 guarders
 greenbark
@@ -6892,7 +6893,6 @@ gaposises
 goniatitic
 grainman
 goshen
-gynandroid
 garrotes
 garfish
 gregarina
