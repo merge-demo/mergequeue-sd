@@ -5916,6 +5916,7 @@ cathar
 cathari
 catharina
 carminite
+comprehend
 coloplication
 catharist
 catharistic
@@ -10494,7 +10495,6 @@ chiliahedron
 chiliarchia
 chiliast
 commuting
-comprehend
 chakar
 chiliastic
 chiliasts
