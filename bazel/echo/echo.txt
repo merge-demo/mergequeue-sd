@@ -3810,7 +3810,6 @@ ecart
 emerged
 edulcorated
 echinostomiasis
-emergentness
 enscene
 espriella
 enring
@@ -4253,6 +4252,7 @@ expolish
 expendible
 expressways
 erroneous
+emergentness
 equidiagonal
 epityphlon
 experiment
