@@ -1844,7 +1844,6 @@ fielden
 fiveling
 fiances
 flabellation
-frutify
 fatuously
 fec
 foldouts
@@ -6038,6 +6037,7 @@ fetterbush
 faba
 funicule
 flavoring
+frutify
 floristically
 fewmand
 feringhee
