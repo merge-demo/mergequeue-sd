@@ -1291,6 +1291,7 @@ escuages
 explicatively
 ericophyte
 efface
+equitable
 equalized
 effacers
 ellipsis
@@ -4837,7 +4838,6 @@ eros
 ethical
 ecize
 exhalate
-equitable
 encouraged
 excellences
 epigne
