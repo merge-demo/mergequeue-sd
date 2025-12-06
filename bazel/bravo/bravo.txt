@@ -3684,6 +3684,7 @@ booklover
 balearian
 burnies
 benefactresses
+boss
 brigantinebrigantines
 basiophthalmite
 baste
@@ -7153,7 +7154,6 @@ besplatter
 bicarbs
 bespoke
 boethusian
-boss
 birdsong
 boldnesses
 basso
