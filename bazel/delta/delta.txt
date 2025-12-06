@@ -2412,7 +2412,6 @@ dwyka
 deciders
 dubitante
 disownment
-disguisements
 diplontic
 dismantlement
 dayakker
@@ -10956,6 +10955,7 @@ dyingness
 dysacousis
 dodecahydrated
 disacquaint
+disguisements
 dayglows
 dampishly
 datolite
