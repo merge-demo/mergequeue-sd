@@ -1466,7 +1466,6 @@ brawlier
 backbiter
 boyarisms
 blighter
-balkish
 bodaciously
 bahadurs
 beggar
@@ -1765,6 +1764,7 @@ banterer
 boswellized
 bowmen
 balanops
+balkish
 balloonet
 bedsprings
 bambute
