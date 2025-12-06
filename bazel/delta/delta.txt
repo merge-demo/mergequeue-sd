@@ -5239,7 +5239,6 @@ demicoronal
 dryopes
 distortedness
 decursion
-denominate
 decadent
 deek
 desmosis
@@ -10803,6 +10802,7 @@ dotterel
 diptychs
 differencing
 dipware
+denominate
 diver
 disposal
 disadvantageous
