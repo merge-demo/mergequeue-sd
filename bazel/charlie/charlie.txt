@@ -7783,7 +7783,6 @@ cerulific
 cerulignol
 cerumen
 cerumens
-ceruminal
 costean
 chemoautotrophy
 charabancer
@@ -26558,6 +26557,7 @@ coughers
 coronillin
 culch
 commandeered
+ceruminal
 clank
 concactenated
 coughing
