@@ -3699,6 +3699,7 @@ exhalatory
 eeten
 exculpated
 ephemerons
+electrifies
 echelette
 exhaustivity
 egoistry
@@ -14176,7 +14177,6 @@ envenomization
 exulcerating
 euciliate
 exulding
-electrifies
 eviction
 entone
 exultingly
