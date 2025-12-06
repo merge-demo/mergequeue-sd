@@ -3362,7 +3362,6 @@ being
 brans
 bassa
 balaenicipites
-basiphobia
 besilver
 buccheros
 brucine
@@ -5193,6 +5192,7 @@ beadhouse
 bondfolk
 barragan
 bicentricity
+basiphobia
 blastodisk
 bypasser
 bachelry
