@@ -16287,7 +16287,6 @@ clypeus
 cyanomethaemoglobin
 clipped
 clippers
-clippie
 convenienced
 clippingly
 clips
@@ -24690,6 +24689,7 @@ croppers
 coppra
 chamidae
 closenesses
+clippie
 copra
 copraemia
 cencerros
