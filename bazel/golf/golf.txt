@@ -1753,7 +1753,6 @@ gammon
 glibber
 gloeal
 glessite
-goric
 glass
 guesses
 gamesman
@@ -5147,6 +5146,7 @@ glomera
 goblinesque
 gutturine
 gryphosaurus
+goric
 gentlehearted
 goldylocks
 gyps
