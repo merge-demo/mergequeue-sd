@@ -5644,6 +5644,7 @@ gradable
 geophilidae
 gondolet
 gymnasium
+gulfed
 golfers
 glossocomium
 gruelingly
@@ -10746,7 +10747,6 @@ groundlessly
 gypsyisms
 gnomonological
 galloot
-gulfed
 garnish
 gournard
 gagers
