@@ -3223,7 +3223,6 @@ epidemic
 erects
 enclitical
 encephalotomy
-eyesore
 entrench
 episcleral
 emancipates
@@ -9665,6 +9664,7 @@ electrogalvanic
 expressmen
 enters
 epilogize
+eyesore
 excitable
 ensearcher
 espingole
