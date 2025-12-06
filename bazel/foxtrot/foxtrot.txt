@@ -2614,6 +2614,7 @@ falanaka
 freshes
 fluocerite
 feazing
+freinage
 frumpling
 ferrumination
 fluviatic
@@ -10780,7 +10781,6 @@ feuars
 footsoldiers
 fudge
 fanned
-freinage
 factualistic
 flue
 fubbery
