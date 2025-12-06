@@ -2618,6 +2618,7 @@ enserfed
 endamoebiasis
 eunuchising
 edh
+equatable
 eupneic
 ergophobiac
 enchondromata
@@ -8524,7 +8525,6 @@ eupnea
 exsufflicate
 esophagotome
 enteromere
-equatable
 eudaemons
 ecclesiasticize
 essentializing
