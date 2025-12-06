@@ -9869,6 +9869,7 @@ albumoid
 aponogeton
 antepreterit
 amphigen
+arhats
 amarine
 amarity
 aplotomy
@@ -18161,7 +18162,6 @@ aquate
 aquatic
 aquatics
 aquatile
-arhats
 acrimoniously
 aquatintist
 analogically
