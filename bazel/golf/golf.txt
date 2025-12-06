@@ -5310,7 +5310,6 @@ glister
 grenier
 glibnesses
 glyceria
-genialize
 guardsmen
 guatemala
 gemitores
@@ -10099,6 +10098,7 @@ gymnoglossate
 guavina
 grazes
 guesser
+genialize
 grainland
 gonads
 gypsies
