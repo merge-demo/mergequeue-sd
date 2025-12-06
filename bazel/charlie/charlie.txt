@@ -2821,7 +2821,6 @@ cursitor
 cannulating
 chinafish
 colius
-canoeist
 canoeload
 canoes
 cardiogenesis
@@ -31010,6 +31009,7 @@ cumenyl
 cumhal
 countersconce
 citrocola
+canoeist
 coumalin
 campanian
 cumyl
