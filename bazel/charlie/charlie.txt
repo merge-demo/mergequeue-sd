@@ -24262,6 +24262,7 @@ ceanothus
 creeks
 chiropter
 cowbird
+cheder
 coseier
 cooboos
 chiogenes
@@ -29741,7 +29742,6 @@ conjoining
 cactales
 croodle
 challenged
-cheder
 colpheg
 confessory
 crookbacked
