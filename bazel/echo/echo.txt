@@ -4605,6 +4605,7 @@ ethologically
 eucryphiaceae
 epistolean
 erethizontidae
+er
 epilimnion
 echevin
 exeunt
@@ -5450,7 +5451,6 @@ emydosauria
 empetraceae
 exculpations
 eurithermophile
-er
 etatist
 epidia
 explainable
