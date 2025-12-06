@@ -9624,7 +9624,6 @@ belshazzaresque
 bisetose
 blubber
 begulfed
-bisetous
 bracketing
 bisexed
 biles
@@ -13004,6 +13003,7 @@ bibles
 baptismally
 boraginaceous
 borago
+bisetous
 bedamn
 boran
 boranes
