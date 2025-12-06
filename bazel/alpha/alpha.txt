@@ -2862,7 +2862,6 @@ amylopsase
 annona
 ascetical
 acronym
-acrotreta
 arteriolith
 aperitif
 abiogeneses
@@ -16243,6 +16242,7 @@ altininck
 apophthegm
 antithalian
 antitheism
+acrotreta
 antitheist
 avgases
 agrees

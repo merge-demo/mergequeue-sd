@@ -40,6 +40,7 @@ cherrystones
 cocozelle
 caballero
 caballo
+culicifugal
 caballos
 cardiae
 centillions
@@ -30785,7 +30786,6 @@ culices
 cramble
 cytoparaplastin
 cunninghamia
-culicifugal
 culicifuge
 culicinae
 canisiana
