@@ -4407,6 +4407,7 @@ drused
 demasting
 dematerialisation
 dematerialised
+douched
 donal
 dioeciousness
 dematerialized
@@ -5447,7 +5448,6 @@ disc
 decagon
 denuder
 dermolysis
-douched
 dialysation
 denumerably
 denumerantive
