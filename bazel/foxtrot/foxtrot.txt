@@ -3258,7 +3258,6 @@ feelings
 ficoidal
 fiddlecome
 fracedinous
-farewells
 fiddlefaced
 fiddlerfish
 fraticellian
@@ -5255,6 +5254,7 @@ frilliest
 fails
 flawful
 flawing
+farewells
 flabbergasted
 footloose
 flawlessness

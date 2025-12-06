@@ -2784,7 +2784,6 @@ barites
 bolding
 bell
 betulaceous
-banded
 blonder
 brazee
 barmie
@@ -15139,6 +15138,7 @@ bulked
 benzofuroquinoxaline
 blockaderunning
 babine
+banded
 bocks
 bristlier
 brusk
