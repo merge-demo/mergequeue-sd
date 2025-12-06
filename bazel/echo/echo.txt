@@ -9036,7 +9036,6 @@ epiphyll
 entria
 ephesine
 emlen
-endothermic
 exocyclic
 equiglacial
 episcenium
@@ -11961,6 +11960,7 @@ electrooptical
 ensampler
 ecoid
 extracostal
+endothermic
 endotheliolysin
 epicedial
 esmeraldan
