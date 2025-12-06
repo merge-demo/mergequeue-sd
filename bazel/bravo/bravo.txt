@@ -3549,6 +3549,7 @@ blacken
 bathymetrical
 biggonet
 bathing
+bufferrers
 bastinadoes
 beckoning
 bridgekeeper
@@ -10196,7 +10197,6 @@ banak
 bloodfins
 bignoniaceae
 blackfishing
-bufferrers
 beroida
 begrime
 badgering
