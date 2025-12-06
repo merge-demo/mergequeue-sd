@@ -3433,6 +3433,7 @@ fantasist
 fifteens
 frauds
 fifties
+forecasters
 fiftieth
 florilegia
 figeater
@@ -5951,7 +5952,6 @@ ferguson
 favism
 firkin
 fawn
-forecasters
 footscald
 floodwood
 foisty
