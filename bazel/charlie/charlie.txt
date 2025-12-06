@@ -24152,7 +24152,6 @@ comedial
 cleaverwort
 contemplamen
 coxwain
-cropped
 convincingly
 centai
 competitively
@@ -25134,6 +25133,7 @@ corfiote
 cathartae
 camails
 crampoons
+cropped
 chrysocale
 corge
 cory
