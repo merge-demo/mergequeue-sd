@@ -6379,7 +6379,6 @@ dermotropic
 dastardliness
 diacatholicon
 defined
-dioc
 ducula
 demurrable
 dietary
@@ -13181,6 +13180,7 @@ deambulation
 dispiteousness
 decomposed
 diuturnal
+dioc
 disgruntles
 displaceability
 disleave
