@@ -1773,6 +1773,7 @@ dispersonify
 deminudity
 dicta
 desmidiologist
+drill
 diversions
 divines
 decadently
@@ -14660,7 +14661,6 @@ disemboguement
 djave
 disappearer
 doubtfully
-drill
 djebels
 djehad
 deferens
