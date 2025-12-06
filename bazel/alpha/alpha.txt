@@ -13756,7 +13756,6 @@ anaptyctic
 anophthalmos
 acoumeter
 allobroges
-approved
 amusable
 abortuses
 ambisyllabic
@@ -19489,6 +19488,7 @@ acroceridae
 appestat
 argive
 anoperineal
+approved
 arlene
 argle
 astir
