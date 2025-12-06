@@ -5141,7 +5141,6 @@ beguile
 bankers
 batoid
 bromhidrosis
-ballota
 bloodthirstiness
 baubling
 banco
@@ -9454,6 +9453,7 @@ bulimulidae
 birgand
 brunoniaceae
 burnetize
+ballota
 bargain
 bedirties
 bourride
