@@ -4623,7 +4623,6 @@ advocacy
 anahao
 afficionado
 advocated
-afterspeech
 advocative
 acanthological
 aq
@@ -22692,6 +22691,7 @@ archbuffoon
 ateuchi
 atherosclerosis
 advancer
+afterspeech
 atherosclerotic
 acerbic
 absent
