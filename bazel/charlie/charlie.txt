@@ -8045,6 +8045,7 @@ chaetosoma
 chrysophlyctis
 chaetosomidae
 codrus
+crumhorn
 compacting
 chaetotactic
 calculus
@@ -30260,7 +30261,6 @@ crumen
 cloudscape
 crumenal
 cherte
-crumhorn
 caingin
 chanson
 crummer
