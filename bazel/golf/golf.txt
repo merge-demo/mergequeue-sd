@@ -538,7 +538,6 @@ guzzles
 galleins
 gomphocarpus
 getters
-gnetaceous
 gamodemes
 galler
 grandmammy
@@ -7775,6 +7774,7 @@ grumph
 grimiest
 gormed
 glee
+gnetaceous
 grainways
 grumbletonian
 gnomish
