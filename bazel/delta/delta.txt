@@ -12022,7 +12022,6 @@ dowd
 disenchantments
 disenchantress
 depluming
-difforme
 disencharm
 doctrix
 disenclose
@@ -18461,6 +18460,7 @@ dol
 disquisitionary
 disclosed
 duplified
+difforme
 duplifying
 duplone
 disruptiveness
