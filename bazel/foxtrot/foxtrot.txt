@@ -5464,7 +5464,6 @@ friseurs
 forecasting
 fossed
 fretwork
-forbarred
 fratching
 foraged
 fleshy
@@ -7405,6 +7404,7 @@ firefall
 floperoo
 forevalue
 firstship
+forbarred
 forcibility
 forcibleness
 filosa
