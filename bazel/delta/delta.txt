@@ -141,7 +141,6 @@ dekko
 dinar
 dyophone
 daddles
-dowdyism
 daffodillies
 deject
 dropsicalness
@@ -3733,6 +3732,7 @@ dehydrate
 dauw
 dehydrator
 dehydrating
+dowdyism
 diploidies
 depiedmontize
 dictic
