@@ -2122,7 +2122,6 @@ fuligulinae
 flaws
 finfoots
 flamless
-fumette
 fameful
 famously
 fires
@@ -5219,6 +5218,7 @@ filippi
 faugh
 flavorsome
 falda
+fumette
 fossilage
 fstore
 flot
