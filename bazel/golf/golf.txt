@@ -4958,6 +4958,7 @@ gapingly
 gladdened
 generableness
 gymnasisiums
+genros
 grouter
 greenbottle
 gestural
@@ -6807,7 +6808,6 @@ glasses
 gentilitial
 gyrostatics
 genal
-genros
 gondola
 goniums
 glanis

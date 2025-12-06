@@ -5446,7 +5446,6 @@ flensed
 frillers
 flensers
 fallation
-fidelities
 feignedness
 feus
 foolscap
@@ -6440,6 +6439,7 @@ formlessly
 filth
 folkcraft
 frenchize
+fidelities
 fordy
 falconoid
 francia
