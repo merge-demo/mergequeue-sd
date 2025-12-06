@@ -9139,7 +9139,6 @@ anemometric
 antacid
 alluvious
 assortative
-ametropic
 accipitres
 ambulates
 acarodermatitis
@@ -15206,6 +15205,7 @@ antiflattering
 accordantly
 antiflatulent
 antiflux
+ametropic
 anticlergy
 antiforeignism
 atole
