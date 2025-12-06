@@ -6679,6 +6679,7 @@ finableness
 forecontrive
 fenner
 flingers
+factual
 fiestas
 flaggily
 faubourg
@@ -7554,7 +7555,6 @@ flambeaus
 filtrate
 fringetail
 felicities
-factual
 fleshquake
 factors
 ferrules
