@@ -1963,7 +1963,6 @@ depressant
 dobla
 deckload
 doze
-dungy
 dicrotism
 debunkers
 dispergated
@@ -6523,6 +6522,7 @@ demounted
 disanney
 dynamited
 dailies
+dungy
 demonist
 doxological
 descends
