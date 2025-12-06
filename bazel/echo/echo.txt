@@ -249,7 +249,6 @@ embrighten
 easiest
 eleutheromorph
 evensong
-eulamellibranchia
 emendately
 electroballistically
 elevenfold
@@ -8226,6 +8225,7 @@ enhancers
 epibenthos
 enrapturedly
 estreating
+eulamellibranchia
 electromagnetist
 elephantiasic
 epipharyngeal
