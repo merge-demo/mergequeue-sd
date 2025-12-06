@@ -7306,7 +7306,6 @@ cephalhematoma
 coracovertebral
 cephalic
 chequering
-centauri
 cephalina
 cephaline
 cephalins
@@ -11607,6 +11606,7 @@ cooks
 choler
 cholera
 counterround
+centauri
 circumjacent
 choleras
 civilising

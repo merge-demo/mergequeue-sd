@@ -5273,7 +5273,6 @@ ampitheater
 attackable
 anapterygotous
 affeir
-alingual
 anticlinal
 anapophysial
 ammonifier
@@ -23766,6 +23765,7 @@ auscultatory
 ausform
 acetins
 amyotrophy
+alingual
 ausforming
 arrent
 auslaute
