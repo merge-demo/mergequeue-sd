@@ -4644,7 +4644,6 @@ deaconship
 discharm
 disfranchised
 deaness
-divaricating
 dawsoniaceae
 disagglomeration
 disfunction
@@ -14678,6 +14677,7 @@ disrespondency
 describe
 dowers
 doxies
+divaricating
 dieselize
 disagrees
 debauchee
