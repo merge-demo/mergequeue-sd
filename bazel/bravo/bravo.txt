@@ -3109,7 +3109,6 @@ biradiate
 bismarck
 bustards
 boswellize
-basella
 basellaceae
 bespattering
 brothels
@@ -17919,6 +17918,7 @@ bushless
 bareness
 bisti
 buhr
+basella
 bottega
 bushmaker
 bearbine
