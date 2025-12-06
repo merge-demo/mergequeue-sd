@@ -865,7 +865,6 @@ folliculose
 footworks
 florivorous
 feverfews
-fantastication
 forold
 flyaways
 flamfew
@@ -4233,6 +4232,7 @@ frenzying
 fission
 fleckier
 forenoted
+fantastication
 flowerpecker
 fetichist
 fortuning
