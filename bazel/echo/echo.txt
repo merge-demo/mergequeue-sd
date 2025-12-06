@@ -7339,7 +7339,6 @@ evangeliser
 exosphere
 expulsing
 exile
-erinaceus
 eunomian
 environmentalism
 envisages
@@ -12431,6 +12430,7 @@ erythrocytometry
 experient
 eyer
 ergometer
+erinaceus
 effude
 epapillate
 elengely
