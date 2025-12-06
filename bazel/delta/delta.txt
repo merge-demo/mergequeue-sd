@@ -6470,6 +6470,7 @@ digitization
 dragomanic
 desalinated
 diaereses
+dihedrals
 deafeningly
 dodecanoic
 desalinator
@@ -14572,7 +14573,6 @@ dispensing
 divorcee
 diallelon
 disembower
-dihedrals
 delight
 dryfarm
 departmentization
