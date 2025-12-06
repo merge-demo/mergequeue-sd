@@ -1310,6 +1310,7 @@ flookan
 flout
 fallowness
 frictionally
+finity
 fineleaf
 foramination
 falser
@@ -3284,7 +3285,6 @@ flounces
 ferrelled
 fortier
 fulgency
-finity
 factitious
 flirtationless
 framed
