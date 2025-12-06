@@ -15246,7 +15246,6 @@ clamminess
 clamming
 colpotomies
 clammyweed
-clamored
 clamorer
 clamorers
 clamorist
@@ -28896,6 +28895,7 @@ crewneck
 capsheaf
 chaetognathan
 cry
+clamored
 comporting
 crikey
 cryable
