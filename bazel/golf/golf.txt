@@ -1038,7 +1038,6 @@ geologer
 gloriette
 geodist
 gravat
-gleemen
 golp
 glanced
 gymnonoti
@@ -2042,6 +2041,7 @@ groundswells
 gibbosities
 gnomologic
 greiges
+gleemen
 guazuti
 gavelock
 grunion
