@@ -6157,7 +6157,6 @@ eparchean
 entracte
 embattles
 enmove
-emusified
 ethnomusicological
 elans
 evolvent
@@ -12666,6 +12665,7 @@ exometritis
 excogitate
 endeavors
 echo
+emusified
 erotized
 emerse
 elzevir
