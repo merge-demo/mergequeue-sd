@@ -10376,7 +10376,6 @@ aftertax
 astigmatizer
 approachless
 accredited
-alibamu
 assisting
 astuteness
 apitpat
@@ -20664,6 +20663,7 @@ amputative
 azimide
 arthrotome
 ansi
+alibamu
 accinged
 arthrous
 acrylaldehyde
