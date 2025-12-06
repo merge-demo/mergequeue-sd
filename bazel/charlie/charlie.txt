@@ -2597,6 +2597,7 @@ cyclotrons
 cliffing
 canebrake
 cardioschisis
+cowslips
 cementmaking
 canebrakes
 cephalodynia
@@ -16372,7 +16373,6 @@ curvicaudate
 clitorism
 castana
 constable
-cowslips
 coppery
 clitoromania
 conglutinate
