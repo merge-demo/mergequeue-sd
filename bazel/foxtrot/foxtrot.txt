@@ -4489,7 +4489,6 @@ francophobia
 favissa
 farmlands
 forheed
-foreigner
 forslake
 flooded
 fountainhead
@@ -10380,6 +10379,7 @@ focus
 furoid
 feedable
 feared
+foreigner
 frangipanis
 fatalist
 filiates
