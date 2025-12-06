@@ -5062,6 +5062,7 @@ devotes
 doand
 dextrocardia
 darci
+disli
 deemphasis
 denationalise
 denationalize
@@ -12704,7 +12705,6 @@ drury
 dissimilarity
 dendric
 disappoints
-disli
 diskophile
 dislicense
 disperiwig
