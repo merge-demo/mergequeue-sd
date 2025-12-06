@@ -2648,6 +2648,7 @@ germantown
 globulicidal
 genetika
 gurgeon
+goatsbane
 greatest
 guaraguao
 gospodipoda
@@ -10668,7 +10669,6 @@ gurgitation
 gasolines
 gametogony
 gladius
-goatsbane
 galp
 gurgoyle
 glaiketness
