@@ -12038,7 +12038,6 @@ desmodus
 disenfranchisement
 devanagari
 demonkind
-disenfranchises
 disintertwine
 divinest
 diapsid
@@ -12237,6 +12236,7 @@ deride
 deliquesce
 dwarfish
 dovecots
+disenfranchises
 disfrocking
 dysfunctional
 documentaries
