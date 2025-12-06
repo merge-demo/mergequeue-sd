@@ -7742,7 +7742,6 @@ grassroots
 gloea
 gutturopalatine
 grenelle
-genista
 guld
 grenadier
 gynecicgynecidal
@@ -8939,6 +8938,7 @@ giantisms
 grieko
 gecked
 glossopalatinus
+genista
 gatsby
 gyration
 greund
