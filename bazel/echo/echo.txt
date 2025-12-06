@@ -515,7 +515,6 @@ examinator
 emphyteusis
 echelle
 exhibitant
-electrosurgeries
 extraphenomenal
 estate
 entosphenal
@@ -5328,6 +5327,7 @@ endoskeletons
 evaders
 embaphium
 ethenyl
+electrosurgeries
 endosmoses
 explicit
 enjewel
