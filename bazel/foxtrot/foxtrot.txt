@@ -3936,7 +3936,6 @@ fermentor
 fruitcakey
 frenziedly
 foreshown
-funneled
 fibreware
 farcical
 follyproof
@@ -8099,6 +8098,7 @@ filmiest
 fillister
 fathogram
 fumigator
+funneled
 foretellers
 forethrift
 fusel
