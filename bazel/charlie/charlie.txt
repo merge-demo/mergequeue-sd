@@ -3370,7 +3370,6 @@ celsius
 carrots
 capote
 cyclohexene
-capouches
 cappadocian
 crypted
 capparid
@@ -8318,6 +8317,7 @@ challiho
 challihos
 chatino
 cessionaries
+capouches
 challis
 challises
 challot
