@@ -8608,7 +8608,6 @@ channel
 channelbill
 coendou
 channeling
-clubbish
 channelize
 crumber
 corresponder
@@ -24381,6 +24380,7 @@ cric
 coonhounds
 coony
 chloracetate
+clubbish
 coonier
 colk
 cerebrotonic
