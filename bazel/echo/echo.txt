@@ -7062,6 +7062,7 @@ enumerability
 entry
 expansionary
 exemptile
+ellops
 earthfast
 experiencer
 enumeration
@@ -9525,7 +9526,6 @@ exempt
 envois
 esuriently
 esebrias
-ellops
 enantiotropy
 esemplasy
 extremities

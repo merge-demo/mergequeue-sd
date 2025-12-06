@@ -2103,7 +2103,6 @@ decaliters
 dichopodial
 decalitre
 dunlop
-dinornithid
 disappearance
 diabrotica
 disencumbering
@@ -12858,6 +12857,7 @@ dismasted
 denned
 disme
 decast
+dinornithid
 dipteran
 dismembrator
 doughfoots
