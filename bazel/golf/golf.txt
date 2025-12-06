@@ -5708,6 +5708,7 @@ glossalgy
 grieffully
 gahrwali
 guggling
+gettable
 gumflower
 garbardine
 gillyflower
@@ -6318,7 +6319,6 @@ gastriloquous
 gastrocele
 gymnorhininae
 goblin
-gettable
 gigartinaceous
 gunmen
 gargantua
