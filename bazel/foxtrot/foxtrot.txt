@@ -579,6 +579,7 @@ foreknows
 frailish
 forpet
 fossilisation
+fruitiest
 forints
 feasted
 fade
@@ -11144,7 +11145,6 @@ frumperies
 flocculence
 fernlike
 foederal
-fruitiest
 frumple
 fingerhold
 funeralize
