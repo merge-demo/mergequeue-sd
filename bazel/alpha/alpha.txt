@@ -11432,7 +11432,6 @@ amrit
 ajugas
 attendants
 anywheres
-assets
 aneroids
 arthogram
 apiphobia
@@ -12518,6 +12517,7 @@ anemony
 anaspida
 anguillidae
 anemopathy
+assets
 astroscope
 antisudorific
 anemoscope
