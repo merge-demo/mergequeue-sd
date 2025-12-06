@@ -3211,7 +3211,6 @@ fango
 fuchsone
 forefend
 fatality
-frenchwise
 flunkies
 falern
 forewarnings
@@ -9170,6 +9169,7 @@ foolify
 formicaria
 fraena
 faroff
+frenchwise
 frostproofing
 fulfulde
 forward
