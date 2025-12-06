@@ -3723,6 +3723,7 @@ bronteon
 battlefronts
 bringall
 brucella
+betrinket
 battler
 battleships
 barrace
@@ -11835,7 +11836,6 @@ buttonless
 barfly
 bodybending
 bodybuilder
-betrinket
 birthing
 bard
 briareus
