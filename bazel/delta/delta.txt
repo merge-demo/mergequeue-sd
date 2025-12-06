@@ -1902,6 +1902,7 @@ daktylos
 deicate
 deboss
 debouche
+douma
 disbench
 disconcertingness
 digladiator
@@ -16119,7 +16120,6 @@ defectology
 designators
 doulocracy
 doum
-douma
 didynamy
 discrowned
 disharmonise
