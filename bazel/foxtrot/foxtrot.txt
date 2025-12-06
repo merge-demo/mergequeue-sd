@@ -11547,6 +11547,7 @@ fetting
 fusiform
 fusil
 frictionized
+forint
 fowage
 figurations
 feedback
@@ -11608,7 +11609,6 @@ fustics
 fussbudget
 foresightless
 fixable
-forint
 facsimile
 fortissimi
 farci
