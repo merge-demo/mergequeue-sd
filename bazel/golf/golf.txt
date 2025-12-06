@@ -2630,7 +2630,6 @@ grendel
 geomorphist
 gypsyweed
 gramma
-gonocalyx
 gynecia
 galores
 grayware
@@ -7633,6 +7632,7 @@ gyal
 glossoepiglottic
 gunkholing
 girlies
+gonocalyx
 ghoster
 gears
 glancingly
