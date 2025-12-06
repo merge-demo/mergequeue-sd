@@ -8027,7 +8027,6 @@ grayer
 goatbeard
 graphologist
 glycosides
-gynaecomorphous
 guildry
 gnabble
 globulous
@@ -8436,6 +8435,7 @@ goldbricks
 glaciarium
 goonch
 gratuitant
+gynaecomorphous
 glossograph
 guaguanche
 globulariaceous
