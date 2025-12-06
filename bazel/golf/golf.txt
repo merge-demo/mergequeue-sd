@@ -3983,6 +3983,7 @@ graphometrical
 grillework
 groaner
 graduated
+granary
 gastroatrophia
 gunlaying
 garrotted
@@ -7921,7 +7922,6 @@ generalist
 gouged
 geochemistry
 graphitoidal
-granary
 greases
 glecoma
 gorst
