@@ -3231,7 +3231,6 @@ elute
 elution
 esthesiometric
 enzymatically
-effuso
 epirotulian
 esselen
 epigon
@@ -10469,6 +10468,7 @@ ethicalness
 enneandrian
 effluviums
 ericius
+effuso
 etypically
 emblemed
 enteroviral
