@@ -6049,6 +6049,7 @@ darkrooms
 dipyramidal
 dodge
 deputational
+desaminase
 driegh
 dandiprat
 disappoint
@@ -15921,7 +15922,6 @@ distileries
 dossmen
 dissemblies
 decamerous
-desaminase
 downcried
 dziggetai
 dewaxes
