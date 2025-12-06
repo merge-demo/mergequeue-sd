@@ -5023,7 +5023,6 @@ greatmouthed
 grolier
 glebeless
 grippe
-gammed
 genethliac
 giulio
 gunhouse
@@ -6978,6 +6977,7 @@ glaziness
 gimmickry
 gruppetto
 gamut
+gammed
 goodwillie
 gilgie
 gelatinize
