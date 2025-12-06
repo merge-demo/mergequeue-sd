@@ -9926,7 +9926,6 @@ albuminogenous
 assacu
 awaste
 archaeolithic
-acerata
 alveolodental
 airers
 ascolichenes
@@ -19820,6 +19819,7 @@ apparentness
 armatures
 albation
 anarchal
+acerata
 arcane
 averrer
 ast

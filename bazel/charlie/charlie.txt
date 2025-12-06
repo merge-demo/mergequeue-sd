@@ -6084,7 +6084,6 @@ clippable
 catoptrically
 curtise
 catoptrite
-catoptromantic
 catoquina
 chelonidae
 cats
@@ -24376,6 +24375,7 @@ coombes
 calyculus
 carbonic
 cooncans
+catoptromantic
 coonhound
 calcigenous
 cric
