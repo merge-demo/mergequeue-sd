@@ -1250,7 +1250,6 @@ durational
 daterman
 diabolification
 dates
-datil
 devotement
 dating
 disaffirmative
@@ -12367,6 +12366,7 @@ dragomen
 dishabituated
 dishable
 debitable
+datil
 discomedusoid
 discredited
 dutchess
