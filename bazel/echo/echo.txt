@@ -9839,7 +9839,6 @@ estrich
 etagre
 expurgator
 eikon
-egocentricity
 enthronising
 endoceras
 equiomnipotent
@@ -11143,6 +11142,7 @@ ebullioscopy
 erotetic
 euthycomi
 exploitable
+egocentricity
 enol
 exsiliency
 endomitosis

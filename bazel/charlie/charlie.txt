@@ -5284,6 +5284,7 @@ cassidid
 cassididae
 cotsetla
 cassidulina
+coppas
 cassiduloid
 cassiepeia
 cassimere
@@ -15407,7 +15408,6 @@ claret
 cervantes
 cheerio
 canzos
-coppas
 clary
 claribel
 claribella
