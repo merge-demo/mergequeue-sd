@@ -4066,6 +4066,7 @@ bearcats
 beamingly
 bottlefuls
 beamman
+bin
 bhakta
 buckwash
 bskt
@@ -6816,7 +6817,6 @@ badian
 bookery
 bersagliere
 brittles
-bin
 berserks
 barnumize
 berskin
