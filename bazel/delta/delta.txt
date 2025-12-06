@@ -3085,7 +3085,6 @@ deerweed
 dollyway
 deescalate
 deeses
-deepfrozen
 deemphasize
 documentational
 dorsoapical
@@ -14243,6 +14242,7 @@ ditchwater
 downdraft
 delightingly
 downplaying
+deepfrozen
 descamisados
 diter
 diplomatist
