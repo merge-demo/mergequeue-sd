@@ -1321,7 +1321,6 @@ aluminaphone
 antarchism
 adtevac
 activators
-agamous
 arginase
 anangular
 amyelia
@@ -4936,6 +4935,7 @@ alomancy
 amoretti
 anticommercialness
 aerograph
+agamous
 americium
 amphidetic
 aristogenic
