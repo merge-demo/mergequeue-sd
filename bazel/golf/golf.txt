@@ -4570,7 +4570,6 @@ grasscutter
 giojoso
 greegree
 gressible
-girdles
 geoagronomic
 girds
 guaranies
@@ -5598,6 +5597,7 @@ georgical
 gadus
 goffle
 gephyrophobia
+girdles
 grandames
 gconvert
 guars
