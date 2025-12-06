@@ -5621,6 +5621,7 @@ europe
 epistemology
 enteroscopy
 elysium
+endoperidial
 excitomotion
 enforceable
 ectocarpous
@@ -10031,7 +10032,6 @@ extill
 embarking
 exempting
 equalist
-endoperidial
 endogamous
 eterne
 endangerment
