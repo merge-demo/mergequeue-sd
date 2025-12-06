@@ -4542,7 +4542,6 @@ fratricide
 fainaigued
 funkiness
 fisting
-faithfulness
 flattest
 frictionize
 frutices
@@ -8292,6 +8291,7 @@ forenames
 forepole
 foregame
 fraternising
+faithfulness
 fountaining
 foursome
 fiscalism
