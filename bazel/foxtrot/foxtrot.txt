@@ -505,7 +505,6 @@ firerooms
 frowny
 foresense
 falco
-fermentive
 forgivableness
 forepaled
 fetterless
@@ -8136,6 +8135,7 @@ forecastleman
 fountful
 foreuse
 foreutter
+fermentive
 flavoursome
 fillercap
 fustie

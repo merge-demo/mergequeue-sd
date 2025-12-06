@@ -2759,7 +2759,6 @@ gorgers
 gunfire
 greenflies
 germanism
-gauger
 guestchamber
 gorraf
 gipped
@@ -9513,6 +9512,7 @@ gins
 gyving
 gyroscope
 groupwise
+gauger
 garvey
 glenn
 generalizer
