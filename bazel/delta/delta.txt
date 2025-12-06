@@ -14918,7 +14918,6 @@ destructive
 dodecarch
 dodecasemic
 decadi
-dodecasyllable
 discretionarily
 demonising
 dichromat
@@ -18413,6 +18412,7 @@ dactylioglyphist
 downhauls
 delichon
 dialysepalous
+dodecasyllable
 disarrayed
 dupe
 dupedom
