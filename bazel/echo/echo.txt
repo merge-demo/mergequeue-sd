@@ -977,7 +977,6 @@ emasculating
 enthymematic
 ensaffron
 ensealing
-endomitotic
 excrementary
 edaphology
 etymological
@@ -6561,6 +6560,7 @@ enterer
 eulogious
 excusive
 eccritic
+endomitotic
 embattled
 epimedium
 enorthotrope
