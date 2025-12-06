@@ -7148,6 +7148,7 @@ ducted
 drolerie
 desudation
 duchesslike
+desertless
 desulfur
 disgracefully
 donenesses
@@ -11465,7 +11466,6 @@ duodenogram
 dehaites
 draconis
 distorted
-desertless
 diverted
 discobolos
 dewiest
