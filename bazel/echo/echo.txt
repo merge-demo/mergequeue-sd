@@ -1708,6 +1708,7 @@ epornitically
 encephaloid
 endangium
 exsanguination
+ethyne
 enginery
 engrammatic
 exasper
@@ -10252,7 +10253,6 @@ evennesses
 estafet
 evectic
 economical
-ethyne
 elucidatory
 endoscopist
 endosarcous
