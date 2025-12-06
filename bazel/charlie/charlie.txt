@@ -5860,7 +5860,6 @@ capomo
 compositorial
 catenoid
 catenulate
-cacozyme
 conveyances
 contiguous
 cubistically
@@ -6221,6 +6220,7 @@ countershout
 cabbalism
 cetological
 cavillers
+cacozyme
 coconqueror
 codeword
 conically
