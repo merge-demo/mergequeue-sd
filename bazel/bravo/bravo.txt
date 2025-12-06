@@ -7611,7 +7611,6 @@ beweeps
 bombilate
 bastardize
 bloodripe
-begiggle
 barnacle
 bacubert
 bewhisker
@@ -9649,6 +9648,7 @@ bishopdom
 baptists
 bilateral
 bishopling
+begiggle
 biol
 bishopweed
 bobbinets
