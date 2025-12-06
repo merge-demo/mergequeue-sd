@@ -5954,6 +5954,7 @@ drew
 depressurize
 disentraced
 dere
+diskography
 defeatee
 depreter
 depriment
@@ -12671,7 +12672,6 @@ dyskeratosis
 diskette
 discernibleness
 diskindness
-diskography
 dvandva
 dextrorse
 doleful
