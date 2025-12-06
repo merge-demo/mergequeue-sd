@@ -7362,7 +7362,6 @@ graphs
 gastroenterotomy
 gunation
 galactin
-gymnospermic
 gaggler
 gluon
 gougingly
@@ -8383,6 +8382,7 @@ galeeny
 gyroscopically
 gaucherie
 gawby
+gymnospermic
 grebe
 gizzards
 gulping

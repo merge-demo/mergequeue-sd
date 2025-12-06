@@ -11063,6 +11063,7 @@ aubade
 artiodactyl
 attics
 amotus
+anemopsis
 arbitrament
 amounted
 amounter
@@ -15056,7 +15057,6 @@ antidisestablishmentarianism
 affability
 antidiuretic
 adephagan
-anemopsis
 arthrocarcinoma
 antidivine
 assemblagist
