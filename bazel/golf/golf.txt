@@ -1455,7 +1455,6 @@ grosgrained
 gainward
 glossarial
 gidjee
-germiparity
 garnishee
 glovemaker
 guidebookish
@@ -5066,6 +5065,7 @@ gapped
 groused
 golconda
 gecarcinus
+germiparity
 gastrogenital
 garmenting
 gv
