@@ -7154,7 +7154,6 @@ embarment
 enwall
 epistemonic
 eucaryote
-extraequilibrium
 enwallow
 excandescence
 earthshine
@@ -11118,6 +11117,7 @@ expediment
 energetical
 electros
 espies
+extraequilibrium
 esquiredom
 encage
 entune
