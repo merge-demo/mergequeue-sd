@@ -2290,7 +2290,6 @@ benzoles
 bubaline
 braggers
 bagger
-bartholomite
 blameably
 baobab
 biasways
@@ -11203,6 +11202,7 @@ brooching
 bagreef
 boththridia
 bereavers
+bartholomite
 bloopers
 blooth
 blosmy
