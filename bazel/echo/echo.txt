@@ -2203,7 +2203,6 @@ eggless
 equiprobable
 encrisp
 eldest
-effigiated
 eventuate
 engulfment
 eldrich
@@ -7738,6 +7737,7 @@ ean
 ethnolinguistic
 eftsoon
 endrins
+effigiated
 exterritorially
 emergents
 englify
