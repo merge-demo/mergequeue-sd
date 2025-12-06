@@ -5777,7 +5777,6 @@ glossolalia
 gabbroid
 glossolysis
 grecizes
-geometrical
 gunfighter
 glossoptosis
 galiot
@@ -6362,6 +6361,7 @@ graptoloidea
 goatsucker
 graplines
 gamic
+geometrical
 greentail
 gastrectasis
 gonake
