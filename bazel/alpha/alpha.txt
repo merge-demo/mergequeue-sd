@@ -15730,7 +15730,6 @@ aurinasal
 antipatriot
 antipatriotic
 afterfermentation
-allonges
 abkary
 adventure
 alya
@@ -24389,6 +24388,7 @@ apothec
 autoscope
 autoscopic
 antivivisection
+allonges
 apparentation
 antagonise
 autosight
