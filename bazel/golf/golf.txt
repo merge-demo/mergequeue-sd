@@ -1164,7 +1164,6 @@ gantleted
 gripier
 grouses
 goninidia
-gastrogastrotomy
 genin
 genio
 gnawings
@@ -10524,6 +10523,7 @@ goupin
 graveman
 gonocytes
 genuineness
+gastrogastrotomy
 grecized
 goggles
 giftling
