@@ -8066,6 +8066,7 @@ biconic
 biconically
 biconnected
 boildown
+brighid
 bayberry
 butcherous
 bastonite
@@ -15388,7 +15389,6 @@ bowsed
 basicytoparaplastin
 blackfish
 baronetcy
-brighid
 boisseau
 brighten
 becket
