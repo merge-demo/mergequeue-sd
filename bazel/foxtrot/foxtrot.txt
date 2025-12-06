@@ -7633,7 +7633,6 @@ feyness
 foregleam
 forst
 forego
-feudatory
 fables
 factualism
 foreguess
@@ -9886,6 +9885,7 @@ fibrofatty
 freckly
 ferreters
 friendlessness
+feudatory
 fancier
 fornices
 fritts
