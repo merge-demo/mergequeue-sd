@@ -2500,6 +2500,7 @@ autoloaders
 anagoges
 anadicrotism
 acoelomi
+acervose
 aiguiere
 apogean
 accuser
@@ -18832,7 +18833,6 @@ archfoe
 ancestresses
 aedoeagus
 angloid
-acervose
 ancientism
 alamodality
 ambush
