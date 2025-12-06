@@ -3415,7 +3415,6 @@ foreside
 fieriness
 fifed
 flerried
-frontals
 feminising
 fomented
 fulmines
@@ -9565,6 +9564,7 @@ fecket
 freebootery
 forestiera
 freebooting
+frontals
 feltwork
 facete
 forensic
