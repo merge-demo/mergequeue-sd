@@ -5084,6 +5084,7 @@ fainness
 flashgun
 fifteenth
 factitive
+familiarised
 fict
 furnishment
 furculae
@@ -7950,7 +7951,6 @@ flaunty
 fordone
 forget
 funnelwise
-familiarised
 forepleasure
 fubbing
 floorthrough
