@@ -13134,7 +13134,6 @@ arrace
 antidynastical
 anabolite
 animala
-animalic
 avunculize
 amusgo
 animalier
@@ -21104,6 +21103,7 @@ aunts
 alleyite
 anomural
 aylesbury
+animalic
 automobility
 ascolichen
 archenemies
