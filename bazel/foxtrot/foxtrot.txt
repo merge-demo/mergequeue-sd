@@ -1626,6 +1626,7 @@ four
 fdnames
 forthcut
 fluible
+forerunnings
 flamboyantly
 furbelowed
 focally
@@ -11238,7 +11239,6 @@ factable
 forementioned
 fatherkin
 fezzes
-forerunnings
 frontispieces
 fucivorous
 febris

@@ -3649,6 +3649,7 @@ degerms
 discerptive
 douzeper
 disked
+deoxyribonucleoprotein
 deontological
 degging
 devices
@@ -14582,7 +14583,6 @@ disinfeudation
 discordantness
 dentalman
 duckeries
-deoxyribonucleoprotein
 dwells
 demureness
 denotive
