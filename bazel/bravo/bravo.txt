@@ -3111,6 +3111,7 @@ basellaceae
 bespattering
 brothels
 breakouts
+bismuthyl
 beallach
 biota
 basket
@@ -10000,7 +10001,6 @@ bivariant
 baddock
 bicrural
 bivascular
-bismuthyl
 binodous
 benevolence
 brahmic
