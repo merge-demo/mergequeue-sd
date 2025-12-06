@@ -8078,7 +8078,6 @@ caressable
 climatical
 camelion
 chaffman
-culicines
 codiniac
 coracosteon
 continent
@@ -16792,6 +16791,7 @@ clownade
 clownage
 clownery
 capitative
+culicines
 clowneries
 clownheal
 coadjutrices
