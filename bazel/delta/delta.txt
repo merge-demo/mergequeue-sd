@@ -7397,7 +7397,6 @@ discount
 demoniacally
 demiadult
 detonating
-decenyl
 detonation
 disowned
 detonations
@@ -10021,6 +10020,7 @@ derv
 disconnectiveness
 dimorph
 dimorphism
+decenyl
 dukker
 dissatisfactorily
 dally
