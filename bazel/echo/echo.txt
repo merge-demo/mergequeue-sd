@@ -9270,6 +9270,7 @@ esdras
 endonucleolus
 erred
 errhines
+excrescency
 encyclopedize
 elmwood
 extraclassroom
@@ -12083,7 +12084,6 @@ epacridaceae
 excrementive
 extrasensory
 enfolder
-excrescency
 eriophyid
 eris
 enfoldment
