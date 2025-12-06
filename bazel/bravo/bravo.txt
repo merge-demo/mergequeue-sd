@@ -8472,6 +8472,7 @@ blessed
 bellehood
 bildar
 bullshot
+boltmaker
 bilder
 barostat
 bilders
@@ -12268,7 +12269,6 @@ beslimed
 boltlike
 blindling
 beaupers
-boltmaker
 bunga
 blee
 bombaster
