@@ -733,6 +733,7 @@ forepart
 frostiness
 fruitful
 fanaticizing
+fruitlet
 finickier
 fortunella
 footmanhood
@@ -2870,7 +2871,6 @@ footstall
 fettucini
 fungiferous
 fistulate
-fruitlet
 feathertop
 froglike
 farsightedly

@@ -6935,7 +6935,6 @@ anticomplement
 augen
 afflatus
 airtimes
-alanyls
 assailment
 amende
 apostrophic
@@ -14946,6 +14945,7 @@ anachronic
 anticommunistically
 anticonductor
 adenographic
+alanyls
 acale
 assassinates
 antozone
