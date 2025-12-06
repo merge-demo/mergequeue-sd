@@ -2470,6 +2470,7 @@ americana
 adipic
 acnemia
 argumentum
+aldebaran
 adiaphoral
 acnes
 amperemeter
@@ -7522,7 +7523,6 @@ albuminiparous
 acromial
 agnomina
 aphagias
-aldebaran
 anfracture
 alnitham
 albuminising
