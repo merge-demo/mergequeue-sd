@@ -2409,7 +2409,6 @@ fringillid
 fibrously
 foh
 fingu
-frieze
 fontainea
 frontwise
 foreproduct
@@ -3996,6 +3995,7 @@ fluoaluminic
 felicific
 facades
 forwean
+frieze
 forefaces
 feute
 funerally
