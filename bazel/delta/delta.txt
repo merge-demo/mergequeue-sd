@@ -5561,6 +5561,7 @@ diversities
 diaminogene
 dx
 dimmock
+discolouring
 departmentalism
 departmentalization
 departmentalized
@@ -11506,7 +11507,6 @@ dar
 doest
 deads
 discolorment
-discolouring
 discolourization
 discourt
 discombobulate
