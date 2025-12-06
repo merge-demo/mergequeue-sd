@@ -6967,7 +6967,6 @@ excipular
 eying
 epistolar
 endostylic
-ephectic
 erian
 esophago
 ecthlipses
@@ -8349,6 +8348,7 @@ exuvial
 eyetooth
 enthrallments
 educative
+ephectic
 excitomotory
 estivated
 endiadem
