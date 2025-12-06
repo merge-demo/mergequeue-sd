@@ -1154,7 +1154,6 @@ blennoma
 bajarigar
 brideman
 benzotetrazole
-bajau
 bullshots
 boxer
 bajocco
@@ -7757,6 +7756,7 @@ bisharin
 bullaries
 bheestie
 beblot
+bajau
 bespangles
 britten
 bathyscaphe
