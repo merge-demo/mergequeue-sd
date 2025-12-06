@@ -5414,6 +5414,7 @@ ebonige
 enfester
 ed
 equid
+estivation
 emigrants
 eightsman
 example
@@ -9565,7 +9566,6 @@ einsteinium
 esnecy
 epizoology
 esocataphoria
-estivation
 endocrinology
 euglenineae
 ecotypes
