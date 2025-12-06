@@ -10283,6 +10283,7 @@ dermoskeleton
 distaste
 doura
 dutch
+discoids
 distruss
 decrepid
 denitrator
@@ -13724,7 +13725,6 @@ dystrophies
 despoiling
 diphosgene
 disturbation
-discoids
 defends
 doorplate
 divalent
