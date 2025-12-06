@@ -2385,7 +2385,6 @@ esterling
 embiid
 epepophysis
 evangelization
-edda
 excusively
 epipetalous
 episcopalianize
@@ -9866,6 +9865,7 @@ entophyte
 epoophoron
 esthesiogeny
 embryographic
+edda
 enragedly
 exuberation
 exhibitionistic
