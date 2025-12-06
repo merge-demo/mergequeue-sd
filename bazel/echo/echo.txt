@@ -8090,7 +8090,6 @@ epiplasmic
 epiplectic
 exhausting
 epiploce
-exacum
 epiplocele
 epiploitis
 embryoscopic
@@ -10516,6 +10515,7 @@ exemplifications
 electrometry
 effusing
 entreatingly
+exacum
 euboean
 eubteria
 engelmann
