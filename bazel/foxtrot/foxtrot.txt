@@ -1008,7 +1008,6 @@ fluorapatite
 fluoborid
 feeblest
 farinas
-foglietto
 fascicles
 filmgoing
 flexuose
@@ -8591,6 +8590,7 @@ flatworks
 fillagreing
 farseeingness
 fetcher
+foglietto
 fenceress
 faradisms
 flappiest
