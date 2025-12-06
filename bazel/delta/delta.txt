@@ -5369,7 +5369,6 @@ displant
 deadheadism
 dentelure
 duftry
-dealable
 dorsoventrad
 derider
 dorsimesal
@@ -12389,6 +12388,7 @@ didymiums
 decoagulation
 dishaunt
 deflationary
+dealable
 dichromaticism
 deathweed
 dishcloth
