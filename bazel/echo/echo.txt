@@ -6348,6 +6348,7 @@ ekamanganese
 enshade
 enshawl
 espace
+entr
 ensheathe
 eburna
 ensheathing
@@ -6479,7 +6480,6 @@ enphytotic
 enrapturing
 espanoles
 elocation
-entr
 embrocated
 ensurance
 ensuring
