@@ -3794,7 +3794,6 @@ fingerboard
 foremisgiving
 flyflap
 freon
-ferritization
 frizzliest
 frocklike
 frijolillo
@@ -7226,6 +7225,7 @@ financiery
 fatstocks
 fluorogen
 foregoing
+ferritization
 fissuration
 fledglings
 fetisheer
