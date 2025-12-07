@@ -5805,6 +5805,7 @@ englut
 emhpasizing
 encored
 eyot
+evolutions
 excedent
 ependymitis
 eggfruit
@@ -10047,7 +10048,6 @@ elod
 editresses
 epitaphial
 esculetin
-evolutions
 emergent
 encastered
 egrets
