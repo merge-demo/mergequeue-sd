@@ -4574,7 +4574,6 @@ empeoplement
 enchanted
 eschara
 eunuchise
-euthycomic
 extraregular
 encephalola
 esoterism
@@ -12166,6 +12165,7 @@ emphysematous
 esclavage
 energise
 elasticin
+euthycomic
 exuviating
 electroshock
 exploits
