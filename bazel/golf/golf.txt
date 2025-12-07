@@ -4202,7 +4202,6 @@ gleesome
 ganef
 gulflike
 geniculum
-gossy
 gymnotus
 gutling
 geomagnetic
@@ -6282,6 +6281,7 @@ gentle
 gulpin
 guildsmen
 gynandrarchic
+gossy
 galoch
 gospelly
 gainable
