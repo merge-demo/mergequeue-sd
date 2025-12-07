@@ -2267,6 +2267,7 @@ glamoury
 gigantoblast
 gunroom
 gammoning
+grypotherium
 giust
 glazily
 gonofs
@@ -9185,7 +9186,6 @@ golee
 greenhornism
 gripment
 grimacers
-grypotherium
 gentilization
 gooral
 gridlock
