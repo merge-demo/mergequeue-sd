@@ -10379,6 +10379,7 @@ ethology
 ethnogeographer
 ethologies
 electrocataphoretic
+epulation
 explains
 eternize
 epiphenomenalist
@@ -14195,7 +14196,6 @@ eupanorthus
 enterococci
 ectosome
 esthetics
-epulation
 endlong
 exurge
 enlists
