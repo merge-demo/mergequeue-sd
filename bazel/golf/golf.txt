@@ -3341,7 +3341,6 @@ gobemouche
 guitermanite
 gadbush
 gessamine
-gonfanons
 gluside
 gibbar
 guttiferal
@@ -8877,6 +8876,7 @@ gateless
 gyroceracone
 genappe
 grievant
+gonfanons
 guesthouses
 greyfly
 gregau
