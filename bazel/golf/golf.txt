@@ -2545,7 +2545,6 @@ gael
 geothermal
 gilliver
 gnarrs
-glusid
 gapeseeds
 generalistic
 gaudier
@@ -8219,6 +8218,7 @@ gerontotherapies
 grisard
 graphitize
 gastrotubotomy
+glusid
 glacioaqueous
 goldbug
 graphitizing

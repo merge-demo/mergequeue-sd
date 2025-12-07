@@ -4502,7 +4502,6 @@ bronchiectatic
 bluenose
 becroak
 bedead
-becross
 bureaucratism
 becrowd
 burstwort
@@ -14074,6 +14073,7 @@ butanone
 brachyfacial
 brachyglossal
 burgul
+becross
 blusterously
 brachygnathia
 brachygnathism
