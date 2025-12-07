@@ -22812,6 +22812,7 @@ commemorator
 coalsack
 chibrit
 consequently
+counterstroke
 choremen
 cognateness
 clamourer
@@ -27142,7 +27143,6 @@ counterstimulate
 counterstimulation
 counterstimulus
 counterstock
-counterstroke
 cyclopoid
 clientless
 cellulate
