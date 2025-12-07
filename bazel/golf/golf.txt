@@ -6266,7 +6266,6 @@ gamodemes
 gormandizing
 gregorianizer
 gob
-goban
 gollar
 greediness
 gadslid
@@ -8609,6 +8608,7 @@ guidwilly
 gotos
 goldanged
 gimbaling
+goban
 guider
 grauwacke
 greeds

@@ -3866,7 +3866,6 @@ fany
 fig
 flowerlet
 forfit
-flabbergastingly
 fike
 flashlamps
 finaglers
@@ -3954,6 +3953,7 @@ fingerer
 flaunch
 fingerers
 feed
+flabbergastingly
 fono
 florissant
 freehanded
