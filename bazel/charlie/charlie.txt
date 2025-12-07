@@ -9827,7 +9827,6 @@ crinet
 chemisette
 chemism
 choosy
-chemisorb
 coprophilic
 copperytailed
 chemistry
@@ -23198,6 +23197,7 @@ constructivist
 circumstantiable
 constructor
 catabolic
+chemisorb
 constructors
 cundy
 carquaise

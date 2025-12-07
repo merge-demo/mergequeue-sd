@@ -3863,7 +3863,6 @@ amphithuron
 acetabuliform
 adipinic
 autotransplant
-adipocellulose
 adipocere
 adipoceriform
 adipoid
@@ -10309,6 +10308,7 @@ amending
 autumns
 amoebian
 amendment
+adipocellulose
 amene
 antierosive
 ampicillin
