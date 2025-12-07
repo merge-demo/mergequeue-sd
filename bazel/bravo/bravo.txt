@@ -6413,6 +6413,7 @@ biozone
 belgium
 benzoglycolic
 benzoglyoxaline
+bantings
 bastioned
 baldpates
 benzohydrol
@@ -8369,7 +8370,6 @@ blastostylar
 balk
 brusque
 blastocarpous
-bantings
 bonefishes
 buhlbuhl
 bronx
