@@ -2252,7 +2252,6 @@ encoach
 ethnarchies
 endothys
 electricize
-emphasizes
 electriferous
 energumen
 enmass
@@ -7343,6 +7342,7 @@ easeled
 evangeliser
 exosphere
 expulsing
+emphasizes
 exile
 eunomian
 environmentalism
