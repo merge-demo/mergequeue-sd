@@ -6846,7 +6846,6 @@ foliose
 flachery
 flittingly
 foliot
-fasces
 forthby
 ferritungstite
 fattiest
@@ -7309,6 +7308,7 @@ fiddleheaded
 forechamber
 foraminiferal
 fogs
+fasces
 fidgetingly
 foible
 felting
