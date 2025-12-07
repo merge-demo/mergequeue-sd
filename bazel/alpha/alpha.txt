@@ -83,6 +83,7 @@ abalones
 armadillos
 abama
 akhara
+affraying
 abecedary
 aband
 abandon
@@ -5364,7 +5365,6 @@ anticogitative
 afformative
 abuseful
 affrayers
-affraying
 affrays
 apocatastatic
 admeasured
