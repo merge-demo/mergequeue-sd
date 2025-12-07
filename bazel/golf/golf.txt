@@ -519,7 +519,6 @@ glissandos
 gustily
 guruship
 gallbladders
-guaranteers
 gaieties
 guinde
 gigsman
@@ -4309,6 +4308,7 @@ glazings
 grieves
 gippy
 grads
+guaranteers
 garganeys
 gentisein
 gustativeness
