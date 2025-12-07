@@ -11461,6 +11461,7 @@ bivious
 barytones
 bolthead
 bluetit
+bunnia
 bluffly
 bullhoof
 bejade
@@ -17449,7 +17450,6 @@ bunking
 babeldom
 browny
 bunny
-bunnia
 bicoloured
 bunnies
 bunodont
