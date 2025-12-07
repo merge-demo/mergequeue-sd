@@ -3112,6 +3112,7 @@ gullage
 gurglet
 grees
 geopolar
+gatemaker
 grips
 golandaas
 gooseherd
@@ -9071,7 +9072,6 @@ genoese
 gis
 goloch
 gryllid
-gatemaker
 galluptious
 geelbek
 glottogonic
