@@ -8164,7 +8164,6 @@ binucleate
 barble
 befouls
 biding
-bidirectional
 biophagy
 beliefs
 bania
@@ -16956,6 +16955,7 @@ bordure
 bespeakable
 bedwarmer
 backland
+bidirectional
 briolettes
 beclowned
 buys
