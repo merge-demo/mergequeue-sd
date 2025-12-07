@@ -547,7 +547,6 @@ foxwood
 flagging
 federative
 fallectomy
-fierte
 forebays
 fussbudgets
 fliskier
@@ -8891,6 +8890,7 @@ flitty
 ferritins
 fowells
 foumart
+fierte
 falciparum
 forayer
 fartherance
