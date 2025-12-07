@@ -30356,6 +30356,7 @@ canonicalizing
 catalog
 coresidual
 collectivistic
+crystallizability
 carotte
 crusets
 calmierer
@@ -31542,7 +31543,6 @@ cursory
 cratered
 cuproid
 cursorily
-crystallizability
 cursoriness
 cursorious
 coffeecake
