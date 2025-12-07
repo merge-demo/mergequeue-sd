@@ -10963,7 +10963,6 @@ cfh
 chiropodous
 chiropompholyx
 contraposita
-chiroptera
 chiropterygian
 chiropterite
 chiros
@@ -28031,6 +28030,7 @@ conicine
 cigarets
 cramasie
 cognoscible
+chiroptera
 chillo
 carnalizing
 crambe
