@@ -4032,7 +4032,6 @@ deaminization
 dibasicity
 dialing
 dipteros
-dirten
 delegations
 delegator
 discomposedly
@@ -14782,6 +14781,7 @@ doggie
 diglot
 deviating
 dodd
+dirten
 docketing
 dantophily
 diocesian
