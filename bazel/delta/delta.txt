@@ -4798,6 +4798,7 @@ dejected
 diabolatry
 disgracing
 disbudding
+doorkeep
 darwin
 dangs
 dpt
@@ -12537,7 +12538,6 @@ disinclined
 disinclining
 dolichotmema
 disindividualize
-doorkeep
 dicotyledonary
 disinfectants
 drafter
