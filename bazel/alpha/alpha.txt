@@ -1519,7 +1519,6 @@ accompanier
 australorp
 antinomians
 antiglyoxalase
-accompanies
 accompanyist
 asperggilla
 aminotransferase
@@ -4533,6 +4532,7 @@ aggerose
 adverbiation
 atticism
 anthoxanthin
+accompanies
 adversatively
 ambushed
 amylin
