@@ -7338,7 +7338,6 @@ freshen
 feudalism
 forescene
 forby
-famelessly
 forebodingly
 footplate
 flakiness
@@ -10666,6 +10665,7 @@ fist
 footler
 famish
 frightable
+famelessly
 facultied
 fibular
 fruitlets
