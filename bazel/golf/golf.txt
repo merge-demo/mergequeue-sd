@@ -4181,7 +4181,6 @@ gundogs
 gauds
 gnathites
 glaswegian
-gaiter
 gibbeted
 gelofre
 genealogy
@@ -6692,6 +6691,7 @@ gild
 gundelow
 gynodioeciously
 gunsman
+gaiter
 glitters
 guard
 garmentless
