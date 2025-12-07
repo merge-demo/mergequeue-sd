@@ -5938,7 +5938,6 @@ glamourizer
 gluepot
 gimballed
 garrison
-gangliasthenia
 gemitorial
 globuliform
 gaylussacia
@@ -8390,6 +8389,7 @@ giantry
 goliardeys
 gunplay
 ghawazi
+gangliasthenia
 grainfield
 gallinacei
 gildedness
