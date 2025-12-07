@@ -2291,6 +2291,7 @@ grange
 granulosa
 geswarp
 galante
+grata
 gumihan
 gradeless
 gestant
@@ -9943,7 +9944,6 @@ glamorizing
 groundnut
 gratulatorily
 growingly
-grata
 genevese
 girderless
 greylags
