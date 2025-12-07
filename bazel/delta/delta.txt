@@ -7042,6 +7042,7 @@ despondentness
 desponder
 despondingly
 desponds
+denar
 diaster
 districts
 dalasis
@@ -16552,7 +16553,6 @@ dynastidan
 dyspnoic
 draftwoman
 detergent
-denar
 drivebolt
 deteriorationist
 duos
