@@ -4550,6 +4550,7 @@ adversities
 abranchial
 aliptes
 axotomous
+akmite
 advertence
 advertently
 appertise
@@ -7109,7 +7110,6 @@ androides
 amissness
 arythmic
 akkadian
-akmite
 aftershock
 aetheogam
 acumble
