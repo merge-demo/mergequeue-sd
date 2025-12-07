@@ -2353,7 +2353,6 @@ gainturn
 guavaberry
 ghazal
 grundified
-glandes
 geraty
 georgette
 gelosie
@@ -4996,6 +4995,7 @@ genially
 gangliest
 gateage
 graunt
+glandes
 grouselike
 gauging
 gymnospermal
