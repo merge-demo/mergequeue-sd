@@ -735,7 +735,6 @@ fenrir
 forepart
 frostiness
 fruitful
-fanaticizing
 fruitlet
 finickier
 fortunella
@@ -7587,6 +7586,7 @@ freezable
 fervors
 forril
 festino
+fanaticizing
 fatalize
 farrier
 fossula
