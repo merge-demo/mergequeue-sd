@@ -208,7 +208,6 @@ gerrymandering
 goslings
 gomashta
 greyest
-gaius
 gambiers
 gentleness
 graphing
@@ -3280,6 +3279,7 @@ gunrack
 geriatrician
 geriatrist
 goxes
+gaius
 german
 gunstocks
 graminiferous
