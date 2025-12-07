@@ -3440,7 +3440,6 @@ badgerly
 bastions
 boughpot
 bef
-bastite
 brushfire
 brigade
 basto
@@ -4258,6 +4257,7 @@ bishopbird
 banff
 beautiful
 blowball
+bastite
 bellhanging
 beautihood
 berbamine
