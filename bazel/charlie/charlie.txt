@@ -12324,6 +12324,7 @@ carcinogen
 chromatician
 chromaticness
 chromatid
+cavin
 conuses
 chromatin
 caucasoids
@@ -30500,7 +30501,6 @@ cubatory
 contraclockwise
 counterweighed
 cubby
-cavin
 cubbyhouse
 cubbing
 codein
