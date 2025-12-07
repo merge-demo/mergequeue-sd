@@ -2639,6 +2639,7 @@ goatee
 glossosteresis
 geniality
 genetics
+goosey
 gastrolysis
 gudgeoned
 geomoroi
@@ -6722,7 +6723,6 @@ gewgawed
 growse
 grittle
 gardenize
-goosey
 goup
 gypsine
 gyric
