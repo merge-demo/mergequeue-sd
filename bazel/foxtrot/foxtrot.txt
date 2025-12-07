@@ -1189,6 +1189,7 @@ fluoroscopy
 fleech
 fears
 fascistization
+fcp
 foxproof
 fountainlike
 fleckled
@@ -6139,7 +6140,6 @@ furiosity
 ferrums
 fuses
 fewness
-fcp
 fewneses
 farrieries
 fabella

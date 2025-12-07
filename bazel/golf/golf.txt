@@ -901,7 +901,6 @@ graved
 gobioid
 gusseted
 gez
-gelatinizability
 ginning
 genome
 guahivo
@@ -3540,6 +3539,7 @@ geums
 gangues
 garmentworker
 ganglions
+gelatinizability
 granulitization
 gymnorhina
 geomagnetist
