@@ -1168,7 +1168,6 @@ calculably
 cosing
 confabular
 calculatedly
-contango
 calculatedness
 chromophilic
 calculates
@@ -1666,6 +1665,7 @@ calipash
 caloyer
 calomels
 calomorphic
+contango
 cynanchum
 contemporaneity
 cashdrawer
