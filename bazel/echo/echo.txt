@@ -1292,6 +1292,7 @@ explicatively
 ericophyte
 efface
 equitable
+enfirm
 equalized
 effacers
 ellipsis
@@ -5436,7 +5437,6 @@ endshake
 elfishly
 egretta
 easterly
-enfirm
 eaglelike
 esthetology
 endure
