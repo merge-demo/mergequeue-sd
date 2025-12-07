@@ -9787,7 +9787,6 @@ extenuator
 envermeil
 emplanement
 extracellular
-essoinment
 essorant
 echiuroidea
 endarterial
@@ -10681,6 +10680,7 @@ endocytosis
 estragon
 easternism
 eugenically
+essoinment
 eugenie
 eugenism
 elatedness
