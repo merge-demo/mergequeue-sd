@@ -10239,6 +10239,7 @@ epistolist
 epigenous
 emanationist
 esponton
+epitheloid
 eucalypteol
 exculpates
 ethylic
@@ -11470,7 +11471,6 @@ ectonephridium
 erinnic
 effectually
 electrotypist
-epitheloid
 escapades
 empyreumatize
 electrolytes
