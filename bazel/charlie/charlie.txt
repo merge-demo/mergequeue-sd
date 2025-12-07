@@ -10030,7 +10030,6 @@ chervonei
 conundrumize
 chervontsi
 chesapeake
-caboche
 cumidin
 complier
 cheselip
@@ -14988,6 +14987,7 @@ civicism
 civicisms
 civics
 civie
+caboche
 contractively
 cilantros
 connixation
