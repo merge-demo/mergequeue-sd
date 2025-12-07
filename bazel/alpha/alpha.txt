@@ -4877,7 +4877,6 @@ aerocraft
 arbutes
 aspheterize
 amoebous
-arkwright
 aerodermectasia
 aerodynamical
 aerodynamically
@@ -11430,6 +11429,7 @@ ajugas
 attendants
 anywheres
 aneroids
+arkwright
 arthogram
 apiphobia
 antholysis

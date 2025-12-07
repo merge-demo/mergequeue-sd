@@ -4685,7 +4685,6 @@ balayeuse
 bedgoer
 bradded
 balletomania
-breedling
 bassets
 bedrowse
 bediamonded
@@ -17443,6 +17442,7 @@ brocage
 bunkie
 bandwork
 buffi
+breedling
 boccies
 baltis
 bunking
