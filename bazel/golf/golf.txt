@@ -9147,7 +9147,6 @@ gingerberry
 genoveva
 gildsmen
 gramper
-gillenia
 grammatically
 goading
 gratings
@@ -10676,6 +10675,7 @@ glaiketness
 genuflexion
 glottologist
 guric
+gillenia
 grog
 granitization
 gelatinobromide
