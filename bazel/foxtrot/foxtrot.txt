@@ -908,7 +908,6 @@ faquir
 farad
 faradaic
 footballer
-filleted
 fluorometer
 flamed
 feel
@@ -3255,6 +3254,7 @@ filbert
 frigorimeter
 freit
 furciferine
+filleted
 fifteenthly
 fireburn
 fomenting
