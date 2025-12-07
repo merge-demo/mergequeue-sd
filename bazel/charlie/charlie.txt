@@ -8038,6 +8038,7 @@ chaetopterus
 chaetosoma
 chrysophlyctis
 chaetosomidae
+chateaus
 codrus
 crumhorn
 compacting
@@ -9206,7 +9207,6 @@ chatchke
 chatchkes
 chondrogenous
 chateaugray
-chateaus
 chatelain
 cordmaker
 chatelaines
