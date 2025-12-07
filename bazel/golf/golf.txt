@@ -462,6 +462,7 @@ granadine
 glop
 gearset
 gymnical
+gweduc
 gleewoman
 goosefishes
 gynarchy
@@ -2546,7 +2547,6 @@ gilliver
 gnarrs
 glusid
 gapeseeds
-gweduc
 generalistic
 gaudier
 glen

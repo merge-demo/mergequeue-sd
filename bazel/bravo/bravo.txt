@@ -10422,6 +10422,7 @@ bronco
 bailwood
 burgrave
 biosynthesis
+brisking
 bravado
 bragged
 buonamano
@@ -15560,7 +15561,6 @@ beast
 bussy
 barbule
 boardable
-brisking
 briss
 backwoodsman
 bolsterer
