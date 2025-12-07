@@ -26724,7 +26724,6 @@ counterborer
 counterboring
 counterboulle
 counterbranch
-curbstones
 counterbrand
 confutable
 countercathexis
@@ -31665,6 +31664,7 @@ cush
 cushag
 collineation
 cushats
+curbstones
 crinkliness
 cushaws
 caseins
