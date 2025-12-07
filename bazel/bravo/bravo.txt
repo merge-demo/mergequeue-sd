@@ -1856,7 +1856,6 @@ bilinear
 batrachoplasty
 biparty
 bimetalism
-bandiness
 bascunan
 bailiary
 bryology
@@ -11711,6 +11710,7 @@ beboss
 bardolatry
 birthmate
 bestubbled
+bandiness
 bonneted
 bobcoat
 bobeche
