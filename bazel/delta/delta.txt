@@ -3612,7 +3612,6 @@ dodecant
 diatomic
 destituting
 diatonous
-degener
 declaredness
 depredations
 dripping
@@ -13584,6 +13583,7 @@ daemonic
 dissentience
 duende
 dehydrofrozen
+degener
 deerhorn
 dementation
 decimally
