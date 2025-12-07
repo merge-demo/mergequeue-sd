@@ -507,6 +507,7 @@ ethnographies
 effeminated
 ecesic
 ectropometer
+epistroma
 ecgonin
 ecgonine
 evenhandedness
@@ -2315,7 +2316,6 @@ epicenity
 epically
 effulge
 enchants
-epistroma
 electrocardiogram
 enclear
 ever
