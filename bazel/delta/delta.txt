@@ -15661,6 +15661,7 @@ dopa
 demobilisation
 determine
 dopchick
+diarchy
 dopebook
 demonstrator
 discased
@@ -16327,7 +16328,6 @@ dainteth
 deplored
 dedolency
 decanate
-diarchy
 drubs
 duratives
 dorothy
