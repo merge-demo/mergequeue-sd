@@ -2680,7 +2680,6 @@ futilize
 frighteningness
 floodwall
 fishify
-flamant
 frenzies
 flambe
 faithing
@@ -6526,6 +6525,7 @@ flytail
 finecomb
 fluting
 freakishly
+flamant
 flasque
 foetid
 floccose
