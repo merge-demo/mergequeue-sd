@@ -2073,7 +2073,6 @@ entraps
 enchainements
 ecphractic
 epi
-eugene
 earwitness
 epispermic
 emu
@@ -2413,6 +2412,7 @@ epitaxial
 earthnut
 exciting
 exciple
+eugene
 ebonist
 electroencephalographical
 ellipsometry
