@@ -19676,7 +19676,6 @@ aerobacteriological
 alfarga
 aristate
 aristeas
-avowal
 alertness
 aristeia
 acetanilide
@@ -23441,6 +23440,7 @@ auditing
 aftersong
 alkalescency
 abelmosks
+avowal
 agnail
 accommodational
 advenience
