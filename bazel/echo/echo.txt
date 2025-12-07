@@ -1111,7 +1111,6 @@ electrotypes
 epicaridea
 edith
 embarras
-epitrichial
 exsanguinated
 encatarrhaphy
 ejectee
@@ -6061,6 +6060,7 @@ epiglottises
 enkindles
 edginess
 epiphytotic
+epitrichial
 entrepreneuses
 epistolical
 epistles
