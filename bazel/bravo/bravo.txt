@@ -1700,6 +1700,7 @@ brokerage
 borealis
 brachypyramid
 broon
+burut
 byline
 boutonniere
 belorussian
@@ -14903,7 +14904,6 @@ blastemal
 beknotting
 butterflylike
 breastbeam
-burut
 bungerly
 bitthead
 breaster
