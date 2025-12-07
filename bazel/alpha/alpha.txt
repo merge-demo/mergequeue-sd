@@ -14043,7 +14043,6 @@ atypically
 attry
 antechinomys
 agitpropist
-altazimuth
 autopilots
 alpinia
 anchorate
@@ -20619,6 +20618,7 @@ aetiology
 arthropathic
 assamese
 anapnograph
+altazimuth
 arthrophlogosis
 abdaria
 appete
