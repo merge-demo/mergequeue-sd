@@ -704,6 +704,7 @@ galtrap
 gianthood
 gastroenterologically
 grimoire
+gloved
 galumphs
 guebucu
 gimbawawed
@@ -9376,7 +9377,6 @@ germanhood
 germigenous
 grannyknot
 garnishry
-gloved
 gobelin
 glaymore
 gelatinized
