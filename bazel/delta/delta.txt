@@ -6627,6 +6627,7 @@ deselected
 depiction
 dysmerogenesis
 deadborn
+dihydrocuprin
 duddie
 desiccants
 dichotomised
@@ -15509,7 +15510,6 @@ desertedly
 done
 diaries
 dacryostenosis
-dihydrocuprin
 dispendious
 duopolies
 dismalness
