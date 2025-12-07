@@ -5855,6 +5855,7 @@ filariae
 fortunite
 film
 feyer
+folksinger
 fluctuation
 festine
 fulcrumage
@@ -9061,7 +9062,6 @@ forbruise
 foxfires
 foederis
 falsettos
-folksinger
 feedbag
 fizzled
 finochios
