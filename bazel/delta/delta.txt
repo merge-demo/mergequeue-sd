@@ -6126,7 +6126,6 @@ dispirits
 derailing
 demiworld
 derailment
-decocts
 divvied
 defalcate
 duplexs
@@ -16369,6 +16368,7 @@ dolmens
 defilade
 defrost
 downstrokes
+decocts
 downtake
 duodecane
 dewret
