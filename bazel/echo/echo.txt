@@ -3124,7 +3124,6 @@ eloigning
 enactment
 euryte
 eloigns
-eloin
 eloine
 engrossing
 eloiner
@@ -5858,6 +5857,7 @@ endless
 esox
 engrandize
 ebrillade
+eloin
 ectogeneous
 ecesis
 engrandizement

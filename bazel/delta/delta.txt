@@ -8306,7 +8306,6 @@ dagesh
 digitation
 doombook
 dialyzer
-diagrams
 dentin
 db
 dracontian
@@ -16619,6 +16618,7 @@ deprecated
 didelphian
 dragonhood
 downily
+diagrams
 disilicate
 deveins
 dissent
