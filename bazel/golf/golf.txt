@@ -2386,7 +2386,6 @@ ghiordes
 gadwall
 greenboard
 ganisters
-gedds
 grampa
 granddaughterly
 gongoristic
@@ -6408,6 +6407,7 @@ gasproof
 glassworks
 gonotyl
 granulitis
+gedds
 gracer
 geoponic
 goshenite

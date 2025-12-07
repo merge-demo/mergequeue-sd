@@ -3502,7 +3502,6 @@ additive
 acrogynous
 additivity
 apesthesia
-aloysia
 additory
 augustin
 appointively
@@ -12063,6 +12062,7 @@ aerogen
 anhalamine
 airspeed
 anastasimon
+aloysia
 anastasius
 anemosis
 architeuthis
