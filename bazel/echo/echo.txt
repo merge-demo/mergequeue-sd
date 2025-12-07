@@ -7621,7 +7621,6 @@ engraulidae
 exintine
 eupatory
 ensient
-entocnemial
 eventfully
 engines
 event
@@ -8635,6 +8634,7 @@ extractor
 enervous
 expels
 emphyteuta
+entocnemial
 elutriating
 emergently
 electively
