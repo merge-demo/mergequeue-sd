@@ -12380,6 +12380,7 @@ chromaturia
 calciphilic
 chromazurine
 chromdiagnosis
+consarn
 complication
 clangorousness
 cystatrophy
@@ -25019,7 +25020,6 @@ configured
 cordobas
 cordon
 cordonazos
-consarn
 chlorargyrite
 circumstantiates
 cordoned
