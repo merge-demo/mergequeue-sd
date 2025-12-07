@@ -6712,6 +6712,7 @@ celebrious
 celebrity
 counterinterpretation
 cornbin
+coprecipitated
 ciscos
 cribbages
 clavecin
@@ -24699,7 +24700,6 @@ christianize
 cruisingly
 coprecipitate
 countervene
-coprecipitated
 chalcididae
 copremias
 copresbyter
