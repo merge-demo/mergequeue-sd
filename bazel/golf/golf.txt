@@ -7803,7 +7803,6 @@ gipseian
 greeny
 grubworm
 gulleys
-gillstoup
 geologising
 glycolipine
 gargoylish
@@ -9632,6 +9631,7 @@ gomuti
 glaucodote
 geests
 grizzlier
+gillstoup
 geochemical
 guarish
 gummite
