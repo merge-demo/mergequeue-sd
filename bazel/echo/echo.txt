@@ -589,6 +589,7 @@ exfiltration
 echoism
 epigeal
 enhydros
+esq
 echometer
 echopractic
 examinate
@@ -9695,7 +9696,6 @@ espouses
 espousing
 esprit
 enterorrhexis
-esq
 esquires
 existence
 exitial
