@@ -1609,6 +1609,7 @@ frowned
 facet
 faxed
 futilities
+furzier
 farandole
 formicoidea
 framework
@@ -10905,7 +10906,6 @@ finagler
 forthwith
 foremastmen
 fulgoroidea
-furzier
 fruitist
 forgeful
 footgrip

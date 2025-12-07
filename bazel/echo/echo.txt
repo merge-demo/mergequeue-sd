@@ -4319,6 +4319,7 @@ empowering
 enterable
 endothelioid
 entrenches
+eumenes
 esture
 elytroclasia
 expulsive
@@ -6822,7 +6823,6 @@ entom
 extender
 episternalia
 evocativeness
-eumenes
 ectosarcs
 elix
 enl
