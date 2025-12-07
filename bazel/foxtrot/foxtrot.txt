@@ -717,7 +717,6 @@ fritted
 featherlet
 famp
 famuli
-frustrater
 fana
 feoffment
 fluxion
@@ -7468,6 +7467,7 @@ florally
 faultlessness
 faltered
 flatuses
+frustrater
 fluor
 frigor
 fourbagger
