@@ -5945,6 +5945,7 @@ cathect
 cathected
 cathects
 cathedra
+clinquant
 cathedraled
 cathedralesque
 cavorter
@@ -27585,7 +27586,6 @@ cloiochoanitic
 caterwauled
 covillager
 covine
-clinquant
 censes
 cymatium
 coving
