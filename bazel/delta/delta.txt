@@ -1993,7 +1993,6 @@ dupondidii
 dhooley
 disvalue
 dopant
-discostate
 debuted
 debuting
 desirable
@@ -10964,6 +10963,7 @@ deuterocone
 dispenses
 disforestation
 doublethinking
+discostate
 dorsoradial
 digressions
 disadvance

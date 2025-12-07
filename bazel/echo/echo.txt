@@ -1147,6 +1147,7 @@ euchorda
 exploitationist
 enrichments
 economizers
+enamourment
 estuaries
 enterobiasis
 edomitish
@@ -7017,7 +7018,6 @@ endocardial
 extractors
 embladder
 electrotitration
-enamourment
 explorable
 endosteomas
 effigiating
