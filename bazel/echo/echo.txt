@@ -8278,7 +8278,6 @@ ellagate
 exemplification
 epitaxies
 epitaxis
-ebonizes
 epidemicity
 epigrammatized
 evan
@@ -11656,6 +11655,7 @@ exactas
 ergastoplasm
 elaterite
 epileptogenic
+ebonizes
 elephanticide
 esse
 exacter
