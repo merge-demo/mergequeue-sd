@@ -4828,7 +4828,6 @@ carr
 carrack
 cymulose
 cycling
-corallita
 carracks
 chronobarometer
 carragheenin
@@ -9923,6 +9922,7 @@ cambists
 crescographic
 caseconv
 chaoses
+corallita
 comedians
 chenet
 chirotony
