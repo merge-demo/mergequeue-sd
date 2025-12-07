@@ -731,7 +731,6 @@ dandy
 dandiacally
 dandydom
 dacryosolenitis
-dealcoholization
 drabby
 dishabilitation
 dandie
@@ -3709,6 +3708,7 @@ degreases
 daffadowndilly
 degreewise
 dorsers
+dealcoholization
 degressive
 dactylopterus
 daunting

@@ -2676,6 +2676,7 @@ enduros
 electrotherapy
 electrotheraputic
 emyds
+expurgatorial
 exembryonate
 elaeopten
 electrothermal
@@ -12070,7 +12071,6 @@ epiclike
 enforcible
 elflike
 exotoxins
-expurgatorial
 embalmed
 excortication
 eschewals
