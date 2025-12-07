@@ -3447,6 +3447,7 @@ baguios
 bibliolatrous
 bathylite
 bovine
+bladewise
 basts
 bamalip
 banuyo
@@ -10321,7 +10322,6 @@ beleaguerer
 besmircher
 basiglandular
 bosporian
-bladewise
 bladygrass
 baluchithere
 bisme
