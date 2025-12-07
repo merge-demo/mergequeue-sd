@@ -1328,6 +1328,7 @@ bobbles
 balboa
 bethlehem
 bookdealer
+beadeye
 bioplastic
 balboas
 brod
@@ -4002,7 +4003,6 @@ beslur
 bonyfish
 beacons
 buoyancy
-beadeye
 beader
 bellmaker
 barnhardtite
