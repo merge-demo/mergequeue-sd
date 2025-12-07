@@ -2741,7 +2741,6 @@ feddans
 festinance
 festoonery
 foretellable
-familistere
 fuddlebrained
 forgivingness
 featness
@@ -8471,6 +8470,7 @@ frow
 figment
 forked
 formica
+familistere
 foolishly
 fasciculate
 fitty
