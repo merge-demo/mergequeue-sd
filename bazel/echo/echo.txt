@@ -943,6 +943,7 @@ ecttypal
 equates
 emanatory
 exeresis
+electrophoresed
 ecuadorian
 ecumenacy
 engraffing
@@ -10101,7 +10102,6 @@ erythrosin
 etheostominae
 exasperates
 esthetician
-electrophoresed
 earwax
 ether
 excising
