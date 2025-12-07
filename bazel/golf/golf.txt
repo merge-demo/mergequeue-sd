@@ -7305,7 +7305,6 @@ germinability
 goofing
 gamostelic
 garcon
-gymnosophist
 gassendist
 gortonite
 gauffer
@@ -9025,6 +9024,7 @@ garoter
 graving
 gwantus
 gritstone
+gymnosophist
 grasswidow
 ghent
 gneissose
