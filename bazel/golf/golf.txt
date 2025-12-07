@@ -4303,6 +4303,7 @@ germicide
 gynetype
 gynocracy
 gymnadenia
+gammelost
 glazings
 grieves
 gippy
@@ -4446,7 +4447,6 @@ giobertite
 grazierdom
 grainsickness
 gosplan
-gammelost
 graminology
 gommelin
 grandsire
