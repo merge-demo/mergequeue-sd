@@ -11395,6 +11395,7 @@ decays
 dittany
 disciform
 diplopods
+deals
 discigerous
 discinct
 discing
@@ -14185,7 +14186,6 @@ deeds
 delegation
 disuniting
 dysurias
-deals
 disusage
 dynamoscope
 dibbles
