@@ -3637,7 +3637,6 @@ genotypicity
 ghettoes
 grinder
 ghettoizing
-glaver
 ghi
 gallegan
 gamomania
@@ -10000,6 +9999,7 @@ grysbok
 grunswel
 glood
 guaza
+glaver
 gendarmerie
 gymnoglossa
 goodbys
