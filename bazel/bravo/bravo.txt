@@ -5250,7 +5250,6 @@ beaky
 bunkmate
 bowtie
 begarlanded
-baldpates
 bewired
 batzen
 begass
@@ -6414,6 +6413,7 @@ belgium
 benzoglycolic
 benzoglyoxaline
 bastioned
+baldpates
 benzohydrol
 benzoylated
 becuna
