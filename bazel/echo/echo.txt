@@ -1005,6 +1005,7 @@ euphonism
 educationary
 electropolar
 escargot
+echinorhynchus
 edemas
 exinite
 exclaimingly
@@ -6601,7 +6602,6 @@ electrician
 enquicken
 equiponderant
 excluding
-echinorhynchus
 esperantidist
 embryous
 enseam

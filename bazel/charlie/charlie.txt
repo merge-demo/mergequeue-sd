@@ -12340,7 +12340,6 @@ caudiform
 coroplasty
 carpophyll
 coulters
-chromatium
 chromatize
 credensiveness
 chromatogenous
@@ -24999,6 +24998,7 @@ cordiality
 cordialities
 crimini
 coction
+chromatium
 cnibophore
 cheskeys
 cordycepin
