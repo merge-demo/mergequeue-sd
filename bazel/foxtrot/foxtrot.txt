@@ -1222,7 +1222,6 @@ freieslebenite
 funkias
 formene
 fiends
-furbishment
 flagellosis
 foredeem
 fascia
@@ -9411,6 +9410,7 @@ foodstuff
 foreteeth
 frary
 flouriness
+furbishment
 frolicly
 forlore
 frescoer
