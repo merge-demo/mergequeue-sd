@@ -6172,6 +6172,7 @@ geelbec
 goa
 gadsbud
 gauche
+glaziery
 grihastha
 genovino
 groveling
@@ -7942,7 +7943,6 @@ got
 glonoin
 galleons
 glycerol
-glaziery
 goodyish
 gymnurinae
 gymnospermy

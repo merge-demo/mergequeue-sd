@@ -9116,6 +9116,7 @@ buzzwigs
 boylikeness
 bioscopy
 bioscopic
+belicoseness
 bioastronautical
 bedecorate
 biosensor
@@ -14143,7 +14144,6 @@ brushability
 bour
 bracioles
 backs
-belicoseness
 bracked
 brackened
 bromochloromethane
