@@ -681,7 +681,6 @@ granulomatosis
 goneril
 gastronomer
 gogglers
-gallying
 gonfalon
 goniotropous
 gratillity
@@ -3669,6 +3668,7 @@ gnathonism
 gasoliner
 glyceral
 guardstone
+gallying
 gulist
 geissospermin
 griphus
