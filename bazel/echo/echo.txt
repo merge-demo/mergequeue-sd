@@ -8124,7 +8124,6 @@ ensanguined
 enaction
 enkolpia
 enseel
-extratabular
 episcopalianism
 engineered
 elaeosaccharum
@@ -10053,6 +10052,7 @@ ethmovomerine
 entamoebiasis
 epopoeist
 etceteras
+extratabular
 ethanediol
 erianthus
 ethanedithiol
