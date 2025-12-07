@@ -3716,6 +3716,7 @@ adenous
 apomorphin
 autocarpic
 adeona
+alberttype
 attenuative
 arsenobenzol
 adephagous
@@ -20865,7 +20866,6 @@ acetose
 ashiver
 atherosperma
 asaphia
-alberttype
 azotized
 acetophenetide
 assayable
