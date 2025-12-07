@@ -8619,7 +8619,6 @@ antidotal
 aqueduct
 abandoners
 arboricultural
-allegorisation
 allegorise
 anapnoic
 afear
@@ -23109,6 +23108,7 @@ algicidal
 attargul
 antisplenetic
 acetyls
+allegorisation
 armigers
 alluviation
 attars
