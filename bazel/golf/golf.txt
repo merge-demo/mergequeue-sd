@@ -5130,6 +5130,7 @@ generalissima
 gandhist
 glaucionetta
 gromatics
+greenlet
 grassland
 grebes
 glycoside
@@ -7672,7 +7673,6 @@ geira
 grounding
 geodynamics
 gyppery
-greenlet
 gleary
 gardeny
 grader
