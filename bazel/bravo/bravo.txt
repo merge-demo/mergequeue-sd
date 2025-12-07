@@ -5939,6 +5939,7 @@ benzalcyanhydrin
 bagatine
 beden
 backswordmen
+benefic
 blitzkrieg
 butterroot
 belast
@@ -13466,7 +13467,6 @@ baronethood
 bottomers
 bottoming
 balderdash
-benefic
 bradyseismism
 billage
 bowyangs
