@@ -2824,7 +2824,6 @@ gadger
 gentlemouthed
 galactorrhea
 glace
-gentler
 guenon
 gutnish
 gingelly
@@ -7661,6 +7660,7 @@ gaffes
 gaucy
 girdler
 gopherwood
+gentler
 gunsmithery
 galvanoscopy
 graded
