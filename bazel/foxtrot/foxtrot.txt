@@ -917,6 +917,7 @@ flether
 furfural
 fardo
 ferneries
+fanciness
 flyleaf
 foundry
 ft
@@ -10711,7 +10712,6 @@ forbare
 forecount
 forbore
 frumpishly
-fanciness
 foreyear
 follyer
 fructified
