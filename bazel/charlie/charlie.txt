@@ -6950,7 +6950,6 @@ cenobites
 cenobitic
 caseworkers
 cenobitically
-cenobitism
 cretion
 cenogamy
 cenogenesis
@@ -7766,6 +7765,7 @@ certosina
 canewares
 certosino
 cerulean
+cenobitism
 ceruleans
 cerulein
 cache
