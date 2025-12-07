@@ -3415,6 +3415,7 @@ extrapolate
 exolete
 exemplar
 ecliptic
+epibole
 embatholithic
 enfiladed
 extradoses
@@ -10336,7 +10337,6 @@ exporting
 eroticist
 eclecticist
 extraquiz
-epibole
 ethnogeographic
 extirpator
 embillow
