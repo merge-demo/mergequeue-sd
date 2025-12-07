@@ -1128,6 +1128,7 @@ gashes
 globalization
 ganoidian
 gamenesses
+granulations
 graptolitoidea
 gaillardia
 geonyctitropic
@@ -10325,7 +10326,6 @@ girasol
 greenbacks
 gault
 gruiformes
-granulations
 getsul
 gullygut
 gilling
