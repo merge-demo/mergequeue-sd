@@ -2495,7 +2495,6 @@ barguest
 barguests
 buzylene
 baria
-bedouse
 blameful
 bandyman
 baboodom
@@ -14992,6 +14991,7 @@ breakfaster
 bullfeast
 blepharorrhaphy
 billowier
+bedouse
 burny
 brecht
 bungholes
