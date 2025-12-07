@@ -7484,6 +7484,7 @@ gamesmanship
 gymnotidae
 gordon
 gerful
+gemlich
 globulousness
 gastrolienal
 geostrategic
@@ -10182,7 +10183,6 @@ gallnuts
 guide
 gigglement
 guidebooky
-gemlich
 goggly
 grazioso
 grooper
