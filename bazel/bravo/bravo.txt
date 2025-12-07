@@ -7095,7 +7095,6 @@ bedazzlement
 bespangle
 bespangling
 bespate
-brickbatted
 basset
 bezzant
 bennetweed
@@ -14865,6 +14864,7 @@ beefs
 bingies
 breadwinner
 beanpoles
+brickbatted
 bloodthirstier
 breadwinning
 breakability
