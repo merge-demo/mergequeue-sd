@@ -7463,7 +7463,6 @@ braveries
 betrothing
 betrothment
 bromine
-betrousered
 boshboks
 balinese
 beaners
@@ -14603,6 +14602,7 @@ birks
 biogeographers
 brotherlike
 blackneb
+betrousered
 bonito
 branniness
 binodal
