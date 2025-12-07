@@ -11164,7 +11164,6 @@ force
 figged
 frowy
 fungation
-fremdness
 flyblowing
 fungian
 felspar
@@ -11677,6 +11676,7 @@ furcates
 frailties
 festoons
 flocculate
+fremdness
 frigorific
 feru
 feminines
