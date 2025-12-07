@@ -6467,6 +6467,7 @@ bumpering
 backcloth
 barangay
 biternate
+bedabbles
 benzothiofuran
 burs
 bolection
@@ -8023,7 +8024,6 @@ bicyclic
 bicyclism
 blastaea
 bicyclist
-bedabbles
 burntly
 bicycular
 biciliated

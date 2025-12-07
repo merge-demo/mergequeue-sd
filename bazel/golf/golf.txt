@@ -5476,6 +5476,7 @@ grotesques
 girsle
 gonfanon
 gallah
+goldeyes
 gluing
 gladful
 goethite
@@ -6412,7 +6413,6 @@ gracer
 geoponic
 goshenite
 goidelic
-goldeyes
 gingivalgia
 glommed
 gastroduodenoscopy
