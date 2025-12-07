@@ -2267,7 +2267,6 @@ exormia
 enbloc
 endolymph
 excretal
-eger
 encased
 egest
 ester
@@ -3378,6 +3377,7 @@ emphase
 egoist
 embargoes
 endocrinologist
+eger
 enc
 eavedropper
 embark
