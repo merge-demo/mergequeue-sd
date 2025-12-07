@@ -7608,6 +7608,7 @@ controlling
 calcarated
 cerebrospinal
 chaetotaxy
+costocoracoid
 cevadilline
 cerebrosuria
 cerebrovascular
@@ -8815,7 +8816,6 @@ charact
 cutouts
 charactered
 capitalist
-costocoracoid
 charactery
 characterial
 crassamentum
