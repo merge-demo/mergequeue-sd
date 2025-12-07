@@ -5424,7 +5424,6 @@ bacula
 beshine
 boarstaff
 bigarreau
-behaved
 bronchium
 behaver
 behaving
@@ -8303,6 +8302,7 @@ broodingly
 butterflyfish
 biblists
 beak
+behaved
 bookling
 burden
 benton
