@@ -1538,7 +1538,6 @@ batterer
 blauboks
 baller
 beclowning
-ballerina
 ballet
 balletomane
 blastiest
@@ -9108,6 +9107,7 @@ biorhythmicity
 bevellers
 bacteriophagia
 bios
+ballerina
 bargander
 biosciences
 bulrushes
