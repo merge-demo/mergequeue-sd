@@ -1697,7 +1697,6 @@ alouettes
 apperceive
 accumbency
 allatrate
-astarte
 accumbent
 accumulating
 anthracomartian
@@ -24307,6 +24306,7 @@ aftertaste
 ablepsy
 anthrasilicosis
 autophotoelectric
+astarte
 autopilot
 autoincrement
 autoplagiarism
