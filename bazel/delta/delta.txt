@@ -4810,6 +4810,7 @@ deaconing
 demihag
 decompositional
 dodecatylic
+dufterdar
 deair
 dephasing
 disseizor
@@ -17942,7 +17943,6 @@ dosage
 dactyliography
 delimitate
 defibrinate
-dufterdar
 dys
 duftite
 disamenity
