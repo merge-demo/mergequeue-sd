@@ -3824,7 +3824,6 @@ dreissiger
 dunno
 deific
 dhobey
-deification
 disaugment
 dressiness
 drepanididae
@@ -13615,6 +13614,7 @@ dendritic
 doodia
 dissertational
 dentinal
+deification
 dissertative
 damme
 disparple
