@@ -4921,6 +4921,7 @@ equiv
 eudemons
 extradictable
 endamoebas
+enterrologist
 endamoebidae
 embolon
 equations
@@ -11050,7 +11051,6 @@ eurythmics
 epiphenomena
 endotrophic
 epigonichthys
-enterrologist
 establish
 euroaquilo
 ejaculators
