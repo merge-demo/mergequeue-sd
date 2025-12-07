@@ -634,7 +634,6 @@ geodetic
 grottowork
 gardencraft
 gallomaniac
-gallon
 gonangial
 gabionage
 guruships
@@ -4482,6 +4481,7 @@ glomeration
 granules
 gristles
 geophytes
+gallon
 guacimo
 gypsyhead
 gloeocapsoid

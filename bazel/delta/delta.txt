@@ -2160,7 +2160,6 @@ downtime
 diosmosis
 decantist
 decaffeinated
-decapitates
 decapitation
 deterrable
 decapitations
@@ -16599,6 +16598,7 @@ deface
 denotative
 donjon
 dikdiks
+decapitates
 dactylopius
 derout
 denotations
