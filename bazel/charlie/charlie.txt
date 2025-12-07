@@ -640,6 +640,7 @@ cero
 caeomas
 clara
 cataclasis
+cargo
 chinchiness
 caeremoniarius
 coynye
@@ -28783,7 +28784,6 @@ clarinettist
 confederatio
 cantino
 cresegol
-cargo
 cresyl
 cresylate
 cresylic
