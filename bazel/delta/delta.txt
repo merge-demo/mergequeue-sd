@@ -2722,6 +2722,7 @@ detailedness
 demitrain
 difformity
 deconsideration
+dubhgall
 decontaminating
 diatessaron
 dortiness
@@ -7476,7 +7477,6 @@ drivable
 debating
 denude
 doctoral
-dubhgall
 distalia
 detruding
 disulphid
