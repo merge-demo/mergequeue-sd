@@ -15001,6 +15001,7 @@ civilian
 chalcostibite
 civilianize
 civilians
+codifier
 complementalness
 clothy
 civilisations
@@ -25963,7 +25964,6 @@ centered
 corven
 corver
 corves
-codifier
 corvet
 corvette
 corvettes
