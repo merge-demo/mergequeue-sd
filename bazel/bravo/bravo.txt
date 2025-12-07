@@ -2688,7 +2688,6 @@ bibenzyl
 beastings
 beblood
 butein
-bottomries
 batch
 beadflush
 bemaul
@@ -4887,6 +4886,7 @@ belavendered
 blanket
 boucl
 ballot
+bottomries
 bedwarfing
 bigotty
 bubukle
