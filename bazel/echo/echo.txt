@@ -2929,7 +2929,6 @@ embank
 evaporatively
 erythrasma
 elliptical
-embarrassments
 eyewinks
 elicitation
 elicitor
@@ -4780,6 +4779,7 @@ exploratory
 encloister
 extend
 endosporously
+embarrassments
 emeried
 epencephalon
 extrarhythmical
