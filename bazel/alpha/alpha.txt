@@ -7677,7 +7677,6 @@ autoprothesis
 autoconverter
 asterin
 alcoholysis
-albatrosses
 aguinaldos
 aphorised
 amassed
@@ -11842,6 +11841,7 @@ abdominocardiac
 andropetalar
 analogised
 alchem
+albatrosses
 anteroventral
 analogize
 appropriation
