@@ -5682,7 +5682,6 @@ appoggiaturas
 agalaxia
 anisomelus
 agalena
-agalenidae
 apholates
 asperating
 agallochs
@@ -18069,6 +18068,7 @@ abstricts
 apteryla
 alternance
 agentship
+agalenidae
 aptest
 anticonvulsive
 aureity
