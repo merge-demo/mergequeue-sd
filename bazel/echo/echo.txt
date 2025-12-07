@@ -5882,7 +5882,6 @@ ethiops
 episyntheton
 extraterritoriality
 estamp
-endophytous
 erasures
 erg
 engreaten
@@ -9934,6 +9933,7 @@ euphuists
 estovers
 estradiol
 electrothermics
+endophytous
 emphasis
 epicentrum
 equicellular

@@ -4906,6 +4906,7 @@ gratefuller
 guapinol
 grayish
 guardee
+glossate
 gladwin
 gauffred
 gymnotoka
@@ -5132,7 +5133,6 @@ greenlet
 grassland
 grebes
 glycoside
-glossate
 glali
 gnatflower
 gaumed
