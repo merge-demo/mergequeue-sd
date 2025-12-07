@@ -697,7 +697,6 @@ glycerizin
 gowlan
 grass
 gals
-galtrap
 gianthood
 gastroenterologically
 grimoire
@@ -966,6 +965,7 @@ graptolite
 gunshot
 glist
 genomic
+galtrap
 gamostele
 gallinule
 glottogony

@@ -2262,7 +2262,6 @@ barbellula
 bowwood
 belabor
 barbellulate
-boozing
 blunderings
 blossombill
 bicarbonates
@@ -7658,6 +7657,7 @@ bewizard
 bombycina
 blandished
 bimolecular
+boozing
 beechy
 beeyard
 brog
