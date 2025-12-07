@@ -8040,7 +8040,6 @@ bitemporal
 beedged
 byname
 bick
-bicycler
 bluebooks
 bisiliac
 bickerer
@@ -17442,6 +17441,7 @@ brocage
 bunkie
 bandwork
 buffi
+bicycler
 breedling
 boccies
 baltis
