@@ -1213,7 +1213,6 @@ forediscern
 fascinate
 fixator
 fissure
-frustrately
 firmitude
 frigidity
 fenders
@@ -10255,6 +10254,7 @@ felons
 frolic
 felstone
 fluidglycerate
+frustrately
 franklinism
 forensics
 fostership
