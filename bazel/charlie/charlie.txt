@@ -4176,7 +4176,6 @@ cardiologist
 cardiologists
 cardiomegaly
 cyclus
-cardiomelanosis
 contradivide
 cholecystotomies
 cardiometric
@@ -15746,6 +15745,7 @@ coiffeuse
 cerebellar
 coccygeal
 chainlet
+cardiomelanosis
 couma
 cleanliest
 culottes
