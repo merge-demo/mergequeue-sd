@@ -9193,7 +9193,6 @@ anga
 almonage
 angina
 almonership
-almonries
 angiochondroma
 antievolutionally
 assumpsit
@@ -10387,6 +10386,7 @@ arco
 adenochondrosarcoma
 americans
 americanum
+almonries
 amphicarpa
 avocados
 aliment
