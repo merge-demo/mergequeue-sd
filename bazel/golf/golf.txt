@@ -384,6 +384,7 @@ goto
 gansy
 glumpily
 goatskins
+gurney
 grandmamma
 guisian
 gps
@@ -10695,7 +10696,6 @@ grippotoxin
 grayed
 gurk
 gellants
-gurney
 groundbird
 gurnet
 goodmanship
