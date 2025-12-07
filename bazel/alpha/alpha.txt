@@ -17157,7 +17157,6 @@ apologs
 applause
 apologue
 apologues
-apolousis
 astacidae
 apolune
 aralie
@@ -24219,6 +24218,7 @@ automated
 argentite
 amice
 automates
+apolousis
 agronomist
 aphetism
 argumentative
