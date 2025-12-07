@@ -66,7 +66,6 @@ fabulously
 facebar
 facebow
 fenchone
-ferriage
 feudalization
 faceharden
 flagships
@@ -4019,6 +4018,7 @@ fluxibly
 fibrin
 finis
 fadelessly
+ferriage
 flatling
 fletchings
 fungoid
