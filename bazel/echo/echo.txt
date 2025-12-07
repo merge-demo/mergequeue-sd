@@ -450,7 +450,6 @@ emperize
 embiodea
 explicated
 engager
-escapements
 erf
 eunuchal
 eveners
@@ -14123,6 +14122,7 @@ evokes
 eyeseed
 equivorous
 ewes
+escapements
 existentialize
 eutrophy
 epithamia
