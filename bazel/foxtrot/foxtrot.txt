@@ -3172,7 +3172,6 @@ furanoses
 freshment
 footballist
 firma
-feministic
 fauns
 ficaries
 flouse
@@ -8733,6 +8732,7 @@ fortunes
 faintise
 frankfort
 freddo
+feministic
 forbiddable
 flogged
 followership
