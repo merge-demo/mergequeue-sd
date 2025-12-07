@@ -4323,7 +4323,6 @@ galeopsis
 gingered
 guss
 guilds
-garrulity
 gingerline
 glomerular
 gingerness
@@ -8823,6 +8822,7 @@ gasterophilus
 glycins
 gonogenesis
 gregariously
+garrulity
 glaciologic
 grazed
 geranomorphae
