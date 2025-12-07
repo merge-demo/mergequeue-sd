@@ -3881,7 +3881,6 @@ butterers
 bullpouts
 babus
 bawdrics
-bawdries
 boreal
 bawl
 bawled
@@ -10911,6 +10910,7 @@ blindfolded
 bismuth
 bassus
 butterbush
+bawdries
 blindfoldedness
 bemoon
 blinding
