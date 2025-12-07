@@ -6533,7 +6533,6 @@ cardmaker
 commissionated
 caws
 cholecystorrhaphy
-caxiri
 clannish
 commissaries
 caxon
@@ -27013,6 +27012,7 @@ cataleptiform
 contestable
 chronical
 counterpoison
+caxiri
 cara
 cunctatorship
 counterposition
