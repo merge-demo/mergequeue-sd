@@ -4403,7 +4403,6 @@ ghoulishness
 gurdwara
 ganggang
 galantine
-grevillea
 goozle
 grammatist
 gloriam
@@ -7534,6 +7533,7 @@ greathead
 guideless
 gatelike
 goliardery
+grevillea
 greenbone
 gorbellies
 gymnast
