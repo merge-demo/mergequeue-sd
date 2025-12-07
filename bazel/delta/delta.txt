@@ -8915,7 +8915,6 @@ daunomycin
 desmanthus
 disbud
 dicentras
-dipyramid
 dyads
 defiatory
 degreaser
@@ -11407,6 +11406,7 @@ drawl
 disciplinable
 dishfuls
 deferentectomy
+dipyramid
 dippers
 dolina
 diabetic
