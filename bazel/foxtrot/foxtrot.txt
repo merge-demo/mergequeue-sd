@@ -5630,7 +5630,6 @@ fishbolt
 felicitations
 florist
 fellowshiped
-fascism
 frumpiest
 fianchetto
 forgetter
@@ -10972,6 +10971,7 @@ flappier
 farset
 forerunning
 faipule
+fascism
 foreadapt
 forthright
 focaloid

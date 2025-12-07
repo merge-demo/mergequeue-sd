@@ -1374,6 +1374,7 @@ garglers
 graplins
 glamorizer
 glyoxylic
+grotto
 ghastly
 glugglug
 garotters
@@ -6432,7 +6433,6 @@ gamboges
 galuth
 gaine
 glucocorticord
-grotto
 grasswidowhood
 goitrogenic
 galibi
