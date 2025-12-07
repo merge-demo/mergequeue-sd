@@ -8130,7 +8130,6 @@ blooper
 binous
 bracken
 bidden
-buttal
 boondocks
 bookkeepers
 becarpet
@@ -15833,6 +15832,7 @@ beelol
 bratticer
 benaming
 bromauric
+buttal
 balu
 brombenzamide
 ballottable
