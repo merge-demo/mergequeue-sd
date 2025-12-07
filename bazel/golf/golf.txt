@@ -1283,6 +1283,7 @@ glyphographer
 gumpus
 grallina
 gnatsnapper
+guyot
 ganges
 granch
 giddying
@@ -10107,7 +10108,6 @@ grainland
 gonads
 gypsies
 grub
-guyot
 gresil
 gilaki
 gastropods

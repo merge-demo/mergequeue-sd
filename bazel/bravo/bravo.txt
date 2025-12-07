@@ -1315,7 +1315,6 @@ balat
 belying
 basellaceous
 balatron
-benzaldiphenyl
 balatte
 bergfall
 bermudian
@@ -11822,6 +11821,7 @@ basketworm
 boded
 bodefully
 bodegas
+benzaldiphenyl
 baalshem
 baking
 brigands
