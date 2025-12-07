@@ -3002,6 +3002,7 @@ alcyon
 adrenolytic
 aegis
 actinoblast
+amphigonium
 actinobranch
 aurification
 abdication
@@ -19268,7 +19269,6 @@ aquarii
 arenariae
 addressed
 austroasiatic
-amphigonium
 afterhand
 adynamy
 antinodal
