@@ -3422,7 +3422,6 @@ excorticate
 exteriors
 enteropneustan
 embed
-expenditures
 electrosynthetic
 equaled
 evacuate
@@ -8525,6 +8524,7 @@ esoterically
 eupnea
 exsufflicate
 esophagotome
+expenditures
 enteromere
 eudaemons
 ecclesiasticize
