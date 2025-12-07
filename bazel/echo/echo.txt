@@ -494,7 +494,6 @@ edifiers
 expellers
 excavations
 epicoeliac
-embrangling
 ecderon
 electorship
 elastases
@@ -13982,6 +13981,7 @@ eyepoint
 entoplastic
 equalising
 erythromania
+embrangling
 eisegetic
 encoignures
 embryo
