@@ -6840,6 +6840,7 @@ entomical
 empoisoning
 electroimpulse
 entomol
+expulsory
 eyepopper
 exocentric
 eupolyzoan
@@ -13599,7 +13600,6 @@ elkanah
 eisegesis
 exarteritis
 electropyrometer
-expulsory
 ectad
 exiledom
 eyeblink
