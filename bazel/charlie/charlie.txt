@@ -3193,7 +3193,6 @@ citruses
 capewise
 capework
 capful
-caphar
 clistogastra
 cotillon
 clerkage
@@ -27832,6 +27831,7 @@ cozie
 conspect
 civiliser
 cp
+caphar
 clitoridean
 contractus
 cpd
