@@ -12269,6 +12269,7 @@ exing
 ecphorias
 ensheaths
 electroaffinity
+emptied
 ensued
 eds
 emarginating
@@ -12832,7 +12833,6 @@ emicant
 expansive
 exothecal
 elixate
-emptied
 emboss
 exulting
 eccentrics
