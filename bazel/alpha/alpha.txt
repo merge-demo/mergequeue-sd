@@ -6390,6 +6390,7 @@ antiochene
 animate
 allotypical
 agrypnia
+amphicyon
 agrypnotic
 agroan
 agrobacterium
@@ -15316,7 +15317,6 @@ antihypophora
 acetopiperone
 autodecrements
 antispermotoxin
-amphicyon
 antihistaminic
 angiospermatous
 antidogmatism
