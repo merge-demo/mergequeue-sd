@@ -8021,6 +8021,7 @@ chanidae
 clanks
 chaetiferous
 cocytean
+craniometrical
 chaetochloa
 chaetodon
 capercally
@@ -15104,7 +15105,6 @@ coracoacromial
 cerebromalacia
 censurer
 cladonia
-craniometrical
 cladoniaceae
 cathismata
 cladonioid
