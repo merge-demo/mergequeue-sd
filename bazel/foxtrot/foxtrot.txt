@@ -6636,6 +6636,7 @@ fillip
 forevouched
 foehnlike
 foeless
+fractile
 faulted
 fulgurating
 flossing
@@ -10612,7 +10613,6 @@ forerunner
 farceurs
 flative
 forseen
-fractile
 ferity
 forswearing
 flumped
