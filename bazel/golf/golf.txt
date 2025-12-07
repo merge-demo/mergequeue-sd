@@ -5610,7 +5610,6 @@ gaysome
 gripless
 geochemist
 geophysical
-giddybrain
 gasaliers
 gefilte
 gownlet
@@ -6384,6 +6383,7 @@ geotectology
 gunarchy
 gossaniferous
 gog
+giddybrain
 gamin
 graymill
 gugal
