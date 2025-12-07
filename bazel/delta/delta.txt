@@ -7177,6 +7177,7 @@ depictor
 deambulate
 desulfurs
 daphnetin
+debeaker
 desulphur
 desulphurate
 delatorian
@@ -8114,7 +8115,6 @@ definienda
 di
 diabetes
 diaphyses
-debeaker
 duodial
 dentex
 developpes
