@@ -1586,6 +1586,7 @@ disenthralled
 deadness
 dairyman
 deadpanned
+draperies
 deadpans
 depayse
 daikering
@@ -5509,7 +5510,6 @@ devoiced
 dorsiventrality
 deoxidize
 doryphoros
-draperies
 deoxygenated
 depaints
 divestitures
