@@ -1833,7 +1833,6 @@ banders
 broadlings
 barkinji
 bandfile
-bandh
 burdon
 brownism
 brython
@@ -2954,6 +2953,7 @@ barophobia
 barricoes
 biuniqueness
 barrigudos
+bandh
 barrikin
 babouche
 bromophenol
