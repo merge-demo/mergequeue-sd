@@ -2865,6 +2865,7 @@ frabjously
 formats
 frouncing
 foaled
+finfish
 flowstone
 fractioning
 fettlings
@@ -10896,7 +10897,6 @@ floscule
 fides
 fibrocrystalline
 fulleries
-finfish
 fleets
 flivver
 fletched
