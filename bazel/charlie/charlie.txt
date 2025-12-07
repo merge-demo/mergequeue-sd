@@ -5267,7 +5267,6 @@ cassare
 coachwood
 cassata
 coalitions
-cassation
 caveats
 cerin
 cassegrain
@@ -12203,6 +12202,7 @@ comeliest
 commonership
 cowcatcher
 castrator
+cassation
 chrysophanic
 concludible
 cancerous
