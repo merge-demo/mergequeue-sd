@@ -5618,7 +5618,6 @@ absorptivity
 aphototaxis
 aftervision
 afterwale
-amnesics
 afterward
 afterwise
 afterwork
@@ -15058,6 +15057,7 @@ arthrocarcinoma
 antidivine
 assemblagist
 anagrammatized
+amnesics
 autopositive
 aetosaurian
 accusatorially
