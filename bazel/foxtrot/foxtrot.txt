@@ -478,7 +478,6 @@ fullbacks
 foremastman
 fireflies
 foin
-faker
 fainer
 flaneries
 fohns
@@ -3337,6 +3336,7 @@ fluorescer
 fulmined
 foreheaded
 fulcruming
+faker
 forjaskit
 fiedlerite
 fifth
