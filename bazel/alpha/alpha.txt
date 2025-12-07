@@ -6749,7 +6749,6 @@ amortisable
 ainoi
 appellatory
 antioxygen
-amplifies
 accepters
 armyworm
 alliage
@@ -9300,6 +9299,7 @@ alongshore
 archbishops
 alemana
 alongshoreman
+amplifies
 autonetics
 antisymmetric
 aloose
