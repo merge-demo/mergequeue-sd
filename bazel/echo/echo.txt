@@ -9447,6 +9447,7 @@ exteriorizing
 eschewed
 expand
 ecbolics
+ethologies
 encourages
 embedment
 erysiphe
@@ -10378,7 +10379,6 @@ excepter
 entropion
 ethology
 ethnogeographer
-ethologies
 electrocataphoretic
 epulation
 explains
