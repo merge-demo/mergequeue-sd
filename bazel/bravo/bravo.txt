@@ -3670,6 +3670,7 @@ besetting
 benzophenol
 bangia
 bottomchrome
+budapest
 bunsen
 batsmen
 batt
@@ -4423,7 +4424,6 @@ beclaw
 besieged
 balm
 brandering
-budapest
 balantidiosis
 barrators
 bitstone
