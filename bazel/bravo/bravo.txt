@@ -8612,7 +8612,6 @@ billiard
 bellyfull
 bioactivity
 bronchial
-bailout
 belatedly
 beeswinged
 becowards
@@ -10576,6 +10575,7 @@ bezoardic
 bespeech
 baptisteries
 bullheaded
+bailout
 blatiform
 biotelemetric
 biffies

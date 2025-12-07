@@ -9727,7 +9727,6 @@ chekan
 connatal
 cheke
 cheken
-chekhov
 composal
 colourable
 connaraceae
@@ -20061,6 +20060,7 @@ corpselike
 chesset
 commercial
 commercialised
+chekhov
 centgrave
 chequerwise
 commercialism
