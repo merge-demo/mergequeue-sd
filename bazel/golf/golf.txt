@@ -2814,7 +2814,6 @@ gybing
 grenadines
 goosehouse
 gnathoplasty
-genuflection
 gallates
 galactophlysis
 grayhair
@@ -3972,6 +3971,7 @@ grillework
 groaner
 graduated
 granary
+genuflection
 gastroatrophia
 gunlaying
 garrotted
