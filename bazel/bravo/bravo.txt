@@ -1392,7 +1392,6 @@ bajonado
 battledore
 backjoint
 balearica
-balebos
 baled
 baleen
 bobance
@@ -6409,6 +6408,7 @@ burdener
 bollen
 benzofuran
 benzofuryl
+balebos
 bracted
 biozone
 belgium
