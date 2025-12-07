@@ -11384,7 +11384,6 @@ delimiter
 dischevel
 dentalization
 dissimulator
-disci
 dermatocele
 disciflorae
 disunifying
@@ -14964,6 +14963,7 @@ demiracle
 diaphanometry
 dhikr
 drearisomely
+disci
 desoxyephedrine
 dogal
 deflocculator
