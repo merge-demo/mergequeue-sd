@@ -10252,7 +10252,6 @@ eo
 exactingly
 eudorina
 epicurish
-evennesses
 estafet
 evectic
 economical
@@ -12857,6 +12856,7 @@ episcopal
 exoticness
 enantioses
 ensile
+evennesses
 exotics
 eurythmical
 exotoxic
