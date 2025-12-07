@@ -4810,6 +4810,7 @@ dwaibly
 dishware
 deaconing
 demihag
+decompositional
 dodecatylic
 deair
 dephasing
@@ -6828,7 +6829,6 @@ dropsonde
 dedicates
 diaconate
 desize
-decompositional
 devilmonger
 dryly
 desklike
