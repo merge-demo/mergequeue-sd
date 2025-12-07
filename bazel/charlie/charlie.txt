@@ -4735,7 +4735,6 @@ chant
 concolorous
 carpetweb
 change
-comeliest
 cyclicality
 cyanogenamide
 coindicate
@@ -12200,6 +12199,7 @@ corpuscles
 chrysopa
 cassady
 chrysopal
+comeliest
 commonership
 cowcatcher
 castrator
