@@ -9094,7 +9094,6 @@ amidoacetal
 anaeroplastic
 allround
 alls
-adolesce
 artabe
 appeasive
 allspice
@@ -16291,6 +16290,7 @@ antitrade
 aconuresis
 aslaver
 alcicornium
+adolesce
 aitchless
 adamants
 adenometritis
