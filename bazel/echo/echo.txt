@@ -2968,6 +2968,7 @@ encephalopsychesis
 exister
 empty
 extraovate
+epauleted
 eliminable
 etymologizing
 eradiation
@@ -7366,7 +7367,6 @@ emasculations
 experiencible
 epaulement
 enstranged
-epauleted
 eyries
 epichil
 epee
