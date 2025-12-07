@@ -6728,6 +6728,7 @@ cimborio
 cypres
 celerities
 celeste
+coadjutrice
 celiosalpingotomy
 centrical
 cadiueio
@@ -14976,7 +14977,6 @@ cosmesis
 carpetless
 carbonado
 civet
-coadjutrice
 carcasing
 curiomaniac
 converses

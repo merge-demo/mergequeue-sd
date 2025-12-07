@@ -4075,7 +4075,6 @@ fallopian
 filelike
 frenuna
 frondescing
-fianced
 federation
 fakers
 foreprovided
@@ -6579,6 +6578,7 @@ flyboats
 foaling
 franseria
 friary
+fianced
 flunkeyism
 feltness
 frounce
