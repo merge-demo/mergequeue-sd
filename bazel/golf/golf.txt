@@ -2027,7 +2027,6 @@ gainsayers
 gonna
 giggly
 gel
-gelatiniform
 gases
 gaveled
 groundswells
@@ -9055,6 +9054,7 @@ gothlander
 gramophonical
 grateful
 granulomatous
+gelatiniform
 gyrates
 gnatcatcher
 girasole
