@@ -1191,7 +1191,6 @@ dasturi
 dreggish
 datably
 demoiselles
-datafile
 dunts
 dissuadable
 dillydallying
@@ -7798,6 +7797,7 @@ devoir
 destabilizing
 devoirs
 dholes
+datafile
 devolatilised
 dosimetries
 dryrot
