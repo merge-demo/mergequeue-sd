@@ -1931,7 +1931,6 @@ greaseless
 gushy
 greeve
 guttiness
-griffado
 galopades
 geckos
 glorifiers
@@ -2489,6 +2488,7 @@ grewia
 grots
 guttersnipes
 galumphing
+griffado
 gibbetwise
 gymnolaema
 genitalic
