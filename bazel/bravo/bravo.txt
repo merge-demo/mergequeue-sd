@@ -6565,7 +6565,6 @@ bavarois
 beaming
 blameable
 backplanes
-bagel
 bhagat
 breezy
 bioecologies
@@ -18137,6 +18136,7 @@ bacillite
 balsamize
 biffins
 boundly
+bagel
 boweling
 bullyboy
 boschvark
