@@ -8183,7 +8183,6 @@ daer
 darger
 diachronically
 dicranum
-diacid
 detachment
 duellists
 duple
@@ -9683,6 +9682,7 @@ diipenates
 disagreing
 diencephalons
 defiliation
+diacid
 dillies
 dicerion
 definitive
