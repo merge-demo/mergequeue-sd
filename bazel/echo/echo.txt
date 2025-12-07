@@ -3073,6 +3073,7 @@ encyclical
 elliot
 educationable
 ergatocracy
+equip
 expropriates
 ellipsograph
 executiveness
@@ -8420,7 +8421,6 @@ exchange
 electrizer
 evisceration
 egyptianize
-equip
 enjoyment
 eglogue
 endothecate
