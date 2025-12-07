@@ -5599,6 +5599,7 @@ desensitizes
 dependingly
 drouthiness
 depends
+dobbing
 dallack
 dispersed
 dramatizable
@@ -9119,7 +9120,6 @@ dryish
 didal
 didascalic
 dogface
-dobbing
 dormins
 didder
 diddy
