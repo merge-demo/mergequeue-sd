@@ -1220,7 +1220,6 @@ guatusan
 galegine
 gratulate
 guilelessness
-garage
 guatemaltecan
 galapago
 gastrotricha
@@ -4436,6 +4435,7 @@ galziekte
 galuchat
 gamestress
 glamours
+garage
 gazangabin
 ginseng
 globigerinidae
