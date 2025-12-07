@@ -1184,7 +1184,6 @@ dogfall
 desmotropy
 discepted
 deglutitory
-deaminization
 disestablishmentarian
 dastardize
 diaphragmal
@@ -4034,6 +4033,7 @@ delegates
 delegateship
 dermographism
 digressiveness
+deaminization
 dibasicity
 dialing
 dipteros
