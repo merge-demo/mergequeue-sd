@@ -7037,7 +7037,6 @@ diabolepsy
 diatesseron
 diversiflorous
 decadence
-deface
 despondence
 despondencies
 despondentness
@@ -16596,6 +16595,7 @@ dambose
 dissimilated
 denunciate
 dragonade
+deface
 denotative
 donjon
 dikdiks
