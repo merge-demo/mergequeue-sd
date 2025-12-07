@@ -7729,6 +7729,7 @@ graduses
 gentium
 glome
 girba
+gidgea
 glycuresis
 gemlike
 geist
@@ -9699,7 +9700,6 @@ govt
 ghanaians
 gypsophilous
 groundwood
-gidgea
 granuliform
 gruellings
 gruesome
