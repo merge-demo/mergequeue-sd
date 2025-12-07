@@ -13355,6 +13355,7 @@ anywhen
 advertize
 ascill
 anywhence
+apperceptionist
 appurtenance
 anywhither
 anywither
@@ -15310,7 +15311,6 @@ antihypnotically
 achromatically
 arietation
 acroterion
-apperceptionist
 antihypochondriac
 annal
 anticoincidence
