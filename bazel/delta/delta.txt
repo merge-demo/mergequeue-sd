@@ -351,7 +351,6 @@ disinsection
 dropling
 daybreaks
 dreamt
-daygoing
 dcor
 densest
 doorboy
@@ -4136,6 +4135,7 @@ delineated
 delineating
 dodgasted
 died
+daygoing
 decodes
 daschagga
 dankish
