@@ -11526,7 +11526,6 @@ alunites
 aldermanly
 anabathrum
 asperously
-astigmism
 aristogenesis
 asparagyl
 albification
@@ -24607,6 +24606,7 @@ acrologic
 actless
 aquaplaner
 absolve
+astigmism
 avalent
 avalon
 autoeroticism
