@@ -2693,6 +2693,7 @@ flamenco
 fashions
 fruitive
 flatteress
+filibusterer
 funnier
 figpecker
 ficche
@@ -11256,7 +11257,6 @@ funny
 fundamentality
 flagellants
 frumaryl
-filibusterer
 fenks
 felly
 finbacks
