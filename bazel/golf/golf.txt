@@ -5368,7 +5368,6 @@ gulfier
 galvanoplastical
 glyconic
 grandiloquently
-glycopeptide
 galivant
 gynecomastism
 grandevity
@@ -7558,6 +7557,7 @@ guidances
 gymnospermae
 gemini
 gillotype
+glycopeptide
 gedeckt
 gelatiniferous
 grounded
