@@ -4143,6 +4143,7 @@ adjudicates
 avell
 autobus
 antiphlogistin
+anthelmintic
 acylamino
 adnephrine
 anthracene
@@ -23332,7 +23333,6 @@ appetitiveness
 atune
 athenee
 apteria
-anthelmintic
 albuminocholia
 atween
 atwist
