@@ -5200,7 +5200,6 @@ epilithic
 endogenae
 efference
 euchres
-echeloning
 enchanter
 expedition
 endogenous
@@ -6990,6 +6989,7 @@ entreasuring
 enforcingly
 ecdemite
 easily
+echeloning
 eclipsing
 endjunk
 entreaties
