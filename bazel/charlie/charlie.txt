@@ -12058,7 +12058,6 @@ committment
 cobaltite
 compluvium
 chounce
-coalesced
 cholorrhea
 choupic
 chouquette
@@ -12462,6 +12461,7 @@ chondrosarcoma
 chromone
 carboxide
 creamers
+coalesced
 cantonments
 crinated
 chervonetz
