@@ -2876,6 +2876,7 @@ canoodles
 counsinhood
 canopy
 canopid
+coasts
 canalised
 canopies
 clarigate
@@ -15451,7 +15452,6 @@ censorate
 correption
 clarist
 clarities
-coasts
 calyculi
 cayapa
 clarke
