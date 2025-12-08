@@ -3236,7 +3236,6 @@ backstromite
 brookable
 backoff
 blushfulness
-basilicate
 basilicock
 basilics
 bohairic
@@ -15872,6 +15871,7 @@ bene
 barbarism
 bromination
 broadband
+basilicate
 beswim
 behest
 buzzbomb
