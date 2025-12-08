@@ -9899,6 +9899,7 @@ fines
 filamentose
 fogeater
 fevercup
+fascias
 fenestrone
 formalin
 foretells
@@ -11043,7 +11044,6 @@ fumuli
 flappers
 fungated
 fere
-fascias
 funambulator
 feels
 faunological
