@@ -11401,6 +11401,7 @@ complete
 conventionalism
 choak
 choana
+carnivaller
 consultations
 choanate
 choanephora
@@ -16285,7 +16286,6 @@ clypeastridea
 chicky
 clypeastrina
 clypeastroid
-carnivaller
 clypeate
 conspicuous
 caraco
