@@ -2204,7 +2204,6 @@ bridgebote
 barbarianizing
 baldy
 bandog
-bevesselled
 barbarically
 blandiloquous
 barbequing
@@ -10017,6 +10016,7 @@ bn
 baroscopical
 bargainor
 biverb
+bevesselled
 beblear
 bedfast
 breeched
