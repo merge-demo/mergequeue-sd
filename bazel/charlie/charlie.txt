@@ -6283,7 +6283,6 @@ cabbaged
 caulocarpic
 caulomic
 caulosarc
-cranioclast
 caulotaxis
 caulote
 cauls
@@ -29901,6 +29900,7 @@ crosshatches
 capillation
 cogwheel
 coadjutator
+cranioclast
 crosshatching
 crosshaul
 crosshauling
