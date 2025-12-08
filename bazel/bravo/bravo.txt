@@ -12408,7 +12408,6 @@ bests
 bonbo
 bowerlike
 bakeout
-bonbon
 betsimisaraka
 behap
 bicapitate
@@ -17890,6 +17889,7 @@ buginese
 bushelling
 boopis
 busher
+bonbon
 bernoo
 bushfighting
 bushfires
