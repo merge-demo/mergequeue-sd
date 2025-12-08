@@ -15072,7 +15072,6 @@ clacking
 clacks
 confated
 characterizations
-cladanthous
 cladding
 couplet
 clanger
@@ -28824,6 +28823,7 @@ chasings
 creta
 counterorator
 chirographic
+cladanthous
 commander
 comte
 cretaceously
