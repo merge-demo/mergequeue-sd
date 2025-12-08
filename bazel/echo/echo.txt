@@ -5545,6 +5545,7 @@ enfeebling
 eucarida
 epigrammatised
 edessan
+equivocator
 enfeeblish
 effectful
 epilimnetic
@@ -12796,7 +12797,6 @@ epeiridae
 enthusiastical
 eurycerotidae
 epomophorus
-equivocator
 extensional
 exarchist
 exostra
