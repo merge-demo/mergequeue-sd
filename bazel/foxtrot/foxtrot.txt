@@ -9459,7 +9459,6 @@ featish
 farming
 fratricides
 fortuitousness
-femininism
 frameable
 frequenting
 fraudfully
@@ -10301,6 +10300,7 @@ fervorlessness
 fustilugs
 futurely
 farriers
+femininism
 fingerleaf
 fingering
 frondeurs
