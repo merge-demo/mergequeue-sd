@@ -5164,7 +5164,6 @@ guerdon
 gammick
 geologised
 ganoidei
-gratins
 greek
 glomerulitis
 genetmoil
@@ -6649,6 +6648,7 @@ gruntingly
 glassine
 gaed
 glucine
+gratins
 goncalo
 gyrectomy
 grubbed
