@@ -12425,6 +12425,7 @@ bless
 bondar
 bockerel
 bastardly
+blephariglottis
 bavarian
 bonderize
 belabored
@@ -13133,7 +13134,6 @@ batiker
 borrasca
 borrel
 borreria
-blephariglottis
 brunel
 bandoliered
 bonanzas
