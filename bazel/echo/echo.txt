@@ -3007,7 +3007,6 @@ elisor
 expeditor
 eyereach
 ebenezer
-elitist
 elytrocele
 epidotes
 elytroposis
@@ -13077,6 +13076,7 @@ ergates
 enslave
 embassador
 eutaxite
+elitist
 explications
 ergotisms
 ende
