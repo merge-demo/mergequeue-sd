@@ -1272,7 +1272,6 @@ brachytmema
 benzopyranyl
 beclouds
 bawdyhouses
-bogtrotter
 broderie
 balanitis
 bassarid
@@ -4306,6 +4305,7 @@ barly
 betongue
 becalm
 brachialis
+bogtrotter
 becalming
 biaural
 beakiest
