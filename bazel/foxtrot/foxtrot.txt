@@ -4341,7 +4341,6 @@ fu
 fellows
 forewomen
 foresleeve
-finagle
 feebler
 foraramina
 foreacquaint
@@ -9133,6 +9132,7 @@ fractionalized
 forjudging
 ferriprussic
 fodient
+finagle
 faired
 florulae
 feoffees
