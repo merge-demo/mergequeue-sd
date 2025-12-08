@@ -5300,6 +5300,7 @@ endorsable
 entopterygoid
 excerpt
 extravagation
+epembryonic
 enrolles
 ethylmorphine
 excretolic
@@ -7404,7 +7405,6 @@ epithetical
 extollment
 everywhither
 earthmoving
-epembryonic
 equipollency
 epencephala
 embittering
