@@ -3208,7 +3208,6 @@ gepidae
 gremlin
 genethliacally
 geraera
-garrons
 galban
 gerah
 goodwily
@@ -3467,6 +3466,7 @@ glathsheim
 gimper
 girny
 gilts
+garrons
 grudger
 gynandromorphism
 gemul
