@@ -2262,7 +2262,6 @@ drummed
 diploses
 diapyetic
 deceiving
-definitized
 defuzes
 describent
 domineerer
@@ -14659,6 +14658,7 @@ diagnose
 djagoong
 disemboguement
 djave
+definitized
 disappearer
 doubtfully
 djebels
