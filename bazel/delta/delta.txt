@@ -3264,7 +3264,6 @@ dapicho
 defensibleness
 downsizes
 drays
-defensibly
 defensively
 deferentitis
 deferents
@@ -12655,6 +12654,7 @@ disjunctively
 deseed
 dibble
 disembodying
+defensibly
 diskelion
 downers
 dysury
