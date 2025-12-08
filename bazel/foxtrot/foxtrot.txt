@@ -614,6 +614,7 @@ frame
 facesaving
 falconelle
 falsifier
+fone
 foveolet
 floaty
 falsifying
@@ -1935,7 +1936,6 @@ fenouillet
 falsum
 flauto
 fooyoung
-fone
 flooring
 foursquarely
 feds
