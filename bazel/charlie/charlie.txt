@@ -4462,6 +4462,7 @@ carl
 caseates
 cert
 carli
+comparison
 choruslike
 crackleware
 carlylean
@@ -14962,7 +14963,6 @@ cenobium
 characterology
 carbonium
 citronalis
-comparison
 citronellol
 citronin
 citrons
