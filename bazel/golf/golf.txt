@@ -306,6 +306,7 @@ gaudful
 glanderous
 gourami
 gadolinium
+ghylls
 gangrels
 grundsil
 gelatins
@@ -9494,7 +9495,6 @@ glaciaria
 gonyaulax
 gernative
 graceful
-ghylls
 guelphish
 grundlov
 group
