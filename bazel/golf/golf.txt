@@ -5200,7 +5200,6 @@ gregarinina
 gassiest
 greathearted
 guidwillie
-gardener
 gainsay
 gunbright
 grandioseness
@@ -7347,6 +7346,7 @@ glumpiness
 guildhall
 gosports
 germanify
+gardener
 grainless
 gossamered
 galega

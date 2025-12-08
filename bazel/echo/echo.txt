@@ -6534,7 +6534,6 @@ exactly
 extratension
 entomophthora
 elaphodus
-endurant
 ended
 entangled
 entangledness
@@ -13776,6 +13775,7 @@ elephas
 extolls
 eskimos
 extorters
+endurant
 extortion
 embroiling
 endopterygotism
