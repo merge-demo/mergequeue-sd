@@ -2981,6 +2981,7 @@ geognosy
 geognostically
 grenadian
 guayules
+ginward
 gaolering
 geographies
 grievers
@@ -9132,7 +9133,6 @@ gelseminic
 gummers
 grinders
 gobonated
-ginward
 geopolitics
 grummel
 gambier
