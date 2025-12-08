@@ -2037,7 +2037,6 @@ eskimo
 elaeometer
 electrometeor
 entamebic
-eligibleness
 earthstar
 encephalometric
 eleomargaric
@@ -5837,6 +5836,7 @@ engoument
 entification
 evade
 emulatory
+eligibleness
 efficace
 electrovalency
 exfoliation
