@@ -1033,7 +1033,6 @@ enhamper
 enhydris
 emberizinae
 enslavedness
-emblem
 epipleura
 elberta
 expeditions
@@ -4581,6 +4580,7 @@ enlightened
 exploited
 enchanting
 englante
+emblem
 expel
 expatiations
 equalised
