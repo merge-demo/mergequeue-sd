@@ -8735,7 +8735,6 @@ grifts
 gynoecia
 galactopoiesis
 goldenly
-girn
 greenbug
 grinner
 gastrolater
@@ -10267,6 +10266,7 @@ guimbard
 gorsehatch
 geographics
 gershom
+girn
 goglets
 gomontia
 geechee
