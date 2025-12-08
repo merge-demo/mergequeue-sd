@@ -5046,7 +5046,6 @@ dename
 denaries
 denarinarii
 deluder
-denaro
 dawdy
 dejectedness
 disconsolateness
@@ -17888,6 +17887,7 @@ duelling
 duellist
 diplomata
 debromination
+denaro
 disgrace
 disburser
 deterministically
