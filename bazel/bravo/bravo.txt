@@ -5041,6 +5041,7 @@ bigotedly
 befalling
 benzomorpholine
 befalls
+branchy
 botanised
 battlers
 blazoned
@@ -14466,7 +14467,6 @@ blastophitic
 bramble
 brambleberry
 brambles
-branchy
 botch
 balanophorin
 beambird
