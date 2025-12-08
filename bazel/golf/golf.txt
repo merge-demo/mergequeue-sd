@@ -1049,6 +1049,7 @@ gerardias
 gorgonin
 gompholobium
 ganglioid
+goral
 ganglioma
 gangliomas
 ganglionate
@@ -3905,7 +3906,6 @@ grippier
 glarily
 galeoid
 gravidae
-goral
 glossem
 geminated
 glens
