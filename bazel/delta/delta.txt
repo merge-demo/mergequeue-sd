@@ -7470,7 +7470,6 @@ defrosts
 dich
 dermoplasty
 djellab
-desmotropism
 drivable
 debating
 denude
@@ -14778,6 +14777,7 @@ docker
 disaccharidase
 docket
 devouring
+desmotropism
 doggie
 diglot
 deviating

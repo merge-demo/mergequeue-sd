@@ -7119,6 +7119,7 @@ floodgate
 fairling
 failed
 frostlike
+funerealness
 figwort
 fundamentalistic
 foleye
@@ -11643,7 +11644,6 @@ fulminating
 federational
 furbishing
 filamented
-funerealness
 forded
 foreknowing
 fusus
