@@ -4611,7 +4611,6 @@ glink
 giornata
 guarantees
 griotte
-gufought
 gloggs
 galbulae
 galipoipin
@@ -7067,6 +7066,7 @@ gastrodermis
 genealogist
 goschen
 gliffing
+gufought
 galenic
 glassworkers
 gastropathic
