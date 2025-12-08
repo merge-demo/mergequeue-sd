@@ -532,7 +532,6 @@ dermaskeleton
 dama
 damageability
 damageably
-detonatable
 damaged
 detort
 damageous
@@ -10782,6 +10781,7 @@ diestrual
 dipsopathy
 deutonephron
 dewdrops
+detonatable
 daintiest
 dipstick
 diazotize
