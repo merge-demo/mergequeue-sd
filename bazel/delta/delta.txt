@@ -13632,7 +13632,6 @@ dissettle
 dissociality
 diagrydium
 dissever
-disseverment
 dimethylketone
 dissheathed
 daddums
@@ -14143,6 +14142,7 @@ decasualised
 disanimate
 debell
 diol
+disseverment
 desacralize
 diapason
 disulfiram
