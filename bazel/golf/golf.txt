@@ -2416,6 +2416,7 @@ gonochoristic
 gomukhi
 glariest
 gallant
+gumhar
 galiongee
 ganton
 gyrolith
@@ -5812,7 +5813,6 @@ genre
 gangways
 goofiest
 garlicky
-gumhar
 garrulously
 goony
 grunts
