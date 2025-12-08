@@ -3519,7 +3519,6 @@ bulbocavernosus
 brookites
 blackroot
 bathed
-bellower
 bathes
 backslidden
 bicondylar
@@ -13203,6 +13202,7 @@ bifer
 benzoyl
 barundi
 bosom
+bellower
 blemmyes
 botryoidal
 bosomed
