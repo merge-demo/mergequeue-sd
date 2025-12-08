@@ -5069,6 +5069,7 @@ gassy
 gapped
 groused
 golconda
+gowdie
 gecarcinus
 germiparity
 gastrogenital
@@ -9681,7 +9682,6 @@ ghana
 guipures
 gamogony
 gibuses
-gowdie
 gastroscopy
 gascons
 goodtemperedness
