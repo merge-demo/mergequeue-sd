@@ -2527,6 +2527,7 @@ gradatim
 gastroenterocolitis
 gladite
 guttifer
+guric
 grattoir
 genecology
 guanidopropionic
@@ -10674,7 +10675,6 @@ gurgoyle
 glaiketness
 genuflexion
 glottologist
-guric
 gillenia
 grog
 granitization
