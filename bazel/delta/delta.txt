@@ -2008,7 +2008,6 @@ demagnify
 dynapolis
 dolichocephal
 documentalist
-denehole
 dentello
 dimble
 defaecate
@@ -9603,6 +9602,7 @@ differentness
 divisi
 digoxins
 digraphically
+denehole
 digrediency
 decenaries
 defining
