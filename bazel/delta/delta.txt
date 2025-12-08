@@ -9508,7 +9508,6 @@ digestively
 dural
 digestiveness
 dipteroi
-diamonded
 domically
 daintrel
 dittography
@@ -13575,6 +13574,7 @@ dissentation
 dissented
 dissenter
 daemonic
+diamonded
 dissentience
 duende
 dehydrofrozen
