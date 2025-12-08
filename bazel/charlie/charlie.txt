@@ -10047,7 +10047,6 @@ chesoun
 chessboards
 counterfugue
 collab
-chipchap
 chessdom
 chesser
 cabinda
@@ -30744,6 +30743,7 @@ cuisines
 crine
 cos
 chummy
+chipchap
 cuisse
 canonical
 composing
