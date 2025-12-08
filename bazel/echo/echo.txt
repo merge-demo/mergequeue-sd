@@ -770,7 +770,6 @@ extense
 eremophilous
 experimental
 ecroulement
-emden
 emydidae
 enolizing
 extramedullary
@@ -10281,6 +10280,7 @@ ergal
 extravasate
 eulogium
 excipulum
+emden
 experimentize
 electronography
 erump
