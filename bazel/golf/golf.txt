@@ -2892,7 +2892,6 @@ gedunk
 geobotanic
 gustation
 gradualism
-gumpheon
 ghoulie
 gomlah
 globulite
@@ -8409,6 +8408,7 @@ gyves
 gonoblastic
 goldonian
 glassweed
+gumpheon
 gavottes
 gawked
 grumphy
