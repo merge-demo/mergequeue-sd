@@ -3398,6 +3398,7 @@ calycozoan
 credos
 crackiness
 caprate
+cruciate
 coagulatory
 caprella
 capreol
@@ -24817,7 +24818,6 @@ clubby
 coracii
 coryzas
 coracle
-cruciate
 coracobrachial
 clipeus
 calcimeter
