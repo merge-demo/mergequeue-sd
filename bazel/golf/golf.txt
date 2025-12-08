@@ -2250,6 +2250,7 @@ glucokinase
 gonimic
 gey
 greeney
+gangliocyte
 geopolitik
 gradation
 glasswort
@@ -10414,7 +10415,6 @@ gothism
 griskins
 garibaldian
 gidyea
-gangliocyte
 geshurites
 gayish
 greypate
