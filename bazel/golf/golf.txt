@@ -1610,6 +1610,7 @@ goodeniaceous
 geulah
 galavant
 glottic
+gaumy
 gasteromycetous
 geneat
 giraffine
@@ -7592,7 +7593,6 @@ grassweed
 gledge
 guesting
 gloomful
-gaumy
 garrulinae
 gyrus
 gheraoes

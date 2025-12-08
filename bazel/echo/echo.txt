@@ -7988,7 +7988,6 @@ eirack
 estab
 eliminand
 enomaniac
-epidermous
 epineuneuria
 enterocholecystostomy
 evolutionary
@@ -9149,6 +9148,7 @@ episplenitis
 exumbrella
 esrog
 ermanrich
+epidermous
 endotheca
 entailer
 educatability
