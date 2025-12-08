@@ -9328,6 +9328,7 @@ amputations
 alpenstock
 alpenstocks
 alpestrine
+afocal
 aircraft
 atomiferous
 alphabetarian
@@ -20252,7 +20253,6 @@ astonied
 adorns
 allotriuria
 amateurish
-afocal
 anthropomorphization
 alkalify
 arrogates
