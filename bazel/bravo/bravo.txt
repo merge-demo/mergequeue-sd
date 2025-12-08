@@ -3128,7 +3128,6 @@ burghemot
 bronchography
 bleat
 briskly
-brachiating
 basenjis
 biphase
 baseplug
@@ -7933,6 +7932,7 @@ btu
 bibliophagous
 budgetary
 boscages
+brachiating
 befuddlement
 beetleheadedness
 bongoists
