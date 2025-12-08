@@ -4194,6 +4194,7 @@ fragmentally
 flagrant
 fibrilliform
 finnish
+furacity
 firefighting
 flute
 feelingful
@@ -8258,7 +8259,6 @@ faverole
 fractionalizing
 friction
 forging
-furacity
 formous
 forgings
 figgy
