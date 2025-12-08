@@ -27412,6 +27412,7 @@ committees
 courtship
 codifying
 cleach
+crosstown
 couscous
 castilloa
 couscousou
@@ -29947,7 +29948,6 @@ cammocky
 colyumist
 coggers
 creepier
-crosstown
 carcinologist
 crosstrack
 crosstree
