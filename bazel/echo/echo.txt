@@ -1531,7 +1531,6 @@ endosternum
 exradio
 episcopised
 egoisticalness
-epigrams
 evoke
 embow
 encarnadine
@@ -4052,6 +4051,7 @@ endoparasite
 enringing
 evangelised
 encyclopaedism
+epigrams
 embroils
 epitheca
 enamelers
