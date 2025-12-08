@@ -1478,7 +1478,6 @@ alpinery
 acclimatizer
 adrenalectomy
 amphipneustic
-acquaintancy
 agreeableness
 anticness
 acclinal
@@ -21560,6 +21559,7 @@ aleucemic
 aspirant
 amoraic
 agonizing
+acquaintancy
 aelurophobia
 apoplectically
 aspirating
