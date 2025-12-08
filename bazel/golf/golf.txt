@@ -1507,7 +1507,6 @@ goutish
 gaolage
 gardenhood
 gravisphere
-groose
 guaxima
 glandless
 gorlin
@@ -5625,6 +5624,7 @@ glottogonist
 gervais
 gurges
 garuda
+groose
 ginks
 gipsyry
 gratifier

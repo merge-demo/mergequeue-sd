@@ -2953,7 +2953,6 @@ ducatus
 divagation
 dechlorination
 dansk
-diacope
 dedifferentiating
 developist
 dimanganion
@@ -15779,6 +15778,7 @@ desanded
 diffugient
 demolishes
 dumka
+diacope
 dorp
 diphthongalize
 dorpers
