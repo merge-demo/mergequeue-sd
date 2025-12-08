@@ -6718,7 +6718,6 @@ gainsayer
 guttler
 grint
 gibbet
-gulae
 gobmouthed
 growable
 gromatic
@@ -8553,6 +8552,7 @@ gilo
 germaneness
 gasolene
 gemuti
+gulae
 geonoma
 gravicembalos
 garrotter
