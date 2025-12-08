@@ -6768,6 +6768,7 @@ falciform
 fass
 founding
 fitcher
+futuric
 fold
 fantasy
 fleechment
@@ -11200,7 +11201,6 @@ fungoids
 fixating
 foremanship
 fippence
-futuric
 fasciolae
 fictil
 frittata
