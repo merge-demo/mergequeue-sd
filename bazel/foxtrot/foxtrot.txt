@@ -1600,6 +1600,7 @@ fervescence
 flannel
 fawkener
 fraischeur
+fchar
 funfair
 favoredly
 fawned
@@ -4916,7 +4917,6 @@ flatteringly
 fergusite
 frenetic
 formly
-fchar
 fluidised
 foining
 fluoresced
