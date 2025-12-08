@@ -6128,6 +6128,7 @@ copernicans
 celiotomy
 corrobori
 chimaeroidei
+centro
 cornfactor
 cattycornered
 cattyman
@@ -7207,7 +7208,6 @@ clark
 cinemascope
 crispen
 contributorily
-centro
 centroacinar
 crawful
 centrobarical
