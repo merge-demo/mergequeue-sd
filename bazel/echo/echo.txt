@@ -8035,7 +8035,6 @@ exsanguious
 euthenist
 encoop
 electrodentistry
-epibasal
 ergs
 expilate
 eggar
@@ -13244,6 +13243,7 @@ empurples
 exertive
 ety
 endemical
+epibasal
 ethize
 engram
 envine
