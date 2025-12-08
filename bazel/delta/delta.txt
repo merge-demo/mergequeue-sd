@@ -5351,6 +5351,7 @@ distincter
 dialkylamine
 distitle
 defiant
+desecate
 donis
 dolor
 dentatoserrate
@@ -12425,7 +12426,6 @@ defibrillator
 deamidize
 deplantation
 drybrush
-desecate
 disheriting
 deforms
 declivate
