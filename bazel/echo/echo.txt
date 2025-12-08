@@ -6725,7 +6725,6 @@ epicenters
 equines
 espaliers
 epithecal
-evaginable
 emunge
 enuresis
 entertake
@@ -12539,6 +12538,7 @@ etymologized
 euphemy
 emissaria
 enhalos
+evaginable
 eugeny
 enneacontahedron
 exoskeleton
