@@ -2985,6 +2985,7 @@ commonable
 chaffers
 capriole
 colliquation
+catnapping
 cicalas
 claustrum
 croppies
@@ -6067,7 +6068,6 @@ catmints
 catnap
 cheilotomies
 catnaper
-catnapping
 caddle
 catnaps
 catnep
