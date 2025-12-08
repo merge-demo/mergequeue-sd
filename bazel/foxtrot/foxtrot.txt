@@ -1175,7 +1175,6 @@ filicineae
 fraying
 friponerie
 focalize
-funder
 funaria
 fifths
 fume
@@ -11420,6 +11419,7 @@ fishings
 furfuraceously
 fingerlike
 furred
+funder
 frowstiest
 fettering
 forebemoaned
