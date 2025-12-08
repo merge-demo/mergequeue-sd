@@ -3368,6 +3368,7 @@ archery
 amblystoma
 absentee
 atresic
+arear
 atelets
 andean
 allosyndesis
@@ -16585,7 +16586,6 @@ apathaton
 allelvia
 apathetically
 adipyl
-arear
 apathogenic
 almoners
 ateleiosis
