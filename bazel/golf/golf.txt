@@ -3169,6 +3169,7 @@ goatherd
 geosphere
 gapless
 guerilla
+glandes
 geochronologist
 growthful
 guardiancy
@@ -5007,7 +5008,6 @@ genially
 gangliest
 gateage
 graunt
-glandes
 grouselike
 gauging
 gymnospermal
