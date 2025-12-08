@@ -13221,7 +13221,6 @@ carapacial
 cyclocephaly
 cyclocoelic
 cyclode
-catastrophe
 cyclodiene
 cycloganoid
 cummin
@@ -14352,6 +14351,7 @@ conveyorized
 ceriomyces
 callously
 citrus
+catastrophe
 clicky
 circumvest
 circumvoisin
