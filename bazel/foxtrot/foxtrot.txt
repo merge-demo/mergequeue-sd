@@ -5576,6 +5576,7 @@ forgette
 fader
 fibrinocellular
 flycatchers
+functionary
 flicflac
 flintiness
 flicker
@@ -9361,7 +9362,6 @@ frankfurters
 fivers
 frayne
 frankish
-functionary
 fummle
 fowk
 frails
