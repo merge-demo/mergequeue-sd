@@ -5823,6 +5823,7 @@ farmeries
 fayal
 feverously
 fluochloride
+fixtures
 fattening
 fervidly
 fierasfer
@@ -9251,7 +9252,6 @@ fasciolet
 fresnel
 foresentence
 fetishist
-fixtures
 fleuret
 fourchet
 friesic
