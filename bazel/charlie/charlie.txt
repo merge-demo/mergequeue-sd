@@ -1121,7 +1121,6 @@ cheetah
 calciner
 chomer
 clamworm
-columella
 calcinosis
 contraprovectant
 calciobiotite
@@ -10148,6 +10147,7 @@ chomping
 collectioner
 complaining
 chewing
+columella
 chewinks
 chews
 ciceronians
