@@ -9386,6 +9386,7 @@ chaws
 chawstick
 catering
 citoyen
+constrainingly
 clickless
 chazan
 chazanim
@@ -23157,7 +23158,6 @@ constrainedness
 carroll
 choiak
 coiffure
-constrainingly
 cubbyhole
 constraints
 confervaceous
