@@ -1669,7 +1669,6 @@ faucets
 flatworm
 fieldmice
 fragmentation
-formalizes
 folioing
 fleshless
 flagship
@@ -3269,6 +3268,7 @@ flatware
 feelings
 ficoidal
 fiddlecome
+formalizes
 fracedinous
 fiddlefaced
 fiddlerfish

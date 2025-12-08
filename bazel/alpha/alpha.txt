@@ -5680,7 +5680,6 @@ affatuate
 againstand
 antilens
 amphidromia
-amphistomatic
 againward
 aggrace
 ardeid
@@ -24235,6 +24234,7 @@ aeciotelia
 anthelices
 aluminoferric
 automatous
+amphistomatic
 automechanical
 almoner
 actinically
