@@ -4841,7 +4841,6 @@ feramorz
 fittedness
 florida
 flivvers
-fairwater
 funambulating
 falsism
 falsifiers
@@ -7904,6 +7903,7 @@ frakturs
 foreseeable
 futchel
 footeite
+fairwater
 ferd
 footslog
 fletching
