@@ -6495,6 +6495,7 @@ espanoles
 elocation
 embrocated
 ensurance
+euonymus
 ensuring
 equators
 enswathement
@@ -12724,7 +12725,6 @@ exophthalmia
 embloom
 exenterating
 exophthalmus
-euonymus
 emboweling
 engramma
 exopod
