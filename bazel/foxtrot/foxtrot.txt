@@ -2017,7 +2017,6 @@ fradicin
 furzes
 frogger
 forewings
-feigners
 financiery
 fluoridation
 flosses
@@ -3170,6 +3169,7 @@ frown
 frigostable
 federalese
 frithwork
+feigners
 feazings
 friezes
 fibulae
