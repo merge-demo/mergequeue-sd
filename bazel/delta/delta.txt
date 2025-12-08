@@ -14827,7 +14827,6 @@ demagogic
 diethylenediamine
 doctorial
 disadjust
-demidog
 doctorially
 doctoring
 doctorize
@@ -15758,6 +15757,7 @@ desolator
 dormeuse
 dormice
 dormilona
+demidog
 dormitive
 dormitories
 deftly
