@@ -1495,7 +1495,6 @@ eclegme
 effusively
 entasias
 epispinal
-effuviate
 efl
 efoliose
 efph
@@ -8817,6 +8816,7 @@ erd
 eyehook
 eagers
 erechtheum
+effuviate
 euphonic
 erechtites
 euphemist
