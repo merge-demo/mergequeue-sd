@@ -1578,7 +1578,6 @@ basalt
 brooder
 branchman
 benzanilide
-beclart
 bursati
 baudronses
 bilamellate
@@ -11772,6 +11771,7 @@ bouquets
 bocasin
 bookshops
 boccarella
+beclart
 bodings
 boccaro
 bocce
