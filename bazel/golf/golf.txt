@@ -4683,6 +4683,7 @@ gastroplenic
 gestes
 guttery
 gyrovagues
+grolier
 gloy
 gaatch
 gurjun
@@ -5026,7 +5027,6 @@ grisliest
 glamoured
 germanic
 greatmouthed
-grolier
 glebeless
 grippe
 genethliac

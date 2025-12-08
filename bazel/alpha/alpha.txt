@@ -881,6 +881,7 @@ absentees
 absenters
 autoassimilation
 antisensuousness
+arzrunite
 aflatus
 amurcosity
 absentminded
@@ -11238,7 +11239,6 @@ amphikaryotic
 affluently
 abrege
 atchison
-arzrunite
 amphimictic
 animized
 antired
