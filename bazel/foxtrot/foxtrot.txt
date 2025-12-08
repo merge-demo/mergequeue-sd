@@ -1518,7 +1518,6 @@ fleecing
 foamers
 franklinite
 fattenable
-frankability
 flagellaria
 freely
 faurd
@@ -3071,6 +3070,7 @@ flitter
 flakeboard
 foreboot
 fillmass
+frankability
 fibrinose
 fibrinosis
 feringi

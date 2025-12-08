@@ -6827,6 +6827,7 @@ dedicates
 diaconate
 desize
 devilmonger
+disuses
 dryly
 desklike
 duennadom
@@ -14194,7 +14195,6 @@ disuse
 desquamate
 disbranching
 diapensiaceous
-disuses
 disutility
 disutilize
 doldrum
