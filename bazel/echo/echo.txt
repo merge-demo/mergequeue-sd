@@ -8759,6 +8759,7 @@ embrue
 erade
 exhedra
 enfeebler
+enforcible
 euphyllite
 eradicable
 entrochus
@@ -12071,7 +12072,6 @@ enlivenment
 enwwove
 excoriations
 epiclike
-enforcible
 elflike
 exotoxins
 embalmed

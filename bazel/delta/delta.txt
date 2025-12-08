@@ -939,7 +939,6 @@ deserters
 darby
 diapnoic
 dependantly
-decerp
 deaned
 domable
 dueful
@@ -5460,6 +5459,7 @@ disprover
 divagational
 divineress
 detachable
+decerp
 deodorised
 deodoriser
 deodorization
