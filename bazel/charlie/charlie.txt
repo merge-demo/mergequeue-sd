@@ -2183,7 +2183,6 @@ camphory
 camphoryl
 corgi
 camphoroyl
-clerkliest
 camporee
 camphorone
 camphorweed
@@ -6162,6 +6161,7 @@ correlativeness
 crosstied
 circumjacencies
 ceraunoscope
+clerkliest
 cupolas
 catwalk
 conqueringly
