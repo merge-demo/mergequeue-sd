@@ -680,6 +680,7 @@ goneril
 gastronomer
 gogglers
 gonfalon
+gimbaled
 goniotropous
 gratillity
 gynandromorphous
@@ -7054,7 +7055,6 @@ grindle
 gigameter
 gaudish
 gooseberry
-gimbaled
 gramash
 greenweed
 glacially
