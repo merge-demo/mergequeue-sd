@@ -1341,6 +1341,7 @@ florentine
 fearfuller
 fatigable
 favorable
+flatfootedness
 fatigableness
 forfars
 frock
@@ -9624,7 +9625,6 @@ floriform
 freemasonical
 finitesimal
 fungia
-flatfootedness
 featherfoil
 flowerer
 forwardly
