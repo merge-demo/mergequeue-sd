@@ -724,7 +724,6 @@ gypsydom
 gugglet
 galvanizers
 gromwells
-gujar
 gripple
 galvanizing
 gemmiferousness
@@ -1511,6 +1510,7 @@ groose
 guaxima
 glandless
 gorlin
+gujar
 gregarinidal
 grote
 genapping
