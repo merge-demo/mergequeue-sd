@@ -1859,6 +1859,7 @@ defeudalize
 debilitates
 debilitative
 dermatoglyphics
+denotatum
 devirginator
 debitum
 declaratory
@@ -5259,7 +5260,6 @@ dictionarian
 dauerlauf
 dampens
 denotativeness
-denotatum
 deacidifying
 denotes
 defeise

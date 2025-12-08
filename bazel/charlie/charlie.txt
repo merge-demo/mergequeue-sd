@@ -14757,7 +14757,6 @@ cytoarchitectural
 cytoblast
 confidences
 cytoblastema
-cytoblastemal
 caseless
 conjecturableness
 cytoblastemic
@@ -26395,6 +26394,7 @@ chlorprophenpyridamine
 cotidal
 cotylar
 cotyledonal
+cytoblastemal
 cotyledonary
 catalyzing
 cotyledons
