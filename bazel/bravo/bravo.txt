@@ -11583,7 +11583,6 @@ bromous
 befog
 behindsight
 bounced
-bathers
 bighorns
 brooklime
 becomma
@@ -16820,6 +16819,7 @@ brachyprism
 buffeted
 brotchen
 botchiness
+bathers
 borderless
 buffeters
 barnstorms
