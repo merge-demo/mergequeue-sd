@@ -837,6 +837,7 @@ free
 floutingly
 fragilities
 fantasying
+foils
 falterer
 forthbrought
 fustigated
@@ -2415,7 +2416,6 @@ frizzle
 fingered
 frisco
 farandola
-foils
 flutterable
 frazer
 feasters
