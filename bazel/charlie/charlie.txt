@@ -6998,7 +6998,6 @@ centage
 cavort
 centals
 coolies
-chock
 centaur
 centaurdom
 cuvette
@@ -26872,6 +26871,7 @@ counterindented
 counterindication
 countermining
 counterinfluence
+chock
 crochets
 counterinterest
 catheti
