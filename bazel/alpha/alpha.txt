@@ -2678,7 +2678,6 @@ adiadochokinesis
 acremen
 acres
 atonally
-antiarcha
 antitheft
 areolas
 angiograph
@@ -18541,6 +18540,7 @@ aedoeology
 amaga
 achaemenid
 aelodicon
+antiarcha
 anthrone
 arales
 arbuscular
