@@ -2441,6 +2441,7 @@ grograms
 glutch
 grandpas
 gemmologists
+gyroscopically
 gekkones
 gimels
 grillage
@@ -8380,7 +8381,6 @@ gunport
 gallivanting
 genipa
 galeeny
-gyroscopically
 gaucherie
 gawby
 gymnospermic
