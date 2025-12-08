@@ -1953,7 +1953,6 @@ bulbous
 bombard
 beardom
 ballocks
-basilicas
 bangkok
 bacteriogenous
 bangladesh
@@ -9046,6 +9045,7 @@ boulevardier
 brooched
 bringal
 bize
+basilicas
 busheler
 barbershop
 bergalith
