@@ -5410,7 +5410,6 @@ empyreum
 eophyte
 endothermal
 endothermy
-ectopatagia
 erthling
 echinocactus
 euryalean
@@ -13172,6 +13171,7 @@ eugenist
 ereptase
 ethnicize
 euryalus
+ectopatagia
 escapisms
 espiegleries
 earclip
