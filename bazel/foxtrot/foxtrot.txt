@@ -2561,6 +2561,7 @@ fibrocytic
 ferrogoslarite
 forcet
 franked
+fusteric
 foud
 fossicked
 footrests
@@ -9577,7 +9578,6 @@ frontopontine
 fizzed
 fichus
 friableness
-fusteric
 frizzing
 fraternality
 fortifications

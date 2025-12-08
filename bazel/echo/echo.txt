@@ -4814,6 +4814,7 @@ encolpia
 equilibrator
 entypies
 enduro
+endorsers
 epidosite
 eccoproticophoric
 escape
@@ -12368,7 +12369,6 @@ edgeling
 evase
 expects
 exhibitors
-endorsers
 excrescencies
 exflect
 endower
