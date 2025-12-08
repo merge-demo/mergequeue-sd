@@ -3106,7 +3106,6 @@ gubat
 gibbol
 geophilid
 galvanoscopic
-granula
 gymnasisia
 groined
 glucosine
@@ -10326,6 +10325,7 @@ girasol
 greenbacks
 gault
 gruiformes
+granula
 getsul
 gullygut
 gilling
