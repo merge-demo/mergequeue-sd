@@ -979,6 +979,7 @@ famelic
 friarbird
 fares
 feats
+foxish
 fastigated
 financialist
 foresaid
@@ -3386,7 +3387,6 @@ faculative
 finmarks
 filename
 flighting
-foxish
 foresters
 firmation
 flowcharts
