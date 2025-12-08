@@ -7728,7 +7728,6 @@ bielbrief
 belemnites
 bromonaphthalene
 bridging
-bhagavat
 bivouacking
 bookrack
 bugre
@@ -7937,6 +7936,7 @@ brachiating
 befuddlement
 beetleheadedness
 bongoists
+bhagavat
 bluntishness
 blockhouse
 botryomyces
