@@ -12439,7 +12439,6 @@ actinides
 argante
 androsphinx
 androsporangium
-arteriology
 androsterone
 androtomy
 acoemeti
@@ -22653,6 +22652,7 @@ anthropoteleological
 athenaeums
 anisopia
 atheneum
+arteriology
 atheneums
 ait
 arteriotome
