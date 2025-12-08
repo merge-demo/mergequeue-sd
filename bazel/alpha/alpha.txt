@@ -8195,7 +8195,6 @@ algorithmically
 alguifou
 antependium
 alhambraic
-asteria
 apogeotropically
 alhenna
 alia
@@ -17671,6 +17670,7 @@ aponeuroses
 autogeneses
 angia
 alborak
+asteria
 applausively
 acquirability
 arced
