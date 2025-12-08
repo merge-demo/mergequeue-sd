@@ -8140,6 +8140,7 @@ gripper
 gynaecocracy
 guanidins
 gabblers
+glean
 gnatsnap
 goatling
 granulet
@@ -8682,7 +8683,6 @@ gawkishly
 geotactic
 goosing
 gree
-glean
 gynaecoid
 griper
 glissading
