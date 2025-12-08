@@ -582,7 +582,6 @@ gowan
 gladding
 gallicizer
 grover
-galliform
 gomphrena
 gabfest
 garron
@@ -3689,6 +3688,7 @@ geodetically
 glaringness
 glumelike
 ghostish
+galliform
 gelatigenous
 gracilescent
 gussying
