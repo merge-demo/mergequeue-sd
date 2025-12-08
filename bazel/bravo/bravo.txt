@@ -9536,6 +9536,7 @@ banality
 besots
 birthnight
 birthplaces
+ballottine
 bogota
 backfilled
 blackened
@@ -9989,7 +9990,6 @@ baresma
 blattidae
 brevirostral
 bawdy
-ballottine
 blairmorite
 bivalents
 bivalvia
