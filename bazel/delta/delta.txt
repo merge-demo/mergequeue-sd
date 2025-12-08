@@ -1699,7 +1699,6 @@ dispond
 duckstone
 distringas
 digestedly
-dobl
 decoding
 dearthfu
 disscussive
@@ -6189,6 +6188,7 @@ desoxalate
 derfly
 deric
 disbosomed
+dobl
 doppler
 deriders
 distribute
