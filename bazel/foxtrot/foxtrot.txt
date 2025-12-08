@@ -8469,7 +8469,6 @@ fuzztail
 formularizing
 frontierman
 fumado
-frow
 figment
 forked
 formica
@@ -11501,6 +11500,7 @@ forgettingly
 fusariosis
 flypasts
 firebirds
+frow
 forethoughtless
 forespecified
 fuscin
