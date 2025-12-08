@@ -1196,6 +1196,7 @@ adjustor
 acanthia
 anthropogenetic
 apocryphally
+agapornis
 acanthion
 acanthocephalous
 acanthocladous
@@ -17766,7 +17767,6 @@ appals
 antistatic
 afterhours
 appointer
-agapornis
 adherently
 appointers
 analysand
