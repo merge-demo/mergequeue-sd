@@ -7944,6 +7944,7 @@ emitter
 extrastapedial
 endosmosis
 exudates
+expectation
 exordia
 epimandibular
 enthrone
@@ -12962,7 +12963,6 @@ examines
 expose
 erythrol
 expectantly
-expectation
 emictory
 exodoi
 exclusion
