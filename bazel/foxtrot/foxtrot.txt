@@ -485,6 +485,7 @@ formicariidae
 flickered
 foretokens
 frieseite
+fullers
 fiumara
 forcleave
 fakery
@@ -9534,7 +9535,6 @@ frecklier
 feudalizing
 frist
 findfault
-fullers
 forche
 fyrd
 figitidae
