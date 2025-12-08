@@ -915,6 +915,7 @@ biopsychic
 belligerently
 bagsful
 bequirtle
+bombarder
 bazookaman
 bassalian
 barbeled
@@ -13892,7 +13893,6 @@ bowshot
 bulbaceous
 brainish
 bowshots
-bombarder
 backstopped
 backhauled
 billback
