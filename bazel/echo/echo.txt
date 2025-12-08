@@ -2615,7 +2615,6 @@ electropsychrometer
 embodying
 evolvers
 excitably
-euphemiously
 eximiously
 electroreduction
 enserfed
@@ -9168,6 +9167,7 @@ epiloguize
 ectoenzyme
 ectocinerea
 encolor
+euphemiously
 ernes
 erode
 enduring
