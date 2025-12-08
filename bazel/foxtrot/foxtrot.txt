@@ -2012,6 +2012,7 @@ furzes
 frogger
 forewings
 feigners
+financiery
 fluoridation
 flosses
 feigns
@@ -7222,7 +7223,6 @@ footsy
 foiled
 footslogger
 flailed
-financiery
 fatstocks
 fluorogen
 foregoing

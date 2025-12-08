@@ -13246,6 +13246,7 @@ boarish
 benzhydrol
 bosniac
 bostanji
+baumhauerite
 bosthoon
 bostonian
 banderillas
@@ -14988,7 +14989,6 @@ bunchberries
 bennettites
 burnut
 bredbergite
-baumhauerite
 bredes
 blindfoldedly
 blushfully
