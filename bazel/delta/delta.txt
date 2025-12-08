@@ -9121,7 +9121,6 @@ defile
 doundake
 dryish
 didal
-didascalic
 dogface
 dormins
 didder
@@ -13820,6 +13819,7 @@ driftpin
 dramatis
 decapod
 diamondizing
+didascalic
 digram
 dindle
 distain
