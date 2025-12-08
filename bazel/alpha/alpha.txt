@@ -7097,6 +7097,7 @@ avicenniaceae
 arctation
 akinete
 azotes
+astrain
 annerodite
 akka
 akkad
@@ -22284,7 +22285,6 @@ astragalotibial
 athermic
 anisilic
 astragalus
-astrain
 antimissile
 apostils
 ansation
