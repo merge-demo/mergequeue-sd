@@ -5142,6 +5142,7 @@ broadside
 beggarer
 buccinatory
 bagpod
+bletonism
 beforeness
 baffled
 boxholder
@@ -6121,7 +6122,6 @@ begay
 balaneutics
 benedicks
 benedicta
-bletonism
 buhlworks
 beid
 buntline
