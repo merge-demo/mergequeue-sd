@@ -6188,6 +6188,7 @@ feebling
 frequency
 flangeway
 flagmaker
+fescenninity
 furbished
 fibroareolar
 farfetched
@@ -7600,7 +7601,6 @@ ferroglass
 fastly
 fees
 funipendulous
-fescenninity
 fool
 ferganite
 forefeelingly
