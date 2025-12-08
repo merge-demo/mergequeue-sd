@@ -2727,6 +2727,7 @@ genit
 gnatho
 groundmass
 glozing
+graciosity
 gryllidae
 grather
 gonopodium
@@ -9385,7 +9386,6 @@ gobelin
 glaymore
 gelatinized
 geneserin
-graciosity
 galtonia
 geordie
 gadrooned
