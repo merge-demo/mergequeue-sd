@@ -5492,7 +5492,6 @@ antiutilitarian
 atmospheres
 afterblow
 aerarium
-augurer
 alpian
 anele
 afterburning
@@ -12202,6 +12201,7 @@ andaman
 autobiographic
 anchieutectic
 abience
+augurer
 autophoby
 arteriectasia
 affectuous
