@@ -4042,7 +4042,6 @@ beamhouse
 bibliophobe
 backbreaker
 bedolt
-brisure
 bumperette
 blanch
 bannerets
@@ -9946,6 +9945,7 @@ bituminized
 bucktail
 basyl
 bedivere
+brisure
 blastoporal
 babblative
 bana
