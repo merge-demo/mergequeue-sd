@@ -4462,6 +4462,7 @@ finicism
 forerigging
 footstool
 fishskin
+fanglet
 formidable
 frouzier
 frankenia
@@ -8956,7 +8957,6 @@ feverwort
 favositoid
 formally
 fourier
-fanglet
 fourierism
 frondous
 fourneau
