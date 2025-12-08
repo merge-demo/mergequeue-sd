@@ -5243,6 +5243,7 @@ decadent
 deek
 desmosis
 declination
+denaturate
 declaimers
 denunciations
 deputy
@@ -10490,7 +10491,6 @@ deglutitive
 distortion
 dister
 droits
-denaturate
 diphtheria
 diphtherian
 dogberrydom
