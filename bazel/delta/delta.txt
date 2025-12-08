@@ -313,7 +313,6 @@ dealbate
 daybed
 devchar
 disembowelment
-dissuasiveness
 dollfaced
 daybill
 diaconus
@@ -10566,6 +10565,7 @@ disbowels
 dialyzate
 demipagan
 disserviceableness
+dissuasiveness
 ddname
 derate
 doorsills
