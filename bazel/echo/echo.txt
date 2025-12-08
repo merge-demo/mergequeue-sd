@@ -7025,7 +7025,6 @@ endocardial
 extractors
 embladder
 electrotitration
-explorable
 endosteomas
 effigiating
 estated
@@ -7611,6 +7610,7 @@ ersar
 endamoebic
 edelweiss
 epiclinal
+explorable
 ecstaticize
 enteric
 epicoele
