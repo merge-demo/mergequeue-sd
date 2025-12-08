@@ -822,6 +822,7 @@ cooption
 completes
 cytophagy
 cayenned
+cryptozoic
 contouring
 corban
 cailcedra
@@ -29389,7 +29390,6 @@ cryptozygous
 crozle
 chanter
 chorographic
-cryptozoic
 cryptozoite
 cryptozonate
 cryophoric
