@@ -17248,7 +17248,6 @@ apoplastogamous
 attempts
 ampersand
 apoplectoid
-apoplex
 adamantoid
 anemometrographic
 aporhyolite
@@ -22756,6 +22755,7 @@ ablating
 antichlor
 anglewing
 arhar
+apoplex
 antipedobaptism
 auditorially
 australianize
