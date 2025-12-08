@@ -10189,7 +10189,6 @@ flaskful
 frog
 filazer
 freudianism
-flopovers
 frogbit
 farewelling
 fissureless
@@ -11126,6 +11125,7 @@ fetidly
 forecarriage
 forbiddance
 fibroid
+flopovers
 fauteuils
 fedellini
 feverbush
