@@ -7210,7 +7210,6 @@ centroacinar
 crawful
 centrobarical
 catechist
-centrodesmus
 centrodorsal
 centroids
 cyanophilous
@@ -26615,6 +26614,7 @@ counselee
 counsellable
 curer
 counsellor
+centrodesmus
 chilopodan
 counselor
 countability
