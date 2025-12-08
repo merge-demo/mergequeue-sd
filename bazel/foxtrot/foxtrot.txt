@@ -253,7 +253,6 @@ floozy
 freeload
 fidgets
 fluviation
-forwhy
 florigenic
 founder
 feoffeeship
@@ -3662,6 +3661,7 @@ followeth
 funnelling
 friskers
 fertilised
+forwhy
 foreglow
 finedrawing
 fluxweed
