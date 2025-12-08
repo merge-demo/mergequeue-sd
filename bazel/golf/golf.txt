@@ -9385,7 +9385,6 @@ garnishry
 gobelin
 glaymore
 gelatinized
-geneserin
 galtonia
 geordie
 gadrooned
@@ -10661,6 +10660,7 @@ guppies
 galee
 gnomed
 gastroperiodynia
+geneserin
 gurged
 goldmist
 glyoxalase
