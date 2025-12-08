@@ -4478,7 +4478,6 @@ encashment
 eringoes
 elevenths
 enneadianome
-ezekiel
 encastre
 encastrement
 encaustically
@@ -13913,6 +13912,7 @@ eliminatory
 entortill
 extorter
 ectoderm
+ezekiel
 eburnated
 electee
 empathy
