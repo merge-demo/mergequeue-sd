@@ -1990,7 +1990,6 @@ camerier
 camerine
 casavas
 camerinidae
-camerist
 circummigrate
 campanero
 comp
@@ -9735,6 +9734,7 @@ cattish
 chelating
 chelator
 chelerythrine
+camerist
 collisions
 conjunctiva
 chelicer
