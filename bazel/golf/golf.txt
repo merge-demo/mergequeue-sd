@@ -5558,7 +5558,6 @@ gastropoda
 gustier
 genear
 globalizing
-gisants
 groggeries
 gyrovagi
 gently
@@ -5973,6 +5972,7 @@ glumosity
 gondang
 gonopodia
 governante
+gisants
 germlike
 gastrohydrorrhea
 galvanocontractility
