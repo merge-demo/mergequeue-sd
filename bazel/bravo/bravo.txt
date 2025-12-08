@@ -5488,6 +5488,7 @@ bindi
 boxed
 bardic
 byliny
+biosatellites
 bootyless
 beelines
 bobbled
@@ -12088,7 +12089,6 @@ balmacaan
 biglenoid
 bolboxalis
 blushingly
-biosatellites
 berun
 bold
 byrnies
