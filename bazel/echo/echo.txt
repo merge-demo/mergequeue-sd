@@ -6372,7 +6372,6 @@ evenfalls
 endangiitis
 enshield
 endostitis
-ebbed
 episcopize
 eprouvette
 enshrined
@@ -6958,6 +6957,7 @@ enantiomorphy
 elicitate
 entraining
 earwig
+ebbed
 entrainment
 explementary
 entrains
