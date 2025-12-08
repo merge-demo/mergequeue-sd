@@ -1095,7 +1095,6 @@ gormandizers
 genitives
 ganister
 goriest
-giroflore
 gotiglacial
 glovey
 grooviness
@@ -7017,6 +7016,7 @@ grutching
 goodies
 guayabera
 gunnership
+giroflore
 grunch
 gnotobiology
 grimmest
