@@ -2414,6 +2414,7 @@ epitaxial
 earthnut
 exciting
 exciple
+epithecial
 eugene
 ebonist
 electroencephalographical
@@ -3532,7 +3533,6 @@ exanthematous
 ergographic
 entozoon
 emboweled
-epithecial
 ethanamide
 electrosurgically
 eschewance
