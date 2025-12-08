@@ -8638,6 +8638,7 @@ davis
 dinge
 distilment
 dialyses
+dukkeripen
 diary
 diaglyph
 disimprove
@@ -17980,7 +17981,6 @@ decongestive
 dukes
 deifical
 deseasonalize
-dukkeripen
 dehydrase
 dukuma
 dulat
