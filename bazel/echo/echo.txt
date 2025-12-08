@@ -6112,7 +6112,6 @@ ebullience
 evanesce
 epifauna
 epirrhema
-electrocardiography
 enochic
 enlightenment
 enticing
@@ -8897,6 +8896,7 @@ euphoria
 estaminets
 expectorators
 entoderms
+electrocardiography
 ergograph
 epistrophic
 embitter
