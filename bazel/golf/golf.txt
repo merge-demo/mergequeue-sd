@@ -6878,7 +6878,6 @@ gremmie
 gobonee
 gnomonic
 gloryingly
-gypsied
 glauconite
 granulomas
 gaffsman
@@ -10554,6 +10553,7 @@ gonal
 gunfights
 ghillie
 griffinhood
+gypsied
 gossipingly
 gudesakes
 gentamicin
