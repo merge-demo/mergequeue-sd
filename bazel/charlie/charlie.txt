@@ -18995,7 +18995,6 @@ circumscissile
 crisped
 creedless
 clarifications
-collegia
 collegialism
 churchmanly
 clingiest
@@ -22204,6 +22203,7 @@ capes
 calaber
 congeniality
 comonte
+collegia
 ctenophoran
 coppicing
 counterreaction
