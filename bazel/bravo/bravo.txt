@@ -39,7 +39,6 @@ backhand
 bracketwise
 babblers
 bodement
-beneficiation
 bechirp
 bish
 bundocks
@@ -3604,6 +3603,7 @@ bathukolpian
 bromogelatin
 bathvillite
 baglike
+beneficiation
 brooklet
 bookmobile
 besought
