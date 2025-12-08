@@ -5444,6 +5444,7 @@ endshake
 elfishly
 egretta
 easterly
+exitial
 eaglelike
 esthetology
 endure
@@ -9709,7 +9710,6 @@ esprit
 enterorrhexis
 esquires
 existence
-exitial
 exurbs
 evacue
 euselachii
