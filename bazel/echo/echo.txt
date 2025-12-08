@@ -1050,6 +1050,7 @@ eagerly
 exsheath
 edged
 eidolon
+expiscatory
 edger
 edgeshot
 edgeway
@@ -3996,7 +3997,6 @@ eophytic
 empearl
 electroretinography
 each
-expiscatory
 exultancy
 esothyropexy
 effloresce
