@@ -6286,6 +6286,7 @@ detoxicate
 deploredness
 diplokaryon
 dweeble
+diplex
 debat
 doldrums
 diact
@@ -18009,7 +18010,6 @@ dulcigenic
 dehydrogenizer
 delouses
 dungon
-diplex
 denitrated
 disgallant
 damping
