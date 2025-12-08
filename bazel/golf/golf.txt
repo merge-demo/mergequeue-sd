@@ -5383,7 +5383,6 @@ gombeenism
 goofer
 gonopod
 gnomon
-generalisation
 gyrencephalate
 goiters
 glees
@@ -6955,6 +6954,7 @@ geniohyoglossal
 gonosome
 goodliness
 grassflower
+generalisation
 geologise
 grammy
 gorgeousness

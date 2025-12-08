@@ -4976,7 +4976,6 @@ aerolithology
 aerolitic
 aerological
 antepartum
-addicent
 aeromancer
 anthonomus
 aerometer
@@ -15496,6 +15495,7 @@ antimysticalness
 aeroduct
 antimysticism
 antimixing
+addicent
 algum
 auxilium
 amenorrhoeal
