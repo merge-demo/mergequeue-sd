@@ -421,7 +421,6 @@ dorsoanterior
 drinker
 dairywomen
 daunder
-descanting
 dayrooms
 deities
 dodrantal
@@ -14097,6 +14096,7 @@ diisatogen
 descendents
 decarhinus
 deflected
+descanting
 distension
 distritbuting
 debasedness
