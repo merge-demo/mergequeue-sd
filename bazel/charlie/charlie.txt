@@ -9649,6 +9649,7 @@ cheeselep
 cheeselip
 cephalochorda
 cheesemaker
+chignon
 cheesemaking
 cheesemongering
 cheeseparer
@@ -25660,7 +25661,6 @@ convincers
 coryphaenoid
 circumvolant
 correctory
-chignon
 constitutive
 committals
 cobra
