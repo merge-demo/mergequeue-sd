@@ -1800,6 +1800,7 @@ gelatinotype
 grippelike
 grs
 glutinate
+geonoma
 gavels
 gestalten
 granodioritic
@@ -8553,7 +8554,6 @@ gasolene
 gemuti
 gamolepis
 gulae
-geonoma
 gravicembalos
 garrotter
 glutton
