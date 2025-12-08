@@ -1136,6 +1136,7 @@ defilers
 decadarchy
 desertic
 dashplate
+devisable
 dropflower
 depaint
 duracine
@@ -3745,7 +3746,6 @@ dehydrogenate
 dawtet
 distillable
 disentangled
-devisable
 dehydrogenisation
 daddling
 delustrant
