@@ -171,6 +171,7 @@ felaheen
 foredoomer
 foreribs
 farcialize
+forgotten
 formicaroid
 factionistism
 flirtatious
@@ -10744,7 +10745,6 @@ fleeing
 flagstaves
 flirter
 fletches
-forgotten
 frustum
 frutage
 faithlessly
