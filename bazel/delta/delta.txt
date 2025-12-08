@@ -1193,7 +1193,6 @@ dissuadable
 dillydallying
 dahabiah
 doormat
-demibrassart
 drake
 devilhood
 datana
@@ -12434,6 +12433,7 @@ delomorphic
 dismissingly
 doeskins
 diakineses
+demibrassart
 dishley
 diamond
 dullpate
