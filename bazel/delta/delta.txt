@@ -10009,7 +10009,6 @@ dimmer
 defensor
 dasyatidae
 dimness
-decisiveness
 dermatographism
 dysacousma
 debriefs
@@ -13893,6 +13892,7 @@ demisable
 diadelphia
 dephased
 dobos
+decisiveness
 dimerous
 discina
 derisive
