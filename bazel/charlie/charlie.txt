@@ -8738,7 +8738,6 @@ chaperno
 custodia
 chicos
 chaperonage
-chaperonless
 cerinthe
 catesbeiana
 cirsium
@@ -19734,6 +19733,7 @@ chambellan
 cressed
 combustibleness
 combusting
+chaperonless
 combustion
 combustious
 combustive
