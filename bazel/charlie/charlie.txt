@@ -21630,7 +21630,6 @@ cooth
 copepodous
 consternated
 condigness
-condignity
 chromatopathia
 condignly
 comethers
@@ -25469,6 +25468,7 @@ condemns
 contaggia
 circumclusion
 congenialness
+condignity
 cephaelis
 coroll
 cartooning
