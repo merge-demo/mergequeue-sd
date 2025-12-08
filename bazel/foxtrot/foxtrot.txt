@@ -3724,6 +3724,7 @@ fecundates
 flossed
 fillmore
 forwear
+formaliter
 fiscally
 facingly
 foujdary
@@ -9483,7 +9484,6 @@ febronian
 facinorous
 ffa
 frauleins
-formaliter
 fissiparousness
 flatbottom
 forbreak
