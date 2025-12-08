@@ -20491,7 +20491,6 @@ clouts
 compatibleness
 caballing
 chlorider
-compatriotic
 chilicote
 chays
 compatriots
@@ -31787,6 +31786,7 @@ collegiality
 cutaways
 cutback
 cutbacks
+compatriotic
 coracoidal
 chiniofon
 cutbank
