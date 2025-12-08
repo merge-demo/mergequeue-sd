@@ -393,7 +393,6 @@ dainchas
 daynet
 dihalid
 dainteous
-dainty
 decentralise
 decoder
 diarhemia
@@ -2810,6 +2809,7 @@ disharmonize
 decremeter
 dicyemida
 demarches
+dainty
 deftnesses
 diagnosing
 duodecahedral
