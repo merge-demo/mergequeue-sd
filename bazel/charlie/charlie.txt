@@ -26755,6 +26755,7 @@ capelocracy
 countercurrentwise
 conversant
 counterdance
+chokidar
 counterdeclaration
 cucumis
 counterdemonstrate
@@ -30154,7 +30155,6 @@ cruciality
 crucially
 courge
 crucian
-chokidar
 crucians
 cruciately
 cruciating

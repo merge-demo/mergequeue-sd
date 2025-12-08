@@ -9369,7 +9369,6 @@ foolhead
 flaxseed
 franklins
 flector
-frenchmen
 faffy
 footgears
 firkins
@@ -10525,6 +10524,7 @@ fazendas
 frouziest
 flite
 foldstool
+frenchmen
 floristry
 firemen
 frowl
