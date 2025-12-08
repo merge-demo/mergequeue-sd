@@ -5175,7 +5175,6 @@ fibs
 footpaddery
 francolin
 frozenhearted
-fruiters
 fedifragous
 furmente
 frontozygomatic
@@ -5264,6 +5263,7 @@ fimbriate
 feelinglessly
 fibrilation
 flawedness
+fruiters
 flats
 frontingly
 fishlike
