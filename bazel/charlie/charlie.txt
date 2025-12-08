@@ -5907,7 +5907,6 @@ creeled
 catfish
 catfoot
 catfooted
-chhatri
 catgut
 chancellorism
 cath
@@ -23578,6 +23577,7 @@ contorniates
 circumvallated
 castrater
 caboose
+chhatri
 contortedly
 coati
 corycian
