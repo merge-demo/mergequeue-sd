@@ -600,6 +600,7 @@ ecchymosed
 excommenge
 exostoses
 eciliate
+emblemist
 emetics
 eurypharynx
 euro
@@ -3494,7 +3495,6 @@ earmuffs
 expellee
 endemically
 erraticism
-emblemist
 exon
 emblemizing
 electrootiatrics
