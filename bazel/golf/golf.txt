@@ -2583,7 +2583,6 @@ granodiorite
 giltheads
 guillotined
 grassed
-guigne
 gargling
 gametogeny
 generant
@@ -10537,6 +10536,7 @@ goblinry
 gundie
 graspingness
 galipots
+guigne
 goladar
 girl
 geometrina
