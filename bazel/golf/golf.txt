@@ -6553,6 +6553,7 @@ glossoplegia
 granduncles
 grasp
 gromwell
+gemmula
 gamelans
 gleeman
 gastrologists
@@ -7607,7 +7608,6 @@ gravimetrically
 greengroceries
 gloeosporium
 goodyness
-gemmula
 grabhook
 gauzily
 grabouche
