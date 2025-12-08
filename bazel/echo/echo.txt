@@ -9176,6 +9176,7 @@ eirenic
 essenic
 erodes
 edgeless
+erubescite
 exterminatory
 extradition
 endamebas
@@ -13768,7 +13769,6 @@ edestosaurus
 epiphysary
 enserfing
 ecorch
-erubescite
 extolling
 enouncement
 elephas
