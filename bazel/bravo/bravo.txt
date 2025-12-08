@@ -6615,7 +6615,6 @@ blastular
 bere
 butterbox
 brotula
-beetlers
 butterine
 bacharach
 bodyplate
@@ -12035,6 +12034,7 @@ barbascos
 boyhoods
 bebloom
 balisaurs
+beetlers
 boilable
 bromocresol
 bandikai
