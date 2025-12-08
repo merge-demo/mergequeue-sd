@@ -15513,7 +15513,6 @@ duopolies
 dismalness
 diabolism
 despicability
-dendral
 dobbie
 dualists
 dongola
@@ -17576,6 +17575,7 @@ drumming
 drumreads
 demential
 drumroll
+dendral
 drumrolls
 drums
 decalcifier
