@@ -9847,7 +9847,6 @@ clamp
 chemophysiology
 chemoprophyalctic
 cycle
-circumstellar
 chemoprophylactic
 cruiser
 coaxer
@@ -14505,6 +14504,7 @@ cystalgia
 childishly
 cystamine
 commatism
+circumstellar
 cysteamine
 cystectasia
 contestate
