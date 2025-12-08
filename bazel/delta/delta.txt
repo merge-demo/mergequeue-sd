@@ -3159,6 +3159,7 @@ defaulted
 defaultless
 depauperization
 downfolded
+dubby
 defaults
 decked
 defaulture
@@ -13962,7 +13963,6 @@ distomatous
 daubed
 distomes
 distomidae
-dubby
 deturb
 derrid
 dystonic
