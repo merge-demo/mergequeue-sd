@@ -12913,6 +12913,7 @@ carbanion
 chutzpanik
 concentre
 cuesta
+cultigen
 cia
 crystallised
 cyan
@@ -18809,7 +18810,6 @@ contemporaries
 codeins
 colichemarde
 colicines
-cultigen
 celiac
 colicins
 corvisor
