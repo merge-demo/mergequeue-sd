@@ -585,7 +585,6 @@ grover
 galliform
 gomphrena
 gabfest
-gorilloid
 garron
 greaseball
 garthman
@@ -3563,6 +3562,7 @@ ghan
 glowerer
 groper
 ghanaian
+gorilloid
 glimpsing
 greekling
 glumella
