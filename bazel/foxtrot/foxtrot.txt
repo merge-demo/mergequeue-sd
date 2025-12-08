@@ -2011,7 +2011,6 @@ fradicin
 furzes
 frogger
 forewings
-faineant
 feigners
 fluoridation
 flosses
@@ -8138,6 +8137,7 @@ ferberite
 frisettes
 fructuosity
 fossilology
+faineant
 foretrace
 forecastleman
 fountful
