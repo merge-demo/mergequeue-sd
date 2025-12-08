@@ -8357,6 +8357,7 @@ diplois
 dejerate
 dargue
 daemonies
+ddt
 disruptable
 dioestrum
 disincline
@@ -16878,7 +16879,6 @@ diminutival
 drawtongs
 dehumanizes
 deaired
-ddt
 dicyclic
 diiambus
 descamisado
