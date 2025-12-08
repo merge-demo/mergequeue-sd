@@ -6397,7 +6397,6 @@ animate
 allotypical
 agrypnia
 amphicyon
-agrypnotic
 agroan
 agrobacterium
 aparithmesis
@@ -16241,6 +16240,7 @@ antithalian
 antitheism
 acrotreta
 antitheist
+agrypnotic
 avgases
 agrees
 affixer
