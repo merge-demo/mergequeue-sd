@@ -3000,7 +3000,6 @@ eliot
 eliphalet
 elbowroom
 exerted
-excrementize
 endometrial
 eviscerate
 eliquidate
@@ -7754,6 +7753,7 @@ emergents
 englify
 ensure
 emendable
+excrementize
 estopping
 equips
 edelweisses
