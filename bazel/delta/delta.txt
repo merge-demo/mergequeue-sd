@@ -2281,7 +2281,6 @@ decemplex
 dissocialize
 decempunctate
 doused
-decemstriate
 dowsers
 disceptator
 dithioglycol
@@ -12426,6 +12425,7 @@ deamidize
 deplantation
 drybrush
 disheriting
+decemstriate
 deforms
 declivate
 dishevelled
