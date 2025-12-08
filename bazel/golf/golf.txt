@@ -386,6 +386,7 @@ goatskins
 gurney
 grandmamma
 guisian
+graphomania
 gps
 galant
 galanthus
@@ -4190,7 +4191,6 @@ gluttony
 gutturalize
 gienah
 gene
-graphomania
 grandfather
 gnathopod
 gosmore
