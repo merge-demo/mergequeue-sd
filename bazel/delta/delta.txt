@@ -2056,7 +2056,6 @@ dentatocrenate
 dayward
 decahedrons
 dominical
-decahydronaphthalene
 dramaturge
 desiatin
 dithiol
@@ -6257,6 +6256,7 @@ dedolomitization
 dermatagra
 dermatophagus
 dermatotropic
+decahydronaphthalene
 desiccator
 dizaine
 dermatatrophia
