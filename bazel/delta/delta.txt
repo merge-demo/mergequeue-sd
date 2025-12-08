@@ -9969,6 +9969,7 @@ discursus
 denticulation
 daintily
 drossiness
+dose
 dawnlight
 distances
 devonian
@@ -15283,7 +15284,6 @@ dolomedes
 discovery
 dolomite
 derries
-dose
 dolomitic
 descriptives
 dorididae
