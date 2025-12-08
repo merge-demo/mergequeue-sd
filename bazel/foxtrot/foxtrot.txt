@@ -2263,7 +2263,6 @@ folktale
 fulmineous
 fragging
 fluorocarbons
-fibrochondrosteal
 floored
 fends
 filator
@@ -2587,6 +2586,7 @@ filagreed
 ferronatrite
 follis
 financiere
+fibrochondrosteal
 filmed
 feral
 fratchy
