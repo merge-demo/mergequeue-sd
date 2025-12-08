@@ -2577,6 +2577,7 @@ barkary
 bluestocking
 barkbound
 bamoth
+boltonia
 betterments
 barkcutter
 balsameaceous
@@ -5297,7 +5298,6 @@ buddy
 brachytic
 bogan
 barretries
-boltonia
 beforested
 breathlessness
 biscuitmaker

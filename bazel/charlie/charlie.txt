@@ -20512,6 +20512,7 @@ corinthianesque
 checkerspot
 chromatophorous
 compellable
+crystalloid
 cheirognomy
 compelled
 carpogenic
@@ -29483,7 +29484,6 @@ cageot
 cloak
 chileanize
 crystallography
-crystalloid
 concretism
 choragium
 crystalloidal
