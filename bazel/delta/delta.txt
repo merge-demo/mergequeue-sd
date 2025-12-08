@@ -5106,7 +5106,6 @@ donatary
 dendrochirota
 dessicate
 describing
-disenabling
 deadrise
 dendrocygna
 discomfit
@@ -14727,6 +14726,7 @@ drumlier
 dactyloscopic
 detained
 decahedral
+disenabling
 doctorbird
 doc
 declinedness
