@@ -533,7 +533,6 @@ entosthoblast
 echinococcosis
 epedaphic
 epithelioceptor
-edgy
 enciphered
 exopterygotous
 enclitically
@@ -12553,6 +12552,7 @@ eupione
 enzymology
 exculpative
 extoolitic
+edgy
 enactable
 esonarthex
 electrofusion
