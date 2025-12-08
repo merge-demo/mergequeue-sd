@@ -6707,7 +6707,6 @@ brachiata
 boonless
 berk
 brooking
-basirhinal
 blowsily
 bepimple
 bansalague
@@ -14881,6 +14880,7 @@ breakoff
 byssolite
 breakout
 breakpoint
+basirhinal
 breaks
 benzdifuran
 besteaded
