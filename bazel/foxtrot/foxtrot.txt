@@ -3577,6 +3577,7 @@ florigraphy
 forspoken
 feddan
 flapjacks
+fleeceable
 fussle
 fairbanks
 fourniture
@@ -9595,7 +9596,6 @@ faqir
 foreseeability
 fusils
 filipinize
-fleeceable
 filiform
 fdub
 frailest
