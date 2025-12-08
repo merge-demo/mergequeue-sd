@@ -3720,7 +3720,6 @@ bronteon
 battlefronts
 bringall
 brucella
-betrinket
 battler
 battleships
 barrace
@@ -16747,6 +16746,7 @@ backword
 barbarizing
 bonhomously
 bibliotheque
+betrinket
 buddhaship
 bandar
 barbas
