@@ -2887,6 +2887,7 @@ gallerylike
 gigmanhood
 gravediggers
 guddled
+gritrock
 gedunk
 geobotanic
 gustation
@@ -5405,7 +5406,6 @@ gammadion
 gliddery
 gloaters
 gemmary
-gritrock
 guiltless
 guacin
 gracelessly

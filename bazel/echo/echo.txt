@@ -5223,6 +5223,7 @@ ectobatic
 eskers
 electromagnetic
 eluviums
+epichorion
 exitus
 elusive
 endolysin
@@ -7591,7 +7592,6 @@ enticements
 embololalia
 ebbet
 extricate
-epichorion
 epicycle
 epicyemate
 empedoclean
