@@ -2381,7 +2381,6 @@ greeshoch
 geb
 george
 galloots
-ghiordes
 gadwall
 greenboard
 ganisters
@@ -4901,6 +4900,7 @@ gimme
 grandstanding
 gladiola
 goldurns
+ghiordes
 goatly
 gastroenteric
 gladship
