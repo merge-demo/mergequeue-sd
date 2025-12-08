@@ -5707,7 +5707,6 @@ eppie
 extraventricular
 extras
 episcopalism
-egotisticalness
 emerson
 eagerest
 engallant
@@ -7002,6 +7001,7 @@ extraverted
 enfuddle
 eager
 entreats
+egotisticalness
 esophagopathy
 entrec
 escalin
