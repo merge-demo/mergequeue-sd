@@ -5282,7 +5282,6 @@ anticlinal
 anapophysial
 ammonifier
 affine
-anteporch
 amidist
 antiatheistically
 affined
@@ -10801,6 +10800,7 @@ amminolytic
 anorexias
 aljofaina
 alzheimer
+anteporch
 ammites
 ammo
 amphibological
