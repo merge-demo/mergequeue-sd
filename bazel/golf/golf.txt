@@ -6630,7 +6630,6 @@ girlfriend
 glossary
 goalkeepers
 gangsterism
-glamourless
 grumphies
 glummy
 garous
@@ -10098,6 +10097,7 @@ gudgeon
 grobianism
 gauntest
 graecize
+glamourless
 gainings
 gramophonically
 gymnoglossate
