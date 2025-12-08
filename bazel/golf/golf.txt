@@ -1189,7 +1189,6 @@ gothic
 gonorrheic
 glabrescent
 grinned
-gezerah
 guejarite
 gunja
 galipine
@@ -5514,6 +5513,7 @@ gemmier
 gluttery
 gyassa
 glyster
+gezerah
 galumphed
 gablet
 grande
