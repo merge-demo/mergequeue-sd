@@ -9899,6 +9899,7 @@ abrotin
 antheridium
 alfiona
 alascan
+aphrodisiacs
 amatembu
 attaint
 alloquial
@@ -16801,7 +16802,6 @@ abastral
 autotypic
 affamish
 antiunion
-aphrodisiacs
 annule
 aphrodisiomania
 aphrodisiomaniac
