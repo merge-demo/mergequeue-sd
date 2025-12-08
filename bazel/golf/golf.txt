@@ -1175,7 +1175,6 @@ grift
 groatsworth
 glyptographer
 gasthaus
-gamolepis
 gaslights
 glouts
 gaon
@@ -8552,6 +8551,7 @@ gilo
 germaneness
 gasolene
 gemuti
+gamolepis
 gulae
 geonoma
 gravicembalos
