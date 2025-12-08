@@ -186,7 +186,6 @@ exarticulation
 exclamatively
 earthquaken
 excurvature
-ethylthioether
 evicting
 expediting
 equinoctially
@@ -3911,6 +3910,7 @@ echocardiogram
 engreen
 escutcheons
 exogamic
+ethylthioether
 electrogalvanize
 emmetropy
 equationally
