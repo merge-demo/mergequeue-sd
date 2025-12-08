@@ -887,7 +887,6 @@ fistulatous
 fissipedial
 fantigue
 freighters
-fantocine
 foreperiod
 farawayness
 firmland
@@ -7700,6 +7699,7 @@ fleawort
 fossa
 fidessa
 flinchingly
+fantocine
 foreignly
 fishy
 foreignness
