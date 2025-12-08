@@ -2959,6 +2959,7 @@ fewterer
 francophil
 fewtrils
 follower
+figurae
 fricatives
 flanned
 freethinker
@@ -3485,7 +3486,6 @@ fended
 federary
 figurable
 fixture
-figurae
 forebowels
 flusk
 formulism

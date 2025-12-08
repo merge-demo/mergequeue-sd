@@ -2288,7 +2288,6 @@ dowsers
 disceptator
 dithioglycol
 decemuiri
-downcut
 derby
 decemviral
 deepish
@@ -7577,6 +7576,7 @@ druidesses
 discs
 deuterotype
 displeasure
+downcut
 deuterozooid
 dental
 didynamies
