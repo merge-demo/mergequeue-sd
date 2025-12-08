@@ -1177,7 +1177,6 @@ grift
 groatsworth
 glyptographer
 gasthaus
-gaslights
 glouts
 gaon
 gunfires
@@ -9940,6 +9939,7 @@ grainsick
 gallop
 galiots
 glamorizing
+gaslights
 groundnut
 gratulatorily
 growingly
