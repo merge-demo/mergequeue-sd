@@ -4131,6 +4131,7 @@ disproportionably
 dorsicolumn
 delineated
 delineating
+destructuralize
 dodgasted
 died
 daygoing
@@ -5263,7 +5264,6 @@ deacidifying
 denotes
 defeise
 docetistic
-destructuralize
 denoting
 duplification
 deeping
