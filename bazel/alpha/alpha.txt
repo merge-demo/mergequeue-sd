@@ -6916,6 +6916,7 @@ airsheds
 afterwisdom
 asarta
 antiptosis
+amanda
 antinationalists
 airohydrogen
 airspace
@@ -9345,7 +9346,6 @@ angry
 adiposis
 alphabetised
 alphabetiser
-amanda
 alphabetized
 alphabetizer
 auditioned
