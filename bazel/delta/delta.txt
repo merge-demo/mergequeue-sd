@@ -6025,7 +6025,6 @@ depthlessness
 diobols
 demonetization
 delimiting
-decohere
 disapprove
 dermatonosus
 derogated
@@ -18296,6 +18295,7 @@ dunnite
 dagger
 dextorsal
 desmepithelium
+decohere
 danaan
 densimeter
 dibranchious
