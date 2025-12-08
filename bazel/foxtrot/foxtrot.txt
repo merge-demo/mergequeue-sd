@@ -8249,7 +8249,6 @@ forgetful
 fogdog
 facily
 frateries
-funerate
 freud
 fintadores
 forgetfulness
@@ -11042,6 +11041,7 @@ fumishing
 friendliness
 fermented
 fumuli
+funerate
 flappers
 fungated
 fere

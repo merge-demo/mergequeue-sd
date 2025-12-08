@@ -13810,7 +13810,6 @@ acetylate
 anorn
 anorogenic
 airthing
-anorth
 atacamite
 anorthite
 adriana
@@ -24840,6 +24839,7 @@ addnl
 avoids
 antrustionship
 avolate
+anorth
 ametabolian
 achenial
 ascidioida
