@@ -19634,7 +19634,6 @@ comate
 cowerer
 czarship
 coquilla
-camarilla
 copintank
 catogene
 claptrap
@@ -25104,6 +25103,7 @@ corer
 combinantive
 corers
 carbonates
+camarilla
 chlorospinel
 coresign
 convento
