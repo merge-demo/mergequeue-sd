@@ -357,7 +357,6 @@ eriophyidae
 eavedropping
 ephthianure
 endevil
-embouchement
 excentral
 eyestone
 erethistic
@@ -2992,6 +2991,7 @@ enfield
 eleatic
 eleoblast
 evaluate
+embouchement
 extine
 efflorescence
 evocative
