@@ -9192,7 +9192,6 @@ chastiser
 consulships
 contumelious
 clapperboard
-cheering
 corf
 chastity
 chastities
@@ -12662,6 +12661,7 @@ cirrocumular
 chuckwalla
 chapeling
 cogovernment
+cheering
 chandler
 congenitally
 chuddah
