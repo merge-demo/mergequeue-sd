@@ -10806,6 +10806,7 @@ diptychs
 differencing
 dipware
 denominate
+diapsid
 diver
 disposal
 disadvantageous
@@ -12038,7 +12039,6 @@ devanagari
 demonkind
 disintertwine
 divinest
-diapsid
 driest
 duckfoot
 daverdy
