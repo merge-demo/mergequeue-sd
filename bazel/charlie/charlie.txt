@@ -5449,7 +5449,6 @@ castrates
 covertical
 classic
 counterflory
-capillitia
 cylindrenchema
 calin
 castrati
@@ -22877,6 +22876,7 @@ coalizing
 considerate
 codiaeum
 cephalometer
+capillitia
 consideration
 considerations
 considerator

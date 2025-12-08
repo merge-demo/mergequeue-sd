@@ -7780,7 +7780,6 @@ grumph
 grimiest
 gormed
 glee
-gnetaceous
 grainways
 grumbletonian
 gnomish
@@ -8592,6 +8591,7 @@ gemel
 gossipy
 gonidioid
 gravure
+gnetaceous
 gathic
 gossameriness
 gametically
