@@ -5680,7 +5680,6 @@ ferratin
 folioliferous
 fresnels
 factional
-facilitator
 flyovers
 flype
 feodaries
@@ -7957,6 +7956,7 @@ felicitousness
 fid
 flaunty
 fordone
+facilitator
 forget
 funnelwise
 forepleasure
