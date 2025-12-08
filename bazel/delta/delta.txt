@@ -12674,7 +12674,6 @@ doleful
 divining
 dehorts
 diatrymiformes
-dridder
 disdiplomatize
 dendrobates
 disfavour
@@ -14640,6 +14639,7 @@ dixain
 decentre
 diplococcocci
 decameter
+dridder
 dora
 degradability
 disinvite

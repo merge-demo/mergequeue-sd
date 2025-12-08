@@ -2595,7 +2595,6 @@ elliptically
 exercitor
 epithelize
 exothecate
-electrophoretogram
 expansure
 exturb
 estimated
@@ -13767,6 +13766,7 @@ epitympanum
 edingtonite
 edestosaurus
 epiphysary
+electrophoretogram
 enserfing
 ecorch
 extolling
