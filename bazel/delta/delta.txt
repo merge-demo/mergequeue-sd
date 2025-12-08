@@ -11124,6 +11124,7 @@ disarrays
 disarranges
 do
 discernibility
+discloak
 dulled
 dorhawk
 dotless
@@ -15180,7 +15181,6 @@ dolciano
 dardaol
 dolcino
 dididae
-discloak
 disbalance
 doleance
 delectably
