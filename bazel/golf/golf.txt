@@ -2418,7 +2418,6 @@ gomukhi
 glariest
 gallant
 gumhar
-galiongee
 ganton
 gyrolith
 glaury
@@ -5489,6 +5488,7 @@ gentlest
 garancin
 gilenyie
 glossarize
+galiongee
 granddad
 gyrfalcons
 gonadic
