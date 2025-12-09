@@ -14763,7 +14763,6 @@ caseless
 conjecturableness
 cytoblastemic
 coengage
-cytoblastemous
 cytochemistry
 chameleons
 chararas
@@ -29564,6 +29563,7 @@ consular
 crivetz
 constraint
 coenogenetic
+cytoblastemous
 crizzel
 checkerboarding
 crizzled
