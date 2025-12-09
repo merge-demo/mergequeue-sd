@@ -8670,7 +8670,6 @@ ejecta
 equipotential
 externalize
 exconjugant
-endostyle
 epulotic
 equiprobably
 equiproportional
@@ -11258,6 +11257,7 @@ epithetize
 englyns
 eely
 echinoidea
+endostyle
 effulgently
 excisemanship
 enclothe
