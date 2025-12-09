@@ -6497,7 +6497,6 @@ calve
 catalogues
 cavicornia
 cavie
-conversely
 caviya
 cavyyard
 caviled
@@ -26867,6 +26866,7 @@ counterimagination
 cuitled
 counterimpulse
 counterindented
+conversely
 counterindication
 countermining
 counterinfluence
