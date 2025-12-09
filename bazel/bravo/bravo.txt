@@ -11945,6 +11945,7 @@ boggle
 blastemas
 boggler
 bannerol
+brachium
 bogglers
 boggling
 bessarabian
@@ -14125,7 +14126,6 @@ beglooming
 brachytypous
 barbra
 belemnitidae
-brachium
 brattiness
 brachyuran
 bollox
