@@ -6881,6 +6881,7 @@ feline
 fatuous
 fornacic
 forebackwardly
+fiddleback
 farmout
 farris
 febriferous
@@ -7096,7 +7097,6 @@ flagger
 fickler
 fripper
 flaker
-fiddleback
 foreallege
 fregatae
 footage
