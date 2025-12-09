@@ -765,7 +765,6 @@ admetus
 abrash
 abrasing
 aeromechanics
-abashment
 autogyro
 agnition
 akroter
@@ -9086,6 +9085,7 @@ alloxan
 absterged
 alloxans
 arsenicalism
+abashment
 alloxantin
 anthracoid
 alloxuremia
