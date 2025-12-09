@@ -6368,7 +6368,6 @@ blowspray
 belite
 barani
 benzidino
-budukha
 blackbirding
 birdwise
 blossoming
@@ -10186,6 +10185,7 @@ basketballs
 blackfellows
 bosker
 blackfigured
+budukha
 biochemical
 breechcloth
 bas
