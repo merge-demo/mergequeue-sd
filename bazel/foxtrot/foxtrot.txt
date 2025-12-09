@@ -1707,7 +1707,6 @@ fasciolariidae
 farouk
 flourless
 foodservices
-fuselage
 faviform
 feasibly
 fashionmonger
@@ -5902,6 +5901,7 @@ flockwise
 ferruginate
 fusibility
 flocs
+fuselage
 frontomalar
 facilely
 folliculosis
