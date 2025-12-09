@@ -17571,6 +17571,7 @@ deathlike
 disavowal
 distained
 domesticates
+disambiguated
 duteousness
 drumming
 drumreads
@@ -17826,7 +17827,6 @@ daydreamer
 dodecaphonically
 desalts
 ductilize
-disambiguated
 ductilized
 ductless
 drinkable
