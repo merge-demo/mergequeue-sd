@@ -3367,6 +3367,7 @@ germon
 ghostcraft
 germs
 glaucescence
+geranium
 griseous
 garment
 gigartinaceae
@@ -6044,7 +6045,6 @@ geminative
 gutturonasal
 gingerly
 goodwilly
-geranium
 gamier
 gelatinously
 griffinesque

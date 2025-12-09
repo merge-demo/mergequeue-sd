@@ -515,7 +515,6 @@ beggingwise
 blennioid
 backtracking
 backtracks
-betrayment
 backveld
 beech
 bayok
@@ -654,6 +653,7 @@ bombo
 breba
 bungey
 biannual
+betrayment
 begall
 bronchiolitis
 bathyesthesia
