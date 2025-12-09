@@ -7589,6 +7589,7 @@ anastomos
 astragal
 alcazaba
 apophonic
+angiocarpous
 adamance
 agrostographer
 asymptotical
@@ -12752,7 +12753,6 @@ angioblastic
 angiocardiographies
 achordate
 angiocarpic
-angiocarpous
 anaunter
 aubergine
 angiodermatitis
