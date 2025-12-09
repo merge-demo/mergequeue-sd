@@ -11290,6 +11290,7 @@ chlorofluoromethane
 ceylanite
 chloroformate
 churched
+chromotropy
 collarinos
 chalcophanite
 chloroformic
@@ -12509,7 +12510,6 @@ chromotypy
 cynegetics
 chromotypography
 chromotypographic
-chromotropy
 chromotropic
 commonplaceness
 cradleboard
