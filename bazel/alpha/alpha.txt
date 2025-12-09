@@ -990,6 +990,7 @@ abstaining
 abstains
 antiserum
 assis
+ammodyte
 atlantomastoid
 astron
 abstemiousness
@@ -23682,7 +23683,6 @@ auriculares
 autographer
 afterbreach
 acarpous
-ammodyte
 auricularian
 appealingness
 auriculas
