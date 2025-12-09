@@ -3240,7 +3240,6 @@ dents
 defend
 dikast
 dolmenic
-demimondaine
 dissentient
 distrainor
 defendant
@@ -13539,6 +13538,7 @@ dungeoner
 disperse
 disquisitive
 disrelishable
+demimondaine
 dissentment
 dissemination
 dantonist
