@@ -4873,7 +4873,6 @@ dognapers
 durableness
 demonise
 dactyliotheca
-dodlet
 deviancy
 deaneries
 ductile
@@ -12936,6 +12935,7 @@ doubtmonger
 dermostosis
 degreeing
 docilities
+dodlet
 dognaping
 discolor
 disaffectedness
