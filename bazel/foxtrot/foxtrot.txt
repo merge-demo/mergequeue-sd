@@ -6285,6 +6285,7 @@ flukeworm
 foreparent
 ferryhouse
 fob
+flabbergasting
 falerian
 flumes
 fluminous
@@ -10605,7 +10606,6 @@ fructuate
 frequentation
 flucan
 festooned
-flabbergasting
 freeby
 feudalizable
 flaxwoman
