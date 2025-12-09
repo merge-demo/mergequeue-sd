@@ -3420,7 +3420,6 @@ checkhook
 capriccetto
 capricci
 capriccio
-curliewurlie
 campa
 capriccioso
 carers
@@ -25467,6 +25466,7 @@ compilator
 congenialness
 condignity
 cephaelis
+curliewurlie
 coroll
 cartooning
 corollary
