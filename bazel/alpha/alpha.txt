@@ -14123,7 +14123,6 @@ agapae
 antiegoistically
 antenodal
 angelic
-antenumber
 adrostal
 antenuptial
 aplasias
@@ -17168,6 +17167,7 @@ apolunes
 adaptableness
 ankerites
 apolusis
+antenumber
 anatosaurus
 amoebiasis
 archgunner
