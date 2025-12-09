@@ -8351,6 +8351,7 @@ fightable
 forking
 flaveria
 forkless
+fabledom
 freedoms
 formicative
 forklift
@@ -10851,7 +10852,6 @@ forwore
 frondosely
 franciscan
 frousy
-fabledom
 faddism
 fulgidity
 flaite
