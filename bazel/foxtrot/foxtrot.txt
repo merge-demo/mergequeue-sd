@@ -5036,7 +5036,6 @@ familiarized
 flowered
 fissures
 forecourse
-fatteners
 flaperon
 flagellum
 flippantly
@@ -7531,6 +7530,7 @@ forecastlehead
 five
 filemaking
 ferroboron
+fatteners
 fringillaceous
 forespake
 fallacious
