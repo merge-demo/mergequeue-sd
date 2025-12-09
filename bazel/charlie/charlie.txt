@@ -6102,6 +6102,7 @@ catspaw
 catstane
 catstep
 catstick
+coordination
 ciderkin
 cafeterias
 catstitcher
@@ -24419,7 +24420,6 @@ coopts
 coordinal
 cashment
 collybia
-coordination
 coordinative
 chrisom
 coordinatory
