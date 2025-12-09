@@ -3888,7 +3888,6 @@ gyroplane
 goodness
 gatherings
 geomorphogenic
-garnetiferous
 gulosities
 geckotid
 glossarian
@@ -10341,6 +10340,7 @@ gamodesmic
 gigantostraca
 gracy
 geographized
+garnetiferous
 gastroenterology
 gridder
 gloomed
