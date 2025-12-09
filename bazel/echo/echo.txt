@@ -1386,6 +1386,7 @@ eubranchipus
 efflagitate
 epitympanic
 eugubium
+ectochondral
 embellishes
 emissions
 encycl
@@ -4586,7 +4587,6 @@ endpleasure
 enam
 emplore
 effigies
-ectochondral
 ectomesoblast
 expede
 encheason
