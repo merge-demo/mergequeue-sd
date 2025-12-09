@@ -9589,7 +9589,6 @@ encephaloma
 enchasers
 esoethmoiditis
 exornation
-energiser
 emplacing
 effortful
 emulator
@@ -13505,6 +13504,7 @@ epitomic
 epigrapher
 expanses
 elinor
+energiser
 equipollence
 ensnares
 ectosteal
