@@ -1134,7 +1134,6 @@ fubs
 footprints
 fitted
 foreguts
-flog
 foretasting
 falseheartedness
 fennels
@@ -4129,6 +4128,7 @@ fireback
 fumeuses
 fusilading
 foramina
+flog
 fulk
 felonry
 flexed
