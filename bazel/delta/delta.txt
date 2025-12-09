@@ -13754,7 +13754,6 @@ dissolvableness
 dissolvative
 dissolve
 daffadillies
-dalis
 druxy
 dissour
 disadventure
@@ -17981,6 +17980,7 @@ dukes
 deifical
 deseasonalize
 dehydrase
+dalis
 dukuma
 dulat
 dulcamara
