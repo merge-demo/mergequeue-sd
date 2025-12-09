@@ -3678,7 +3678,6 @@ fibroadipose
 filings
 flosser
 fewter
-futuro
 fibrilated
 filigrees
 fleshlier
@@ -11201,6 +11200,7 @@ foremanship
 fippence
 fasciolae
 fictil
+futuro
 frittata
 farads
 firer
