@@ -6367,7 +6367,6 @@ gloriosa
 gippo
 gollywobbler
 gambelli
-ganoblast
 garnitures
 gustables
 gofer
@@ -8213,6 +8212,7 @@ gris
 gasconading
 graphemics
 graphically
+ganoblast
 glutamates
 glorioso
 graphiological
