@@ -4475,6 +4475,7 @@ fishtailed
 fibrilled
 fishpotter
 finicism
+faddle
 forerigging
 footstool
 fishskin
@@ -8185,7 +8186,6 @@ ferula
 fantastry
 feverberries
 formicinae
-faddle
 fraught
 flourishable
 furores
