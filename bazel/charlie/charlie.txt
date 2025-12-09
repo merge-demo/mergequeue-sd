@@ -7645,7 +7645,6 @@ counterpoint
 congregates
 carreta
 cereous
-celioschisis
 cerebellitis
 chark
 cererite
@@ -23964,6 +23963,7 @@ conveneries
 chayma
 conveners
 convenience
+celioschisis
 compliancies
 conveniences
 curin
