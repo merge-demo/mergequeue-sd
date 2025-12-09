@@ -3694,7 +3694,6 @@ ghostish
 galliform
 gelatigenous
 gracilescent
-gussying
 grubbier
 gypseous
 guppy
@@ -8131,6 +8130,7 @@ gallygaskins
 grilladed
 gazabos
 garderobe
+gussying
 germanophobe
 gaspergous
 gynaeolater
