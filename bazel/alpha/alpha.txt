@@ -1465,6 +1465,7 @@ acclimatisation
 affixable
 archaisms
 amortize
+alispheno
 acclimatise
 acclimatised
 acclimatiser
@@ -12894,7 +12895,6 @@ antiliturgically
 anglomane
 awkward
 acinetaria
-alispheno
 anglophilic
 autotype
 anre
