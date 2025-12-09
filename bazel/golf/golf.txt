@@ -700,7 +700,6 @@ glycerizin
 gowlan
 grass
 gals
-gianthood
 gastroenterologically
 grimoire
 gloved
@@ -6652,6 +6651,7 @@ geminating
 globulysis
 glycosuria
 gossans
+gianthood
 gurglingly
 gruss
 grittiest
