@@ -2927,7 +2927,6 @@ flukiness
 freezed
 foxberries
 fac
-flaked
 furloughs
 fungological
 froths
@@ -11528,6 +11527,7 @@ forecaddie
 fermentations
 faradiser
 fathomlessly
+flaked
 fetishism
 flecklessly
 frugging
