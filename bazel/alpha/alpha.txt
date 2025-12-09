@@ -21315,6 +21315,7 @@ antiexporting
 antevenient
 arbitrary
 alleger
+augustus
 aceanthrene
 atretic
 asymmetric
@@ -23528,7 +23529,6 @@ arsenicating
 adda
 aotea
 augustinism
-augustus
 academicism
 affixment
 aneroidograph
