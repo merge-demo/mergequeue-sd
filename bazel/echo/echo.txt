@@ -3979,6 +3979,7 @@ egalite
 equiform
 extramodal
 empatron
+ethmosphenoidal
 extemporizes
 etrurian
 essie
@@ -11253,7 +11254,6 @@ extemporising
 evangelically
 erector
 eviler
-ethmosphenoidal
 endocrinologic
 entrenchment
 epithetize
