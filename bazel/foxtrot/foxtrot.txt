@@ -4348,7 +4348,6 @@ forewomen
 foresleeve
 feebler
 foraramina
-foreacquaint
 fencer
 fuliginously
 fise
@@ -4846,6 +4845,7 @@ funambulating
 falsism
 falsifiers
 foothook
+foreacquaint
 flues
 fasting
 frabbit
