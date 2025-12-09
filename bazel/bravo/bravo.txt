@@ -3793,6 +3793,7 @@ bauch
 bondoc
 baboon
 browsing
+blate
 bescorched
 balancer
 bristlecone
@@ -10548,7 +10549,6 @@ blatch
 bouviers
 boychiks
 bambuco
-blate
 blately
 blateness
 bhisti
