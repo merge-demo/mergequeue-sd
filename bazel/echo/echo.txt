@@ -5144,7 +5144,6 @@ endocrines
 endocrinic
 existentialistic
 enterocoel
-emergencies
 entogenous
 entail
 enteroptotic
@@ -13715,6 +13714,7 @@ ecologies
 eliciting
 elementarity
 epicarid
+emergencies
 elatine
 endnote
 extratemporal
