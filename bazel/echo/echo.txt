@@ -3099,7 +3099,6 @@ etheriidae
 entombed
 eyespot
 epitomised
-elodeas
 enfaced
 esthetically
 ephebi
@@ -6727,6 +6726,7 @@ entete
 eurytherm
 epistrophy
 etherate
+elodeas
 enthelminthic
 exungulate
 effume
