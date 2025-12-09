@@ -1756,6 +1756,7 @@ featheriness
 frogface
 foreslack
 forsterite
+fevertwig
 farfet
 farsalah
 frize
@@ -5774,7 +5775,6 @@ fibroblastic
 foreheads
 fribble
 family
-fevertwig
 flambee
 frett
 facemaker
