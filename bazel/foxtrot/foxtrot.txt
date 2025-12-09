@@ -9943,7 +9943,6 @@ fibroelastic
 floatingly
 fishworks
 frumentum
-flatlanders
 flanche
 frantic
 frigiddaria
@@ -10497,6 +10496,7 @@ floggable
 felsosphaerite
 frostroot
 floe
+flatlanders
 freshment
 frillery
 favouringly
