@@ -15738,6 +15738,7 @@ cerebellar
 coccygeal
 chainlet
 cardiomelanosis
+chantors
 couma
 cleanliest
 culottes
@@ -30308,7 +30309,6 @@ countervaunt
 comm
 clifflet
 countervairy
-chantors
 confrater
 consonantizing
 constructions
