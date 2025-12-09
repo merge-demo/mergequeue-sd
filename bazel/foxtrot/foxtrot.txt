@@ -2405,7 +2405,6 @@ fashionable
 ferlying
 foiler
 ferling
-furls
 fortnightly
 fermail
 flabellifoliate
@@ -11159,6 +11158,7 @@ forefather
 funereally
 fiddly
 force
+furls
 figged
 frowy
 fungation
