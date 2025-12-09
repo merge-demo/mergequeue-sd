@@ -3994,6 +3994,7 @@ drugless
 dustman
 decontaminator
 disquixote
+disdained
 delatinize
 delation
 dichocarpous
@@ -11882,7 +11883,6 @@ decurrence
 discussions
 dioptomiter
 delicat
-disdained
 disdainer
 dongon
 decomponent

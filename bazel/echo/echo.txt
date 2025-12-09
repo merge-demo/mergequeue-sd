@@ -1272,7 +1272,6 @@ een
 extraditable
 ecorche
 eucairite
-eleonorite
 eoghanacht
 epinephrin
 embroiderers
@@ -8955,6 +8954,7 @@ ectotherm
 expropriation
 eryngos
 elasmotherium
+eleonorite
 edgers
 europeanly
 essex
