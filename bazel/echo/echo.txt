@@ -3521,7 +3521,6 @@ enfoeffment
 exothermic
 exanthematous
 ergographic
-entozoon
 emboweled
 ethanamide
 electrosurgically
@@ -4989,6 +4988,7 @@ enologist
 essentia
 exul
 effuses
+entozoon
 enschedule
 exomphalous
 endemicity
