@@ -399,7 +399,6 @@ fairishly
 fister
 fronde
 farcy
-ficoes
 frislet
 faq
 fibber
@@ -3760,6 +3759,7 @@ fortressed
 frizettes
 furoate
 failure
+ficoes
 fibula
 fellmonger
 fulls

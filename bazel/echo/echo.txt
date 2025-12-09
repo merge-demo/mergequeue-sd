@@ -184,7 +184,6 @@ earthquaken
 excurvature
 evicting
 expediting
-equinoctially
 eten
 entincture
 ectoplacenta
@@ -2565,6 +2564,7 @@ enantioblastous
 eruginous
 eighteenthly
 ensnarl
+equinoctially
 exhilarator
 erythroblastosis
 eirenicon
