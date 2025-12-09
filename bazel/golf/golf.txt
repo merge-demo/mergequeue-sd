@@ -3344,7 +3344,6 @@ guan
 gaults
 germin
 gasteropod
-gobemouche
 guitermanite
 gadbush
 gessamine
@@ -6522,6 +6521,7 @@ glaikitness
 gariba
 galvanocautery
 golly
+gobemouche
 glucolipine
 gamete
 grotian
