@@ -3686,7 +3686,6 @@ dozing
 depsid
 disrupt
 decimalisation
-discalced
 denigrate
 dropworts
 degraduate
@@ -4426,6 +4425,7 @@ demembre
 dastur
 disassembled
 dementedly
+discalced
 dementholize
 disseated
 demiatheism
