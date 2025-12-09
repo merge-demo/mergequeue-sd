@@ -9893,6 +9893,7 @@ antheridium
 alfiona
 alascan
 aphrodisiacs
+acclaims
 amatembu
 attaint
 alloquial
@@ -14396,7 +14397,6 @@ amplexicauline
 anthracitic
 apprehensively
 akees
-acclaims
 anthracic
 anthracitious
 angiospastic
