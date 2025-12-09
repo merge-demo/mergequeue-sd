@@ -7151,7 +7151,6 @@ envisioning
 epistolising
 enshadow
 episterna
-effectuation
 exalts
 envolume
 embarment
@@ -7248,6 +7247,7 @@ enraptures
 emulsification
 estipulate
 exsector
+effectuation
 echoless
 electrocatalytic
 encephalomere
