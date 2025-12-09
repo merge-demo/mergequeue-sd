@@ -361,6 +361,7 @@ finspot
 fungales
 foredenounce
 fibrolipoma
+facula
 facsim
 fluids
 flowerily
@@ -5139,7 +5140,6 @@ flatlands
 forgeries
 fiberized
 flavoprotein
-facula
 fatigued
 flywheels
 fjords
