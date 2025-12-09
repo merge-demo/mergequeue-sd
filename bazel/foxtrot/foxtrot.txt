@@ -1871,6 +1871,7 @@ frohlich
 fecundator
 fuligula
 feedwater
+fineries
 fallow
 fewer
 fecundize
@@ -6987,7 +6988,6 @@ formalazine
 friendly
 fumant
 flannels
-fineries
 freemason
 fondly
 fluorspar
