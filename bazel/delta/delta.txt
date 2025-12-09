@@ -5340,6 +5340,7 @@ ducks
 distincter
 dialkylamine
 distitle
+dijudicated
 defiant
 desecate
 donis
@@ -12066,7 +12067,6 @@ disjointure
 discontinuity
 doorlike
 delirant
-dijudicated
 disensure
 disentail
 deprecatively
