@@ -1950,7 +1950,6 @@ ecklein
 europeward
 electroceramic
 energism
-eighth
 expressively
 eppy
 exenterated
@@ -13281,6 +13280,7 @@ exploded
 englifier
 endophragm
 estranger
+eighth
 englishable
 evict
 eponymize
