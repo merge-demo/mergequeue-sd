@@ -2583,6 +2583,7 @@ coyan
 cordwoods
 codlins
 conners
+concours
 candlewicks
 complementative
 candlewright
@@ -6930,7 +6931,6 @@ copesettic
 cemeterial
 circulator
 catchpenny
-concours
 ceratinous
 culm
 cenaculum
