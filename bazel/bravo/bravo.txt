@@ -387,7 +387,6 @@ bewailed
 bladderpod
 bathinette
 backlings
-balletic
 bummed
 bixbyite
 blarneying
@@ -3224,6 +3223,7 @@ basilic
 bantingize
 basilica
 belverdian
+balletic
 basilical
 backstromite
 brookable
