@@ -286,6 +286,7 @@ flagarie
 fissle
 foxfire
 fledges
+feastless
 fragmentisation
 flanks
 fraenums
@@ -1832,7 +1833,6 @@ febricitant
 frictions
 fore
 fratcheous
-feastless
 febrific
 florula
 flaccid
