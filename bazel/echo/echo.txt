@@ -6189,7 +6189,6 @@ elytrum
 engraft
 eccrinology
 episememe
-entrappingly
 entocondyloid
 elision
 ennoblement
@@ -8291,6 +8290,7 @@ enates
 epithalline
 elastase
 einstein
+entrappingly
 earthwards
 electropuncturation
 ecumenicality
