@@ -6006,7 +6006,6 @@ contratempo
 catholic
 courtesans
 cardinalated
-cryptostomata
 catholicalness
 chalkography
 catholicisation
@@ -16985,6 +16984,7 @@ coinclude
 chm
 cml
 cofferdams
+cryptostomata
 croconate
 cnemial
 corpsmen
