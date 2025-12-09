@@ -4344,7 +4344,6 @@ acarida
 actiniferous
 adscititious
 adscriptitious
-adscriptitius
 annodated
 acantha
 abomination
@@ -7643,6 +7642,7 @@ alphabetically
 atomist
 alcyonacean
 acrophony
+adscriptitius
 alcyoniaceae
 acost
 alcyonic
