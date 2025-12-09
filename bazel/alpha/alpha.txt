@@ -11681,7 +11681,6 @@ acerbity
 astrometeorologist
 adages
 anaerobation
-antiquist
 acrocentric
 anaerobion
 apocrisiary
@@ -18697,6 +18696,7 @@ alerts
 acetomorphin
 aloeroot
 applaud
+antiquist
 archbuilder
 archchemic
 antiopelmous
