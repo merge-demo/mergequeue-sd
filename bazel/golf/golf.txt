@@ -6397,7 +6397,6 @@ graymill
 gugal
 gospelwards
 germanophile
-greenwort
 guesstimate
 glossophaga
 gulmohar
@@ -7165,6 +7164,7 @@ gore
 gorebill
 gordioid
 gearboxes
+greenwort
 gabardines
 gored
 gores
