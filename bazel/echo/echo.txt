@@ -69,7 +69,6 @@ einkorns
 empaneling
 enfilading
 eastness
-etiam
 entapophysial
 educationalism
 ellebore
@@ -6918,6 +6917,7 @@ endiablee
 elling
 evocations
 entoplasm
+etiam
 euxenites
 extravaganzas
 exiled
