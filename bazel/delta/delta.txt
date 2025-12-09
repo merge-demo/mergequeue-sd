@@ -10522,6 +10522,7 @@ didos
 decares
 deess
 disputative
+dysphrasia
 discoplacentalian
 downfalling
 disaccordant
@@ -10840,7 +10841,6 @@ departing
 directors
 directorships
 desugared
-dysphrasia
 dapples
 deposable
 devex
