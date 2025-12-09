@@ -7243,6 +7243,7 @@ bestowment
 burgee
 briary
 breaching
+bottlemaker
 blades
 beveled
 bestraddled
@@ -13441,7 +13442,6 @@ bhutatathata
 bednights
 bitterbrush
 bawdship
-bottlemaker
 begotten
 burgs
 broilery

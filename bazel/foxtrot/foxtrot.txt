@@ -9236,6 +9236,7 @@ fichat
 feretra
 forfend
 fraise
+frough
 fortunately
 fraised
 flemishes
@@ -11600,7 +11601,6 @@ forlornly
 for
 fetch
 forcarve
-frough
 frack
 forewinning
 fulgour
