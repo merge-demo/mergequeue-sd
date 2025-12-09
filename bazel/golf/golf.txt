@@ -6522,7 +6522,6 @@ glaikitness
 gariba
 galvanocautery
 golly
-gobemouche
 glucolipine
 gamete
 grotian
@@ -8748,6 +8747,7 @@ groundenell
 grubby
 gambit
 glucosuric
+gobemouche
 garrets
 games
 governess
