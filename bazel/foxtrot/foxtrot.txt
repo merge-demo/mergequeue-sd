@@ -7220,6 +7220,7 @@ fleetings
 flanderkin
 fb
 fecial
+feldspathization
 flashback
 famishing
 fiorded
@@ -10362,7 +10363,6 @@ folkmote
 foreschooling
 fragrances
 foreboard
-feldspathization
 francium
 flashcube
 fletcherite
