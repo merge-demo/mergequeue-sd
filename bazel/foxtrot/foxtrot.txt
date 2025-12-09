@@ -4254,6 +4254,7 @@ flowerpecker
 fetichist
 fortuning
 foreyard
+faba
 fatless
 flail
 fireward
@@ -6051,7 +6052,6 @@ frayn
 floridity
 floriscope
 fetterbush
-faba
 funicule
 flavoring
 frutify
