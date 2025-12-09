@@ -4131,7 +4131,6 @@ admonitrix
 alkalinize
 admrx
 archetypist
-appendectomies
 adnascent
 adnate
 absolvent
@@ -15881,6 +15880,7 @@ antiprelate
 antiprelatic
 aliquot
 antiprelatist
+appendectomies
 archils
 antipriest
 annelidian
