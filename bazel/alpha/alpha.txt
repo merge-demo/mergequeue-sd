@@ -17617,6 +17617,7 @@ appersonation
 appersonification
 appert
 athematic
+aleppine
 accosts
 airwise
 appertained
@@ -23737,7 +23738,6 @@ aurophore
 aurore
 additionally
 acct
-aleppine
 aurous
 aurrescu
 araphorostic
