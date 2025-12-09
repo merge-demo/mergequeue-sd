@@ -13326,7 +13326,6 @@ consonantly
 cyclorrhapha
 coulomb
 curatize
-cycloscope
 centuply
 cyclosis
 cuppas
@@ -27669,6 +27668,7 @@ chillers
 camiscia
 copartnery
 confitent
+cycloscope
 cowhouse
 ciconiae
 chamaesyce
