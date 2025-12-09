@@ -877,6 +877,7 @@ feverfews
 forold
 flyaways
 flamfew
+fieldstone
 flattop
 fingerlet
 furan
@@ -4581,7 +4582,6 @@ fissidens
 fossilify
 folky
 fisheye
-fieldstone
 fistuca
 freezing
 freest
