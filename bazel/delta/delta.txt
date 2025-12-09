@@ -5486,6 +5486,7 @@ deorganize
 deregister
 disenablement
 deorsum
+disconnectiveness
 deossification
 deuterostomatous
 dissipates
@@ -10016,7 +10017,6 @@ dimoric
 demigoddess
 dotardism
 derv
-disconnectiveness
 dimorph
 dimorphism
 decenyl
