@@ -3078,6 +3078,7 @@ bemixes
 blabby
 baseballer
 betraying
+bulliform
 bucrnia
 bloodcurdler
 benben
@@ -9543,7 +9544,6 @@ baffeta
 births
 bracteolate
 brontephobia
-bulliform
 birthstool
 birthwort
 bitnet
