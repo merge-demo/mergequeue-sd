@@ -6582,7 +6582,6 @@ borickite
 brekky
 benzothiazole
 berberi
-breastrope
 bout
 berberid
 bricked
@@ -8876,6 +8875,7 @@ bioblastic
 backwoodsiness
 berakot
 burnewin
+breastrope
 biocenology
 brontolith
 blankmindedness
