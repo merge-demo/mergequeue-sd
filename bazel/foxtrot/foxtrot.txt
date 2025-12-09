@@ -2065,6 +2065,7 @@ forehook
 fwelling
 flocky
 foggara
+fane
 filibuster
 feudalisation
 famishes
@@ -11082,7 +11083,6 @@ fracturs
 forbidder
 foreknowableness
 functionation
-fane
 factfinder
 flagellated
 flockless
