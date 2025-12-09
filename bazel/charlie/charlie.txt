@@ -224,7 +224,6 @@ cabstands
 cabuya
 celebrators
 cabureiba
-concubinage
 chelydra
 cheiroline
 cacaesthesia
@@ -3445,6 +3444,7 @@ caprylic
 cymene
 caprylyl
 coat
+concubinage
 caprylone
 chivarro
 counterplan
