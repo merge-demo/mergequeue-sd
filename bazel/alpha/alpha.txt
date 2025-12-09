@@ -2466,7 +2466,6 @@ asparagus
 amphisbaenidae
 acme
 acquiring
-articulata
 americana
 adipic
 acnemia
@@ -5552,6 +5551,7 @@ agues
 antielectrons
 afterlight
 afterlives
+articulata
 adrenalectomizing
 anoxybiotic
 allamotti
