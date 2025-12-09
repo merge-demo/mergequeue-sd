@@ -4119,6 +4119,7 @@ bedrenched
 bras
 brachycera
 bearfoots
+byordinar
 bearhug
 babirousa
 bilicyanin
@@ -11570,7 +11571,6 @@ beth
 bestain
 brightness
 blusterers
-byordinar
 blustering
 basilicalike
 bromous
