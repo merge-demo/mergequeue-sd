@@ -13667,6 +13667,7 @@ bourg
 beckoned
 befoolable
 bespawl
+brachiferous
 bourgade
 beeped
 bonailie
@@ -14363,7 +14364,6 @@ boloman
 bambino
 bettors
 braincap
-brachiferous
 braincase
 blastomycosis
 braincraft
