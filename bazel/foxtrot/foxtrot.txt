@@ -9601,6 +9601,7 @@ filiform
 fdub
 frailest
 fragmentitious
+fulleries
 forcipated
 fleabugs
 fabula
@@ -10894,7 +10895,6 @@ falloffs
 floscule
 fides
 fibrocrystalline
-fulleries
 fleets
 flivver
 fletched

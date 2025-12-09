@@ -13090,7 +13090,6 @@ bilging
 brewings
 bubblies
 befluster
-beaned
 bemires
 bkbndr
 bigarades
@@ -13342,6 +13341,7 @@ bardesanist
 beholds
 baggers
 batons
+beaned
 bellicosity
 bunder
 bothnian
