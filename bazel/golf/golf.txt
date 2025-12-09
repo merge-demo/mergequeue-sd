@@ -5768,7 +5768,6 @@ galloperdix
 glockenspiel
 gallopade
 glossohyal
-gaultherase
 gobos
 glossolalia
 gabbroid
@@ -6759,6 +6758,7 @@ goniodoridae
 gnotobiote
 granitized
 gametophore
+gaultherase
 gagging
 grannie
 gripped
