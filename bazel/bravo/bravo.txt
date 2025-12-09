@@ -5228,7 +5228,6 @@ barbules
 basification
 breadboards
 barkeeps
-begar
 bodingly
 basaltic
 boneheaded
@@ -14106,6 +14105,7 @@ brachystegia
 bequeathing
 benzaminic
 budged
+begar
 brushups
 brachistocephaly
 breastbone
