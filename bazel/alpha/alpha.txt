@@ -7873,7 +7873,6 @@ anthotropism
 alveola
 alecup
 alefs
-ambary
 astringes
 abby
 astatizing
@@ -13291,6 +13290,7 @@ abstemiously
 anisoles
 adipopexic
 albireo
+ambary
 aurifex
 agglutinability
 autosome
