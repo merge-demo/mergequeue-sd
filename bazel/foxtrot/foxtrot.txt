@@ -5255,7 +5255,6 @@ flavourless
 funned
 flavourous
 flockier
-fideicommissa
 frostbird
 fockle
 fabricable
@@ -10830,6 +10829,7 @@ feeable
 fanatical
 fulfiller
 flambeaux
+fideicommissa
 fumose
 fulfillment
 flus
