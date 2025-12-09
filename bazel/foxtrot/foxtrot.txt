@@ -2124,7 +2124,6 @@ frowningly
 fireplow
 foreprize
 fulsome
-favours
 foddered
 fellatrice
 fluoresage
@@ -4112,6 +4111,7 @@ fatalness
 fissipedal
 ferth
 fiendful
+favours
 feuilletons
 frameworks
 floridan
