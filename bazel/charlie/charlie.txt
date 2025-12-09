@@ -4726,7 +4726,6 @@ choenix
 carpetbags
 counterearth
 ciboria
-catchall
 chigetais
 cores
 champerty
@@ -21455,6 +21454,7 @@ concordances
 conferree
 cantalas
 concordancy
+catchall
 concordant
 carpidium
 cankerworm
