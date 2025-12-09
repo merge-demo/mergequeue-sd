@@ -903,7 +903,6 @@ enteritidis
 echinoids
 estonia
 extropical
-encapsulating
 escalation
 electrotonic
 emplaces
@@ -12325,6 +12324,7 @@ earthlings
 ethic
 enhydrous
 etymologicon
+encapsulating
 exercitation
 elecampane
 effortless
