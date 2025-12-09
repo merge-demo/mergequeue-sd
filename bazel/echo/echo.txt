@@ -5976,7 +5976,6 @@ epicondylitis
 expectorates
 enframing
 enigma
-egotism
 enigmas
 enjambements
 enigmata
@@ -12890,6 +12889,7 @@ erosions
 expandingly
 expansibility
 entermete
+egotism
 expansile
 expansionism
 englyn

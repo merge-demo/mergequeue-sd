@@ -5793,7 +5793,6 @@ fastigium
 falconiform
 fellowess
 foreswearing
-filmer
 flamingly
 flittermouse
 fellowship
@@ -10355,6 +10354,7 @@ fleing
 feigning
 foxgloves
 foliation
+filmer
 frontbencher
 footlining
 frontcourt
