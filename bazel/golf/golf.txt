@@ -3739,6 +3739,7 @@ gnomide
 getatable
 goldfield
 generator
+glycolyl
 gropingly
 germania
 giantkind
@@ -6736,7 +6737,6 @@ grudgeless
 gonid
 gluttonies
 gynaecologic
-glycolyl
 glimed
 geer
 gride
