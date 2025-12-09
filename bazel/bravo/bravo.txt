@@ -2999,7 +2999,6 @@ bartholomewtide
 bartisan
 ballrooms
 barflies
-borts
 buccinum
 branglement
 bopping
@@ -18326,6 +18325,7 @@ botherheaded
 buttons
 bescratch
 breviaries
+borts
 buttonwood
 baragouin
 buttressed

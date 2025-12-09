@@ -765,6 +765,7 @@ fanciful
 fibreboard
 fanciless
 foliicolous
+forthcomer
 forestaff
 fragrance
 fallows
@@ -6591,7 +6592,6 @@ frounce
 foamflower
 flammulation
 firework
-forthcomer
 frocks
 floriculturally
 fullness
