@@ -8038,7 +8038,6 @@ expound
 entertaining
 enteroscope
 epiphanise
-ealdormen
 epiphanous
 expansiveness
 enosises
@@ -8640,6 +8639,7 @@ emerging
 excretions
 equinus
 ethrogs
+ealdormen
 elfishness
 equipages
 etherialism

@@ -1553,7 +1553,6 @@ docked
 drippings
 dices
 deputising
-dyssodia
 deadfalls
 deviler
 dim
@@ -2627,6 +2626,7 @@ dirndl
 duramatral
 drippy
 draffy
+dyssodia
 dacoitage
 decoke
 deathtraps
