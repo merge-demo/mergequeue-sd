@@ -336,7 +336,6 @@ gorling
 gaussian
 grilses
 gleen
-gerontologic
 gangetic
 governingly
 genteel
@@ -7720,6 +7719,7 @@ grizzliest
 goldworker
 gamins
 grouf
+gerontologic
 glueing
 grewsome
 gelations
