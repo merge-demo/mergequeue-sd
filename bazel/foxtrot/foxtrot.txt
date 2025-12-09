@@ -7001,6 +7001,7 @@ filla
 functor
 frison
 frittered
+fora
 fondues
 forestress
 frescoist
@@ -11028,7 +11029,6 @@ furzery
 fuming
 flagged
 foresights
-fora
 filiferous
 fumarate
 flammulated
