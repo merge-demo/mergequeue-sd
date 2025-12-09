@@ -6669,6 +6669,7 @@ ceilers
 ceilidhe
 connexivum
 ceiling
+chloroformize
 ceilings
 ceilingwards
 copiability
@@ -13505,7 +13506,6 @@ crozed
 castigative
 ciliotomy
 cilium
-chloroformize
 coxcombhood
 cyllenian
 cyllenius
