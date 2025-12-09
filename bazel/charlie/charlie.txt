@@ -5737,6 +5737,7 @@ cakebread
 catching
 carolean
 cannon
+clarinetist
 catchlight
 cultivatability
 cornein
@@ -15419,7 +15420,6 @@ clarifying
 clarin
 cleaved
 clarinet
-clarinetist
 cribbling
 conditione
 comether
