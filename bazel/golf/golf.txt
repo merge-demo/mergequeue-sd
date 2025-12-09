@@ -2927,6 +2927,7 @@ gelose
 gaylussite
 glossing
 gobiiformes
+gro
 gwiniad
 glitter
 gabbled
@@ -3626,7 +3627,6 @@ gigantal
 gld
 grouching
 gedder
-gro
 gastroenterological
 goldest
 gauntleted
