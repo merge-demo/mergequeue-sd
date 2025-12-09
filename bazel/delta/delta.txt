@@ -5921,7 +5921,6 @@ disaccustomed
 dandyisms
 dispender
 danicism
-depressibilities
 deozonization
 depressingly
 denuders
@@ -12740,6 +12739,7 @@ defectoscope
 dislluminate
 dubbings
 difference
+depressibilities
 dislocability
 dosimetry
 dustcloth
