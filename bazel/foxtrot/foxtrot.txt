@@ -3843,6 +3843,7 @@ femerell
 flubdubberies
 filthifying
 feminie
+flanging
 formin
 fairhead
 firewoods
@@ -7111,7 +7112,6 @@ frigid
 foundress
 feeder
 ferly
-flanging
 familarity
 footballs
 flinchers
