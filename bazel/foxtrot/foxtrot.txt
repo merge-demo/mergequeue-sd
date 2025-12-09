@@ -11463,7 +11463,6 @@ ferri
 foliolose
 freelancing
 fevergum
-fastgoing
 feminacies
 fairleader
 froggery
@@ -11569,6 +11568,7 @@ foreworn
 fibronucleated
 fluoric
 feu
+fastgoing
 feuing
 fusilladed
 fluctigerous
