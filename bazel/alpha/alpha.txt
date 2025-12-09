@@ -12770,6 +12770,7 @@ angiogeny
 anyway
 angiohemophilia
 anhelous
+agalactia
 assoluto
 anglophilia
 antiricin
@@ -16494,7 +16495,6 @@ anxiously
 anxiousness
 antifogmatic
 abbesses
-agalactia
 acetabuliferous
 antimicrobial
 aogiri
