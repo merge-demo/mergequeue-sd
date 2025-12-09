@@ -992,7 +992,6 @@ baidarka
 baidarkas
 binders
 baiera
-boti
 bibliology
 bioavailability
 butadiene
@@ -6557,6 +6556,7 @@ breadstuff
 bosnisch
 bewelcome
 bavarois
+boti
 beaming
 blameable
 backplanes
