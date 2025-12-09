@@ -6860,6 +6860,7 @@ cloze
 celsian
 cashbox
 celt
+cylindricalness
 celtiberi
 circularizers
 cofaster
@@ -7775,7 +7776,6 @@ ceruleolactite
 cravenette
 chlamydophore
 connoissance
-cylindricalness
 conducing
 ceruleous
 ceratophrys
