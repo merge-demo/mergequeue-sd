@@ -11354,7 +11354,6 @@ discerning
 dingdonging
 dudaim
 dahabeeyah
-dupioni
 discerped
 discontinued
 dowset
@@ -16450,6 +16449,7 @@ defogger
 delirate
 diachyma
 drabbler
+dupioni
 datum
 difflugia
 downtimes
