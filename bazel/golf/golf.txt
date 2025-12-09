@@ -6454,6 +6454,7 @@ gouger
 guineapig
 golden
 gordian
+gambir
 grandmaternal
 galleine
 gasification
@@ -9754,7 +9755,6 @@ geoscopic
 gable
 gibbetting
 genuflector
-gambir
 gordiidae
 gagroot
 gablewise
