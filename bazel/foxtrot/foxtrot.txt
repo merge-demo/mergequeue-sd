@@ -10328,7 +10328,6 @@ frustrated
 franc
 fikey
 friendless
-foxinesses
 forcible
 fraternise
 forrarder
@@ -11442,6 +11441,7 @@ fusible
 fistinut
 fluorbenzene
 fideles
+foxinesses
 flic
 frayedly
 furcule
