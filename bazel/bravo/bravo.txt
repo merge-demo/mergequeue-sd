@@ -7645,7 +7645,6 @@ blandished
 bimolecular
 boozing
 beechy
-beeyard
 brog
 bullocks
 borne
@@ -9769,6 +9768,7 @@ bistipulate
 bistort
 bedarkened
 bistorts
+beeyard
 beetlehead
 bistred
 beknights
