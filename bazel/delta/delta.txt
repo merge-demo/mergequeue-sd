@@ -2842,6 +2842,7 @@ depolarizers
 danegelt
 dielectrically
 demonic
+dialogers
 decriminalization
 disconcertment
 disequalization
@@ -8434,7 +8435,6 @@ disciplines
 deliveror
 dialog
 ditties
-dialogers
 dexies
 deflater
 devide
