@@ -1487,7 +1487,6 @@ garner
 galaginae
 glumly
 gunmaker
-gymnarchus
 gluconate
 galosh
 guacamole
@@ -6969,6 +6968,7 @@ gradients
 geostatics
 goodwife
 grecians
+gymnarchus
 guasa
 guiana
 gnostically
