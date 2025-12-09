@@ -6680,6 +6680,7 @@ flores
 fogdogs
 frippery
 fairways
+flagfish
 fogdom
 fogfruit
 fruiteress
@@ -11187,7 +11188,6 @@ fireplugs
 frenzelite
 forepaling
 flinter
-flagfish
 fluorophosphate
 frontiersman
 fusobacteria
