@@ -3589,7 +3589,6 @@ erythraean
 earspool
 embraceries
 evangelized
-embracingly
 engravement
 epistemic
 embraid
@@ -4640,6 +4639,7 @@ extratensive
 erythroxyline
 endarchies
 exuberantness
+embracingly
 elasticizes
 epimerase
 epimerising

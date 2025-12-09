@@ -1398,7 +1398,6 @@ germanize
 grecize
 gaits
 ganyie
-gallotannin
 gekkonid
 gasified
 gausterer
@@ -7220,6 +7219,7 @@ gony
 grasshopperdom
 gaditan
 greenthumbed
+gallotannin
 geotectonics
 give
 geocratic
