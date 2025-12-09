@@ -1567,7 +1567,6 @@ egises
 euosmite
 enterokinetic
 eglamore
-eglandular
 electrosynthetically
 eglantines
 endocardia
@@ -8660,6 +8659,7 @@ epithalamiumia
 enchondromas
 exfoliate
 encharge
+eglandular
 episcleritis
 earth
 evangelists
