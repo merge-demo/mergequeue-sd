@@ -2471,7 +2471,6 @@ fry
 fernyear
 furison
 funs
-fernshaw
 fordo
 forehatch
 flavic
@@ -10937,6 +10936,7 @@ fulminurate
 fulness
 fess
 fulnesses
+fernshaw
 flanconade
 forgetness
 feuded

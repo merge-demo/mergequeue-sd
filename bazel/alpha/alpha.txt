@@ -9285,7 +9285,6 @@ aloid
 ashfall
 anamorphous
 acapulco
-ateba
 analyser
 afflate
 along
@@ -20885,6 +20884,7 @@ aspersing
 asarums
 anglicanly
 anteverted
+ateba
 asb
 agoniatites
 asbest
