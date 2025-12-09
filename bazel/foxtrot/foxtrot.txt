@@ -384,6 +384,7 @@ filicauline
 forbid
 fairfieldite
 facets
+fumattoria
 fairground
 fairy
 foresettle
@@ -5990,7 +5991,6 @@ fusty
 foolscaps
 felspars
 flacon
-fumattoria
 foo
 fidiculae
 ferroelectrically
