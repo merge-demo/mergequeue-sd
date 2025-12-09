@@ -3456,7 +3456,6 @@ caprioles
 capriote
 capriped
 capripede
-cytosporina
 caducecaducean
 cobhouse
 chiastolite
@@ -24938,6 +24937,7 @@ curacies
 chatchkas
 cistic
 corbina
+cytosporina
 condurango
 corblimey
 centralists
