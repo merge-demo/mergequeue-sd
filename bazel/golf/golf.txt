@@ -8916,6 +8916,7 @@ griquaite
 glomerella
 gentman
 gobang
+grumping
 grete
 grainage
 ganglier
@@ -8999,7 +9000,6 @@ gluishness
 guaranteed
 gradgrindish
 garbing
-grumping
 glander
 genizah
 gushers
