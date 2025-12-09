@@ -2863,7 +2863,6 @@ acronym
 arteriolith
 aperitif
 abiogeneses
-adati
 aceratherium
 acronymic
 antiliturgic
@@ -7938,6 +7937,7 @@ aleppo
 alerce
 alerse
 agglutinates
+adati
 alerta
 anorak
 annually

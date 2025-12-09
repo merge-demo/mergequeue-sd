@@ -5559,7 +5559,6 @@ ethions
 enfettering
 enophthalmos
 expandability
-episcopality
 ecphrasis
 endoergic
 enfevering
@@ -12158,6 +12157,7 @@ excursiveness
 enterate
 excurvated
 extrados
+episcopality
 emphysematous
 esclavage
 energise
