@@ -6288,7 +6288,6 @@ diact
 dermatoneurosis
 digestment
 dustuck
-disprize
 doggier
 deprecates
 diradiation
@@ -6900,6 +6899,7 @@ desoeuvre
 dewlight
 drailed
 destriers
+disprize
 dsp
 desolate
 dobroes
