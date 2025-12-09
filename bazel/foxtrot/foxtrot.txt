@@ -154,6 +154,7 @@ folden
 fellaheen
 facks
 forefront
+fletcherize
 fumitories
 foremostly
 favus
@@ -1041,7 +1042,6 @@ flerrying
 farmerly
 forrel
 ferash
-fletcherize
 folates
 farmership
 flypaper
