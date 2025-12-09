@@ -2933,6 +2933,7 @@ foxberries
 fac
 furloughs
 fungological
+fluitant
 froths
 fevered
 flitchen
@@ -10486,7 +10487,6 @@ fluorate
 forwearying
 fordid
 flegm
-fluitant
 fatness
 frutescent
 frostings
