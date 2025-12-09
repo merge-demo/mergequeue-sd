@@ -11842,7 +11842,6 @@ cycliae
 carmagnoles
 castration
 chorales
-comradery
 concio
 cassapanca
 chorals
@@ -14221,6 +14220,7 @@ circumjacence
 circumjacency
 circumjovial
 circumlitio
+comradery
 circumlittoral
 circumlocute
 circumlocution
