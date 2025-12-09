@@ -2487,6 +2487,7 @@ forehorse
 flerry
 fudging
 fainthearted
+foretold
 faction
 facinorousness
 fluxgraph
@@ -6822,7 +6823,6 @@ foraminiferan
 fikery
 feuille
 fragmentizer
-foretold
 fructifier
 forger
 foliaged
