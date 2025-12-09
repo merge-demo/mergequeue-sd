@@ -5982,7 +5982,6 @@ gazogenes
 galactopathy
 grubs
 ginkgoes
-geoemtry
 gastroparesis
 garreted
 groucho
@@ -8571,6 +8570,7 @@ glomeli
 gainliest
 grat
 growths
+geoemtry
 gastrocnemius
 glabriety
 griqua
