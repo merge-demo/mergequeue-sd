@@ -16242,7 +16242,6 @@ canisters
 clinometrical
 calendal
 carvol
-clinopinacoid
 cephalin
 chayaroot
 convector
@@ -27192,6 +27191,7 @@ countertreason
 corbelling
 catholicus
 confessors
+clinopinacoid
 collodionize
 consolatoriness
 countertruth
