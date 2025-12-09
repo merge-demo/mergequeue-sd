@@ -3708,6 +3708,7 @@ fiercen
 flippers
 flavorlessness
 featherers
+frakturs
 frail
 feodal
 facebread
@@ -7899,7 +7900,6 @@ featherworker
 faitor
 frozen
 feeblehearted
-frakturs
 foreseeable
 futchel
 footeite
