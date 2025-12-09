@@ -3051,6 +3051,7 @@ apotheosise
 amtrac
 amphinucleus
 algin
+apologised
 actinometrical
 accidie
 apercu
@@ -8412,7 +8413,6 @@ agistment
 allopath
 advertency
 assoin
-apologised
 aortoptosis
 aspidosperma
 alkahestica
