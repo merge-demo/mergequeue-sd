@@ -1056,6 +1056,7 @@ exterritorial
 enshrouded
 embryonically
 edgrow
+enframe
 epigone
 encephaloscope
 enormous
@@ -8604,7 +8605,6 @@ equilateral
 eriogonum
 equilibrant
 extractively
-enframe
 expatiatory
 endues
 electrodynamometer
