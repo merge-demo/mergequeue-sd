@@ -3096,7 +3096,6 @@ boosting
 boneset
 baselevel
 biradiate
-bismarck
 bustards
 boswellize
 basellaceae
@@ -3179,6 +3178,7 @@ blastozooid
 bromelia
 beadily
 basidia
+bismarck
 bangash
 basidigital
 bouteselle
