@@ -365,6 +365,7 @@ desalters
 dayman
 droughtiness
 detruss
+dissilient
 daymares
 disseizes
 diarists
@@ -13637,7 +13638,6 @@ disship
 disshiver
 deletory
 dissiliency
-dissilient
 dolichurus
 dermatobia
 dissyllabic
