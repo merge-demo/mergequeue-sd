@@ -7577,7 +7577,6 @@ enterocoelous
 ensnarled
 ensouls
 enticements
-embololalia
 ebbet
 extricate
 epicycle
@@ -9340,6 +9339,7 @@ eruptive
 extirpative
 extortioner
 essoinee
+embololalia
 eruptiveness
 endear
 earable
