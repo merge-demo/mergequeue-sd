@@ -1658,7 +1658,6 @@ dozening
 dentimeter
 deamidation
 deaminase
-digitize
 daw
 dextraural
 deamination
@@ -11454,6 +11453,7 @@ deadnesses
 dispauper
 designlessness
 dollar
+digitize
 discoactine
 documentation
 diallages

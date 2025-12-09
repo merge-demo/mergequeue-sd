@@ -2628,7 +2628,6 @@ easement
 excelling
 exegetist
 enquiries
-effectless
 electrosteel
 epispadiac
 ectocornea
@@ -13901,6 +13900,7 @@ eledoisin
 ephymnium
 engineer
 etheria
+effectless
 esthesio
 extrameridional
 extrametrical
