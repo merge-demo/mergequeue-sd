@@ -433,6 +433,7 @@ faisan
 floriculturist
 faisceau
 firths
+favela
 forelaying
 fluobromide
 florilage
@@ -6340,7 +6341,6 @@ fpm
 frolicness
 forthcomingness
 furcraeas
-favela
 fluoboride
 fumerel
 fiking
