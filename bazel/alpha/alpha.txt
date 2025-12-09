@@ -598,7 +598,6 @@ alphameric
 abnegates
 anthropomancy
 abrotanum
-amanitins
 aesthophysiology
 acriflavine
 arytenoidal
@@ -14971,6 +14970,7 @@ anticonstitutionally
 alcamine
 anticontagionist
 agrin
+amanitins
 anticontagiously
 arizonians
 anticonvellent
