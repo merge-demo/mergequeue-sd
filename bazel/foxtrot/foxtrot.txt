@@ -1867,7 +1867,6 @@ flapcake
 fanback
 frisson
 fallacious
-flexional
 frohlich
 fecundator
 fuligula
@@ -6722,6 +6721,7 @@ fogo
 frescoists
 fighters
 feast
+flexional
 forelegs
 fogon
 fogproof

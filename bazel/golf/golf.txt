@@ -1211,6 +1211,7 @@ grappler
 glaux
 gimcrackery
 gimmicking
+gamogenetically
 glanders
 garrisonian
 guatusan
@@ -8399,7 +8400,6 @@ gauziness
 gelid
 graith
 gheber
-gamogenetically
 graycoat
 gravamen
 grawls
