@@ -7171,7 +7171,6 @@ alabastrian
 alabastrine
 aortographic
 ascenders
-awane
 apogees
 abilao
 acidness
@@ -9294,6 +9293,7 @@ alongshore
 archbishops
 alemana
 alongshoreman
+awane
 amplifies
 autonetics
 antisymmetric
