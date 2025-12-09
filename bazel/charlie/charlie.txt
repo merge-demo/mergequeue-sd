@@ -12111,6 +12111,7 @@ chris
 calibogus
 caraunda
 chrysalid
+canid
 coronet
 crasser
 chrysalida
@@ -28450,7 +28451,6 @@ cognizability
 crosier
 create
 coarcting
-canid
 createdness
 creates
 creatic
