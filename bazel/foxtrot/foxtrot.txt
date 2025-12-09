@@ -11016,6 +11016,7 @@ fumiest
 fluoroscope
 frivolist
 fossilizes
+fumados
 fillets
 fumigated
 fierce
@@ -11746,7 +11747,6 @@ fremdly
 florimanist
 followings
 factorage
-fumados
 fuzees
 faultfinders
 fuzzier
