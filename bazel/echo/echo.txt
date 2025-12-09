@@ -1621,7 +1621,6 @@ euphonon
 eheu
 explanatively
 elchee
-exotoxin
 ehretiaceae
 env
 enterobacterium
@@ -6261,6 +6260,7 @@ embryonary
 enamine
 ethnogeographical
 entered
+exotoxin
 erecter
 excipule
 epistapedial
