@@ -4841,7 +4841,6 @@ guardo
 gynerium
 glacieret
 gouaches
-garookuh
 glacierist
 graphemes
 glaciers
@@ -8544,6 +8543,7 @@ gaufrette
 goniatitidae
 gallwort
 gith
+garookuh
 gourmand
 grabbling
 generates
