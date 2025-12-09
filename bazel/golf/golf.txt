@@ -1991,7 +1991,6 @@ gerontoxon
 gasting
 gristhorbia
 gaurie
-gaurs
 glamourous
 gyroscopic
 gaussage
@@ -10782,6 +10781,7 @@ guiles
 gutt
 gunny
 gerenuk
+gaurs
 ghole
 genialness
 gonadectomy
