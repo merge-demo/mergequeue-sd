@@ -9820,6 +9820,7 @@ evolving
 estampede
 estang
 ethnographist
+extorted
 econometrician
 eatables
 entrance
@@ -11593,7 +11594,6 @@ educt
 evolutionists
 earthliest
 elaeocarpus
-extorted
 earringed
 ectromelic
 evolutoid
