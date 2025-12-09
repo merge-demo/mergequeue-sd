@@ -370,6 +370,7 @@ flowerily
 fattiness
 flusterer
 faints
+fogy
 forcedness
 franklandite
 frothed
@@ -11277,7 +11278,6 @@ flaxwife
 frigorify
 foregut
 femmes
-fogy
 fiscalize
 flurrying
 farcing
