@@ -5757,7 +5757,6 @@ catchwork
 cabasset
 counterinsurgents
 catclaw
-cate
 catechesis
 catechetic
 congenator
@@ -5986,6 +5985,7 @@ cathine
 cathinine
 cathion
 confessionaries
+cate
 cathodal
 cathode
 chatelainry
