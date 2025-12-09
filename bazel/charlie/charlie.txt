@@ -8169,7 +8169,6 @@ chairmender
 chairpersons
 chairway
 cryptogamian
-conjunctivae
 chairwarmer
 cyanocitta
 chaiseless
@@ -26180,6 +26179,7 @@ cysteines
 cosmotheist
 cosmozoans
 cosmozoic
+conjunctivae
 chrysididae
 cascrome
 catalecta
