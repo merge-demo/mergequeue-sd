@@ -5042,6 +5042,7 @@ flagellum
 flippantly
 frib
 flappable
+firers
 frankalmoin
 fermions
 figlike
@@ -6262,7 +6263,6 @@ fluidist
 festers
 fluidized
 ferroconcrete
-firers
 flared
 fissiparation
 fortissimos
