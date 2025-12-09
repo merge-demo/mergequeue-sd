@@ -7853,7 +7853,6 @@ electrion
 emancipating
 epigrammatic
 electrifiable
-echini
 epigrammatically
 epigamic
 ecca
@@ -12146,6 +12145,7 @@ ebonite
 ensorcerize
 erpetologist
 eg
+echini
 eyelike
 electrotechnical
 epural

@@ -15340,7 +15340,6 @@ curnie
 clanswoman
 cyanole
 chrysalidal
-characteristics
 cryptostegia
 cyprinodontidae
 covenantor
@@ -26419,6 +26418,7 @@ cotised
 cotising
 cajuns
 candroys
+characteristics
 cotitular
 cotland
 chowk
