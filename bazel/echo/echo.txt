@@ -9990,7 +9990,6 @@ endamnify
 ensures
 etamins
 enamdar
-entepicondylar
 etape
 elvishly
 escruage
@@ -13315,6 +13314,7 @@ educts
 explosimeter
 ecphore
 exorcisms
+entepicondylar
 explosively
 explosiveness
 equipt
