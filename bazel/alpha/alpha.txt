@@ -16350,7 +16350,6 @@ ambuscade
 asteroidal
 arsanilic
 antiwarlike
-anthropomorphitic
 antiwaste
 anonym
 ashwort
@@ -17105,6 +17104,7 @@ anaphrodisiac
 achiever
 avocets
 anisochromia
+anthropomorphitic
 apogeotropism
 apogon
 afterfuture
