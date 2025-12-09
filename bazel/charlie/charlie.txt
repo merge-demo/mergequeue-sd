@@ -5240,7 +5240,6 @@ casks
 caspar
 castings
 casparian
-caspian
 coriariaceous
 casque
 casqued
@@ -6902,6 +6901,7 @@ cukes
 coaugment
 calorimetric
 cementatory
+caspian
 chlorobromomethane
 curvirostres
 charros
