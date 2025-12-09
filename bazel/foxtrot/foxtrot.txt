@@ -1437,7 +1437,6 @@ freewheel
 fatuism
 filasse
 firmness
-futhork
 fatuitous
 foothil
 familiarise
@@ -2733,6 +2732,7 @@ festellae
 ficary
 festered
 faliscan
+futhork
 frizer
 friedelite
 foreparts
