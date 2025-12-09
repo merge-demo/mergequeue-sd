@@ -634,7 +634,6 @@ eclegma
 ehrman
 etatism
 excretitious
-establishment
 equisufficiency
 esophagocele
 estonians
@@ -2179,6 +2178,7 @@ elderman
 eggwhisk
 electrics
 electrographic
+establishment
 exedrae
 esthesia
 epistome
