@@ -6413,6 +6413,7 @@ cienega
 cautiones
 canard
 carbarns
+catagories
 cautious
 cautiously
 cannoneers
@@ -26667,7 +26668,6 @@ counterintelligence
 counterexpostulation
 counteradvance
 colossuswise
-catagories
 cheatingly
 counteragency
 counteragitate
