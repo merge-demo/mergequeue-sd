@@ -16876,6 +16876,7 @@ clueless
 cephalothorax
 clisiocampa
 cluing
+chroococcus
 chwas
 cheyney
 charca
@@ -28663,7 +28664,6 @@ consequentially
 classific
 canonicalize
 crenel
-chroococcus
 constantine
 coloniser
 candlewicking
