@@ -2951,6 +2951,7 @@ entomology
 elidible
 etagere
 epistasy
+educationally
 eligibles
 entrecotes
 equipede
@@ -10841,7 +10842,6 @@ eloigners
 entosternum
 earache
 educes
-educationally
 embassiate
 eligibilities
 endostomata
