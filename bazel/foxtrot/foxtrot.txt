@@ -2075,6 +2075,7 @@ frissons
 fusibleness
 freeform
 fideistic
+firnismalerei
 fogle
 federalist
 floriculture
@@ -7710,7 +7711,6 @@ foreignness
 fortuneless
 feudalists
 foreimpressed
-firnismalerei
 faceman
 foreinstruct
 fallal
