@@ -2144,7 +2144,6 @@ amakosa
 afterpotential
 adawlut
 arend
-apiculate
 achymia
 aganice
 arracks
@@ -5641,6 +5640,7 @@ autocystoplasty
 anticorrosion
 afwillite
 afzelia
+apiculate
 apsychia
 adjustable
 amidstream
