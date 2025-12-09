@@ -1612,6 +1612,7 @@ agrostologist
 aneling
 accouterment
 acemetic
+areolae
 attouchement
 accoutre
 aminobenzamide
@@ -19283,7 +19284,6 @@ australis
 arenosity
 areographical
 albuminurophobia
-areolae
 anteriors
 aluminothermics
 areocentric
