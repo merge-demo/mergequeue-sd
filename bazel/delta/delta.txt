@@ -6076,7 +6076,6 @@ doughbelly
 diopsis
 deputing
 diaconicon
-digitalization
 dorps
 delicacy
 dilli
@@ -14195,6 +14194,7 @@ disutilize
 doldrum
 dramatists
 dicer
+digitalization
 damage
 daboia
 defenselessly
