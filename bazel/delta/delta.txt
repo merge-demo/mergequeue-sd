@@ -1450,6 +1450,7 @@ dictional
 disinfect
 durain
 dihydrosphingosine
+devas
 domical
 deltation
 dietotoxicity
@@ -7616,7 +7617,6 @@ devaluates
 droppingly
 durandarte
 devalues
-devas
 duole
 dird
 ditch
