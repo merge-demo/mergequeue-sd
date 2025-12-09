@@ -2934,6 +2934,7 @@ epagomenal
 endoplast
 etrogim
 encamped
+earn
 eliminant
 ennoblers
 ethid
@@ -12399,7 +12400,6 @@ eryon
 essencing
 electrolyze
 eucleidae
-earn
 estriol
 encephalology
 ephemerida
