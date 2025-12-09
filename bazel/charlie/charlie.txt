@@ -903,7 +903,6 @@ census
 cajolement
 celure
 cajolements
-coagulating
 contrapuntalist
 cajolery
 caproic
@@ -16290,6 +16289,7 @@ clypeolar
 clypeus
 cyanomethaemoglobin
 clipped
+coagulating
 clippers
 convenienced
 clippingly
