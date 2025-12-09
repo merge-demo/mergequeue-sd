@@ -4334,6 +4334,7 @@ farewelled
 firms
 firns
 freespac
+frowl
 fleshings
 formicivora
 ficiform
@@ -10527,7 +10528,6 @@ foldstool
 frenchmen
 floristry
 firemen
-frowl
 fierily
 frowners
 faciend
