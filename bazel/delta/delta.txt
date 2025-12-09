@@ -3794,7 +3794,6 @@ dyostyle
 detest
 dor
 disgracia
-drillable
 dynamites
 distrain
 deice
@@ -15828,6 +15827,7 @@ detects
 diacetic
 deluge
 dissertations
+drillable
 dumbstruck
 dorsimeson
 devolatilization
