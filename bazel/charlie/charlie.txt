@@ -7892,6 +7892,7 @@ clericate
 collieshangie
 cetane
 cetanes
+cowage
 cete
 cetera
 ceti
@@ -16393,7 +16394,6 @@ cloacaline
 cents
 connellite
 cholonan
-cowage
 copart
 cheveron
 cutlets
