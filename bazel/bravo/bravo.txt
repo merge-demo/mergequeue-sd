@@ -9822,7 +9822,6 @@ burgherhood
 biteche
 barbicans
 bowdlerization
-barrels
 balawa
 beamy
 biternately
@@ -16339,6 +16338,7 @@ baduhenna
 bruiter
 bruits
 borofluorin
+barrels
 breadthen
 baddeleyite
 bacchius
