@@ -2861,6 +2861,7 @@ desiring
 diaclasis
 decubiti
 deculturate
+deltoidal
 driverless
 decuman
 deperm
@@ -12236,7 +12237,6 @@ dysfunctional
 documentaries
 dysfunctioning
 doweling
-deltoidal
 dechlore
 detector
 dampers
