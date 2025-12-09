@@ -8850,7 +8850,6 @@ characteristicness
 cognizableness
 characterization
 characterizing
-characterless
 characterlessness
 coffle
 crosshead
@@ -10468,6 +10467,7 @@ comicality
 chalicotherium
 children
 cainogenesis
+characterless
 childrenite
 corylin
 chalazogamic
