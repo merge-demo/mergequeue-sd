@@ -6805,7 +6805,6 @@ barytosulphate
 badian
 bookery
 bersagliere
-brittles
 berserks
 barnumize
 berskin
@@ -14444,6 +14443,7 @@ butea
 braystone
 bigging
 beent
+brittles
 bathyspheres
 bagh
 babying
