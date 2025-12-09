@@ -3466,7 +3466,6 @@ emblazoner
 emblazonments
 elastic
 etherialising
-escandalize
 expansible
 euchologies
 epirotic
@@ -4092,6 +4091,7 @@ equiponderated
 emplastic
 emplastration
 ectrodactylism
+escandalize
 expulsionist
 essenism
 eutheria
