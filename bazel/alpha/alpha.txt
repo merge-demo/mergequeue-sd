@@ -4574,6 +4574,7 @@ advertizes
 atypicality
 advice
 advices
+adenotomy
 atomatic
 antas
 advisableness
@@ -19493,7 +19494,6 @@ afforestational
 antimodernization
 accessoriness
 assaults
-adenotomy
 aitchpiece
 acad
 arsonic
