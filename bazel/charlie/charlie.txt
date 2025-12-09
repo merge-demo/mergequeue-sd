@@ -5202,6 +5202,7 @@ chenopodium
 cashiering
 cashierment
 cashkeeper
+confessary
 crows
 clearest
 cashmere
@@ -21879,7 +21880,6 @@ creating
 chungking
 convexities
 confessant
-confessary
 coelomopore
 cornfield
 clubrooms
