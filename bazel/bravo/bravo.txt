@@ -3025,7 +3025,6 @@ brigantine
 baruch
 bitten
 briery
-bellows
 biobibliographical
 bdellostomatidae
 baruria
@@ -7772,6 +7771,7 @@ bhokra
 bonaventure
 bunglingly
 bustee
+bellows
 bingey
 baying
 brunella
