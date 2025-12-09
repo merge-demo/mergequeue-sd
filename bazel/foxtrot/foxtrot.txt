@@ -3948,6 +3948,7 @@ finew
 fish
 fermentor
 fruitcakey
+filterer
 frenziedly
 foreshown
 fibreware
@@ -9078,7 +9079,6 @@ foundryman
 fibrinolytic
 farcied
 fords
-filterer
 fleabanes
 forester
 fourberie
