@@ -337,6 +337,7 @@ francisc
 forkful
 failingness
 facultative
+flounce
 foresound
 floss
 favourer
@@ -6105,7 +6106,6 @@ falculate
 flotson
 frightenedly
 fenster
-flounce
 felsobanyite
 floccilation
 flounced
