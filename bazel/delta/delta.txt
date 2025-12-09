@@ -1148,7 +1148,6 @@ dasypod
 dispaint
 demonstrative
 detick
-digitogenin
 dasypus
 defencelessly
 duxelles
@@ -2066,6 +2065,7 @@ delictum
 dermatotomy
 daikered
 devotion
+digitogenin
 dimedon
 downgate
 discreet
