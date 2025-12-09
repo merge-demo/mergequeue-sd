@@ -6625,7 +6625,6 @@ ghats
 gonophorous
 granolite
 glossological
-gentleship
 girlfriend
 glossary
 goalkeepers
@@ -10079,6 +10078,7 @@ gage
 graveolency
 gravedigger
 gelofer
+gentleship
 gimmal
 gyneconitis
 grabens
