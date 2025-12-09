@@ -3553,7 +3553,6 @@ gunslinging
 grinded
 geo
 ghettoizes
-gymkhana
 galloon
 grudgery
 genevieve
@@ -7482,6 +7481,7 @@ gazing
 gulpy
 gladiatory
 goura
+gymkhana
 gonad
 gamesmanship
 gymnotidae
