@@ -1057,7 +1057,6 @@ absurd
 anesthesiologist
 animators
 antirentism
-absurder
 anaphylactoid
 auberge
 aeronautically
@@ -6155,6 +6154,7 @@ agnails
 agnat
 agnatha
 advenient
+absurder
 agnatical
 amoreuxia
 addressor
