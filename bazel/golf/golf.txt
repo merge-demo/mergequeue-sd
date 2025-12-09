@@ -825,7 +825,6 @@ gabrielrache
 gimlety
 granulater
 groutiest
-geonegative
 gamboled
 gillar
 goethe
@@ -9052,6 +9051,7 @@ gaper
 givin
 galbraithian
 gilguy
+geonegative
 galoshes
 gateways
 glegness
