@@ -1682,6 +1682,7 @@ falsies
 felonous
 fearingly
 farthermore
+fineableness
 ferineness
 fearless
 forehammer
@@ -3910,7 +3911,6 @@ function
 findhorn
 filarees
 fine
-fineableness
 fumigators
 fusinist
 fulgourous
