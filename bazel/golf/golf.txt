@@ -1983,6 +1983,7 @@ ghastlier
 guttable
 gonif
 galician
+guerinet
 goschens
 gryphaea
 gams
@@ -4654,7 +4655,6 @@ gentility
 gunlocks
 gingerwork
 gaudy
-guerinet
 glossitic
 guttersnipish
 griggles
