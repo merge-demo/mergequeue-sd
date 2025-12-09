@@ -3470,7 +3470,6 @@ disassociating
 doffed
 dictyoxylon
 doigte
-defluvium
 demimark
 dang
 defoamed
@@ -3807,6 +3806,7 @@ deicers
 defacingly
 deicides
 dismutation
+defluvium
 deictical
 devilkin
 dreissiger
