@@ -39,7 +39,6 @@ gmelina
 grammes
 gonosphere
 gabions
-genotypically
 groats
 graperies
 gangue
@@ -6512,6 +6511,7 @@ gravelled
 guddling
 genetic
 geest
+genotypically
 glaikitness
 gariba
 galvanocautery

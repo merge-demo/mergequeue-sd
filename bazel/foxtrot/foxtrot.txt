@@ -3400,7 +3400,6 @@ futurologists
 fiascoes
 foretalk
 fiendly
-featurely
 fc
 fetishlike
 firmed
@@ -4492,6 +4491,7 @@ faldage
 frangulin
 fogus
 ferrotitanium
+featurely
 faddy
 frowst
 flatting
