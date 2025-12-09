@@ -14733,6 +14733,7 @@ cladodontid
 cytioderm
 cityscapes
 cytisine
+cipherable
 chamkanni
 couriers
 calocarpum
@@ -20508,7 +20509,6 @@ cheirognomy
 compelled
 crumpling
 clarkia
-cipherable
 costerdom
 colorability
 clayware
