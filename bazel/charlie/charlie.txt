@@ -7413,6 +7413,7 @@ chairmaned
 cerago
 ceramal
 ceramals
+confinements
 chacun
 choliambic
 caback
@@ -7623,7 +7624,6 @@ coiffing
 curettes
 concessionist
 centralizer
-confinements
 ceremony
 chrysoeriol
 ceremonial
