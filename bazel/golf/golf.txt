@@ -1236,6 +1236,7 @@ grackles
 guana
 gaufre
 glittered
+gnathostoma
 generalizations
 groups
 goodship
@@ -9826,7 +9827,6 @@ gehlenite
 globulinuria
 glossemes
 glares
-gnathostoma
 guahiban
 groundbreaker
 gutsily
