@@ -3167,6 +3167,7 @@ geoscopy
 gordonia
 gelasian
 ghostship
+galleys
 gutturalizing
 gramoches
 goatherd
@@ -8839,7 +8840,6 @@ gauntleting
 germain
 generalize
 griddler
-galleys
 gentianaceous
 glueyness
 gallus
