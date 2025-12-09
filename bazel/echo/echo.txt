@@ -3588,7 +3588,6 @@ enchainement
 ensuable
 eyeliner
 embracement
-enquiry
 epicauta
 erythraean
 earspool
@@ -7354,6 +7353,7 @@ edibile
 eriophyes
 eased
 etiolates
+enquiry
 eccoprotic
 eleut
 eparchies
