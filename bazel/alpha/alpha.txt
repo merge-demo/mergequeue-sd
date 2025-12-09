@@ -3541,7 +3541,6 @@ azores
 addressable
 antics
 avestan
-addressers
 anilities
 allesthesia
 amphirhina
@@ -12727,6 +12726,7 @@ angetenar
 antipriming
 angiectasis
 abortively
+addressers
 apocathartic
 apostemate
 anomocarpous
