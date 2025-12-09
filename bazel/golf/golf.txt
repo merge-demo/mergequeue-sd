@@ -1879,6 +1879,7 @@ gazehound
 growlery
 gertrude
 guffaw
+gloveress
 gilgai
 goofy
 geodic
@@ -5743,7 +5744,6 @@ glossinas
 glowbard
 gurneyite
 gerres
-gloveress
 gunite
 gpad
 ganglioneuron
