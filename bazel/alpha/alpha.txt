@@ -6670,6 +6670,7 @@ anointer
 amidoketone
 albedos
 abime
+antwise
 audible
 allemandes
 acarol
@@ -16442,7 +16443,6 @@ alkargen
 antum
 ambulatio
 apionol
-antwise
 anunder
 anesthetically
 aphelinus
