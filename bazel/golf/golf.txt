@@ -766,7 +766,6 @@ gladsomer
 gawkily
 geometrically
 graywether
-galvanotherapy
 geomorphic
 galvanotropism
 gonapophysis
@@ -2703,6 +2702,7 @@ gelidium
 guptavidya
 grippingly
 grabble
+galvanotherapy
 gasteromycetes
 gaud
 gestae

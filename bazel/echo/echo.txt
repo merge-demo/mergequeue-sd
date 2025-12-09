@@ -1740,7 +1740,6 @@ enripen
 engler
 eulogisation
 extendedly
-epanorthoses
 eer
 eyepiece
 enrapturer
@@ -3626,6 +3625,7 @@ entrepeneurs
 ejector
 expellant
 edna
+epanorthoses
 epilatory
 eleutherism
 electrocuted
