@@ -8996,7 +8996,6 @@ faustian
 fourteener
 frangibleness
 fourteenths
-froren
 flatirons
 forra
 firethorn
@@ -10198,6 +10197,7 @@ floated
 footnote
 froggies
 finale
+froren
 froggish
 forslack
 froghood
