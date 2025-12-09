@@ -728,7 +728,6 @@ fana
 feoffment
 fluxion
 fumigants
-feministics
 fragmentate
 fertilizes
 fogscoffer
@@ -1461,6 +1460,7 @@ flittern
 flix
 felicitators
 font
+feministics
 flavorings
 fruiter
 favourable
