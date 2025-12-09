@@ -1180,7 +1180,6 @@ beanfest
 baked
 blepharydatis
 bibliothetic
-bakelite
 bronchially
 bloop
 bakeoven
@@ -5286,6 +5285,7 @@ bontebuck
 brawn
 beady
 betsy
+bakelite
 beggiatoaceae
 blurs
 beggingly
