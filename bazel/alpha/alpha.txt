@@ -4049,6 +4049,7 @@ aspis
 administrative
 affixion
 administratively
+aftereye
 administratrices
 antiarin
 admirable
@@ -25290,7 +25291,6 @@ arvicola
 ariegite
 adenofibroma
 allthorn
-aftereye
 asymmetrical
 atmospheric
 anesthetist
