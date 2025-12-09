@@ -2236,6 +2236,7 @@ grisled
 genette
 gristle
 gossipmongering
+gustiest
 galactase
 gastrotome
 glottology
@@ -10751,7 +10752,6 @@ galloot
 garnish
 gournard
 gagers
-gustiest
 guestimate
 geocentrically
 gymnosophical
