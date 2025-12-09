@@ -8743,7 +8743,6 @@ encystment
 eulogising
 endangering
 equivocates
-encyrtid
 emphractic
 enstrengthen
 equivoluminal
@@ -10920,6 +10919,7 @@ eaglewood
 euploidies
 euphorically
 euphotide
+encyrtid
 excommunicate
 esd
 euphues
