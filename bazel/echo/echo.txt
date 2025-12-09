@@ -150,7 +150,6 @@ enchylema
 enzygotic
 earthkin
 envoys
-exorcise
 expired
 effervescent
 erotopath
@@ -10514,6 +10513,7 @@ extirpations
 effigy
 exemplifications
 electrometry
+exorcise
 effusing
 entreatingly
 exacum
