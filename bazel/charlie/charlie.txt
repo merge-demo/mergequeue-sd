@@ -5863,7 +5863,6 @@ catenate
 crooisite
 catenating
 catenation
-catenative
 capomo
 compositorial
 catenoid
@@ -7983,6 +7982,7 @@ chaccon
 chachalakas
 chackchiuma
 chacker
+catenative
 cannelon
 chackle
 cachets
