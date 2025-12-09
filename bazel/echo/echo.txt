@@ -3326,7 +3326,6 @@ expresses
 environed
 elegies
 encheer
-ermit
 enrace
 emasculators
 erythrorrhexis
@@ -5043,6 +5042,7 @@ equimolal
 entomb
 enqueued
 excuses
+ermit
 encumbrances
 eucosmid
 excipulaceae
