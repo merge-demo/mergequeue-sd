@@ -12060,6 +12060,7 @@ disensanity
 dismayedness
 dunderheaded
 discous
+disjointure
 discontinuity
 doorlike
 delirant
@@ -12683,7 +12684,6 @@ disleafed
 dermatophone
 diffrangibility
 disleaved
-disjointure
 disepalous
 dentalize
 demiheavenly
