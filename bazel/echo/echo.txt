@@ -5400,6 +5400,7 @@ excercise
 explicators
 esquiline
 empyreum
+ensignhood
 eophyte
 endothermal
 endothermy
@@ -7510,7 +7511,6 @@ electrosynthesis
 ethylate
 epibatholithic
 electrodepositor
-ensignhood
 enviously
 estoil
 externate
