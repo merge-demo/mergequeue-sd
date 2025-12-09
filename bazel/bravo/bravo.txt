@@ -7887,7 +7887,6 @@ biblicality
 biblicism
 biblicopsychological
 biblike
-berinse
 bombs
 bibliofilm
 blepharosymphysis
@@ -13436,6 +13435,7 @@ bionomics
 benefaction
 bars
 bryophytes
+berinse
 bescorn
 bigential
 bhutatathata
