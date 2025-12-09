@@ -10695,6 +10695,7 @@ extirpatory
 eva
 euglenaceae
 extrasyllabic
+endebt
 enswathe
 embraced
 endopleural
@@ -13799,7 +13800,6 @@ extorts
 ecteron
 esparto
 eukaryote
-endebt
 empoisonment
 expurgated
 expressionism
