@@ -8927,6 +8927,7 @@ grooty
 ghess
 gaufferer
 groove
+garoter
 gingras
 grandparent
 gaffe
@@ -9021,7 +9022,6 @@ girned
 glacis
 guzzlers
 glory
-garoter
 graving
 gwantus
 gritstone
