@@ -13131,7 +13131,6 @@ cicatrizate
 caudicle
 canalize
 craniographer
-cicatrization
 cott
 cerebrations
 cicatrizer
@@ -24688,6 +24687,7 @@ coppra
 chamidae
 closenesses
 clippie
+cicatrization
 copra
 copraemia
 cencerros
