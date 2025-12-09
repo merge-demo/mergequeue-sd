@@ -10038,7 +10038,6 @@ cheskey
 campine
 cheslep
 coleochaete
-crestings
 clothesbrush
 chimney
 chemise
@@ -13077,6 +13076,7 @@ ciboney
 cibophobia
 cryptocarpic
 cyborg
+crestings
 ceros
 cibory
 ciboules
