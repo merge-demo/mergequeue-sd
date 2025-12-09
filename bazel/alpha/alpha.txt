@@ -15015,6 +15015,7 @@ achondroplasia
 antigyrous
 anticryptic
 aglossate
+airsickness
 airbus
 anlage
 anosphresia
@@ -24274,7 +24275,6 @@ alters
 asphaltlike
 avoue
 arylating
-airsickness
 asterospondylic
 aussies
 amphotericin
