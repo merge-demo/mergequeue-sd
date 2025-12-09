@@ -571,6 +571,7 @@ falloff
 flamier
 fanatics
 fdubs
+flintiest
 frequentative
 frappe
 feeblish
@@ -10990,7 +10991,6 @@ farde
 forecatharping
 fausen
 frostiest
-flintiest
 foreproffer
 foreweep
 fatlike
