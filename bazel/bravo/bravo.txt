@@ -4990,6 +4990,7 @@ bindweb
 ballonette
 bilinguist
 boodling
+bepearl
 buda
 barukhzy
 beetewk
@@ -6154,7 +6155,6 @@ baske
 benefactress
 benign
 benefactrices
-bepearl
 blest
 beneficed
 baubees
