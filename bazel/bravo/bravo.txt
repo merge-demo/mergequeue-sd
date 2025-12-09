@@ -6136,6 +6136,7 @@ benedictions
 billa
 blenniiform
 barograph
+bound
 bulimoid
 betide
 barquette
@@ -6237,7 +6238,6 @@ benitier
 baguio
 benjamin
 benjaminite
-bound
 boletus
 berley
 bypass
