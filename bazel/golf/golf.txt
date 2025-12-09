@@ -5104,7 +5104,6 @@ goosefoots
 garrya
 gilled
 gypper
-griffins
 glycosidic
 granza
 gastroptosia
@@ -9209,6 +9208,7 @@ galvanization
 generalizes
 groves
 grangerizer
+griffins
 goffered
 gryde
 gangling
