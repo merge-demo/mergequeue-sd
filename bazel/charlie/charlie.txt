@@ -17220,7 +17220,6 @@ chambrel
 curseder
 coalier
 coaliest
-coenzymatically
 coalify
 caperer
 coalification
@@ -18363,6 +18362,7 @@ calpulli
 corporal
 coenosarcal
 concomitate
+coenzymatically
 cognisant
 cognises
 coarct
