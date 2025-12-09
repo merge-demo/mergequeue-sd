@@ -4828,6 +4828,7 @@ bartram
 bedswerver
 branchiurous
 bulchin
+bringing
 bedtime
 brackens
 brooklets
@@ -8596,7 +8597,6 @@ bastionary
 bearskin
 billfolds
 ballaton
-bringing
 bearlike
 bibliothecas
 bimillenial
