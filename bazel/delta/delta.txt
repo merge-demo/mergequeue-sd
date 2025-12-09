@@ -1987,7 +1987,6 @@ dragbar
 dupondidii
 dhooley
 disvalue
-dopant
 debuted
 debuting
 desirable
@@ -17353,6 +17352,7 @@ droopier
 despicableness
 droopiest
 demarcators
+dopant
 doney
 disphenoid
 divisural
