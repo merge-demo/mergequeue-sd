@@ -4728,7 +4728,6 @@ gifting
 gelatia
 giraffes
 generis
-gastraeas
 guzmania
 guanacos
 gallinula
@@ -8736,6 +8735,7 @@ gynoecia
 galactopoiesis
 goldenly
 greenbug
+gastraeas
 grinner
 gastrolater
 greenery
