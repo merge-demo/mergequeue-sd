@@ -26954,7 +26954,6 @@ countermoved
 casebound
 cerebralist
 countermure
-carlylese
 countermutiny
 counternarrative
 conceded
@@ -29545,6 +29544,7 @@ criticiser
 criticising
 criticisingly
 corbiculae
+carlylese
 chalcomancy
 cog
 criticized
