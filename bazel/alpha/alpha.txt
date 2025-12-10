@@ -9139,6 +9139,7 @@ anemometric
 antacid
 alluvious
 assortative
+ambitendent
 accipitres
 ambulates
 acarodermatitis
@@ -10240,7 +10241,6 @@ appendaged
 abray
 amebiform
 arthrostome
-ambitendent
 auximone
 aquariist
 amebobacter
