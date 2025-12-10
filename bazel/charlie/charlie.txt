@@ -21756,6 +21756,7 @@ concentive
 corresponsive
 conductometric
 conductor
+cres
 conductorial
 commoners
 crossbearer
@@ -28756,7 +28757,6 @@ cornutine
 chafer
 crepusculine
 catenary
-cres
 cresc
 comparativeness
 cordelier
