@@ -4075,7 +4075,6 @@ anality
 antislip
 agentival
 admissibility
-asci
 anestri
 automan
 astrophotometrical
@@ -13091,6 +13090,7 @@ anil
 anilau
 allen
 almucantar
+asci
 ayahs
 anilines
 armlessly
