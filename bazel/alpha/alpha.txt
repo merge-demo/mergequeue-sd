@@ -11250,7 +11250,6 @@ antired
 amphimorulae
 amphioxi
 amphioxuses
-assemblymen
 antistalling
 amphiplatyan
 acknowledge
@@ -14255,6 +14254,7 @@ antetemple
 assertorially
 aulostomatidae
 antetypes
+assemblymen
 ashman
 ahypnia
 antevert
