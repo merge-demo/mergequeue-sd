@@ -1750,7 +1750,6 @@ ewhow
 encasing
 entophytically
 eyeservant
-eyeshade
 exolve
 evanished
 enticingness
@@ -4283,6 +4282,7 @@ entocuniform
 extirpation
 epicarides
 ejectment
+eyeshade
 exaltedness
 electrochemical
 expendables
