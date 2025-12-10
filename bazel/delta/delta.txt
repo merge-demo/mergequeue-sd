@@ -219,7 +219,6 @@ daffier
 discussing
 defection
 daffiness
-daffing
 daffodilly
 drifted
 daringly
@@ -5109,6 +5108,7 @@ dessicate
 describing
 deadrise
 dendrocygna
+daffing
 discomfit
 dedimus
 dispone
