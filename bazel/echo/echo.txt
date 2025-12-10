@@ -7179,6 +7179,7 @@ eucharistize
 ecthymatous
 enwomb
 epharmonic
+epanalepsis
 emforth
 ethnomanic
 exuviability
@@ -12242,7 +12243,6 @@ emmental
 ecclesiolater
 eternalization
 equipment
-epanalepsis
 exocyclica
 eclogue
 executress
