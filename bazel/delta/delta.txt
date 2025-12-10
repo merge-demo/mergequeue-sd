@@ -9876,7 +9876,6 @@ diluvianism
 demibastioned
 denty
 diluvium
-digests
 draconically
 dextrality
 dimastigate
@@ -10220,6 +10219,7 @@ dingman
 doven
 dings
 despises
+digests
 dzeron
 depopularize
 dismortgage
