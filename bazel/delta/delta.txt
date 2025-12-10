@@ -11174,7 +11174,6 @@ diplomacy
 dysautonomia
 disguster
 dayroom
-discomforted
 dissaves
 despect
 dishabituating
@@ -14970,6 +14969,7 @@ deflocculator
 dogana
 doxologized
 dizziness
+discomforted
 disillusionizing
 desperation
 disjection
