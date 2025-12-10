@@ -1355,6 +1355,7 @@ echelon
 examinative
 efficacy
 envying
+encrypted
 ethene
 efficacies
 endochylous
@@ -12554,7 +12555,6 @@ empaneled
 epistemological
 embezzle
 exit
-encrypted
 exsects
 eranist
 extinction
