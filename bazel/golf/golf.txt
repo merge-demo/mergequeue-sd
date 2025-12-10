@@ -1182,6 +1182,7 @@ gaped
 gorgonized
 genitory
 gig
+gossipper
 gothic
 gonorrheic
 glabrescent
@@ -3065,7 +3066,6 @@ gemmipares
 glyptotheca
 gametogenous
 garnetz
-gossipper
 giant
 gnash
 glaciologists
