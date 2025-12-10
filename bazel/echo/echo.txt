@@ -13385,7 +13385,6 @@ expanders
 empodium
 expostulative
 embassies
-entobranchiate
 expostulatively
 euscaro
 escapeway
@@ -14009,6 +14008,7 @@ expirers
 exiling
 exsertile
 elderbrotherly
+entobranchiate
 extrasocial
 ectophyte
 eshin
