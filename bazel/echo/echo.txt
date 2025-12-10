@@ -911,7 +911,6 @@ escalation
 electrotonic
 emplaces
 ehlite
-exculpatory
 extravagated
 exarillate
 eyelashes
@@ -7224,6 +7223,7 @@ eh
 estolide
 esplanades
 elpasolite
+exculpatory
 electropercussive
 enguard
 effervesce
