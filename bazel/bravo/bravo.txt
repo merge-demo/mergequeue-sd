@@ -674,6 +674,7 @@ brasseries
 bactriticone
 basidiomycetous
 brolga
+belts
 bischofite
 beringite
 baddest
@@ -5970,7 +5971,6 @@ biauriculate
 brecciate
 bawdily
 beltman
-belts
 backstitches
 bloodspilling
 beadlike

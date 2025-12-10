@@ -1702,7 +1702,6 @@ decoding
 dearthfu
 disscussive
 doublehearted
-datamation
 decidendi
 dearworthily
 dearworthiness
@@ -11064,6 +11063,7 @@ dogmatising
 disheveled
 disanalogy
 deinosauria
+datamation
 dentallia
 disanalogous
 dowered
