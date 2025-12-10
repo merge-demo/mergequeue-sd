@@ -1718,7 +1718,6 @@ burkei
 breakerman
 balsams
 beseechingness
-bruise
 bismutite
 butyrinase
 bibliokelpt
@@ -17545,6 +17544,7 @@ bellonion
 bhima
 bobble
 bascule
+bruise
 broadacre
 bothrops
 burgality
