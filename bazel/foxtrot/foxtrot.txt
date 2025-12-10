@@ -1573,7 +1573,6 @@ filariidae
 fissirostres
 facially
 farcetta
-fegary
 favored
 feasibilities
 favorer
@@ -7870,6 +7869,7 @@ floretum
 forepurpose
 fruitwomen
 fibrochondritis
+fegary
 fustian
 frithbot
 forbear
