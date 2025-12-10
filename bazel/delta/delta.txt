@@ -8135,6 +8135,7 @@ desmolase
 dextroduction
 dupping
 diabolise
+disappeared
 diabolising
 diabolist
 denitrificator
@@ -17557,7 +17558,6 @@ driftway
 desisting
 drumline
 depolarised
-disappeared
 drumlinoid
 decelerated
 dactylate
