@@ -749,7 +749,6 @@ ecaudate
 echinocaris
 emblematise
 evangelism
-extorsive
 emotive
 enabling
 embryoctony
@@ -12164,6 +12163,7 @@ emphysematous
 esclavage
 energise
 elasticin
+extorsive
 euthycomic
 exuviating
 electroshock
