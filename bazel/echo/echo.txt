@@ -9456,6 +9456,7 @@ eses
 epicism
 erythron
 egests
+emigrator
 exegetes
 eschrufe
 escopeta
@@ -12044,7 +12045,6 @@ exclusivity
 ecstatic
 effluents
 excogitated
-emigrator
 excogitator
 extraembryonic
 enquere
