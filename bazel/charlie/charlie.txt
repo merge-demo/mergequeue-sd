@@ -18376,7 +18376,6 @@ cognitively
 cokelike
 cognitivity
 cognizable
-cognize
 conveyancer
 cognized
 cognizes
@@ -25841,6 +25840,7 @@ cerographies
 corollas
 corruptious
 chinsing
+cognize
 cattily
 contretemps
 corruptive
