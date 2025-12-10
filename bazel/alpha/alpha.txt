@@ -12206,7 +12206,6 @@ allodge
 asgard
 andaman
 autobiographic
-anchieutectic
 abience
 augurer
 autophoby
@@ -18925,6 +18924,7 @@ arteriostosis
 artilize
 anthropologist
 aesculapian
+anchieutectic
 auricle
 archipallium
 appetizingly
