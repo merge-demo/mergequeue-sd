@@ -5312,6 +5312,7 @@ cuculus
 cassiopeian
 chlorohydroquinone
 cassiopeid
+customizable
 coreigner
 cassiopeium
 cramps
@@ -14365,7 +14366,6 @@ circus
 circusy
 correspondents
 consolableness
-customizable
 circuts
 culminative
 calmer
