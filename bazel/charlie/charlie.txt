@@ -16824,6 +16824,7 @@ correctant
 cupflower
 confirmity
 conred
+counteractor
 caravanned
 chokecherry
 cahokia
@@ -23213,7 +23214,6 @@ consubstantialist
 conformism
 consubstantially
 charrs
-counteractor
 coplotted
 corncockle
 cavaliere
