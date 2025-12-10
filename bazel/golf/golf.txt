@@ -6023,6 +6023,7 @@ gastroenterocolostomy
 goldbricker
 gibetting
 grin
+giltcup
 gentry
 galliambus
 gusting
@@ -9289,7 +9290,6 @@ gigglesome
 groceryman
 goitre
 gardnap
-giltcup
 grockle
 goidel
 gamely
