@@ -3504,6 +3504,7 @@ futtock
 fulgorid
 fusicladium
 figurer
+farcer
 fute
 flirters
 flyweight
@@ -3861,7 +3862,6 @@ flavanthrene
 favous
 forelady
 fimbriating
-farcer
 frizette
 focalising
 fulgurous
