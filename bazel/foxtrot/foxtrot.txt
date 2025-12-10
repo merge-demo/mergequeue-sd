@@ -2042,7 +2042,6 @@ flindosa
 forwander
 flatlander
 faunlike
-fogbows
 fascicule
 flaunting
 forfouchten
@@ -7114,6 +7113,7 @@ frowning
 feh
 frigid
 foundress
+fogbows
 feeder
 ferly
 familarity
