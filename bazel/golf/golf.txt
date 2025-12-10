@@ -6592,7 +6592,6 @@ ground
 grabblers
 gesture
 gambeson
-glyptic
 gweeon
 grummets
 girons
@@ -8488,6 +8487,7 @@ glands
 golfing
 genl
 gibaro
+glyptic
 gibblegabbler
 graffias
 gyte

@@ -6612,7 +6612,6 @@ aiglet
 altitudinous
 alectoriae
 anchoresses
-aphroditeum
 antsy
 aiglets
 affirms
@@ -9007,6 +9006,7 @@ antimonarchal
 amylogenesis
 anthropomorphising
 anticivil
+aphroditeum
 amiably
 allothimorph
 abalone
