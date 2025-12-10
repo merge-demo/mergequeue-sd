@@ -2842,6 +2842,7 @@ glassite
 gifture
 geolinguistics
 grandpap
+gerasene
 garganey
 gentrices
 gryph
@@ -3243,7 +3244,6 @@ graffage
 gazement
 gormandizer
 gynecologists
-gerasene
 gesturer
 gutti
 gigantism
