@@ -3164,7 +3164,6 @@ embosomed
 expounders
 emblemize
 eidetic
-endocone
 ejaculum
 extraserous
 entomophagous
@@ -10261,6 +10260,7 @@ entrust
 earlap
 embroiled
 everblooming
+endocone
 ethiodide
 excides
 excluded
