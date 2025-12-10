@@ -12193,6 +12193,7 @@ dejections
 disfigure
 draughter
 defencelessness
+devisceration
 disfigurer
 demarcated
 didactician
@@ -16723,7 +16724,6 @@ downshare
 dramatized
 degasses
 dramaturgically
-devisceration
 drammage
 dramme
 drammed
