@@ -2325,6 +2325,7 @@ gravamina
 gamine
 gelatinizer
 gradates
+gyrostat
 giornatate
 gadbee
 gavials
@@ -9366,7 +9367,6 @@ gunnysacks
 ghaznevid
 ghaist
 gasparillo
-gyrostat
 gimmick
 gonocoel
 gravestones
