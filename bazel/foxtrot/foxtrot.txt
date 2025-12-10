@@ -2476,6 +2476,7 @@ flavic
 freightage
 fawningness
 fortunize
+furans
 fluters
 fatales
 fontinal
@@ -11260,7 +11261,6 @@ freedwomen
 finbacks
 forrit
 funster
-furans
 farces
 frabjous
 fernando
