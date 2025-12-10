@@ -17,6 +17,7 @@ fylker
 familiarising
 fablemaker
 funkers
+flint
 friarly
 fremituses
 fabler
@@ -5684,7 +5685,6 @@ flings
 freestyle
 fishwife
 flinkite
-flint
 fluffer
 ferratin
 folioliferous
