@@ -407,7 +407,6 @@ ebulliate
 essera
 exomphalus
 entocondyle
-ebulliently
 elfish
 exposits
 ebulliometer
@@ -6274,6 +6273,7 @@ enrichener
 ectopias
 edaphic
 enows
+ebulliently
 electrotechnology
 euryscope
 ecclesiastry
