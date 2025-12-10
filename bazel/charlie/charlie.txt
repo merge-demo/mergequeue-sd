@@ -1435,7 +1435,6 @@ calypsist
 criollas
 cornerwise
 calypso
-copals
 calypsoes
 calypsonian
 calypsos
@@ -9692,6 +9691,7 @@ cheilodipteridae
 cheilodipterus
 cheiloplasty
 cheilostomata
+copals
 cheilostomatous
 censer
 cheyneys
