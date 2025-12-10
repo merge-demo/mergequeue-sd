@@ -19023,7 +19023,6 @@ airmailed
 archon
 archonship
 archonships
-archontia
 archoplasmic
 archorrhagia
 aerohydropathy
@@ -21946,6 +21945,7 @@ associativeness
 armoring
 associativity
 adicity
+archontia
 autochthones
 articulating
 anathemata
