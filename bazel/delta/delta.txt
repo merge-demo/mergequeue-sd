@@ -5594,7 +5594,6 @@ depended
 dolichopellic
 dependence
 desensitizes
-dependingly
 drouthiness
 depends
 dobbing
@@ -11033,6 +11032,7 @@ demonlike
 disseizure
 dayblush
 defiers
+dependingly
 deboistness
 diasystem
 disalliege
