@@ -8582,7 +8582,6 @@ equidistribution
 esu
 exect
 eutaxic
-equidiurnal
 eelpouts
 eleutheromania
 equidivision
@@ -10775,6 +10774,7 @@ eumemorrhea
 englishwoman
 entrapped
 epharmony
+equidiurnal
 eucharistizing
 establishmentarian
 erumpent
