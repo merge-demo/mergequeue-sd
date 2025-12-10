@@ -28724,6 +28724,7 @@ creosol
 creosote
 casasia
 curran
+cribriform
 cole
 creosotes
 creosotic
@@ -28934,7 +28935,6 @@ criticist
 cribellum
 cribose
 cribrate
-cribriform
 cribriformity
 convertaplane
 cribs
