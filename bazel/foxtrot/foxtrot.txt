@@ -3486,7 +3486,6 @@ formuliser
 forpined
 formulaically
 finnic
-fluctuated
 fended
 federary
 figurable
@@ -3929,6 +3928,7 @@ fined
 faulty
 farmy
 formature
+fluctuated
 fischerite
 firmamental
 fraple

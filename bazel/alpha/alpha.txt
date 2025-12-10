@@ -5995,6 +5995,7 @@ anchylotic
 aureal
 adenylpyrophosphate
 acystia
+antivibratory
 arthredema
 aggressivity
 attended
@@ -16351,7 +16352,6 @@ aminopropionic
 acalepha
 antivibrating
 antivibrator
-antivibratory
 antivitalist
 ammoniuria
 attacker
