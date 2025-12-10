@@ -2526,6 +2526,7 @@ doddered
 disaccommodation
 dove
 dubonnet
+disnumber
 deactivating
 declarative
 deligation
@@ -16493,7 +16494,6 @@ drumread
 draconites
 deepwater
 dandies
-disnumber
 depside
 dracontic
 dwellings
