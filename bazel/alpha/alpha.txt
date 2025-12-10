@@ -11094,7 +11094,6 @@ ampelidae
 archespore
 anoxia
 alaskan
-authoring
 ampelography
 antitabloid
 apter
@@ -15126,6 +15125,7 @@ apsidal
 acrothoracica
 antiemetic
 antiempiric
+authoring
 apothecia
 aggrandiser
 absents
