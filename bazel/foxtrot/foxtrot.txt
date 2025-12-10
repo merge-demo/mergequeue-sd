@@ -4710,6 +4710,7 @@ fjord
 fancify
 fizziest
 friand
+fenestral
 forefeels
 forlese
 fucales
@@ -7276,7 +7277,6 @@ fibrilations
 fossilism
 filefish
 frache
-fenestral
 fagald
 finchbacked
 forsaking
