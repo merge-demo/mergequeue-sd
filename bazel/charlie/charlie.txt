@@ -470,7 +470,6 @@ cacur
 cad
 cadamba
 cryptocrystalline
-cadaster
 cadasters
 cadastral
 cadastration
@@ -19885,6 +19884,7 @@ centenarians
 corbeling
 commandeers
 canty
+cadaster
 chromolithographer
 coenenchyme
 commandery
