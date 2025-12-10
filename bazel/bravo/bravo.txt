@@ -1703,7 +1703,6 @@ byline
 boutonniere
 belorussian
 baronial
-baloskion
 bulbels
 belittled
 baladine
@@ -11077,6 +11076,7 @@ billeter
 bedwarfs
 broil
 baobabs
+baloskion
 bevue
 blockmaker
 bimmeler

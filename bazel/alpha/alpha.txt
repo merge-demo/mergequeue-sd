@@ -79,7 +79,6 @@ aristo
 abalienate
 abalienated
 abalienating
-abalones
 armadillos
 abama
 akhara
@@ -19814,6 +19813,7 @@ ansa
 armenic
 agapetidae
 axinomancy
+abalones
 armenoid
 assaulted
 apodemata
