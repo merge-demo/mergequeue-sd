@@ -1305,7 +1305,6 @@ declinate
 disfranchisements
 dauding
 dicotyledones
-dogate
 directest
 daughterly
 destin
@@ -9589,6 +9588,7 @@ deionizing
 dignifiedness
 delatinization
 desterilize
+dogate
 drachm
 departisanize
 deglazes
