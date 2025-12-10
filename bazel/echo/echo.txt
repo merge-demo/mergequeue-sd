@@ -4861,6 +4861,7 @@ exportable
 episcopolatry
 encrinic
 encrinidae
+enddamaged
 encrinital
 elegance
 equalizing
@@ -11648,7 +11649,6 @@ exacerbatingly
 etoiles
 extortions
 expulses
-enddamaged
 exactable
 exactas
 ergastoplasm
