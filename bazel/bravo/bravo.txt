@@ -4345,7 +4345,6 @@ burbankism
 bromhydric
 blockishness
 bossdoms
-beche
 becheck
 befool
 bechic
@@ -14843,6 +14842,7 @@ betrample
 bechalking
 beefs
 bingies
+beche
 breadwinner
 beanpoles
 brickbatted
