@@ -4184,6 +4184,7 @@ desipience
 durneder
 dunstable
 discolorization
+decolouriser
 dicyanogen
 diadokokinesis
 duodena
@@ -5479,7 +5480,6 @@ deoppilate
 doss
 deorganization
 deistic
-decolouriser
 deorganize
 deregister
 disenablement
