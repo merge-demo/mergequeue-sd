@@ -1752,7 +1752,6 @@ complexly
 cohabiter
 corneine
 calumba
-chipped
 coloured
 calumniates
 comeliness
@@ -5366,6 +5365,7 @@ criminol
 casteisms
 concessive
 casteless
+chipped
 chifforobes
 chimerical
 citator
