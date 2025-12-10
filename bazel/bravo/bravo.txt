@@ -3969,7 +3969,6 @@ bailsman
 bestsellers
 barytes
 brand
-bnf
 bespy
 beaching
 beachman
@@ -5653,6 +5652,7 @@ bocher
 busks
 boraciferous
 benjoin
+bnf
 besped
 beldams
 bacchar
