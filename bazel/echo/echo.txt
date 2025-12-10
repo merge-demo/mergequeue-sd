@@ -4751,6 +4751,7 @@ eyren
 executions
 exodos
 endosmosic
+estriol
 ebulliometry
 excircle
 epistler
@@ -12400,7 +12401,6 @@ eryon
 essencing
 electrolyze
 eucleidae
-estriol
 encephalology
 ephemerida
 exposures
