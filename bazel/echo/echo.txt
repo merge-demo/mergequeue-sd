@@ -4392,6 +4392,7 @@ equisetaceae
 expectorations
 enfacing
 ensigncies
+er
 endosmometric
 eubacteria
 ecumenist
@@ -4590,7 +4591,6 @@ ethologically
 eucryphiaceae
 epistolean
 erethizontidae
-er
 epilimnion
 echevin
 exeunt
