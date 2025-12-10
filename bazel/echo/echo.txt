@@ -1534,6 +1534,7 @@ exhale
 emportment
 ephydra
 euthanasy
+epotation
 enmeshments
 erotopathy
 explication
@@ -4344,7 +4345,6 @@ episperm
 euphrasia
 ectropionized
 equimolar
-epotation
 eggars
 excrescence
 embody
