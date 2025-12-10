@@ -5545,7 +5545,6 @@ etherlike
 enfeoffing
 episcopant
 enfeoffment
-exestuate
 exhaustedly
 eclectics
 ethions
@@ -10432,6 +10431,7 @@ ehatisaht
 epipoditic
 etymic
 ergosterin
+exestuate
 endomyces
 electrochronometer
 engraved
