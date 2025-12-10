@@ -7408,7 +7408,6 @@ affinage
 antrum
 adversus
 astrogate
-anchithere
 archiepiscopate
 acusection
 annexe
@@ -14655,6 +14654,7 @@ antiangular
 antiannexation
 angioplany
 antiannexationist
+anchithere
 antianopheline
 akim
 antorbital
