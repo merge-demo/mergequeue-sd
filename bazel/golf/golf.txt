@@ -9632,7 +9632,6 @@ grumium
 gomuti
 glaucodote
 geests
-grizzlier
 gillstoup
 geochemical
 guarish
@@ -10842,6 +10841,7 @@ greenbackism
 grayhead
 generality
 gyrofrequency
+grizzlier
 genethlialogical
 gyrograph
 guttar
