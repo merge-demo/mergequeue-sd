@@ -2984,7 +2984,6 @@ evaluate
 embouchement
 escapers
 extine
-efflorescence
 evocative
 extern
 encorpore
@@ -13510,6 +13509,7 @@ energiser
 equipollence
 ensnares
 ectosteal
+efflorescence
 examine
 elephantous
 erotology
