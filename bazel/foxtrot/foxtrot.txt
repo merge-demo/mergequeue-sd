@@ -6802,6 +6802,7 @@ flyers
 forseeable
 fluidics
 foreshadowing
+fruit
 ferme
 factoress
 fiendliness
@@ -9662,7 +9663,6 @@ forfairn
 floozie
 freibergite
 fulgorous
-fruit
 fowled
 flipflop
 foretoken
