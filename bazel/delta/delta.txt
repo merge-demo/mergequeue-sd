@@ -1465,7 +1465,6 @@ disinherison
 dipropellant
 deuteroplasm
 dories
-dispulp
 dazement
 deckhouses
 dazes
@@ -14665,6 +14664,7 @@ djehad
 deferens
 djellabah
 decanically
+dispulp
 dampest
 djerib
 demonolatrous
