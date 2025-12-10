@@ -9522,7 +9522,6 @@ decide
 digesture
 dinarzade
 disapproval
-diggable
 digged
 deuterostome
 demonstrational
@@ -18147,6 +18146,7 @@ dumper
 defensemen
 demethylchlortetracycline
 dalesman
+diggable
 duikerbuck
 dumple
 demineralization
