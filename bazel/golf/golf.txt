@@ -2281,6 +2281,7 @@ genecologic
 glimpses
 granulocytopoiesis
 geitonogamy
+gassiness
 grossers
 gonostyle
 grange
@@ -5929,7 +5930,6 @@ glamorizations
 ginkgoales
 gentilish
 gleesomeness
-gassiness
 guereba
 gymnospermous
 goitrous
