@@ -2998,6 +2998,7 @@ anchusins
 audience
 alcyon
 adrenolytic
+anoesis
 aegis
 actinoblast
 amphigonium
@@ -11056,7 +11057,6 @@ abnormalcy
 amortizes
 arecaceae
 araneid
-anoesis
 autoput
 aunter
 alacreatinin
