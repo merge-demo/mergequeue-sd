@@ -1243,6 +1243,7 @@ groff
 gonorrhea
 gravures
 grogged
+gradines
 galactostasis
 gonglike
 grassman
@@ -9347,7 +9348,6 @@ gront
 gamodeme
 genuflect
 gangtide
-gradines
 geronomite
 glossas
 goldurn
