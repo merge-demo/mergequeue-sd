@@ -4037,7 +4037,6 @@ fibrin
 finis
 fadelessly
 ferriage
-flatling
 fletchings
 fungoid
 finishable
@@ -6955,6 +6954,7 @@ flaky
 fee
 feeblemindedness
 fungivorous
+flatling
 fadeless
 fendy
 foisting
