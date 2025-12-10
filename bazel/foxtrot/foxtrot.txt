@@ -4811,6 +4811,7 @@ frontoorbital
 fou
 foothills
 flagman
+freshment
 fasciolaria
 fancifulness
 flinching
@@ -10497,7 +10498,6 @@ felsosphaerite
 frostroot
 floe
 flatlanders
-freshment
 frillery
 favouringly
 frot
