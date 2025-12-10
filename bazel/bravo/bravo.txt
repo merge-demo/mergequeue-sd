@@ -11145,6 +11145,7 @@ boiloff
 balloters
 bloodthirster
 beliquors
+baronages
 beknot
 bitewings
 breveted
@@ -16860,7 +16861,6 @@ bungle
 baret
 betorn
 birostrated
-baronages
 balneographer
 bedimpling
 bootheel
