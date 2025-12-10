@@ -5386,6 +5386,7 @@ biweekly
 berglet
 begrown
 begrudge
+backlighting
 boggishness
 branchiopodous
 begruntle
@@ -17273,7 +17274,6 @@ bugala
 bummack
 bikeways
 brechan
-backlighting
 bleachers
 bedegar
 benzinduline
