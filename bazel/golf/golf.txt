@@ -6582,6 +6582,7 @@ goumier
 gastropod
 ghettos
 grassant
+gambas
 grieben
 grouplet
 grappas
@@ -6595,7 +6596,6 @@ gweeon
 grummets
 girons
 gimmerpet
-gambas
 groyne
 goulan
 ghostwrite
