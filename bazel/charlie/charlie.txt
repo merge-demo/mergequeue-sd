@@ -1343,7 +1343,6 @@ calyces
 cathartin
 calycifloral
 cascabels
-calyciflorate
 contranatural
 caliciform
 calycinal
@@ -15324,6 +15323,7 @@ clankingly
 cornfloor
 clankless
 chaldaic
+calyciflorate
 cuyas
 chloropia
 clannishness
