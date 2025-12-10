@@ -13356,7 +13356,6 @@ emotionalising
 erogenous
 ethnogeographically
 egyptize
-extraenteric
 epicorolline
 elegizing
 exposes
@@ -13455,6 +13454,7 @@ extrusile
 exorate
 expropriator
 eringo
+extraenteric
 epenthetic
 electrolyse
 equilibrize
