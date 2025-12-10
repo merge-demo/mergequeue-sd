@@ -5163,7 +5163,6 @@ exundancy
 enoch
 electroosmotic
 euphorbiaceae
-electromedical
 endoenzyme
 epitrochoid
 entresol
@@ -7836,6 +7835,7 @@ exophoria
 ejaculator
 epiglottides
 eddish
+electromedical
 epigoni
 entomotaxy
 expletive
