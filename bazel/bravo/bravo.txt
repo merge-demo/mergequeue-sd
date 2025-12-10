@@ -672,7 +672,6 @@ breathlessly
 badass
 brasseries
 bactriticone
-badderlocks
 basidiomycetous
 brolga
 bischofite
@@ -6964,6 +6963,7 @@ baradari
 brahmahood
 beshow
 birdeen
+badderlocks
 batching
 brubru
 brachinus
