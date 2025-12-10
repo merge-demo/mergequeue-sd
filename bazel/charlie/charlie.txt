@@ -13319,7 +13319,6 @@ cyclorama
 cycloramic
 coaling
 consonantly
-cyclorrhapha
 coulomb
 curatize
 centuply
@@ -21857,6 +21856,7 @@ conferrence
 cornerbind
 camalig
 conferrers
+cyclorrhapha
 cohorn
 counterstain
 crotchet
