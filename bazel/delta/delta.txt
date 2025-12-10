@@ -4976,7 +4976,6 @@ delectated
 decate
 drabbletail
 deradenitis
-demote
 demoted
 demotes
 demotions
@@ -15455,6 +15454,7 @@ dowelling
 domite
 doggery
 domn
+demote
 dermatoglyphic
 ductule
 domnei
