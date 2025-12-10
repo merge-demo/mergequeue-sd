@@ -648,7 +648,6 @@ aglyphodonta
 abolitionist
 aesc
 anemological
-athamantin
 adherend
 abolitionized
 archibenthos
@@ -13966,6 +13965,7 @@ abrupter
 aptyalism
 antaios
 antaiva
+athamantin
 antalgesic
 antalgics
 antalgol
