@@ -5257,7 +5257,6 @@ defeise
 docetistic
 denoting
 deeping
-denouement
 denouements
 denounce
 disputativeness
@@ -15013,6 +15012,7 @@ dogfights
 diagrammatically
 divus
 demirhumb
+denouement
 doggedness
 demonographer
 dishmaker
