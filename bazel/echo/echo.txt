@@ -2886,6 +2886,7 @@ excitation
 emplaning
 epizoisms
 elevons
+elytrum
 eurydice
 elfenfolk
 endogeny
@@ -6182,7 +6183,6 @@ endotheliolytic
 enargite
 endeavorer
 enniche
-elytrum
 engraft
 eccrinology
 episememe

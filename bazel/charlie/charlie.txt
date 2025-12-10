@@ -20581,6 +20581,7 @@ collineate
 comping
 collectarium
 clanjamfrie
+complexive
 compital
 compitalia
 coregonine
@@ -31376,7 +31377,6 @@ curie
 curiet
 curietherapy
 curying
-complexive
 cyclopentane
 cerebrosensorial
 counterconquest
