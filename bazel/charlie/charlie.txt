@@ -3914,7 +3914,6 @@ concn
 chylificatory
 carbonizing
 carbonometer
-chondrin
 carbonous
 carbons
 carbonuria
@@ -18904,6 +18903,7 @@ collaret
 counterbracing
 collarette
 carnifices
+chondrin
 clypeaster
 carpuspi
 coupelet
