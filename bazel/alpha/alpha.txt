@@ -378,7 +378,6 @@ aberration
 aberrative
 acinose
 avoyer
-abetments
 ambulant
 andesitic
 antietam
@@ -2612,6 +2611,7 @@ alain
 applies
 arriswise
 acquiesce
+abetments
 addiction
 acanthopterous
 alginates
