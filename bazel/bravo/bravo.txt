@@ -5210,6 +5210,7 @@ beautyship
 ballistophobia
 bumpkinet
 berating
+bivariant
 bardish
 bimotored
 bacteriostatic
@@ -9991,7 +9992,6 @@ blairmorite
 bivalents
 bivalvia
 bivalvian
-bivariant
 baddock
 bicrural
 bivascular
