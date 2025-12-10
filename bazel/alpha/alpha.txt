@@ -8627,7 +8627,6 @@ afear
 abscising
 admirance
 aerodynamic
-absentment
 allegoriser
 anotto
 aeolomelodicon
@@ -11003,6 +11002,7 @@ actinomorphy
 apocholic
 aesthiology
 amorettos
+absentment
 attainer
 angiogram
 aphrolite
