@@ -8660,7 +8660,6 @@ balcone
 bubalis
 blockheaded
 behear
-basins
 bilobe
 besiegingly
 bilobed
@@ -10884,6 +10883,7 @@ blindball
 bindable
 befingered
 boxball
+basins
 barracker
 blooddrops
 buttals
