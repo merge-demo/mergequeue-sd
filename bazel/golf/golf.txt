@@ -3345,6 +3345,7 @@ gaudeamuses
 giftie
 guan
 gaults
+gerygone
 germin
 gasteropod
 guitermanite
@@ -9898,7 +9899,6 @@ gravy
 growth
 gastrochaena
 gladdens
-gerygone
 garble
 gustless
 guanin
