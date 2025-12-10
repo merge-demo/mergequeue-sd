@@ -9094,6 +9094,7 @@ euryalae
 encanker
 electroencephalographic
 ethinyl
+epicrates
 empidonax
 escalloniaceae
 emigrate
@@ -10153,7 +10154,6 @@ equivalences
 elope
 extraorbital
 etherialised
-epicrates
 elaborators
 exsomatic
 emmove
