@@ -3224,7 +3224,6 @@ fourcher
 foots
 friers
 flexionless
-fango
 fuchsone
 forefend
 fatality
@@ -10633,6 +10632,7 @@ flangers
 fatcake
 fictitious
 femininity
+fango
 freezingly
 friandise
 fruitbearing
