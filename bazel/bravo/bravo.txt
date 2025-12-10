@@ -3980,6 +3980,7 @@ becrawl
 beaconless
 bensil
 bicycles
+bunyoro
 bepaste
 beglew
 buyback
@@ -12711,7 +12712,6 @@ birdliming
 busters
 beheld
 biometrician
-bunyoro
 bookmakers
 bidarka
 begarie
