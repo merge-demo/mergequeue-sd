@@ -16263,7 +16263,6 @@ aluta
 alertedly
 arthromere
 antitheologizing
-anacusis
 aggravative
 advocatrix
 argali
@@ -21252,6 +21251,7 @@ anapophysis
 auxins
 anticonformist
 ashrama
+anacusis
 alloxanate
 ashtoreth
 anorchus
