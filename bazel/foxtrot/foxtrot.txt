@@ -457,7 +457,6 @@ foliosity
 facticity
 faithworthiness
 fireplaces
-faitours
 fulhams
 fornicatress
 fainant
@@ -6681,6 +6680,7 @@ fortifier
 faqirs
 feted
 flyblow
+faitours
 flores
 fogdogs
 frippery
