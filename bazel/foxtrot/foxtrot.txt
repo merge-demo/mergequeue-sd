@@ -57,7 +57,6 @@ fetwa
 flavonoid
 flauntier
 forebless
-foresight
 friskily
 faster
 fibrolite
@@ -9710,6 +9709,7 @@ fissionability
 festinate
 floatable
 footmanry
+foresight
 facework
 fluviograph
 forestick
