@@ -1002,6 +1002,7 @@ edemas
 exinite
 exclaimingly
 eldership
+exasper
 epilabra
 edemata
 equable
@@ -1708,7 +1709,6 @@ exsanguination
 ethyne
 enginery
 engrammatic
-exasper
 exclaimers
 exonerated
 epacmaic
