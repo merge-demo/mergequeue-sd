@@ -5892,6 +5892,7 @@ altisonant
 actinocrinidae
 achroiocythemia
 asthenic
+avianize
 ambisporangiate
 aggenerate
 agger
@@ -7773,7 +7774,6 @@ arle
 arsacidan
 aldide
 assibilated
-avianize
 amability
 alcatras
 aldime
