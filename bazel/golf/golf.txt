@@ -1908,7 +1908,6 @@ golland
 grelot
 gaudiest
 gogetting
-glochids
 glommox
 gastrozooid
 glaikit
@@ -9734,6 +9733,7 @@ gasterosteidae
 glutinant
 gratefully
 gorfly
+glochids
 gascromh
 gundygut
 gastrogenic
