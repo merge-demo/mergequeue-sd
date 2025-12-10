@@ -8113,7 +8113,6 @@ bruxism
 brast
 burrobrush
 bid
-biddably
 benedict
 boread
 bouillone
@@ -13855,6 +13854,7 @@ bowings
 bowkail
 barkentine
 blad
+biddably
 bowlder
 bluefishes
 bauno
