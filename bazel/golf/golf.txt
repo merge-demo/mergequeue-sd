@@ -2065,7 +2065,6 @@ glutted
 gherkins
 gavots
 garnered
-gomari
 giftless
 gametophyll
 glossers
@@ -4237,6 +4236,7 @@ grovel
 goloka
 gois
 gaetuli
+gomari
 gyromagnetic
 galvanomagnetism
 gynaecological
