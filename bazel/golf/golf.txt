@@ -1014,7 +1014,6 @@ guttle
 glanduliferous
 gully
 geognostic
-geodetician
 ganger
 guesten
 gabgab
@@ -5056,6 +5055,7 @@ gonocheme
 garavance
 glowed
 gelt
+geodetician
 geosynclinal
 gilliflirt
 gamekeepers

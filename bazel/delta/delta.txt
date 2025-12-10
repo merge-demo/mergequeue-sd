@@ -12836,6 +12836,7 @@ dishevelment
 dyarchic
 dirhem
 dismarket
+downstrokes
 dispence
 dunnages
 diskery
@@ -16371,7 +16372,6 @@ downstate
 dolmens
 defilade
 defrost
-downstrokes
 decocts
 downtake
 duodecane
