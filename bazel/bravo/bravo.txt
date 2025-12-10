@@ -2538,7 +2538,6 @@ baryphonia
 bootie
 bronzesmith
 banzai
-baris
 bodefulness
 bearleap
 bromating
@@ -8791,6 +8790,7 @@ breakfasted
 bekissing
 basoche
 bual
+baris
 brewer
 buoying
 bindweed
