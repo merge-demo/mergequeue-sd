@@ -10398,7 +10398,6 @@ adenochondrosarcoma
 americans
 americanum
 almonries
-amphicarpa
 avocados
 aliment
 americophobe
@@ -15924,6 +15923,7 @@ antiprojectivity
 alacran
 antiprostate
 antiprostatic
+amphicarpa
 adiabat
 astrobiologically
 attentively
