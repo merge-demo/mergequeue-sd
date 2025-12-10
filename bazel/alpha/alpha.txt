@@ -4555,6 +4555,7 @@ accumulable
 adversities
 abranchial
 aliptes
+astigmometry
 axotomous
 akmite
 adipoceriform
@@ -22209,7 +22210,6 @@ astigmic
 antiphon
 astigmometer
 aglossa
-astigmometry
 alluviate
 algologist
 aegritude
