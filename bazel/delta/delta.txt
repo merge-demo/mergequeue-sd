@@ -392,6 +392,7 @@ ditches
 divineness
 dehydrogenization
 dainchas
+dotant
 daynet
 dihalid
 dainteous
@@ -14845,7 +14846,6 @@ doctrinality
 doorbells
 dharmashastra
 doctrinarity
-dotant
 designate
 doctrinate
 doctrines
