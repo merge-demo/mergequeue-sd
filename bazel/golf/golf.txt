@@ -768,7 +768,6 @@ gonapophysis
 guntub
 globulolysis
 gaulter
-glossolalist
 gutter
 gluck
 gutturize
@@ -5325,6 +5324,7 @@ glacialism
 granitical
 graveling
 geometries
+glossolalist
 glycerin
 gamelan
 glycerite
