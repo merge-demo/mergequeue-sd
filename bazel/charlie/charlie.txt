@@ -4432,7 +4432,6 @@ cartisane
 cheeks
 concettist
 caryopilite
-caryopsis
 courthouses
 caripuna
 cariri
@@ -22122,6 +22121,7 @@ cyanophycin
 confucian
 cynthia
 confucianism
+caryopsis
 commendableness
 confucius
 crambambuli
