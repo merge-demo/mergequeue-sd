@@ -5266,6 +5266,7 @@ denouncement
 denouncements
 digladiate
 deprehensible
+doorstop
 denouncer
 dissymmetry
 densate
@@ -15635,7 +15636,6 @@ daggers
 dissembler
 departement
 directable
-doorstop
 devotionality
 diverge
 diodes
