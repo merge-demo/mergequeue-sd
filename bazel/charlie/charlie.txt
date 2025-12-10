@@ -2544,6 +2544,7 @@ cohusband
 carvels
 circumcinct
 candlemaker
+contributes
 candlemaking
 candlemas
 crewel
@@ -13268,7 +13269,6 @@ couchers
 clipperman
 crudding
 cyclometric
-contributes
 cyclomyaria
 cyclonal
 contravention
