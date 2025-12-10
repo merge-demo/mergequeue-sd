@@ -10221,7 +10221,6 @@ badawi
 brollies
 boars
 beaverlike
-birdhouses
 blackies
 bottomlessness
 bemuslined
@@ -15703,6 +15702,7 @@ brochant
 bananaquit
 beneficiating
 brochettes
+birdhouses
 burble
 buttstrapping
 bigfoot
