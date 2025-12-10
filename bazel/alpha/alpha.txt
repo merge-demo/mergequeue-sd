@@ -9147,6 +9147,7 @@ accipitres
 ambulates
 acarodermatitis
 applejack
+azulejos
 allwork
 adarbitrium
 afrikaner
@@ -19741,7 +19742,6 @@ ascriptive
 arithmocratic
 arithmograph
 arithmography
-azulejos
 aggressiveness
 arithmomancy
 arivaipa
