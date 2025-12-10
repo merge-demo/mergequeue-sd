@@ -4094,7 +4094,6 @@ encyrtidae
 ecdysis
 energetistic
 epinicial
-excitant
 exogenous
 enfoulder
 expansional
@@ -6271,6 +6270,7 @@ executors
 enomotarch
 epicyte
 eyre
+excitant
 ethanes
 enrich
 enrichener
