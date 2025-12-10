@@ -5880,6 +5880,7 @@ farts
 folksinger
 fluctuation
 festine
+fibreglass
 fulcrumage
 fecund
 fistfight
@@ -9388,7 +9389,6 @@ foreweigh
 flubbing
 fidgeter
 forbye
-fibreglass
 fondu
 foozlers
 frenum
