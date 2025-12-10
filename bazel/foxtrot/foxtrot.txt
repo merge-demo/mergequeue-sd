@@ -500,7 +500,6 @@ fertilizing
 frenne
 filicite
 faking
-fumify
 figgle
 fassaite
 feodum
@@ -3834,6 +3833,7 @@ familiarizations
 frogland
 filtermen
 forcefully
+fumify
 fibrocellular
 futtermassel
 foreiron
