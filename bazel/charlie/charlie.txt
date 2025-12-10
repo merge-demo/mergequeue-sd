@@ -2717,6 +2717,7 @@ cubitopalmar
 catostomus
 cankerfret
 compiles
+cryptostome
 calcemia
 cannoneering
 cankerroot
@@ -29378,7 +29379,6 @@ cryptos
 cryptoscope
 cryptoscopy
 cryptosplenetic
-cryptostome
 cryptous
 cryptovalence
 cholane

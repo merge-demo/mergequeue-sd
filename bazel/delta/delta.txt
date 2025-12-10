@@ -7717,7 +7717,6 @@ defuse
 darwinism
 devilfish
 decelerators
-devily
 detail
 deviling
 deeded
@@ -14303,6 +14302,7 @@ device
 drogerman
 dunter
 diffidation
+devily
 dramatizing
 dispiritment
 droh
