@@ -5140,7 +5140,6 @@ batoid
 bromhidrosis
 bloodthirstiness
 baubling
-banco
 befools
 bridgeport
 budworm
@@ -6881,6 +6880,7 @@ blottingly
 benignity
 blackmailed
 brodiaea
+banco
 bacteriotoxic
 beggable
 benignancy
