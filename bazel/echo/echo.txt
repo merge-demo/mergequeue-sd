@@ -2920,7 +2920,6 @@ evaporatively
 erythrasma
 elliptical
 eyewinks
-elicitation
 elicitor
 equivalvular
 enricher
@@ -4818,6 +4817,7 @@ episiotomy
 echard
 embosks
 encores
+elicitation
 enemas
 excitive
 engrail
