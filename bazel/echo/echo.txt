@@ -4158,6 +4158,7 @@ epitheliolysin
 emanant
 encallow
 euterpe
+emeroids
 extraessentially
 exchangeable
 ephedra
@@ -8898,7 +8899,6 @@ electrocardiography
 ergograph
 epistrophic
 embitter
-emeroids
 eragrostis
 electrophori
 eyers
