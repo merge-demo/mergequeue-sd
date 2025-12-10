@@ -6286,7 +6286,6 @@ fluked
 fertilisability
 fuliginosity
 fluent
-flukeworm
 foreparent
 ferryhouse
 fob
@@ -11447,6 +11446,7 @@ flic
 frayedly
 furcule
 furfurylidene
+flukeworm
 furrowy
 facecloth
 flap
