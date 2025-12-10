@@ -61,7 +61,6 @@ earldoms
 earless
 eyn
 early
-excuss
 estuarine
 earlier
 eadish
@@ -2771,6 +2770,7 @@ encoronate
 embelic
 evasive
 exclamations
+excuss
 enjeopard
 elementish
 extricates
