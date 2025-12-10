@@ -8265,6 +8265,7 @@ chalice
 chancelry
 chorioadenoma
 chaliced
+cholerically
 chalicosis
 chalicothere
 chalicotheriid
@@ -18288,7 +18289,6 @@ cogently
 colloquially
 cogged
 cisoceanic
-cholerically
 crenelled
 cogger
 cogging
