@@ -4629,7 +4629,6 @@ glossae
 gastronomist
 gillhooter
 gruys
-glomerulose
 girgasite
 glost
 grister
@@ -9418,6 +9417,7 @@ gelatose
 gaywings
 geryonidae
 glues
+glomerulose
 galloptious
 glacon
 glycocholate
