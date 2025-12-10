@@ -5020,7 +5020,6 @@ fluctuable
 faceable
 frowsier
 feathers
-faineantise
 falsificate
 formalisms
 flammation
@@ -8872,6 +8871,7 @@ flambage
 froghopper
 faulter
 foujdarry
+faineantise
 fibrousness
 foul
 finesse
