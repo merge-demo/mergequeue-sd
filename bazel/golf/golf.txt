@@ -2559,6 +2559,7 @@ gumption
 gingle
 grue
 generations
+gnus
 gastrula
 ganch
 generalities
@@ -9588,7 +9589,6 @@ gynecologist
 gynomonecious
 galactoscope
 grind
-gnus
 gingersnap
 grovellingly
 geishas
