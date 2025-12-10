@@ -5698,7 +5698,6 @@ devests
 dipl
 disrobe
 dentelliere
-doctorhood
 dawdled
 dolorousness
 deplant
@@ -6439,6 +6438,7 @@ diogenic
 derust
 decameronic
 dispathy
+doctorhood
 dervishism
 des
 dispensative
