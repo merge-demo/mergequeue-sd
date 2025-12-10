@@ -1053,7 +1053,6 @@ dutra
 darner
 dipterad
 darners
-darning
 dewooled
 dimeters
 decarch
@@ -6493,6 +6492,7 @@ denunciatory
 dime
 daubingly
 dorsifixed
+darning
 disencumberment
 diag
 dispossesses

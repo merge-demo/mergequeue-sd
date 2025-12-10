@@ -7204,7 +7204,6 @@ ejidos
 enderon
 erythropoietic
 electrotropic
-ephemeromorphic
 eupnoeas
 exudate
 enthronize
@@ -9843,6 +9842,7 @@ endoceras
 equiomnipotent
 engin
 enslumber
+ephemeromorphic
 envyingly
 esterified
 eclipsation
