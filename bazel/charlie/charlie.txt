@@ -6804,6 +6804,7 @@ cellite
 currs
 continua
 cellmates
+chromonemata
 cello
 chambermaid
 celloid
@@ -18919,7 +18920,6 @@ chuchona
 chaperon
 collateralized
 converts
-chromonemata
 collateralizing
 collaterally
 conceptism
