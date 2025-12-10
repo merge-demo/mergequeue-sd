@@ -1658,6 +1658,7 @@ dozening
 dentimeter
 deamidation
 deaminase
+dilambdodont
 daw
 dextraural
 deamination
@@ -14792,7 +14793,6 @@ dockets
 dyphone
 dockhand
 dockhouse
-dilambdodont
 deringers
 dockyards
 docking
