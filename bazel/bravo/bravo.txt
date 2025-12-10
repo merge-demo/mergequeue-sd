@@ -10941,7 +10941,6 @@ bitterful
 barretors
 blowhards
 blustered
-blinkers
 bael
 bellhop
 batement
@@ -17841,6 +17840,7 @@ busaos
 bloodleaf
 bine
 busbar
+blinkers
 busbars
 barotse
 bibliopegic
