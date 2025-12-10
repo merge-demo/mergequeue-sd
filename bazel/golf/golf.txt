@@ -9919,6 +9919,7 @@ gabi
 gobioids
 guaque
 geometric
+goldtail
 gracias
 genethliacon
 guarand
@@ -10818,7 +10819,6 @@ goblinism
 glibbery
 gossipping
 geniolatry
-goldtail
 glaring
 gingellies
 gargety
