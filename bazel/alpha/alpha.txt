@@ -11944,6 +11944,7 @@ always
 archduchies
 attatches
 amalgamize
+antidominican
 anaphylactically
 araliaceae
 anaemias
@@ -21560,7 +21561,6 @@ aspidistras
 aspidium
 aspidobranchiata
 abjectness
-antidominican
 aspidobranchiate
 aspidochirota
 admissively
