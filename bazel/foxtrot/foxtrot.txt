@@ -4477,6 +4477,7 @@ fishpotter
 finicism
 faddle
 forerigging
+finials
 footstool
 fishskin
 fanglet
@@ -10771,7 +10772,6 @@ fervent
 fatalism
 frightful
 fashious
-finials
 fulgentness
 ferrosilicon
 fanaticize
