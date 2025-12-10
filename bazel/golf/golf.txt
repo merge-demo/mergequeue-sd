@@ -2078,6 +2078,7 @@ gamblers
 glancing
 gyrocompasses
 gringos
+graveclod
 guilefully
 gawgaw
 giblet
@@ -8485,7 +8486,6 @@ grivets
 glaze
 glands
 golfing
-graveclod
 genl
 gibaro
 gibblegabbler
