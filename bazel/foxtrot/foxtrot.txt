@@ -1654,6 +1654,7 @@ ferrandin
 frike
 forethoughtfulness
 firoloida
+finalities
 farmerette
 focalises
 federate
@@ -9619,7 +9620,6 @@ feeders
 falcata
 ferias
 fortalice
-finalities
 flukier
 foamer
 frons

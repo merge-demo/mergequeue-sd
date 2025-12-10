@@ -17486,6 +17486,7 @@ cobridgehead
 chrysostomic
 chimneyhead
 coburg
+cutterman
 cobweb
 cerion
 coemployed
@@ -29714,7 +29715,6 @@ curavecan
 confess
 countesses
 caprimulgine
-cutterman
 cromster
 contemporanean
 countermissile
