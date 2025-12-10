@@ -4971,6 +4971,7 @@ baculere
 bucconidae
 benweed
 beylik
+bathyal
 bemoaning
 beerhouses
 barbecueing
@@ -11090,7 +11091,6 @@ bashawship
 balmiest
 beddings
 bedawn
-bathyal
 blockship
 blodite
 besmeared
