@@ -17,6 +17,7 @@ fylker
 familiarising
 fablemaker
 funkers
+friarly
 fremituses
 fabler
 frankers
@@ -2344,7 +2345,6 @@ flanneled
 fencelike
 floaters
 flunked
-friarly
 funerary
 favel
 femineity
