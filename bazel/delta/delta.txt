@@ -1287,7 +1287,6 @@ datsuns
 disband
 demigardebras
 dissyllabize
-dysodyle
 doitrified
 dardanarius
 disturbed
@@ -10767,6 +10766,7 @@ deliveryman
 disavow
 depriver
 drad
+dysodyle
 dun
 delocalisation
 donship
