@@ -2983,6 +2983,7 @@ eleatic
 eleoblast
 evaluate
 embouchement
+escapers
 extine
 efflorescence
 evocative
@@ -7446,7 +7447,6 @@ enchaining
 excepts
 employes
 elenctic
-escapers
 entanglement
 endogenously
 extraperiodic
