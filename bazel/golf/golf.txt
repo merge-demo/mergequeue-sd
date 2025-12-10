@@ -4847,7 +4847,6 @@ gowns
 gymnothorax
 gladhearted
 greeted
-giggish
 glaciology
 glaciomarine
 guideway
@@ -9860,6 +9859,7 @@ gabbarts
 gallivant
 geometers
 gospellike
+giggish
 gnathopoda
 grousers
 gorillas
