@@ -8242,6 +8242,7 @@ dados
 dipus
 disspreading
 diadochy
+divertissements
 dablet
 divers
 damasked
@@ -14473,7 +14474,6 @@ drape
 disproof
 divertisement
 dextrogyrous
-divertissements
 decurrency
 deferment
 divested
