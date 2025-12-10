@@ -5827,7 +5827,6 @@ erlkings
 epicele
 expiations
 engrafter
-emagram
 euchology
 exibilate
 eschatologist
@@ -12257,6 +12256,7 @@ exegesis
 exasperative
 execrated
 elegists
+emagram
 extemporizer
 exegetics
 exing
