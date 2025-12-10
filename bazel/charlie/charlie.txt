@@ -6494,7 +6494,6 @@ cavy
 cavia
 cavicorn
 cuprocyanide
-calve
 catalogues
 cavicornia
 cavie
@@ -28533,6 +28532,7 @@ credently
 crawleyroot
 credenza
 credere
+calve
 credible
 concealers
 crimogenic
