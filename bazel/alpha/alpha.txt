@@ -16505,7 +16505,6 @@ anglicanize
 arecaceous
 athyridae
 alodially
-auriscope
 aortal
 aortarctia
 aortas
@@ -17706,6 +17705,7 @@ aestethic
 adaptationally
 adjacencies
 anthorine
+auriscope
 appliable
 appliance
 apocentre
