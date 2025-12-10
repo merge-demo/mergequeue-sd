@@ -4701,6 +4701,7 @@ carped
 carpellary
 cytinaceous
 composograph
+casklike
 carpenters
 charlock
 carpet
@@ -9583,7 +9584,6 @@ confrontations
 cheeper
 cynodontia
 capernaite
-casklike
 cheepers
 cheepier
 cheepiest
