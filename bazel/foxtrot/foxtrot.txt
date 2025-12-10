@@ -4316,7 +4316,6 @@ fiddling
 forficulate
 freshest
 florescence
-forequarters
 fluyt
 factive
 fet
@@ -4835,6 +4834,7 @@ faunus
 fishberries
 firepower
 flinthead
+forequarters
 fleay
 foil
 finlet

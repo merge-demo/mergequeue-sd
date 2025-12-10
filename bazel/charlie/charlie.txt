@@ -15059,7 +15059,6 @@ chlorogenine
 clack
 clackama
 circumtropical
-chinsed
 clacker
 clackety
 coexertion
@@ -28872,6 +28871,7 @@ crevet
 crevette
 creviced
 chorus
+chinsed
 cussers
 crevices
 combo
