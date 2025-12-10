@@ -1799,7 +1799,6 @@ gelatinotype
 grippelike
 grs
 glutinate
-geonoma
 gavels
 gestalten
 granodioritic
@@ -4383,6 +4382,7 @@ gharries
 gumbotil
 gnathion
 graphicalness
+geonoma
 grylli
 grossulariaceous
 gunky
