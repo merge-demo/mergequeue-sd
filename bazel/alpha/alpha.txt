@@ -17328,7 +17328,6 @@ archfounder
 animalcules
 anaesthetic
 autothermy
-aposteme
 amidosulphonal
 absolvers
 aposteriori
@@ -23214,6 +23213,7 @@ abolla
 alytarch
 anisotonic
 akelas
+aposteme
 attestations
 azotous
 accommodativeness
