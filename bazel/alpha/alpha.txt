@@ -6778,7 +6778,6 @@ angerless
 airan
 airbills
 airboat
-airboats
 anomal
 airbrained
 autozooid
@@ -9881,6 +9880,7 @@ aeciospore
 azotorrhoea
 autosexing
 anamnionata
+airboats
 asphodelus
 aragonian
 antimasker
