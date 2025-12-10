@@ -7824,6 +7824,7 @@ extrudes
 exorcization
 examinership
 endlessness
+ephemera
 embolismic
 ebulliency
 eccentrate
@@ -12218,7 +12219,6 @@ emoluments
 execrator
 emeraude
 enthroning
-ephemera
 execute
 executed
 exceptor
