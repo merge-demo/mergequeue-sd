@@ -3643,6 +3643,7 @@ genotypicity
 ghettoes
 grinder
 ghettoizing
+gunnysack
 ghi
 gallegan
 gamomania
@@ -6656,7 +6657,6 @@ gateman
 gliders
 gropes
 gambusias
-gunnysack
 gondolas
 guidons
 glasseye
