@@ -564,7 +564,6 @@ falling
 flichtering
 faradized
 famine
-fussed
 folklorism
 forjudger
 falloff
@@ -2676,6 +2675,7 @@ fissipedate
 frogeater
 fossorial
 foundational
+fussed
 filaze
 fawner
 frizziness
