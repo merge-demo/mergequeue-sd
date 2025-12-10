@@ -5907,6 +5907,7 @@ faultfinding
 fdname
 flockings
 fudged
+faldstool
 fulsamic
 foetalism
 furlers
@@ -9668,7 +9669,6 @@ fowled
 flipflop
 foretoken
 flimflammery
-faldstool
 fringe
 fouquieria
 fourfiusher
