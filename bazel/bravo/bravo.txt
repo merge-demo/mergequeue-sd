@@ -2060,6 +2060,7 @@ birthmarks
 bioflavinoid
 bannock
 bannocks
+blotter
 boilinglike
 bivittate
 banovina
@@ -6611,7 +6612,6 @@ battuta
 berdash
 booming
 birotation
-blotter
 bromelins
 betons
 blastular
