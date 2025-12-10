@@ -352,7 +352,6 @@ eriophyidae
 eavedropping
 ephthianure
 endevil
-excentral
 eyestone
 erethistic
 eeler
@@ -10779,6 +10778,7 @@ examiners
 enchodontoid
 embryomas
 eumemorrhea
+excentral
 englishwoman
 entrapped
 epharmony
