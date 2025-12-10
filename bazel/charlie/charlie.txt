@@ -9913,7 +9913,6 @@ cambists
 crescographic
 caseconv
 chaoses
-corallita
 comedians
 chenet
 chirotony
@@ -13273,6 +13272,7 @@ cyclonite
 cyclonology
 cycloolefin
 consertal
+corallita
 chirred
 cacciatore
 colob
