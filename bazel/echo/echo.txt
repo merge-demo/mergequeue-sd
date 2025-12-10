@@ -1326,7 +1326,6 @@ effeir
 eumoiriety
 eriocomi
 eisteddfodism
-effeminise
 especial
 elemin
 explosives
@@ -7926,6 +7925,7 @@ ethonone
 euphemistic
 eclampsia
 enclavement
+effeminise
 excoriable
 enneastylar
 engender
