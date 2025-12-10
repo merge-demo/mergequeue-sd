@@ -5106,7 +5106,6 @@ eardrums
 exited
 endoclinal
 eternals
-endocoelar
 eupanorthidae
 exilian
 ectozoan
@@ -12837,6 +12836,7 @@ erythrolysis
 eupomatia
 ern
 ecphorization
+endocoelar
 echoic
 emendated
 extinctor
