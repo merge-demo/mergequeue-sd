@@ -1828,6 +1828,7 @@ eightling
 edematose
 euler
 epidiorite
+estoque
 encystments
 errabund
 elaterin
@@ -6038,7 +6039,6 @@ enhydrinae
 evenminded
 empiry
 eyrie
-estoque
 expromissor
 endosarcs
 expire
