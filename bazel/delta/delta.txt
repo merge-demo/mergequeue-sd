@@ -2079,6 +2079,7 @@ defaced
 devolution
 disproportionally
 decal
+deathly
 dodecylic
 dilatory
 decalage
@@ -5216,7 +5217,6 @@ daemon
 doghole
 decephalization
 dimetry
-deathly
 diaheliotropic
 detruncating
 devoid
