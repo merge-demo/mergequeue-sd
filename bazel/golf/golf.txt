@@ -8653,6 +8653,7 @@ gladdy
 grantee
 greaseproofness
 grindstones
+gimpy
 gastronomical
 gests
 grizzliness
@@ -10575,7 +10576,6 @@ grilling
 guillemot
 graverobber
 gumtree
-gimpy
 gambetta
 grandmaster
 goustie
