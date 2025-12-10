@@ -10721,7 +10721,6 @@ epitomizer
 endosmometer
 emplacement
 euhemerist
-erichthus
 encrease
 emacerate
 emblazer
@@ -12060,6 +12059,7 @@ entackle
 ervum
 excommunicator
 expetible
+erichthus
 extrication
 electroanalysis
 excoriating
