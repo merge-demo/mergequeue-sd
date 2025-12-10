@@ -9657,7 +9657,6 @@ benison
 barterers
 blatti
 bryozoum
-baizes
 batiste
 bisyllabic
 benefactions
@@ -14505,6 +14504,7 @@ baikie
 bibliogony
 bottomless
 branchiopod
+baizes
 boutonnieres
 barbarians
 belozenged
