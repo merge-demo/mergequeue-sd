@@ -9295,7 +9295,6 @@ foregoers
 foremost
 fabrikoid
 fruticeta
-flukey
 flinting
 fluidise
 faulting
@@ -11015,6 +11014,7 @@ farmery
 fumet
 forcipate
 fumets
+flukey
 fumiest
 fluoroscope
 frivolist
