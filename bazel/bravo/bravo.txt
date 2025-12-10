@@ -1797,6 +1797,7 @@ bananivorous
 banatite
 becharm
 blackjacking
+bewired
 billycans
 bancha
 bivial
@@ -5244,7 +5245,6 @@ beaky
 bunkmate
 bowtie
 begarlanded
-bewired
 batzen
 begass
 bitless
