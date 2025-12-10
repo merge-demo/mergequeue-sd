@@ -1734,7 +1734,6 @@ formican
 foreordainment
 featherbird
 feoffors
-forfare
 foreshore
 floriferous
 freedman
@@ -3265,6 +3264,7 @@ ferventness
 foppery
 flaught
 filbert
+forfare
 frigorimeter
 freit
 furciferine
