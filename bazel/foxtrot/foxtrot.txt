@@ -2513,7 +2513,6 @@ frugivorous
 fernambuck
 fibromembranous
 filamentule
-frangibility
 freebee
 fados
 fem
@@ -4194,6 +4193,7 @@ featherstitch
 flittermmice
 featurish
 froe
+frangibility
 fidicinales
 fetus
 fructose
