@@ -8073,6 +8073,7 @@ eaglehawk
 expositor
 epiglottidean
 epiphloeum
+ethology
 etherize
 essoign
 emotional
@@ -10375,7 +10376,6 @@ ethnozoology
 ethography
 excepter
 entropion
-ethology
 ethnogeographer
 electrocataphoretic
 epulation
