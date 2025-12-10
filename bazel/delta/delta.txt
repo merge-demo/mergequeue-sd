@@ -6462,7 +6462,6 @@ demitone
 deplumation
 dictatrix
 deodara
-digitization
 dragomanic
 desalinated
 diaereses
@@ -7321,6 +7320,7 @@ determinated
 driftwood
 determinately
 dirtiness
+digitization
 drownding
 despondency
 denegate
