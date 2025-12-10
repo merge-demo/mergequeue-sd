@@ -3732,7 +3732,6 @@ guttur
 guayacan
 graduations
 gurdy
-ghuz
 glabellae
 gasterothecal
 gallein
@@ -5346,6 +5345,7 @@ glycyrrhizin
 gimps
 glycogenolytic
 gangsters
+ghuz
 gammaroid
 goodman
 globularly
