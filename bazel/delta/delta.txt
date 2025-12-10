@@ -9298,6 +9298,7 @@ daikering
 diurne
 daguerreotyper
 dietaries
+disubstituted
 deosculate
 disploding
 declinal
@@ -11565,7 +11566,6 @@ ditremid
 dovekie
 dearsenicator
 discommodities
-disubstituted
 discommoned
 dextrinase
 detective
