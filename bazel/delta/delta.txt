@@ -4337,6 +4337,7 @@ duckhood
 dequeue
 dronel
 diversicolored
+disinfest
 daubster
 diacritical
 dods
@@ -17878,7 +17879,6 @@ duelers
 duelist
 duelistic
 dolentissimo
-disinfest
 durgan
 dinks
 dayflowers
