@@ -5417,6 +5417,7 @@ gaveler
 geoplana
 glossily
 girdle
+gnotobiosis
 gynandromorphic
 glimmer
 glycyl
@@ -6147,7 +6148,6 @@ gallivants
 gnosis
 galenist
 glaserian
-gnotobiosis
 gnotobiotically
 galactorrhoea
 gnow
