@@ -4531,7 +4531,6 @@ externize
 euphyllopoda
 enureses
 epitheliogenetic
-emplaned
 embarkation
 encephalotome
 edomite
@@ -12311,6 +12310,7 @@ etheostomidae
 electronegative
 eerock
 equilucent
+emplaned
 exerce
 equimultiple
 exceptious
