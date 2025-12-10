@@ -7149,7 +7149,6 @@ gamecock
 gorals
 genealogize
 gastrocystic
-goran
 gynecoid
 grinderman
 gorbelly
@@ -10331,6 +10330,7 @@ gault
 gruiformes
 granula
 getsul
+goran
 gullygut
 gilling
 gildsman
