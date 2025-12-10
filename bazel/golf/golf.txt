@@ -5242,7 +5242,6 @@ gleamless
 galactose
 gramophone
 germinant
-glyptologist
 goldarnedest
 gink
 glandulousness
@@ -9551,6 +9550,7 @@ gleaners
 greenlander
 gadaea
 gastrophthisis
+glyptologist
 gastrocentrous
 greets
 grewsomer

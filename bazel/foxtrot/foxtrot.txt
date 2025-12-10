@@ -892,6 +892,7 @@ forestlike
 fatheads
 featural
 flatheads
+foreallege
 fortake
 falconine
 fishhook
@@ -7103,7 +7104,6 @@ flagger
 fickler
 fripper
 flaker
-foreallege
 fregatae
 footage
 fibrillae
