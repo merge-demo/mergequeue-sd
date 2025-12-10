@@ -3458,7 +3458,6 @@ grum
 gubernance
 gove
 gudgeons
-gowl
 gelatinated
 gastrologer
 glazing
@@ -9606,6 +9605,7 @@ gujrati
 gerbe
 gowds
 gedanite
+gowl
 gravimeters
 glandula
 graphite
