@@ -9024,7 +9024,6 @@ electromyographic
 eurychoric
 earhead
 erythroblastic
-extrafoliaceous
 errancy
 electrocardiographs
 evaginating
@@ -9356,6 +9355,7 @@ emotionally
 emane
 enrobement
 effecter
+extrafoliaceous
 enveigle
 epilimnionia
 educable
