@@ -2984,6 +2984,7 @@ cantholysis
 commonable
 chaffers
 capriole
+cajoled
 colliquation
 catnapping
 cicalas
@@ -20006,7 +20007,6 @@ commensals
 chamosite
 commensurability
 commensurable
-cajoled
 commensurably
 commensurate
 commensurateness
