@@ -2318,7 +2318,6 @@ electrochemistry
 empiriocritical
 electromobilism
 excrementitial
-excrete
 espaliering
 excruciated
 encore
@@ -8266,6 +8265,7 @@ ejection
 expensively
 ectoplasmic
 ellagate
+excrete
 exemplification
 epitaxies
 epitaxis
