@@ -1413,6 +1413,7 @@ greenless
 gola
 garret
 graffer
+gombay
 global
 gipsire
 goodnight
@@ -6907,7 +6908,6 @@ gatling
 guyed
 gitterns
 guttiferae
-gombay
 guglio
 gangliomata
 graftonite
