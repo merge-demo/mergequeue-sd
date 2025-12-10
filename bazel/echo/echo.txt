@@ -1070,6 +1070,7 @@ embeddable
 epistolic
 echinology
 elective
+eprise
 edification
 evaluators
 exfigure
@@ -8461,7 +8462,6 @@ epoxies
 employed
 evangelistaries
 easterlies
-eprise
 epimorpha
 epsilons
 expressionistic
