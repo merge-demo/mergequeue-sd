@@ -576,6 +576,7 @@ electromeric
 elocutionize
 endophyllaceae
 estancia
+ethoses
 emblematize
 echoing
 exfiltration
@@ -8421,7 +8422,6 @@ epizootology
 enwrought
 embaying
 epollicate
-ethoses
 eponge
 exhibitioner
 ethopoetic
