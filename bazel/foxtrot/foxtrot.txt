@@ -5048,6 +5048,7 @@ frib
 flappable
 firers
 frankalmoin
+foller
 fermions
 figlike
 fishline
@@ -9553,7 +9554,6 @@ floreated
 filigraned
 forgone
 factabling
-foller
 frederik
 futilitarian
 freightyard
