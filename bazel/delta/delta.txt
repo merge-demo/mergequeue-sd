@@ -10943,7 +10943,6 @@ disbursement
 diapir
 disabuses
 dispondaic
-dazzlement
 disacceptance
 dannock
 disaccomodate
@@ -15177,6 +15176,7 @@ disulphide
 dolcemente
 dolci
 dolciano
+dazzlement
 dardaol
 dolcino
 dididae
