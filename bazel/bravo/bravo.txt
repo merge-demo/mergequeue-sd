@@ -1472,6 +1472,7 @@ boroglycerate
 barras
 beeches
 ball
+beerhouse
 ballad
 barillas
 bartholinitis
@@ -4964,7 +4965,6 @@ bucconidae
 benweed
 beylik
 bemoaning
-beerhouse
 beerhouses
 barbecueing
 beladied
