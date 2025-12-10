@@ -6704,6 +6704,7 @@ gastroscopies
 graptolithida
 gallflies
 gimlets
+geomalic
 gayway
 garce
 gumboils
@@ -9961,7 +9962,6 @@ guardable
 guardedness
 gastroparalysis
 greening
-geomalic
 gathered
 geoids
 geoglyphic
