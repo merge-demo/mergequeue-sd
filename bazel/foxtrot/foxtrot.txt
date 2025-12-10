@@ -5596,6 +5596,7 @@ furbearer
 froebelist
 forefeel
 fossilation
+friction
 formulary
 fmt
 forfar
@@ -8267,7 +8268,6 @@ forgettably
 fixers
 faverole
 fractionalizing
-friction
 formous
 forgings
 figgy

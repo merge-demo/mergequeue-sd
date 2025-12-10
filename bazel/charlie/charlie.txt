@@ -5098,6 +5098,7 @@ crotaline
 cavae
 cascaded
 cascadia
+compilement
 clupeine
 cascadian
 chacra
@@ -20573,7 +20574,6 @@ compilable
 cofounded
 curvilinearly
 compiled
-compilement
 cogitatingly
 collineate
 comping
