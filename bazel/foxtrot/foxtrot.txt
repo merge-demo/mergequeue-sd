@@ -934,7 +934,6 @@ ferneries
 fanciness
 flyleaf
 foundry
-ft
 fluormeter
 fourchite
 fortunateness
@@ -7957,6 +7956,7 @@ fluidifier
 formoxime
 foreshoe
 fenerate
+ft
 fozier
 foreshot
 ficelle
