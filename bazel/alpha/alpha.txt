@@ -8063,6 +8063,7 @@ appropriators
 aeciotelium
 artarine
 alfileria
+altricial
 anticourtier
 astert
 anthropocosmic
@@ -11648,7 +11649,6 @@ amba
 anacrogynous
 accents
 anacrotic
-altricial
 anaculture
 aortitis
 anacusic
