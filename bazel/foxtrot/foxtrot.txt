@@ -4101,7 +4101,6 @@ fungusy
 frostation
 fiberize
 fergusonite
-featherbrain
 fattable
 fanterie
 formal
@@ -6967,6 +6966,7 @@ faineance
 fluoboric
 flay
 festucous
+featherbrain
 fedia
 fetishization
 fissicostate
