@@ -6752,7 +6752,6 @@ celestite
 celestitude
 clivias
 celiadelphus
-celibacy
 costard
 celibatic
 conducent
@@ -10403,6 +10402,7 @@ chigoes
 chih
 capsomer
 conquered
+celibacy
 coryphaena
 clinocephalic
 cautioners
