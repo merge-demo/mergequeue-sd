@@ -3112,6 +3112,7 @@ egohood
 externalizing
 eloigned
 eleometer
+excogitable
 euphonetic
 emissive
 endoscopy
@@ -9951,7 +9952,6 @@ electrogenetic
 episodal
 epididymitis
 estreat
-excogitable
 estrangelo
 eudalene
 eucalyptuses
