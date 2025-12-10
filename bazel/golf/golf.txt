@@ -973,7 +973,6 @@ grouting
 gagmen
 ganched
 gonotokont
-goner
 granddads
 gundi
 gouge
@@ -6861,6 +6860,7 @@ grandtotal
 glunched
 graynesses
 gingerade
+goner
 gallican
 gamelotte
 gastroenterostomies
