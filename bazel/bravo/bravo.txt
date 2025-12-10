@@ -602,7 +602,6 @@ benomyls
 behearse
 bacterid
 baraka
-brin
 bletherskate
 bisellia
 bemingle
@@ -8759,6 +8758,7 @@ bruisers
 bosc
 beagling
 behests
+brin
 behinder
 barycentre
 brontozoum
