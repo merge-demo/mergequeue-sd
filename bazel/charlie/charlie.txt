@@ -1459,7 +1459,6 @@ carretela
 calyptratae
 cladus
 calyptriform
-calyptrimorphous
 coracoscapular
 ceriornis
 carnosin
@@ -29175,6 +29174,7 @@ chlordiazepoxide
 crownband
 caliga
 cryoscopy
+calyptrimorphous
 colloblast
 candock
 comparator
