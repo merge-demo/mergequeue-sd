@@ -30494,7 +30494,6 @@ cubicovariant
 corozos
 cubane
 cubangle
-cubanite
 cubatory
 contraclockwise
 counterweighed
@@ -31329,6 +31328,7 @@ clubber
 cures
 compotation
 curets
+cubanite
 callisthenics
 cinematographers
 clamber
