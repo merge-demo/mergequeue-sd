@@ -821,7 +821,6 @@ fumingly
 faun
 fenny
 frogeyes
-formfitting
 fixatives
 fluctuations
 fanjet
@@ -4865,6 +4864,7 @@ falsism
 falsifiers
 foothook
 foreacquaint
+formfitting
 flues
 fasting
 frabbit
