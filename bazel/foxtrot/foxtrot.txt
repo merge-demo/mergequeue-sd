@@ -3160,7 +3160,6 @@ fadedly
 foreright
 fibrositis
 farreate
-ferrugo
 fingerpost
 ferment
 frighty
@@ -5985,6 +5984,7 @@ floricultural
 faitour
 floorboard
 flashness
+ferrugo
 folkways
 foreplays
 fawny
