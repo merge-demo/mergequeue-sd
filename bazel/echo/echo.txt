@@ -5481,7 +5481,6 @@ elasmosaurus
 esterifiable
 ergothioneine
 encephalonarcosis
-epiploic
 energizes
 electroscopic
 entwists
@@ -12045,6 +12044,7 @@ exclusivity
 ecstatic
 effluents
 excogitated
+epiploic
 excogitator
 extraembryonic
 enquere
