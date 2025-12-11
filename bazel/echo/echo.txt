@@ -596,6 +596,7 @@ emblemist
 emetics
 eurypharynx
 euro
+entourages
 eciton
 eversions
 entertained
@@ -841,7 +842,6 @@ ecballium
 emraud
 englobement
 eddic
-entourages
 epistolizer
 eigenfunction
 erythrocytolysin
