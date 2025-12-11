@@ -665,6 +665,7 @@ enhance
 envier
 excide
 eclogic
+euchysiderite
 exor
 extraocular
 eclogite
@@ -4481,7 +4482,6 @@ encephalographic
 ekphorize
 episematic
 earlock
-euchysiderite
 esthesiophysiology
 elsewhat
 enforcing
