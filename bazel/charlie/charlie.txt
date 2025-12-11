@@ -15836,6 +15836,7 @@ coassumes
 cledde
 cocuiza
 cledgy
+commandedness
 calibrator
 currishness
 cleech
@@ -19884,7 +19885,6 @@ commandable
 commandatory
 commanded
 confervaceae
-commandedness
 coelacanthine
 classicised
 commandeer
