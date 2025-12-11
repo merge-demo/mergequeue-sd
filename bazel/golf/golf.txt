@@ -1466,6 +1466,7 @@ gradualness
 guydom
 gasboat
 giddiness
+gawcie
 germanophilist
 gaselier
 golet
@@ -9851,7 +9852,6 @@ guaiaconic
 glebous
 guesstimated
 guayaqui
-gawcie
 goldbrick
 ghebeta
 guaymie

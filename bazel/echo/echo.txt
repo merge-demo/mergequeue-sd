@@ -10032,7 +10032,6 @@ eterne
 endangerment
 escargots
 eternisation
-elegious
 eternish
 elod
 editresses
@@ -11602,6 +11601,7 @@ enchiridion
 eusuchian
 exonerations
 explicating
+elegious
 entablatured
 electroretinogram
 engregge
