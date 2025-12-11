@@ -1811,7 +1811,6 @@ gulsach
 glycine
 gastrocolostomy
 geodesia
-gastrovascular
 geryoniidae
 gthite
 goala
@@ -3168,6 +3167,7 @@ gavotte
 glowered
 gregarinous
 ginnings
+gastrovascular
 goat
 gallinacean
 graduating
