@@ -1797,7 +1797,6 @@ elbow
 exopodite
 epiopticon
 eigenvalues
-eudemony
 evaginated
 effervescive
 ensouling
@@ -13408,6 +13407,7 @@ expressage
 edgily
 edacities
 escalates
+eudemony
 excitatory
 evilmouthed
 emaciates
