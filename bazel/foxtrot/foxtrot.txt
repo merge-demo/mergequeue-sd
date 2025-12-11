@@ -4250,7 +4250,6 @@ fusarium
 flaxbird
 fumid
 fax
-foreignize
 feverish
 fungose
 flatterers
@@ -5505,6 +5504,7 @@ formatters
 fleshliest
 fiddlies
 faroelite
+foreignize
 fleshliness
 faceteness
 fw
