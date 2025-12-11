@@ -4188,6 +4188,7 @@ favonius
 featherstitch
 flittermmice
 featurish
+fretworks
 froe
 frangibility
 fidicinales
@@ -9711,7 +9712,6 @@ forestick
 flycaster
 fanworts
 fuchsins
-fretworks
 flexile
 flaccidness
 frenchwomen
