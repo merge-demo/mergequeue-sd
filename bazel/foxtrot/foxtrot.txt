@@ -1883,7 +1883,6 @@ fallow
 fewer
 fecundize
 flintier
-footingly
 foredoom
 footstep
 fourdrinier
@@ -3351,6 +3350,7 @@ faker
 forjaskit
 fiedlerite
 fifth
+footingly
 flooding
 falconer
 forgetive
