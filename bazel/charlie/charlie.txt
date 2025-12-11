@@ -17047,6 +17047,7 @@ coaching
 coachmaker
 coachmaster
 canceling
+cheder
 cultureless
 coachmen
 contestably
@@ -24252,7 +24253,6 @@ ceanothus
 creeks
 chiropter
 cowbird
-cheder
 coseier
 cooboos
 chiogenes
