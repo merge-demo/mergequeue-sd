@@ -8020,6 +8020,7 @@ epipanies
 endovasculitis
 exsanguious
 euthenist
+eggcup
 encoop
 electrodentistry
 ergs
@@ -13637,7 +13638,6 @@ extensibility
 euphemization
 epilemma
 extensions
-eggcup
 expansometer
 engrosses
 empeo
