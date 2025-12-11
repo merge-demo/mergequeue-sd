@@ -5032,7 +5032,6 @@ gastrelcosis
 ginger
 grisliest
 glamoured
-germanic
 greatmouthed
 grolier
 glebeless
@@ -5422,6 +5421,7 @@ gastroduodenal
 greenest
 gona
 grates
+germanic
 gaveler
 geoplana
 glossily
