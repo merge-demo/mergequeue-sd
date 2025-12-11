@@ -2286,7 +2286,6 @@ eyras
 electroacoustic
 electroacoustical
 elfkin
-exradius
 electroacoustics
 enthetic
 exundation
@@ -8104,6 +8103,7 @@ episarkine
 ethnology
 epiural
 extracalicular
+exradius
 epididymite
 earaches
 enew
