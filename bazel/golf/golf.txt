@@ -5008,7 +5008,6 @@ goldic
 gymnogen
 gawker
 galling
-glew
 goodwilled
 gigantic
 grafters
@@ -7625,6 +7624,7 @@ glacialist
 gracefuller
 gallerying
 gracilariidae
+glew
 gravispheric
 gyn
 gitksan
