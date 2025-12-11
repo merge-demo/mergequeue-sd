@@ -5971,6 +5971,7 @@ deadeningly
 deprogrammings
 deprograms
 dropforged
+deme
 deprome
 demisphere
 drawling
@@ -14224,7 +14225,6 @@ dahoman
 ditas
 decolourizing
 daggerbush
-deme
 dene
 drygoodsman
 dumbly
