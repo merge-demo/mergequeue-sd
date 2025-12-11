@@ -3296,7 +3296,6 @@ germanification
 gadso
 grimmia
 gregaritic
-glancer
 glycosin
 gelotoscopy
 glent
@@ -7829,6 +7828,7 @@ gufa
 greenkeeper
 glassblowers
 gook
+glancer
 glead
 grouchier
 gala
