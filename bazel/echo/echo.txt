@@ -5815,6 +5815,7 @@ entification
 evade
 emulatory
 eligibleness
+elissa
 efficace
 electrovalency
 exfoliation
@@ -11076,7 +11077,6 @@ episcopally
 estheria
 epileptically
 epicormic
-elissa
 eusebian
 exines
 edifies
