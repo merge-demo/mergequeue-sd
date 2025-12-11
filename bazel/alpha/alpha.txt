@@ -6614,7 +6614,6 @@ aiglets
 affirms
 accra
 aigre
-abbatial
 ascalabota
 adambulacral
 alkaligen
@@ -12484,6 +12483,7 @@ arsenicated
 anthracitous
 anemias
 academian
+abbatial
 adelarthrosomata
 anemic
 anemically
