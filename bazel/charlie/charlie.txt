@@ -11900,6 +11900,7 @@ consension
 choreman
 choreodrama
 choreographed
+cripplingly
 choreographer
 cypseloid
 choreographers
@@ -29213,7 +29214,6 @@ creaser
 capillarity
 cystomatous
 crippling
-cripplingly
 cryptaesthesia
 conflictual
 cryptamnesia
