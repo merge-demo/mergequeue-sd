@@ -4614,6 +4614,7 @@ fleckless
 fruitgrowing
 fitchew
 fluoridizing
+feedable
 fally
 flavory
 fullams
@@ -10383,7 +10384,6 @@ fronting
 fizzle
 focus
 furoid
-feedable
 feared
 foreigner
 frangipanis
