@@ -1170,7 +1170,6 @@ electrolyzable
 eudiometric
 educates
 engrainedly
-egrimony
 entitule
 education
 edulcorating
@@ -4150,6 +4149,7 @@ emanant
 encallow
 euterpe
 extraessentially
+egrimony
 exchangeable
 ephedra
 emphasizing
