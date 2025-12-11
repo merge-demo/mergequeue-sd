@@ -3610,7 +3610,6 @@ beneficiation
 brooklet
 bookmobile
 besought
-blithelike
 bobbysoxers
 batidaceous
 becrowds
@@ -10735,6 +10734,7 @@ bathycolpian
 byssus
 beaverboard
 balls
+blithelike
 baianism
 batties
 baalisms
