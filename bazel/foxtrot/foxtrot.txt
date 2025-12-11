@@ -2886,7 +2886,6 @@ farcin
 freighted
 fackins
 firefighters
-fettucini
 fungiferous
 fistulate
 feathertop
@@ -7759,6 +7758,7 @@ fritters
 fidicula
 franciscanism
 fisticuffery
+fettucini
 favillous
 flabelliform
 forsaker

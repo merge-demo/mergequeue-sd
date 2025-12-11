@@ -3674,6 +3674,7 @@ adenomyoma
 adenomyxosarcoma
 adenoneural
 aerophysical
+acierate
 adenoneure
 antihierarchies
 adenopharyngeal
@@ -9311,7 +9312,6 @@ adjustive
 alouette
 androsphinxes
 alout
-acierate
 alliterations
 aloxite
 alpacas
