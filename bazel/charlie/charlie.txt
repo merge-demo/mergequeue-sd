@@ -13187,7 +13187,6 @@ cyclesmith
 castoridae
 crookbilled
 cannonproof
-caryota
 cyclic
 cyclical
 cyclizing
@@ -20895,6 +20894,7 @@ circummeridional
 cantiga
 compressibility
 compressibleness
+caryota
 criminals
 compressibly
 cruzeiros
