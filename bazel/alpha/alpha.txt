@@ -9459,7 +9459,6 @@ alterers
 antiplague
 antiabsolutist
 argiopoidea
-acupunctuate
 agrologic
 apses
 altern
@@ -19366,6 +19365,7 @@ accountability
 accusations
 adjuror
 accidentalness
+acupunctuate
 argel
 admissable
 admaxillary
