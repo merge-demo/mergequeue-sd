@@ -2369,7 +2369,6 @@ falconiformes
 fainty
 frogling
 feudist
-francic
 freeloving
 fenchol
 footganger
@@ -2922,6 +2921,7 @@ farinha
 furazane
 frustums
 fencing
+francic
 floccipend
 flutist
 flawlessness
