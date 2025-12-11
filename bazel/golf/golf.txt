@@ -4630,7 +4630,6 @@ glossoid
 girlery
 glink
 giornata
-guarantees
 griotte
 gloggs
 galbulae
@@ -10229,6 +10228,7 @@ grammaticize
 gayeties
 gooneys
 graze
+guarantees
 gtd
 giustamente
 gingko
