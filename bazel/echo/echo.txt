@@ -1181,7 +1181,6 @@ extratracheal
 estimation
 eroded
 elenge
-entirities
 espathate
 enlute
 educationist
@@ -5265,6 +5264,7 @@ exactor
 entreatable
 evened
 editors
+entirities
 ecumenicity
 endopodite
 exagitation
