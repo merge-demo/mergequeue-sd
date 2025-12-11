@@ -6829,7 +6829,6 @@ buprestidan
 bituminise
 bradylalia
 bertie
-bertolonia
 bioacoustics
 bromopikrin
 basigenous
@@ -8686,6 +8685,7 @@ bitterish
 benshea
 bunjara
 bilsh
+bertolonia
 bitumen
 bifluorid
 blepharostat
