@@ -39,6 +39,7 @@ fabricator
 formularize
 flintless
 furies
+flatteress
 farmscape
 flick
 fervently
@@ -2702,7 +2703,6 @@ fervor
 flamenco
 fashions
 fruitive
-flatteress
 filibusterer
 funnier
 figpecker
