@@ -4161,7 +4161,6 @@ adnominally
 arietate
 aurochses
 acetary
-adolescence
 adolescent
 argentarii
 apasote
@@ -16618,6 +16617,7 @@ apelles
 acuminate
 athirst
 amphigonic
+adolescence
 affiliate
 abrasax
 awakener
