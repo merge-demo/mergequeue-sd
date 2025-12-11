@@ -333,6 +333,7 @@ graveship
 galactometer
 gorling
 gaussian
+glochidial
 grilses
 gleen
 gangetic
@@ -7389,7 +7390,6 @@ gullishness
 glisky
 gardenful
 gossipped
-glochidial
 gossips
 gestor
 glomerule
