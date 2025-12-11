@@ -2079,7 +2079,6 @@ fane
 filibuster
 feudalisation
 famishes
-foremasthand
 felicity
 fructidor
 frissons
@@ -4932,6 +4931,7 @@ frogflower
 facetiously
 flatteringly
 fergusite
+foremasthand
 frenetic
 formly
 fluidised
