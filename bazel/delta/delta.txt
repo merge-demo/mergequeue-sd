@@ -9058,7 +9058,6 @@ disillusioniser
 dictaen
 dictamina
 dernier
-drinkproof
 dictaphones
 disavail
 dictating
@@ -16622,6 +16621,7 @@ deprecated
 didelphian
 dragonhood
 downily
+drinkproof
 diagrams
 disilicate
 deveins
