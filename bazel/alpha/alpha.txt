@@ -1002,7 +1002,6 @@ amassette
 abstergent
 absterges
 antituberculin
-amphigastrula
 abstersiveness
 aggregable
 abstertion
@@ -10005,6 +10004,7 @@ adirondack
 albinuria
 amberoid
 ambers
+amphigastrula
 arthropodous
 acinotubular
 acrodonts
