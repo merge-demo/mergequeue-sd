@@ -2706,6 +2706,7 @@ bibliothecarian
 blitum
 betrothals
 bloodstanch
+blousing
 balandrana
 brasen
 betaken
@@ -13015,7 +13016,6 @@ bordering
 bemantle
 balangay
 bolster
-blousing
 borders
 borderland
 bagpipe

@@ -1010,7 +1010,6 @@ fontanges
 faying
 filmsets
 foreshop
-fulmina
 fucuses
 foreplan
 formate
@@ -5943,6 +5942,7 @@ fichtean
 foggers
 falstaffian
 flatwash
+fulmina
 floodgates
 fiercest
 foolhardily
