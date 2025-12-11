@@ -9358,7 +9358,6 @@ compart
 caddying
 chavicin
 chomp
-chiot
 chavicol
 cautelousness
 cowedly
@@ -20888,6 +20887,7 @@ campership
 coleoptile
 chenopodiaceous
 collegiums
+chiot
 compresence
 compresent
 cai
