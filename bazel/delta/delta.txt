@@ -5504,7 +5504,6 @@ divestitures
 dilatation
 deoxyribonucleotide
 disportive
-diaphragm
 dogtrot
 dudishness
 digging
@@ -7405,6 +7404,7 @@ detouring
 deliriums
 dermacentor
 diadoche
+diaphragm
 daric
 detoxicant
 dehorter
