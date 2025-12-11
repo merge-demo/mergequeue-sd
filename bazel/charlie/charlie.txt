@@ -9657,6 +9657,7 @@ cheeseparer
 counternotice
 canaster
 cerebrasthenic
+connote
 caravaning
 counseling
 cheeseparing
@@ -22606,7 +22607,6 @@ connotations
 connotative
 connotatively
 counterextend
-connote
 crymotherapy
 connoted
 connoting
