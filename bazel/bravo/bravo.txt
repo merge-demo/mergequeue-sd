@@ -2845,6 +2845,7 @@ bicep
 blanketless
 barrad
 boskage
+believing
 biform
 bashawism
 buddage
@@ -5914,7 +5915,6 @@ bared
 belonging
 basisphenoid
 bailiffship
-believing
 bluestoner
 belongs
 bicameral
