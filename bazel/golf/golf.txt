@@ -6742,7 +6742,6 @@ ginglyni
 grudgeless
 gonid
 gluttonies
-gynaecologic
 glimed
 geer
 gride
@@ -8452,6 +8451,7 @@ gratuitant
 gynaecomorphous
 glossograph
 guaguanche
+gynaecologic
 globulariaceous
 gnathopodous
 guinea
