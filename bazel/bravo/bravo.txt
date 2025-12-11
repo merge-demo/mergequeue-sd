@@ -8745,7 +8745,6 @@ bimethyls
 bimillenium
 bimillionaire
 buoyancies
-battish
 bubblingly
 bimodule
 bimong
@@ -9308,6 +9307,7 @@ baseball
 begloomed
 befit
 bleezy
+battish
 bobsled
 bulletwood
 bewet
