@@ -1689,7 +1689,6 @@ delineator
 debonnaire
 dismissive
 dears
-dottard
 dupability
 disadvantage
 dignity
@@ -17949,6 +17948,7 @@ dugento
 dactylous
 dugongidae
 deliriously
+dottard
 dugongs
 determinacy
 demandable

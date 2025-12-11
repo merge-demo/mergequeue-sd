@@ -5051,7 +5051,6 @@ glykopectic
 galleypot
 governesshood
 glaucousness
-ghouls
 giganticidal
 gauls
 garridge
@@ -8104,6 +8103,7 @@ grayhound
 gastrochaenidae
 gobangs
 guacharo
+ghouls
 gourdworm
 grantia
 greekist
