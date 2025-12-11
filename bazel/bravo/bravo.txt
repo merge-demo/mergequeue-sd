@@ -13260,7 +13260,6 @@ brominated
 berakes
 birdmen
 blennies
-botanic
 baltei
 bobbery
 backlet
@@ -15033,6 +15032,7 @@ besanctify
 blippers
 breezily
 bepuzzle
+botanic
 bountifully
 bolling
 biseptate
