@@ -5937,7 +5937,6 @@ glebe
 ging
 glamorizations
 ginkgoales
-gentilish
 gleesomeness
 guereba
 gymnospermous
@@ -8737,6 +8736,7 @@ gonys
 greenrooms
 garlics
 glossectomy
+gentilish
 grifts
 gynoecia
 galactopoiesis

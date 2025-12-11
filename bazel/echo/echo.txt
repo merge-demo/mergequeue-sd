@@ -4272,7 +4272,6 @@ effectible
 edifyingly
 en
 enjoined
-entocuniform
 extirpation
 epicarides
 ejectment
@@ -12444,6 +12443,7 @@ endite
 equilibrative
 easting
 epifaunas
+entocuniform
 exhortations
 elatery
 eisegeses
