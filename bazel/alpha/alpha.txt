@@ -7312,7 +7312,6 @@ accessoriusorii
 alaund
 adoptant
 aglauros
-angioplerosis
 alba
 athrob
 ayahuca
@@ -11202,6 +11201,7 @@ amphicreatinine
 analabos
 amphictyon
 amphictyony
+angioplerosis
 amphictyonian
 antistrophic
 achaenodon
