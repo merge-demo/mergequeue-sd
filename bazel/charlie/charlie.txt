@@ -15032,7 +15032,6 @@ civitan
 coxalgic
 civitas
 civite
-caridomorpha
 chinchasuyu
 claustrophilia
 corrida
@@ -18484,6 +18483,7 @@ cill
 cohortative
 cohosh
 circumdiction
+caridomorpha
 cephalalgia
 crownlet
 consigner
