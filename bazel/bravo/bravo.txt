@@ -8447,7 +8447,6 @@ bocage
 balolo
 bleareye
 bittium
-bilaminar
 burblier
 bemusement
 behaviors
@@ -14046,6 +14045,7 @@ bavary
 bitts
 bald
 boffin
+bilaminar
 brachydont
 brachydontism
 butanone
