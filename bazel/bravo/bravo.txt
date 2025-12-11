@@ -2168,7 +2168,6 @@ boschboks
 bewilders
 bestove
 baramin
-bertat
 bromocyanid
 backflash
 briscola
@@ -12496,6 +12495,7 @@ boneshaker
 brahmi
 bridesman
 bidets
+bertat
 backbeat
 benetnasch
 befavor
