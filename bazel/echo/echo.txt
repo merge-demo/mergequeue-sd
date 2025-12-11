@@ -11557,7 +11557,6 @@ emprize
 endosteitis
 edital
 enkerchief
-esterlin
 encia
 executry
 euphoric
@@ -13869,6 +13868,7 @@ euglobulin
 expo
 etamine
 exosmosis
+esterlin
 ephemeras
 emollient
 endolymphangial
