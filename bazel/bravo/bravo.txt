@@ -3636,6 +3636,7 @@ blackball
 budded
 bumbleberry
 betacism
+blether
 brazenfacedly
 botchery
 billheads
@@ -12996,7 +12997,6 @@ borasca
 bemeet
 borassus
 barouchet
-blether
 bacilliculture
 borboridae
 beslow

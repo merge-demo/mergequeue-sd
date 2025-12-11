@@ -4470,6 +4470,7 @@ ensilage
 endolithic
 encephalartos
 encephalasthenia
+evincible
 effloresced
 escocheon
 erythrophagous
@@ -11525,7 +11526,6 @@ evince
 eugenesis
 endlessly
 embryoma
-evincible
 ectopterygoid
 elegancies
 eudemonic
