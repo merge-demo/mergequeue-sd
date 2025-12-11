@@ -60,7 +60,6 @@ damie
 dichotomise
 dacryorrhea
 durham
-dacryosyrinx
 deglamorized
 doesn
 dustoori
@@ -7993,6 +7992,7 @@ dextrolactic
 despotes
 diphenylthiourea
 dorosternal
+dacryosyrinx
 dextrolimonene
 dichlorobenzene
 dimethylaniline
