@@ -3706,7 +3706,6 @@ flannelboard
 folder
 fillable
 frownless
-fiercen
 flippers
 flavorlessness
 featherers
@@ -9093,6 +9092,7 @@ forester
 fourberie
 fedelini
 frisure
+fiercen
 fenlander
 frankist
 forespeaker
