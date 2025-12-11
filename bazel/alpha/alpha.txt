@@ -2869,7 +2869,6 @@ autostylic
 autarchical
 anthemas
 agonium
-apium
 abidal
 acronymizing
 anchorage
@@ -9570,6 +9569,7 @@ antecaecal
 altos
 antivolition
 aglets
+apium
 attackman
 analogue
 amygdaloncus
