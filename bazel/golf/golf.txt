@@ -1003,6 +1003,7 @@ gynobase
 ghassanid
 gilse
 gametophytic
+gymsia
 grubber
 gurnetty
 granitizing
@@ -6890,7 +6891,6 @@ gorbal
 guaranty
 globosities
 galaxies
-gymsia
 gluteoinguinal
 gauntlets
 glucoprotein
