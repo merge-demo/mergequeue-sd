@@ -5914,7 +5914,6 @@ gyle
 glucosaemia
 glucinium
 genteelest
-gadder
 guadalcazarite
 goldfinch
 glycosidase
@@ -9081,6 +9080,7 @@ glossitis
 grimaced
 gulose
 guesdist
+gadder
 genoese
 gis
 goloch
