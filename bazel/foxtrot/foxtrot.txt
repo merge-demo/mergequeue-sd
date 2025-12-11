@@ -8117,7 +8117,6 @@ favouredness
 foretaster
 forefin
 fretsaw
-falisci
 fanaticalness
 foretell
 filmiest
@@ -11254,6 +11253,7 @@ flagellants
 frumaryl
 fenks
 felly
+falisci
 freedwomen
 finbacks
 forrit
