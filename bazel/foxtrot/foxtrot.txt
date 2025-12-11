@@ -793,6 +793,7 @@ fanfaronading
 folkloric
 footworn
 forenotice
+floricin
 froster
 fatherliness
 forensicality
@@ -10981,7 +10982,6 @@ firebolt
 furmities
 fumatory
 flatuous
-floricin
 featherpated
 freesilverism
 fumbled
