@@ -5246,7 +5246,6 @@ flavoriness
 falangist
 faveoli
 fitful
-fierceness
 fishmen
 filippi
 faugh
@@ -8043,6 +8042,7 @@ folksay
 fredricite
 fourteenthly
 forestation
+fierceness
 faceup
 fructiculture
 foresteep
