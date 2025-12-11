@@ -1943,7 +1943,6 @@ apologetical
 argyria
 acetylhydrazine
 anacardiaceous
-attentional
 aotus
 acetylid
 acetylizable
@@ -6441,6 +6440,7 @@ antefixa
 agrotype
 aurochloride
 anthotaxy
+attentional
 anerly
 animis
 arguta

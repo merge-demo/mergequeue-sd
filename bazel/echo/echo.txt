@@ -11269,7 +11269,6 @@ endostraca
 enamor
 emigre
 enthronized
-evangelistic
 epidictical
 exserts
 earthquake
@@ -11602,6 +11601,7 @@ earringed
 ectromelic
 evolutoid
 elegize
+evangelistic
 enchiridion
 eusuchian
 exonerations
