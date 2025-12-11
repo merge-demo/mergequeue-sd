@@ -1516,7 +1516,6 @@ egesta
 eggberries
 enfranchising
 eurythermal
-eyeable
 egg
 ethmoid
 endosternum
@@ -14064,6 +14063,7 @@ eutectoid
 extravaginal
 electrify
 exteroceptist
+eyeable
 exorcists
 echelonment
 exclude

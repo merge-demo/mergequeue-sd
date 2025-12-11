@@ -3560,6 +3560,7 @@ gelatinizability
 granulitization
 gymnorhina
 geomagnetist
+gonotype
 gluconeogenesis
 gauk
 grugru
@@ -7779,7 +7780,6 @@ gilpey
 gluttonously
 gratia
 gangan
-gonotype
 grorudite
 grumph
 grimiest
