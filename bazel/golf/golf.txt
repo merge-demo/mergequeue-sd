@@ -3705,6 +3705,7 @@ galah
 geodetically
 glaringness
 glumelike
+gleans
 ghostish
 galliform
 gelatigenous
@@ -10053,7 +10054,6 @@ genetoid
 geomancies
 gangliac
 gastronomes
-gleans
 gazebos
 glaistig
 gammation
