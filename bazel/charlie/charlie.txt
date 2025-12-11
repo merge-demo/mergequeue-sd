@@ -2793,6 +2793,7 @@ cannier
 canning
 cannings
 chiccories
+centermost
 cannister
 cannisters
 crystallographically
@@ -7062,7 +7063,6 @@ centerfolds
 cretoria
 centering
 comminatory
-centermost
 cartilage
 centerpiece
 craizey
