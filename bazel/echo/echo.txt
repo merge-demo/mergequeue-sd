@@ -3737,7 +3737,6 @@ edaciously
 eheu
 encardion
 encrypts
-efforce
 exercising
 embussing
 espigle
@@ -6825,6 +6824,7 @@ examiningly
 entomical
 empoisoning
 electroimpulse
+efforce
 entomol
 expulsory
 eyepopper

@@ -1351,6 +1351,7 @@ firestop
 filmography
 forwardation
 fatiferous
+frons
 feaster
 flavorfully
 florentine
@@ -9620,7 +9621,6 @@ ferias
 fortalice
 flukier
 foamer
-frons
 freeloaded
 florate
 freemasonic
