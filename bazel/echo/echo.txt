@@ -1612,7 +1612,6 @@ egromancy
 egurgitate
 egurgitated
 euphonon
-eheu
 explanatively
 elchee
 ehretiaceae
@@ -3741,6 +3740,7 @@ embull
 embush
 examinees
 edaciously
+eheu
 embusk
 encardion
 encrypts
