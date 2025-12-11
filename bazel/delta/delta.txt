@@ -380,7 +380,6 @@ dawdlers
 dihydrated
 dreadness
 daimios
-dadap
 daimyos
 drinkers
 daimiote
@@ -7863,6 +7862,7 @@ diprotodon
 divertise
 donnered
 duomos
+dadap
 dukery
 disproving
 devove
