@@ -2608,7 +2608,6 @@ begirdle
 barkless
 baldrics
 battening
-bandusia
 bescorch
 beeth
 barlafumble
@@ -8165,6 +8164,7 @@ bountith
 bidree
 bottle
 bindweeds
+bandusia
 bearess
 bidri
 brutelike
