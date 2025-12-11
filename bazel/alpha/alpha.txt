@@ -3972,7 +3972,6 @@ amphibiously
 amgarn
 androgyny
 adjutant
-anesthetic
 adjutator
 adjute
 aqueity
@@ -11134,6 +11133,7 @@ amphiarthroses
 aphorisms
 amritsar
 amphibial
+anesthetic
 anfractuous
 amphibians
 arette
