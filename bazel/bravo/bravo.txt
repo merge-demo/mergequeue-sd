@@ -1470,6 +1470,7 @@ backbiter
 boyarisms
 blighter
 bodaciously
+bugwort
 bahadurs
 beggar
 boroglycerate
@@ -16928,7 +16929,6 @@ bugout
 bugs
 bugweed
 blacktopped
-bugwort
 banca
 biographic
 baganda

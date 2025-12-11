@@ -10767,7 +10767,6 @@ deliveryman
 disavow
 depriver
 drad
-dysodyle
 dun
 delocalisation
 donship
@@ -17591,6 +17590,7 @@ desuperheater
 dogbite
 drunkenwise
 dryopteris
+dysodyle
 drunker
 dabbler
 dubitant
