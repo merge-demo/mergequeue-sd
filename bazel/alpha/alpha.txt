@@ -13005,7 +13005,6 @@ anhalonin
 acmite
 anhalonine
 antioptimistic
-anhalouidine
 antisimoniacal
 annihilable
 anharmonic
@@ -14910,6 +14909,7 @@ abassi
 anticlimax
 attroupement
 abret
+anhalouidine
 anticlines
 anticlinoria
 apostolic
