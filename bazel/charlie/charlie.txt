@@ -14216,6 +14216,7 @@ circuminsession
 creoles
 canhoop
 circumintestinal
+clingers
 circumitineration
 circumjacence
 circumjacency
@@ -26523,7 +26524,6 @@ capeskin
 culicids
 cymbaled
 chemosis
-clingers
 conjecturable
 cheverons
 coucal
