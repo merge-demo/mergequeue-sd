@@ -3144,7 +3144,6 @@ glucina
 geopotential
 gelosin
 grassplot
-georgemas
 germanite
 gurgles
 georgics
@@ -7616,6 +7615,7 @@ gangliar
 gopherman
 gravimetrically
 greengroceries
+georgemas
 gloeosporium
 goodyness
 grabhook
