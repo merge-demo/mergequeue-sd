@@ -1982,7 +1982,6 @@ countervolition
 cidaroida
 cetiosaurus
 camerated
-cameration
 camery
 camerier
 camerine
@@ -16869,6 +16868,7 @@ clucking
 clue
 continuations
 clued
+cameration
 clueing
 clueless
 cephalothorax
