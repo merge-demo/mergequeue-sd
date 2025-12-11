@@ -3200,7 +3200,6 @@ ancylose
 ahs
 ahems
 antipathogen
-allocability
 aminic
 arachide
 anagrammatising
@@ -5960,6 +5959,7 @@ apostacies
 aneurism
 ardeidae
 antroscopy
+allocability
 antelude
 alpestrian
 aggregateness

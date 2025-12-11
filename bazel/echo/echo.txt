@@ -2802,7 +2802,6 @@ endoubt
 enseat
 electroluminescent
 eustatic
-explicans
 evenhanded
 epiplastron
 enaluron
@@ -7480,6 +7479,7 @@ earthmover
 esterify
 endeign
 eugenia
+explicans
 epidiascopic
 effluency
 ephor
