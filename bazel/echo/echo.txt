@@ -2542,7 +2542,6 @@ enhaloed
 eliasite
 embryonate
 epitomising
-electronically
 exclaimed
 ecad
 encyclopaedian
@@ -7659,6 +7658,7 @@ enemylike
 ethiopic
 epithalamus
 encefalon
+electronically
 enringed
 engagingly
 ectocrine
