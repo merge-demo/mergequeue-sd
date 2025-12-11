@@ -3535,7 +3535,6 @@ fyke
 fains
 fitweed
 forehearth
-featherhead
 fulvescent
 formant
 foulsome
@@ -6796,6 +6795,7 @@ forethink
 forepointer
 fretty
 foldcourse
+featherhead
 fiberless
 folkmoots
 foredoomed
