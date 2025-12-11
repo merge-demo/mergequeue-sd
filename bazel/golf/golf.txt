@@ -7510,6 +7510,7 @@ glycolytic
 groundman
 gamily
 gortonian
+gryllos
 glaucophanize
 gangs
 glitzy
@@ -9072,7 +9073,6 @@ gelatiniform
 gyrates
 gnatcatcher
 girasole
-gryllos
 gaffle
 gimcracky
 grilse
