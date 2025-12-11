@@ -3638,6 +3638,7 @@ guanylic
 granilla
 glottalize
 gigantal
+gigantopithecus
 gld
 grouching
 gedder
@@ -4619,7 +4620,6 @@ guardrail
 garotter
 guttiferales
 genoms
-gigantopithecus
 galionji
 generater
 gallovidian
