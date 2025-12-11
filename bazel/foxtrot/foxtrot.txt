@@ -1107,6 +1107,7 @@ fishling
 fastback
 farrisite
 fleerish
+feedbin
 firehalls
 forthcame
 forthteller
@@ -5365,7 +5366,6 @@ fleams
 fittier
 futuristic
 fraughting
-feedbin
 fettles
 flanken
 feebleness
