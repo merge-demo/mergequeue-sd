@@ -8634,7 +8634,6 @@ antibishop
 agametes
 autistic
 anotropia
-anastomosis
 autotheater
 amygdaloidal
 annunciatory
@@ -14956,6 +14955,7 @@ avicular
 anticonservatism
 anticonservativeness
 auricularis
+anastomosis
 anadrom
 apagoges
 anticonstitution

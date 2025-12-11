@@ -8680,7 +8680,6 @@ dyassic
 dingdongs
 delousing
 demagogies
-divulgate
 drag
 decoymen
 drumbling
@@ -10915,6 +10914,7 @@ drifts
 dyslogia
 dissaturate
 discontinuous
+divulgate
 designlessly
 diathermometer
 demonologic
