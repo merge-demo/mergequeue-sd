@@ -5482,6 +5482,7 @@ eosinophilia
 elasmosaurus
 esterifiable
 ergothioneine
+encephalonarcosis
 epiploic
 energizes
 electroscopic
@@ -7948,7 +7949,6 @@ epimerism
 enterolithiasis
 evangels
 epitomate
-encephalonarcosis
 equisetic
 explainingly
 evaniidae
