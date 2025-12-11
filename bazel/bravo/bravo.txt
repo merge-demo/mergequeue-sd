@@ -12057,7 +12057,6 @@ boyship
 boisterous
 brangling
 boistous
-boistously
 backplate
 brinkmanship
 brunellia
@@ -15527,6 +15526,7 @@ braggadocio
 bryozoon
 belyingly
 bilbos
+boistously
 brisances
 bination
 barometer

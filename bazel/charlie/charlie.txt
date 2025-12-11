@@ -10176,7 +10176,6 @@ chiarooscuro
 chiaroscuros
 chuvash
 coulis
-caenozoic
 chias
 cheesecakes
 chiasma
@@ -15334,6 +15333,7 @@ cornfloor
 clankless
 chaldaic
 calyciflorate
+caenozoic
 cuyas
 chloropia
 clannishness
