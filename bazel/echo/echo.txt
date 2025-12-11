@@ -7407,7 +7407,6 @@ entasia
 exsanguineous
 exacted
 epenla
-edgings
 epentheses
 errant
 exotic
@@ -11479,6 +11478,7 @@ erythraeidae
 evictions
 explanatory
 emboldens
+edgings
 eleocharis
 electroplax
 evictor

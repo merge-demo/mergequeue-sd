@@ -2483,7 +2483,6 @@ candelilla
 conductible
 choraguses
 certitude
-clang
 cacodemonic
 cassidony
 colloidally
@@ -31273,6 +31272,7 @@ couve
 citronellal
 calycanthine
 curbable
+clang
 curber
 curbers
 cadastrally
