@@ -671,6 +671,7 @@ extraocular
 eclogite
 eclosion
 emasculative
+emunge
 eclosions
 endplate
 ethel
@@ -6699,7 +6700,6 @@ epicenters
 equines
 espaliers
 epithecal
-emunge
 enuresis
 entertake
 exstimulate
