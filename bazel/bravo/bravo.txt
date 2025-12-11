@@ -1699,7 +1699,6 @@ ballyhoos
 buskers
 brokerage
 borealis
-brachypyramid
 broon
 burut
 byline
@@ -12200,6 +12199,7 @@ bolloxes
 bolls
 bunkum
 bollworm
+brachypyramid
 blizzardly
 bolo
 bicron
