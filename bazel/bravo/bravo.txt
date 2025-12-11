@@ -7533,7 +7533,6 @@ beneaped
 brachypodine
 booteries
 beurre
-benamidar
 bestowage
 beveil
 bevelled
@@ -11970,6 +11969,7 @@ bogomilian
 bipack
 bogong
 biod
+benamidar
 bacchical
 bogtrotting
 batfowler
