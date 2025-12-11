@@ -2537,7 +2537,6 @@ guttifer
 guric
 grattoir
 genecology
-guanidopropionic
 gadaba
 gibed
 griever
@@ -7941,6 +7940,7 @@ goracco
 gerbil
 grandaunt
 gheg
+guanidopropionic
 gadolinic
 glairy
 greenhorn
