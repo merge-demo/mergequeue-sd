@@ -5630,7 +5630,6 @@ duddy
 dei
 dozy
 desaturation
-depetalize
 disprivilege
 disputeless
 detainingly
@@ -14601,6 +14600,7 @@ devs
 divort
 deconsecration
 dietarily
+depetalize
 desulfovibrio
 diarrheas
 duodenectomy
