@@ -3665,6 +3665,7 @@ educations
 electrogenesis
 embryos
 encuirassed
+excruciating
 esthesioblast
 embryotega
 etherialise
@@ -12118,7 +12119,6 @@ excerpter
 elutions
 eubacterium
 ency
-excruciating
 enascent
 excruciator
 euphemious
