@@ -1345,7 +1345,6 @@ affiliated
 atom
 aiolis
 agnized
-accelerate
 anilide
 acceleratedly
 assidean
@@ -3943,6 +3942,7 @@ agonied
 aphidian
 alarmed
 argentamide
+accelerate
 adjunctively
 adjunctly
 analogia
