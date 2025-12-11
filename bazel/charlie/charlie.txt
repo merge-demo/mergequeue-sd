@@ -2641,7 +2641,6 @@ camelopardel
 canes
 caprellidae
 canescence
-chaetetes
 conversationalist
 camstone
 composes
@@ -23276,6 +23275,7 @@ consumating
 consumedly
 consumeless
 corkiness
+chaetetes
 consumer
 consumerist
 consumes
