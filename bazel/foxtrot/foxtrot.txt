@@ -3478,6 +3478,7 @@ favillae
 fumaroid
 fibbed
 figshell
+floatation
 foe
 fury
 ficins
@@ -8114,7 +8115,6 @@ fractiousness
 foretackle
 freemasonism
 flamandize
-floatation
 favouredness
 foretaster
 forefin
