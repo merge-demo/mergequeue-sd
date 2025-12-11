@@ -33,7 +33,6 @@ everbloomer
 eanling
 ear
 endosporia
-enumerated
 estimableness
 epidemiological
 electrothermic
@@ -13787,6 +13786,7 @@ extortioners
 entomogenous
 elachista
 electrometallurgical
+enumerated
 ethnicism
 esquiring
 exacuate

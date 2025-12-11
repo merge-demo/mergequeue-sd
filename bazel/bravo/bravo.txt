@@ -11795,7 +11795,6 @@ bollies
 bices
 bepommel
 bystreets
-bardolphian
 bock
 bullishly
 bigamists
@@ -17403,6 +17402,7 @@ bombyciform
 britzskas
 buccellarius
 beshield
+bardolphian
 boppers
 bunk
 begrudged
