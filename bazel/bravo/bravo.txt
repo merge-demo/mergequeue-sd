@@ -1293,7 +1293,6 @@ biogasses
 bacao
 brochantite
 bury
-bedbug
 bedust
 boleite
 bacterioprecipitin
@@ -5559,6 +5558,7 @@ bessera
 bontebucks
 bagnette
 barrette
+bedbug
 bloodguiltless
 blackeners
 brutified
