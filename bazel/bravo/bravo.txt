@@ -11953,6 +11953,7 @@ bostons
 bogymen
 bogland
 budgerigah
+berthierite
 bytalk
 bogled
 boglet
@@ -18171,7 +18172,6 @@ bitterwort
 bechern
 butlery
 belief
-berthierite
 bouche
 butleries
 biltongue
