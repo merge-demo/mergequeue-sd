@@ -7600,6 +7600,7 @@ achondrite
 araeosystyle
 agrimonies
 antileft
+ancerata
 auxographic
 alcestis
 asop
@@ -11864,7 +11865,6 @@ angelus
 acyanopsia
 awink
 acceptedly
-ancerata
 asperous
 adventurer
 anamnestic
