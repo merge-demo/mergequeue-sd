@@ -2621,7 +2621,6 @@ eiry
 entad
 exemplarity
 ethnocentrism
-electrosmosis
 easement
 excelling
 exegetist
@@ -11917,6 +11916,7 @@ enunciatively
 epimenidean
 eucalyptic
 earlobes
+electrosmosis
 exceptiousness
 exultation
 eyr
