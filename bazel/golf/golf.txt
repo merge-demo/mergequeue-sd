@@ -3689,6 +3689,7 @@ gallying
 gulist
 geissospermin
 griphus
+glutenin
 groover
 gaslighted
 grapsus
@@ -5454,7 +5455,6 @@ gumchewer
 grandmotherliness
 gender
 groovy
-glutenin
 granomerite
 groceress
 granularly
