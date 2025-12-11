@@ -300,7 +300,6 @@ exserting
 electrostenolytic
 extortionate
 expedient
-esotericism
 extrema
 eirenarch
 excitement
@@ -9171,6 +9170,7 @@ extradition
 endamebas
 enslavement
 everts
+esotericism
 exhorted
 eusuchia
 esoneural
