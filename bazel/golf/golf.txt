@@ -7939,6 +7939,7 @@ grandads
 goracco
 gerbil
 grandaunt
+gaydiang
 gheg
 guanidopropionic
 gadolinic
@@ -9507,7 +9508,6 @@ gammoner
 gynophoric
 gobbling
 grandrelle
-gaydiang
 grouper
 garnisheing
 grisbet
