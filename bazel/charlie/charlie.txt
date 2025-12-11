@@ -15623,7 +15623,6 @@ characinoid
 concludence
 coenoecium
 cassabanana
-circumambulatory
 chastely
 candidature
 clausula
@@ -20732,6 +20731,7 @@ complicatedly
 carburan
 carterly
 civilizedness
+circumambulatory
 cytode
 complicates
 complicative
