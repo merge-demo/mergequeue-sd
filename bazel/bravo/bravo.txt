@@ -8905,6 +8905,7 @@ bearhugs
 buggeries
 biddings
 bandoras
+barbette
 baisakh
 biocycle
 biocycles
@@ -12179,7 +12180,6 @@ brose
 bradyphemia
 breek
 biasnesses
-barbette
 baptist
 barbarisms
 bolivians
