@@ -565,6 +565,7 @@ ferny
 falling
 flichtering
 faradized
+fylgjur
 famine
 folklorism
 forjudger
@@ -4098,7 +4099,6 @@ fakers
 foreprovided
 finny
 fabulosity
-fylgjur
 foolship
 finnicize
 finitely
