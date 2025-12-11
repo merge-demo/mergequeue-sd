@@ -9617,7 +9617,6 @@ assument
 amygdaliform
 abominates
 arachnoid
-anaglyptography
 atonalist
 abridges
 ancestors
@@ -18379,6 +18378,7 @@ ankylotia
 arapahos
 azorian
 adversant
+anaglyptography
 awaiter
 anticensoriously
 autoecious
