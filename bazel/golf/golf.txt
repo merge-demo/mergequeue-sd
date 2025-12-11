@@ -645,7 +645,6 @@ gnarled
 grueling
 grecophil
 glycerogel
-gallophilism
 givey
 gravimetry
 glower
@@ -3585,6 +3584,7 @@ gorilloid
 glimpsing
 greekling
 glumella
+gallophilism
 gourmandize
 galvanisation
 gausses

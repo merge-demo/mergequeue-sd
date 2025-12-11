@@ -1178,6 +1178,7 @@ compeer
 correlate
 calculational
 concaves
+champignons
 calculator
 calculatory
 calculators
@@ -8473,7 +8474,6 @@ coquillage
 contrastively
 copyholder
 champignon
-champignons
 caveat
 carle
 contrabassoonist
