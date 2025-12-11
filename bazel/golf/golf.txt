@@ -3995,6 +3995,7 @@ groaner
 graduated
 granary
 genuflection
+gastroenterology
 gastroatrophia
 gunlaying
 garrotted
@@ -10346,7 +10347,6 @@ gigantostraca
 gracy
 geographized
 garnetiferous
-gastroenterology
 gridder
 gloomed
 gul
