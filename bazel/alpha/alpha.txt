@@ -9988,7 +9988,6 @@ ambergris
 agrafe
 amberite
 aduncous
-asellidae
 artiller
 amberjacks
 ahankara
@@ -17590,6 +17589,7 @@ autovalve
 appendorontgenography
 antheximeter
 appendotome
+asellidae
 activist
 astroid
 adjoining
