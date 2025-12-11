@@ -2979,7 +2979,6 @@ fallway
 fadings
 felucca
 frothing
-fy
 fiacres
 fetichry
 firelit
@@ -9761,6 +9760,7 @@ flyspeck
 flummoxed
 fastiia
 fascists
+fy
 fencers
 frescoed
 finer
