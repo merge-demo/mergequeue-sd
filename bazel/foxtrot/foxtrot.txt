@@ -5181,6 +5181,7 @@ funic
 flameflower
 feeding
 flued
+fere
 flatulentness
 futter
 fibs
@@ -11042,7 +11043,6 @@ fumuli
 funerate
 flappers
 fungated
-fere
 funambulator
 feels
 faunological
