@@ -13553,6 +13553,7 @@ bijugate
 boughpots
 boughs
 bougie
+bercelet
 botry
 bouchees
 boodlers
@@ -14730,7 +14731,6 @@ benthonic
 baetzner
 begorrah
 buncal
-bercelet
 brawlsome
 brawnedness
 bilamellated
