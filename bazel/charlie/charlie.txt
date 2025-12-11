@@ -15695,7 +15695,6 @@ clima
 chrysograph
 claviger
 carshops
-clavilux
 coy
 carlisle
 clavipectoral
@@ -26718,6 +26717,7 @@ calamitously
 cubicles
 counterblast
 counterborder
+clavilux
 counterbored
 celandine
 curcumin
