@@ -3103,7 +3103,6 @@ apocryphalist
 actinophrys
 aspics
 archimorphic
-actinopteran
 ascidian
 autorail
 actinopteri
@@ -5664,6 +5663,7 @@ agag
 avarian
 appointees
 andabatarian
+actinopteran
 aeschylean
 again
 adorsed
