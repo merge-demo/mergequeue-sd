@@ -9860,6 +9860,7 @@ epoophoron
 esthesiogeny
 embryographic
 edda
+emulation
 enragedly
 exuberation
 epistolist
@@ -13576,7 +13577,6 @@ exsudate
 extumescence
 ectadenia
 egeria
-emulation
 epikeia
 esoteric
 exsufflate

@@ -6660,6 +6660,7 @@ cedrus
 crioceris
 cardiosymphysis
 cedula
+cheirogaleus
 cee
 coracomorphic
 chard
@@ -9703,7 +9704,6 @@ cankeredly
 cimex
 chromotype
 cheiranthus
-cheirogaleus
 cheirography
 cheirolin
 cymbal
