@@ -4379,7 +4379,6 @@ adstipulator
 aduana
 adularescence
 appointments
-abbes
 assertorial
 atelectatic
 ankylomerism
@@ -14796,6 +14795,7 @@ acquaint
 aristocratic
 antichamber
 allogenically
+abbes
 anadipsic
 antiscii
 abbreviations
