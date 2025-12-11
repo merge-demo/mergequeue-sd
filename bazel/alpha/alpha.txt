@@ -6755,6 +6755,7 @@ abucco
 alt
 aftermarket
 arpeggio
+armigeros
 allomerize
 agglutination
 atrioporal
@@ -19856,7 +19857,6 @@ abhenries
 armiger
 aitches
 aweto
-armigeros
 armigerous
 autotomized
 aimful
