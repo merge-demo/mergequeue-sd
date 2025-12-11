@@ -702,6 +702,7 @@ bogyland
 browbeaten
 blossomhead
 brokeress
+bistort
 binful
 bransles
 berrendo
@@ -9768,7 +9769,6 @@ burdocks
 basifugal
 buffered
 bistipulate
-bistort
 bedarkened
 bistorts
 beeyard
