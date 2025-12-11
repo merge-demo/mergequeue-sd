@@ -494,7 +494,6 @@ flickered
 foretokens
 frieseite
 fullers
-fiumara
 forcleave
 fakery
 flaxweed
@@ -553,6 +552,7 @@ fertilely
 figless
 frim
 foxwood
+fiumara
 flagging
 ficin
 federative
