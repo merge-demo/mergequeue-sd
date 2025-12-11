@@ -3739,7 +3739,6 @@ asystematic
 acknowledges
 astigmatical
 adequacies
-adequate
 acclivity
 almuerzo
 appenage
@@ -11486,6 +11485,7 @@ amusement
 artificership
 anagennesis
 alodiality
+adequate
 aerometry
 agglomerant
 anisettes
