@@ -10637,7 +10637,6 @@ eudaimonia
 eudaimonist
 epirhizous
 eric
-eudemonic
 epappose
 epinephelidae
 episcotister
@@ -11527,6 +11526,7 @@ embryoma
 evincible
 ectopterygoid
 elegancies
+eudemonic
 epicurean
 elastometer
 emcee
