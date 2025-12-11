@@ -2955,7 +2955,6 @@ gaeldom
 geocyclic
 gnat
 gorsy
-glideless
 gynaecocracies
 gunfighters
 geocoronium
@@ -8142,6 +8141,7 @@ gynaeolater
 gloat
 glowflies
 granulators
+glideless
 gripper
 gynaecocracy
 guanidins
