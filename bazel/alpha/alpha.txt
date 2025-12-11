@@ -17283,7 +17283,6 @@ anights
 aport
 aportlast
 aposaturnium
-aposia
 aposiopesis
 aposiopetic
 americanize
@@ -25018,6 +25017,7 @@ attentionality
 awkwarder
 awlwort
 aweary
+aposia
 awmous
 awned
 angelhood
