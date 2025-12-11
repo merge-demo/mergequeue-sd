@@ -13749,7 +13749,6 @@ bovinities
 buffet
 brazenly
 blesseder
-bedlam
 bogs
 boatful
 brontide
@@ -15255,6 +15254,7 @@ begumming
 bridesmaids
 blunges
 bridesmen
+bedlam
 baybolt
 bridestake
 befoulier

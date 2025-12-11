@@ -9087,7 +9087,6 @@ gryllid
 galluptious
 geelbek
 glottogonic
-greffotome
 glassworking
 glasser
 grimalkin
@@ -10715,6 +10714,7 @@ gucked
 garbanzo
 grided
 gu
+greffotome
 grams
 gumma
 gunship
