@@ -3300,7 +3300,6 @@ fivescore
 flounces
 ferrelled
 fortier
-fulgency
 factitious
 flirtationless
 foetus
@@ -10461,6 +10460,7 @@ factionalist
 fribblers
 ferruling
 farrant
+fulgency
 frontiersmen
 flnerie
 foregoer
