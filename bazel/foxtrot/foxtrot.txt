@@ -2164,6 +2164,7 @@ flypapers
 fraudulently
 fellowships
 ferruginean
+function
 farrowed
 fliskiest
 faery
@@ -3912,7 +3913,6 @@ footslogged
 fluidextract
 findable
 fruz
-function
 findhorn
 filarees
 fine
