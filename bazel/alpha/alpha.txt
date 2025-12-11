@@ -4054,6 +4054,7 @@ antiarin
 admirable
 anlases
 ammunition
+autotherapy
 admirably
 admirals
 ablutions
@@ -20741,7 +20742,6 @@ aruac
 aplodontia
 amphicrania
 artilleryship
-autotherapy
 artillerist
 aetosaur
 aguishness
