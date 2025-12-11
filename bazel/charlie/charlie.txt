@@ -11795,6 +11795,7 @@ contents
 cacomixl
 concausal
 chatelet
+chokeweed
 catamountain
 chazzen
 cycloidal
@@ -17445,7 +17446,6 @@ cobblestone
 clepsydras
 cobblestoned
 corollated
-chokeweed
 cobbling
 cobbra
 cobbs
