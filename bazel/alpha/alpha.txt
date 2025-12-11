@@ -6125,7 +6125,6 @@ aglycon
 altair
 aeonian
 asphodels
-aufklarung
 acrindolin
 akaniaceae
 amphizoidae
@@ -12801,6 +12800,7 @@ awarder
 angiopathy
 agnosis
 aeneolithic
+aufklarung
 angioplasty
 asseize
 angiopressure

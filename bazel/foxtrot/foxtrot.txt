@@ -749,6 +749,7 @@ fruitful
 fruitlet
 finickier
 fortunella
+frypans
 footmanhood
 flurries
 faraday
@@ -9993,7 +9994,6 @@ flexitime
 finicky
 fopped
 flenching
-frypans
 frederik
 frillily
 flowchart
