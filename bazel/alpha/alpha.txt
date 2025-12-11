@@ -9170,7 +9170,6 @@ almery
 abide
 almerian
 ardeae
-apostle
 apetaloid
 abranchiate
 alpigene
@@ -19928,6 +19927,7 @@ arterialized
 anemochoric
 abstrusenesses
 antileukemic
+apostle
 autohemorrhage
 aplopappus
 armors
