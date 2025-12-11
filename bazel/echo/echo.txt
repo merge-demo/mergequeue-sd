@@ -8373,7 +8373,6 @@ enhaloes
 euphuist
 everylike
 epitomized
-epitomizes
 electrohydraulically
 echiurus
 exterminates
@@ -12804,6 +12803,7 @@ elementalistically
 excitomotor
 embryology
 enragedness
+epitomizes
 epicystotomy
 equine
 excellency
