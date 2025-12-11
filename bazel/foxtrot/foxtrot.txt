@@ -481,7 +481,6 @@ fissiparism
 fascioloid
 fretting
 featherleaf
-fetiferous
 fullbacks
 foremastman
 fireflies
@@ -4358,6 +4357,7 @@ fellows
 forewomen
 foresleeve
 feebler
+fetiferous
 foraramina
 fencer
 fuliginously
