@@ -405,7 +405,6 @@ fronde
 farcy
 frislet
 faq
-fibber
 firetrap
 frustraneous
 fribbled
@@ -10149,6 +10148,7 @@ freycinetia
 flaxen
 farmwife
 foreannouncement
+fibber
 forbit
 forepredicament
 feued
