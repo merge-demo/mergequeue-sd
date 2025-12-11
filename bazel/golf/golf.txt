@@ -1074,7 +1074,6 @@ glor
 gonimous
 gilden
 gangrened
-gloiosiphoniaceae
 genoas
 granddaddy
 ghostliness
@@ -3693,6 +3692,7 @@ griphus
 groover
 gaslighted
 grapsus
+gloiosiphoniaceae
 ghostfishes
 garrisonism
 gallinae
