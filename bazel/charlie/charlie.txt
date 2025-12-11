@@ -17033,6 +17033,7 @@ cornroot
 cripple
 cibaria
 coperose
+cozy
 coachfellow
 coachy
 coaching
@@ -31607,7 +31608,6 @@ chaton
 curvation
 curvative
 curvature
-cozy
 crosstail
 clingstone
 curve
