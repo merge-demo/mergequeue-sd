@@ -3679,6 +3679,7 @@ adenoneure
 antihierarchies
 adenopharyngeal
 adenophlegmon
+anatomized
 appulsively
 antestature
 adenophora
@@ -18412,7 +18413,6 @@ amaryllid
 arawak
 ankh
 arawakian
-anatomized
 anteriority
 antlion
 amboceptor
