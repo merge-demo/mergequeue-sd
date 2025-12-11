@@ -5381,7 +5381,6 @@ ethylidene
 evicted
 envolupen
 endotheliomas
-excercise
 explicators
 esquiline
 empyreum
@@ -11338,6 +11337,7 @@ evapotranspiration
 ecaudata
 esiphonal
 ergatoid
+excercise
 evenglow
 erenach
 eneid

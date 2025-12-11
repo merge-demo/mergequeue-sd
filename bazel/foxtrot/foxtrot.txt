@@ -526,7 +526,6 @@ fleeces
 flappet
 forfeiter
 factitial
-funambulant
 falcons
 fawnery
 falcunculus
@@ -7410,6 +7409,7 @@ forceless
 fasciolar
 flagellariaceae
 flameholder
+funambulant
 fasciculation
 fey
 figgum
