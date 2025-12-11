@@ -5285,7 +5285,6 @@ gloamings
 gaited
 gemmipara
 golgi
-genuflectory
 golf
 gab
 gunter
@@ -5670,6 +5669,7 @@ game
 gunstick
 glueman
 granma
+genuflectory
 granadilla
 gowkedness
 gasps
