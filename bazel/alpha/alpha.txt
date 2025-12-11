@@ -5019,6 +5019,7 @@ acinetae
 aeroperitoneum
 alburnum
 animadverting
+allomerism
 acetals
 avondbloem
 anomalogonatae
@@ -5581,7 +5582,6 @@ andiroba
 absolute
 afters
 amphibrach
-allomerism
 attentat
 apholate
 aftershaft
