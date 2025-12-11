@@ -9321,6 +9321,7 @@ axstone
 azoerythrin
 alpenglow
 amputations
+amorpha
 alpenstock
 alpenstocks
 alpestrine
@@ -11017,7 +11018,6 @@ adenyl
 astounded
 amorph
 athelia
-amorpha
 anglicanism
 ascensiontide
 anarthropodous
