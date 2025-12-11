@@ -7282,7 +7282,6 @@ fibulocalcaneal
 filibegs
 fishmonger
 fozy
-flavobacteria
 foliobranchiate
 forayed
 facilitating
@@ -9854,6 +9853,7 @@ firebricks
 focal
 females
 fricando
+flavobacteria
 fakement
 feminize
 funge
