@@ -16602,7 +16602,6 @@ denotative
 donjon
 dikdiks
 decapitates
-dactylopius
 derout
 denotations
 dialuric
@@ -16615,6 +16614,7 @@ deplumes
 dipleurulas
 dorados
 distr
+dactylopius
 darkhearted
 dragonfishes
 didelph
