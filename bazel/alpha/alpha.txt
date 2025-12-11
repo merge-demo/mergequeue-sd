@@ -4911,7 +4911,6 @@ aliyoth
 autecologist
 aerodonetics
 appeasement
-amnesiac
 arcanum
 algorithms
 antipedal
@@ -24989,6 +24988,7 @@ awhape
 awheft
 aganglionic
 antheriferous
+amnesiac
 amphitheatric
 anthroic
 alliterating
