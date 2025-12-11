@@ -954,7 +954,6 @@ gunstone
 gamophagy
 grave
 ghostless
-graptolite
 gunshot
 glist
 genomic
@@ -5830,6 +5829,7 @@ globoid
 geobotanically
 gosling
 gratters
+graptolite
 gigamaree
 gauchos
 grieveship
