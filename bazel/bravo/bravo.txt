@@ -3418,7 +3418,6 @@ bastardry
 briny
 bastards
 bioptic
-barrelfishes
 baster
 bastille
 bastilles
@@ -8376,6 +8375,7 @@ bradoon
 bights
 blickeys
 bonamano
+barrelfishes
 blathery
 bigamized
 bemuddled

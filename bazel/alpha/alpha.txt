@@ -9969,6 +9969,7 @@ ambassade
 appreciatively
 alkynes
 adactylia
+adipous
 alerion
 ambassadorially
 ascription
@@ -21173,7 +21174,6 @@ arginases
 atomicism
 aseptolin
 alighted
-adipous
 asexualisation
 acicularity
 approachableness
