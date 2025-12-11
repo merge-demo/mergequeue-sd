@@ -4579,6 +4579,7 @@ generalate
 goosebill
 geometrid
 grating
+grippiness
 goupen
 gastrohysterotomy
 grasscutter
@@ -9204,7 +9205,6 @@ gradine
 goniometrically
 grippiest
 granulating
-grippiness
 gratulatory
 glycolytically
 guanajuatite
