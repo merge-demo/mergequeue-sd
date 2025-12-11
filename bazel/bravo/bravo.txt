@@ -858,6 +858,7 @@ benzidin
 benzalcohol
 beffroy
 baggala
+bijouterie
 borderlight
 bagganet
 baggara
@@ -13489,7 +13490,6 @@ boneyards
 botulisms
 brief
 brodequin
-bijouterie
 bouch
 blacksmith
 boucharde
