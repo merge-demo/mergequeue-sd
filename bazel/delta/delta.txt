@@ -3353,6 +3353,7 @@ definitions
 dormant
 dilatant
 deliriate
+dupers
 diastem
 demitting
 desume
@@ -9639,7 +9640,6 @@ dowing
 dihybridism
 dihybrids
 disfunctions
-dupers
 dihydrochloride
 draconin
 duplicable
