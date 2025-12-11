@@ -1097,6 +1097,7 @@ flameproofer
 faculae
 fontinalaceous
 fam
+fungus
 fishback
 finkel
 fellatrixes
@@ -3301,7 +3302,6 @@ flirtationless
 foetus
 framed
 fideicommissaries
-fungus
 flirtling
 finesser
 faon
