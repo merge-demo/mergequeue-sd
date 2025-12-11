@@ -1476,7 +1476,6 @@ electroshocks
 exposal
 embolium
 embarrased
-empathic
 etui
 epizootically
 effused
@@ -12044,6 +12043,7 @@ exclusivistic
 exclusivity
 ecstatic
 effluents
+empathic
 excogitated
 epiploic
 excogitator
