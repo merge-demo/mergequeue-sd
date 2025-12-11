@@ -1973,6 +1973,7 @@ goring
 grubroot
 glut
 gripes
+geophila
 grudged
 ghastlier
 guttable
@@ -9359,7 +9360,6 @@ glycuronid
 governability
 griffs
 gruf
-geophila
 graduate
 galleasses
 goliad
