@@ -2272,6 +2272,7 @@ full
 flavones
 filamentiferous
 fantails
+fattier
 folktale
 fulmineous
 fragging
@@ -2566,7 +2567,6 @@ flongs
 ferrocyanate
 ferroelectric
 fingerbreadth
-fattier
 fouty
 franchiser
 fibrocytic
