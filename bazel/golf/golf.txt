@@ -2258,7 +2258,6 @@ glarry
 griff
 gospeller
 gigantine
-gangrel
 grandpaternal
 glamoury
 gigantoblast
@@ -2517,6 +2516,7 @@ geniohyoglossus
 grenado
 guiled
 giffgaff
+gangrel
 graeme
 grieflessness
 goshawks
