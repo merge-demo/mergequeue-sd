@@ -3186,7 +3186,6 @@ epaule
 elseways
 extuberance
 ecliptical
-elaiosome
 elt
 elaters
 engendure
@@ -5099,6 +5098,7 @@ eardrums
 exited
 endoclinal
 eternals
+elaiosome
 eupanorthidae
 exilian
 ectozoan
