@@ -5924,6 +5924,7 @@ cathar
 cathari
 catharina
 carminite
+colorings
 comprehend
 coloplication
 catharist
@@ -19380,7 +19381,6 @@ connoisseurs
 crosscurrents
 colorin
 coloring
-colorings
 conges
 cystous
 coloristically
