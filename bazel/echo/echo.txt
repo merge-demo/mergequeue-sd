@@ -849,6 +849,7 @@ erythrocytolysin
 electrocution
 encomiastical
 endophyte
+eneuch
 endonucleolus
 entailed
 ectomorph
@@ -5602,7 +5603,6 @@ enfoldings
 elevators
 enfolds
 ergotine
-eneuch
 emigated
 epicist
 episiostenosis
