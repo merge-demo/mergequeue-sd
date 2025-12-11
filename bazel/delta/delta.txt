@@ -3334,7 +3334,6 @@ defines
 dispensatively
 deionizes
 donated
-definiens
 derencephalocele
 dolabre
 decigram
@@ -8556,6 +8555,7 @@ dyschromatopsia
 duchy
 dethrone
 dewbeam
+definiens
 didacts
 diaphanometric
 dampishness
