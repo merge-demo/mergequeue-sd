@@ -9497,6 +9497,7 @@ dite
 digestibleness
 digestibly
 delesseriaceae
+dolichurus
 disconfirmation
 decline
 dinornithidae
@@ -13635,7 +13636,6 @@ disship
 disshiver
 deletory
 dissiliency
-dolichurus
 dermatobia
 dissyllabic
 dasypaedic
