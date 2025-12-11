@@ -18102,6 +18102,7 @@ articulationes
 analogising
 aquacade
 amotion
+arrope
 aquaemanale
 avarices
 azygobranchiata
@@ -20203,7 +20204,6 @@ afterburner
 amaryllideous
 alerter
 ascham
-arrope
 airwash
 abb
 alsinaceous

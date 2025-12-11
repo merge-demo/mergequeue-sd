@@ -7134,7 +7134,6 @@ bespell
 bespelled
 bespend
 bespew
-biparietal
 boucherism
 bandfiling
 batan
@@ -8996,6 +8995,7 @@ boulangist
 boreable
 balei
 bummerish
+biparietal
 brattles
 bioherm
 besotting
