@@ -7013,7 +7013,6 @@ estated
 emetines
 extradialectal
 economising
-erythrochaete
 earphone
 enactory
 embellished
@@ -10150,6 +10149,7 @@ extraorbital
 etherialised
 epicrates
 elaborators
+erythrochaete
 exsomatic
 emmove
 earlyish
