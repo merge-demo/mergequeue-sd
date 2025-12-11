@@ -14955,6 +14955,7 @@ breathes
 boarstaff
 bookishly
 breathingly
+bruteness
 bepaper
 breathless
 bitstalk
@@ -16529,7 +16530,6 @@ bisonant
 brutely
 blindstitch
 basils
-bruteness
 befilleted
 brutify
 basic
