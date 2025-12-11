@@ -11981,6 +11981,7 @@ chorisis
 chlorins
 chorist
 cyanuret
+cauliflower
 characetum
 choristate
 chorister
@@ -31564,7 +31565,6 @@ cheesemongery
 centrals
 cariamae
 cowlicks
-cauliflower
 cortine
 curtainless
 curtainwise
