@@ -5627,7 +5627,6 @@ foetor
 fernery
 forepassed
 fireboot
-fuci
 flyless
 forbearingly
 fuddle
@@ -11106,6 +11105,7 @@ flops
 fervanite
 foyaite
 fundamentalists
+fuci
 flatbread
 fastland
 formality
