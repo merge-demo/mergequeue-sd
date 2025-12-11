@@ -6425,7 +6425,6 @@ glommed
 gastroduodenoscopy
 gemmules
 gematria
-gymnoblastea
 gongorist
 geostationary
 grieshoch
@@ -10723,6 +10722,7 @@ gismondine
 gastrolytic
 gutnic
 gracioso
+gymnoblastea
 guywire
 gerbera
 germinated
