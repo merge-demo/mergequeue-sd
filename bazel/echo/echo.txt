@@ -12973,7 +12973,6 @@ explode
 etherous
 evanition
 epicentrums
-endocrinism
 equanimously
 expecter
 expecting
@@ -13050,6 +13049,7 @@ expediter
 enunciates
 eulogistically
 expeditiously
+endocrinism
 erythrocarpous
 ecstasies
 euge
