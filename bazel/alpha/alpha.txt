@@ -6969,6 +6969,7 @@ angeldom
 araneologist
 appropriately
 akron
+amygdules
 anagrammatised
 aberrator
 adores
@@ -7945,7 +7946,6 @@ adp
 alerters
 autotropically
 auditorium
-amygdules
 alerting
 ales
 anion
