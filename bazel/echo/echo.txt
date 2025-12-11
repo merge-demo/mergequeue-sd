@@ -7457,7 +7457,6 @@ ellerian
 eavesdroppers
 ephemerid
 ewe
-escobadura
 ephemeridae
 ephemeroptera
 eigne
@@ -12440,6 +12439,7 @@ entorganism
 encasserole
 endite
 equilibrative
+escobadura
 easting
 epifaunas
 entocuniform
