@@ -15284,7 +15284,6 @@ absoluteness
 antiharmonist
 antihelix
 agrypniai
-antimephitic
 aitiotropic
 archeol
 anthracite
@@ -15468,6 +15467,7 @@ antimycotic
 argyric
 achage
 alphatoluic
+antimephitic
 antimilitary
 amoralism
 astacian
