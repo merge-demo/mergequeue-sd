@@ -3942,6 +3942,7 @@ dearomatize
 dogfoot
 deference
 dekes
+dialysation
 derivationally
 drisheen
 douser
@@ -5435,7 +5436,6 @@ disc
 decagon
 denuder
 dermolysis
-dialysation
 denumerably
 denumerantive
 disestablished
