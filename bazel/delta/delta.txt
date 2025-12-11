@@ -5012,7 +5012,6 @@ dunne
 dueness
 diversionary
 distinguish
-derk
 demultiplexer
 deurbanize
 demultiplexers
@@ -16271,6 +16270,7 @@ downstair
 duodenocystostomy
 dacryolite
 dipsaceous
+derk
 denominationalist
 desiderant
 dowels
