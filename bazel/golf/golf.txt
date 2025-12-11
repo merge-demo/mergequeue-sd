@@ -92,7 +92,6 @@ garbling
 glottalizing
 gabbai
 gadge
-gynobaseous
 goldthread
 goodnaturedness
 glassily
@@ -2184,6 +2183,7 @@ guacos
 galea
 goldfinches
 glistening
+gynobaseous
 gebbie
 guardians
 gecarcinian
