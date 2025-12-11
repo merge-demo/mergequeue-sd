@@ -8183,6 +8183,7 @@ diachronically
 dicranum
 detachment
 duellists
+deg
 duple
 deprecate
 diacipiperazine
@@ -8860,7 +8861,6 @@ dibenzoyl
 depilator
 detriments
 dialyzable
-deg
 dichotomal
 dentatocillitate
 deluging
