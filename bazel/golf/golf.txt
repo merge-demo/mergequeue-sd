@@ -8046,6 +8046,7 @@ gossipers
 gan
 galempung
 galleries
+grandisonian
 gravicembali
 gastrulas
 gunzian
@@ -10608,7 +10609,6 @@ geologic
 gribble
 gelds
 greaser
-grandisonian
 gowany
 gushed
 guarache
