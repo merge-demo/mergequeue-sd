@@ -15655,6 +15655,7 @@ aversion
 affectionately
 archeologic
 allomucic
+aponeurotomy
 antiophthalmic
 anet
 attrahent
@@ -17211,7 +17212,6 @@ androphagous
 althaeas
 almudes
 antivirus
-aponeurotomy
 aponic
 archipterygial
 adducers
