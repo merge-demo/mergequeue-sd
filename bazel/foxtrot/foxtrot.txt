@@ -151,6 +151,7 @@ fibre
 fossiled
 facsimiled
 frigidaria
+fanion
 flayers
 fifthly
 folden
@@ -11648,7 +11649,6 @@ forded
 foreknowing
 fusus
 feedlot
-fanion
 filoselle
 forcingly
 farasula
