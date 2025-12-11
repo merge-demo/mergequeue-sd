@@ -8704,7 +8704,6 @@ breechloading
 basaltes
 buttermouth
 broom
-barbadoes
 bourbonist
 bimastic
 bengal
@@ -15800,6 +15799,7 @@ bradykinesia
 broking
 bushfighter
 brainwash
+barbadoes
 battiks
 broletti
 bi
