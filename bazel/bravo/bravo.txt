@@ -2687,6 +2687,7 @@ beblood
 butein
 batch
 beadflush
+benighting
 bemaul
 barnman
 braconids
@@ -11499,7 +11500,6 @@ blowfly
 bombload
 blumes
 beglooms
-benighting
 blunderbuss
 borasqueborate
 blunderbusses
