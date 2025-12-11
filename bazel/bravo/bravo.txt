@@ -5295,7 +5295,6 @@ beggiatoaceae
 blurs
 beggingly
 birsy
-bivalvian
 backstab
 beneficiaire
 buddy
@@ -14378,6 +14377,7 @@ bacteroides
 bicyclo
 babbittian
 bemocked
+bivalvian
 bisischiadic
 brainpan
 brainpans
