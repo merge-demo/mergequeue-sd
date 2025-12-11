@@ -2786,6 +2786,7 @@ bookends
 bowdlerism
 body
 barosinusitus
+behavioural
 barosmin
 backwashed
 blithefully
@@ -5429,7 +5430,6 @@ boshvarks
 behaviored
 betravel
 behaviorists
-behavioural
 brachioradial
 breeds
 biweeklies
