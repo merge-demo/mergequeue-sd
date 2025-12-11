@@ -832,7 +832,6 @@ algarot
 authoritatively
 additur
 anisogeny
-abstruse
 abaff
 ammiral
 abs
@@ -8447,6 +8446,7 @@ amebous
 alkalise
 alkalised
 affrayed
+abstruse
 alkaliser
 adjoint
 angustate
