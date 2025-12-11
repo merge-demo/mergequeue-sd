@@ -2323,7 +2323,6 @@ equison
 electrochronometric
 enfroward
 estafetted
-entendres
 electroplating
 expostulate
 electroplates
@@ -3338,6 +3337,7 @@ enregistration
 egal
 excursioner
 envelopes
+entendres
 encyclopaedial
 embannered
 enforcers
