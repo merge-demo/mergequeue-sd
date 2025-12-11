@@ -7722,7 +7722,6 @@ chastises
 cerotin
 chorogi
 cerotypes
-confirmedly
 cerous
 cerrial
 cecidology
@@ -29935,6 +29934,7 @@ crossopterygii
 chromonema
 crossosomataceous
 contrahent
+confirmedly
 crossovers
 chokebore
 cardiataxia
