@@ -1827,6 +1827,7 @@ banderma
 banderol
 banderole
 bindings
+beadwork
 brigading
 banders
 broadlings
@@ -4012,7 +4013,6 @@ barcelonas
 besquib
 beadswomen
 broadcasting
-beadwork
 baetuli
 boilermaking
 butcheries

@@ -1680,7 +1680,6 @@ gastrodermal
 gulfweed
 guayabo
 gastroduodenitis
-guadua
 gastroduodenostomy
 gastritis
 ganodont
@@ -10537,6 +10536,7 @@ galleriidae
 gyrational
 gimmicks
 goalee
+guadua
 garn
 goblinry
 gundie
