@@ -1484,6 +1484,7 @@ granolith
 girllike
 grotesque
 garner
+geogenetic
 galaginae
 glumly
 gunmaker
@@ -9966,7 +9967,6 @@ geoids
 geoglyphic
 gedd
 galerite
-geogenetic
 ghatwal
 glozer
 guitarfishes
