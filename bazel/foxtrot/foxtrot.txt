@@ -760,7 +760,6 @@ fabricating
 farcilite
 flybelt
 frozenness
-figurines
 fluxions
 fancied
 frazzled
@@ -7466,6 +7465,7 @@ filer
 factures
 furciferous
 fordableness
+figurines
 fatiguabilities
 fathership
 featless
