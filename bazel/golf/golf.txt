@@ -3490,7 +3490,6 @@ gestatory
 goan
 geriatric
 grivoise
-gastropore
 graphonomy
 genipaps
 gave
@@ -4233,6 +4232,7 @@ gippers
 gliosa
 greenovite
 gigantosaurus
+gastropore
 gonidiose
 ghibelline
 gynaecium
