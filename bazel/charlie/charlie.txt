@@ -2655,7 +2655,6 @@ conclusiveness
 canezou
 canfield
 counterstatement
-canfields
 cantillating
 canfuls
 cangan
@@ -3737,6 +3736,7 @@ coconspirator
 circuituously
 comparably
 caratacus
+canfields
 cynoidea
 caratch
 chevaline
