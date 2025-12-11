@@ -4215,7 +4215,6 @@ gosmore
 glotum
 gatchwork
 greying
-ges
 genera
 geod
 gleesome
@@ -7605,6 +7604,7 @@ gullibility
 gorkhali
 guarantied
 gangliar
+ges
 gopherman
 gravimetrically
 greengroceries
