@@ -784,7 +784,6 @@ backcomb
 begod
 browniness
 bldr
-blautok
 baetulus
 boothose
 batrachophobia
@@ -10783,6 +10782,7 @@ brewster
 bradford
 blepharocarcinoma
 balinger
+blautok
 bayish
 blesmol
 bestripe
