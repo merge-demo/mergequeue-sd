@@ -5454,6 +5454,7 @@ groundflower
 gumchewer
 grandmotherliness
 gender
+gallinules
 groovy
 granomerite
 groceress
@@ -10628,7 +10629,6 @@ goldenmouth
 greenockite
 gallow
 glumose
-gallinules
 gotraja
 goy
 guildite

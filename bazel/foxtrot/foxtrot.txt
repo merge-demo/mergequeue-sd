@@ -5999,6 +5999,7 @@ fez
 featishness
 fusty
 foolscaps
+fumblers
 felspars
 flacon
 foo
@@ -10993,7 +10994,6 @@ foreproffer
 foreweep
 fatlike
 furfurol
-fumblers
 feign
 fumbles
 fumblingness
