@@ -1706,7 +1706,6 @@ gryposis
 gentries
 gastrophilite
 grandly
-gastrograph
 gazetteerish
 gordioidea
 gane
@@ -5948,6 +5947,7 @@ gewgawish
 grackle
 grogshops
 goofs
+gastrograph
 gambirs
 glamourizer
 gluepot
