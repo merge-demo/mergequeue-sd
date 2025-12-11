@@ -6611,6 +6611,7 @@ borachio
 berdache
 battuta
 berdash
+bliaut
 booming
 birotation
 bromelins
@@ -10288,7 +10289,6 @@ benevolist
 blacksnake
 baneful
 boltonite
-bliaut
 ballsy
 blacktongue
 byroniana

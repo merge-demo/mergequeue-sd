@@ -4319,7 +4319,6 @@ florescence
 fluyt
 factive
 fet
-flamethrower
 funditor
 fructiferousness
 fretworked
@@ -6298,6 +6297,7 @@ falerian
 flumes
 fluminous
 freak
+flamethrower
 fluxibility
 flummer
 flickerproof
