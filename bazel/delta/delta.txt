@@ -3209,6 +3209,7 @@ declaratives
 defectlessness
 delegatory
 dougl
+dastardliness
 dislevelment
 descendible
 despiteous
@@ -6366,7 +6367,6 @@ duodenum
 dermosclerite
 deco
 dermotropic
-dastardliness
 diacatholicon
 defined
 ducula

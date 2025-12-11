@@ -5171,6 +5171,7 @@ caseous
 caserios
 cyphering
 caserne
+catabolize
 casernes
 costumery
 caserns
@@ -20354,7 +20355,6 @@ categorizations
 compactly
 conciliatingly
 chondrodynia
-catabolize
 cancerdrops
 compactor
 clobbered
