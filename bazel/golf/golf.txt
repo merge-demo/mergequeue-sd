@@ -42,7 +42,6 @@ gabions
 groats
 graperies
 gangue
-gorgelet
 glaucolite
 guemal
 geometrine
@@ -7918,6 +7917,7 @@ garbless
 gynecologies
 guyana
 granny
+gorgelet
 gastrulated
 glycopexia
 glogg
