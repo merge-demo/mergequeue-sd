@@ -9231,7 +9231,6 @@ bumbee
 bipaschal
 buffin
 biped
-bipedal
 beggared
 bogo
 backhauling
@@ -13733,6 +13732,7 @@ bescurf
 burga
 bufflehorn
 bovaristic
+bipedal
 burgout
 besmirching
 bannermen
