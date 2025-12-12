@@ -6692,7 +6692,6 @@ genocides
 gonfalcon
 glossopyrosis
 generational
-gong
 gekkota
 gild
 gundelow
@@ -9024,6 +9023,7 @@ geosynchronous
 glagah
 gargarism
 grantedly
+gong
 glycerinated
 glovemaking
 griffonage
