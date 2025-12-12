@@ -7109,7 +7109,6 @@ bimorphs
 bushing
 bespeaking
 bullalaria
-bespeaks
 bespecked
 backrun
 bedwards
@@ -15146,6 +15145,7 @@ briguing
 baxterianism
 briarean
 biochemists
+bespeaks
 befingers
 bisimine
 bah
