@@ -826,7 +826,6 @@ corban
 cailcedra
 counterrestoration
 caille
-corticole
 cailliach
 caimacam
 capitalizes
@@ -20128,6 +20127,7 @@ chloropalladic
 commissively
 cinchona
 commissoria
+corticole
 clypeastroidea
 commissure
 chalcidic
