@@ -1808,7 +1808,6 @@ gastrocolostomy
 geodesia
 geryoniidae
 gthite
-goala
 gulleries
 giddies
 generativeness
@@ -4605,6 +4604,7 @@ gutturalized
 gilim
 graphometry
 glim
+goala
 galloper
 goobers
 gagger
