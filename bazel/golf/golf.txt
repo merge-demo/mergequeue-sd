@@ -7549,7 +7549,6 @@ geepound
 gunyah
 geodesies
 greenths
-garbled
 goldarns
 gravimeter
 gallycrow
@@ -8586,6 +8585,7 @@ glabriety
 griqua
 gravity
 gnathostomi
+garbled
 germinal
 gradually
 guildsman
