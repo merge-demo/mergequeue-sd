@@ -2480,7 +2480,6 @@ flavic
 freightage
 fawningness
 fortunize
-furans
 fluters
 fatales
 fontinal
@@ -7377,6 +7376,7 @@ floodlighting
 forbiddingly
 farfels
 fewnes
+furans
 flatworms
 floatplane
 frost
