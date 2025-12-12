@@ -773,7 +773,6 @@ enolizing
 extramedullary
 eolotropic
 electrobus
-equiponderance
 encaged
 exadverso
 endosulfan
@@ -3001,6 +3000,7 @@ emeer
 eggfish
 epistolatory
 elixir
+equiponderance
 ecblastesis
 enraging
 exhortatory
