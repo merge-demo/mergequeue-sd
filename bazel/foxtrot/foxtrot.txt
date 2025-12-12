@@ -7415,7 +7415,6 @@ fille
 falconers
 fawnlike
 fans
-firefang
 footmen
 ferrocerium
 forwarder
@@ -9804,6 +9803,7 @@ fattens
 foredooming
 fleck
 faddist
+firefang
 foamy
 fretum
 fidget
