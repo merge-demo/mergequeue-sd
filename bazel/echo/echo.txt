@@ -4438,6 +4438,7 @@ ectorganism
 encases
 eumenidae
 euryzygous
+epithecal
 electrotechnologist
 exaggerator
 endophagy
@@ -6698,7 +6699,6 @@ echimys
 epicenters
 equines
 espaliers
-epithecal
 enuresis
 entertake
 exstimulate
