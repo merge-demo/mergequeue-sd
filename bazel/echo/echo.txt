@@ -4814,6 +4814,7 @@ encountered
 epigenesist
 endothecium
 entranceway
+editresses
 encashing
 encountering
 eros
@@ -10031,7 +10032,6 @@ escargots
 eternisation
 eternish
 elod
-editresses
 epitaphial
 esculetin
 emergent
