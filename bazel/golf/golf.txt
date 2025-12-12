@@ -2540,7 +2540,6 @@ grooveless
 gigmania
 gained
 guessive
-generalise
 gynandrous
 graciously
 glorifying
@@ -8759,6 +8758,7 @@ games
 governess
 glamorization
 goustrous
+generalise
 galeus
 geotectonics
 gobbin

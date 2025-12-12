@@ -15178,6 +15178,7 @@ curtailments
 clairseach
 caplan
 cloisteral
+coeminency
 cardiemphraxia
 compresses
 choosableness
@@ -17989,7 +17990,6 @@ chuse
 cordaitales
 coembrace
 calcaneal
-coeminency
 cysteine
 compsilura
 coemploying
