@@ -13647,7 +13647,6 @@ anodontia
 allocable
 abys
 alliciency
-anodos
 annalia
 apprenticed
 ambivalent
@@ -24127,6 +24126,7 @@ anachronisms
 acanthi
 autogyros
 adcon
+anodos
 andiron
 autognostic
 articulus
