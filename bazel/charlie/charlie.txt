@@ -16093,7 +16093,6 @@ copemates
 cardamons
 costuming
 clifflike
-capacities
 canuck
 cliffs
 creators
@@ -29285,6 +29284,7 @@ cunabula
 clericalist
 coagitate
 cryptodeist
+capacities
 cryptodynamic
 cryptodira
 cryptodiran
