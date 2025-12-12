@@ -1040,7 +1040,6 @@ founce
 flannelly
 firesafety
 farinosel
-foussa
 fulfill
 fireling
 flerrying
@@ -6382,6 +6381,7 @@ foetal
 fudgy
 fluorenes
 fluctuability
+foussa
 foveolar
 fixup
 fluvio
