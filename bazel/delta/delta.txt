@@ -9964,6 +9964,7 @@ daintily
 disposer
 drossiness
 dose
+decelerations
 dawnlight
 distances
 devonian
@@ -18389,7 +18390,6 @@ divulgers
 detracting
 doggerelled
 duogravure
-decelerations
 dauncy
 dingo
 demagogy
