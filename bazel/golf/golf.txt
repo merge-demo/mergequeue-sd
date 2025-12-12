@@ -3125,7 +3125,6 @@ geopolar
 gatemaker
 grips
 golandaas
-gooseherd
 germinative
 grecing
 geopolitical
@@ -7005,6 +7004,7 @@ gushiest
 gigantostracan
 genevoise
 gynosporangium
+gooseherd
 greenuk
 goofiness
 gelsemine

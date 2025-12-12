@@ -2471,6 +2471,7 @@ cancrine
 cicatrix
 carpers
 coffeeberry
+capitatum
 cancrinite
 cancrisocial
 cancroid
@@ -24327,7 +24328,6 @@ changepocket
 crosshairs
 cavally
 cooley
-capitatum
 cirsotome
 coolen
 cooler
