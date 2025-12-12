@@ -997,6 +997,7 @@ gangamopteris
 givers
 gangava
 groundward
+grousers
 gynobase
 ghassanid
 gilse
@@ -9864,7 +9865,6 @@ geometers
 gospellike
 giggish
 gnathopoda
-grousers
 gorillas
 geckotidae
 guajillo
