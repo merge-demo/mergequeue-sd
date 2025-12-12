@@ -3894,7 +3894,6 @@ foregrounds
 frequencies
 fortyfive
 fits
-fortuitously
 fecundating
 fluidness
 ferocactus
@@ -6101,6 +6100,7 @@ flossiness
 ferrer
 frondeur
 fillagree
+fortuitously
 fortnights
 fervidity
 freighter
