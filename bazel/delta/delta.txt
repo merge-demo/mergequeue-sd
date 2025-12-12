@@ -10941,7 +10941,6 @@ doohinkus
 dignitas
 disabuse
 disbursement
-diapir
 disabuses
 dispondaic
 disacceptance
@@ -18237,6 +18236,7 @@ discussant
 drogermen
 dishonorable
 dumbfish
+diapir
 doxologize
 dictery
 dipody

@@ -4762,7 +4762,6 @@ erethic
 eguttulate
 enterotomy
 excusatory
-endocarpic
 encode
 exitance
 ensnarements
@@ -11709,6 +11708,7 @@ electromer
 epileptologist
 ephraimitish
 epistemologically
+endocarpic
 erythrolysin
 earscrew
 emphatic
