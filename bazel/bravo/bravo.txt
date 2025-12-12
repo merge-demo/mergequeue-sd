@@ -785,6 +785,7 @@ begod
 browniness
 bldr
 baetulus
+beshrewing
 boothose
 batrachophobia
 benignness
@@ -9278,7 +9279,6 @@ brownie
 broncholithiasis
 baffle
 bewearied
-beshrewing
 blockader
 byee
 bobolink
