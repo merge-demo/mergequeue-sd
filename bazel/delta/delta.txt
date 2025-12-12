@@ -3239,7 +3239,6 @@ dens
 dolichocnemic
 defenceable
 dekle
-doftberry
 defencive
 dents
 defend
@@ -12064,6 +12063,7 @@ disentail
 deprecatively
 disentangle
 dissensious
+doftberry
 dentine
 disentanglement
 decollete
