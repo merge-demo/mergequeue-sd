@@ -309,7 +309,6 @@ dreed
 debarks
 demisheath
 depolarized
-dayanim
 daybeacon
 dealbate
 daybed
@@ -408,6 +407,7 @@ daiquiri
 dingle
 diriment
 diathermia
+dayanim
 dominos
 dwelt
 destructing
