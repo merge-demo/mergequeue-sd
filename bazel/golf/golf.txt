@@ -3887,6 +3887,7 @@ gaelicization
 glumpy
 glazed
 gloweringly
+gyrodactylidae
 gigahertzes
 gigaherz
 guillotines
@@ -4644,7 +4645,6 @@ glost
 grister
 gutium
 gourmandism
-gyrodactylidae
 glucagons
 geoscientist
 gapa
