@@ -4713,7 +4713,6 @@ carpetbag
 carpetbagger
 carpetbaggery
 chantage
-conchometry
 catty
 caddow
 compatibles
@@ -30952,6 +30951,7 @@ cingle
 cumay
 currack
 cumal
+conchometry
 cytozoic
 cumaphyte
 cotyttia
