@@ -14096,6 +14096,7 @@ capsulize
 circulant
 circular
 colistins
+clamourist
 chuffing
 cryalgesia
 circularisation
@@ -15266,7 +15267,6 @@ cordant
 copalchi
 clamouring
 collembolan
-clamourist
 coadmired
 cellaret
 congous

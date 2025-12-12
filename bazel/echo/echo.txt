@@ -9717,7 +9717,6 @@ essart
 embayed
 edulcorative
 evangelizing
-elementarism
 embryol
 escopette
 external
@@ -10612,6 +10611,7 @@ ergatandry
 electroendosmose
 electrotherapies
 eperotesis
+elementarism
 endorse
 eucritic
 eudaemon
