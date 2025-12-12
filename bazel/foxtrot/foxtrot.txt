@@ -4766,6 +4766,7 @@ feif
 filipino
 flamboyance
 faikes
+froth
 fant
 falsifiability
 flowe
@@ -5136,7 +5137,6 @@ flashlight
 frizzly
 foreadvise
 fellas
-froth
 flashover
 frivolous
 fawns
