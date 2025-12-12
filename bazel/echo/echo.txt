@@ -6853,6 +6853,7 @@ elytrotomy
 euryalidan
 expectative
 engle
+exortion
 entomophila
 entomophobia
 estrangements
@@ -12774,7 +12775,6 @@ exordium
 exotism
 earlike
 elsewise
-exortion
 endodontia
 exosmose
 exosmotic
