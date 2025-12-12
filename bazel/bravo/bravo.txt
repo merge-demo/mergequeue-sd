@@ -13217,7 +13217,6 @@ buffbar
 bedevil
 broadest
 bogomil
-bosselation
 bosset
 barebacked
 bonducnut
@@ -16883,6 +16882,7 @@ barvell
 bufotalin
 bufotoxin
 biconcavity
+bosselation
 buzukia
 bugaboo
 bugan
