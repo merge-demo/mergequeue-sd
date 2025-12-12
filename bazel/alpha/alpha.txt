@@ -15170,7 +15170,6 @@ amphimictical
 aberrometer
 amil
 arctocephalus
-aerostat
 anastigmatic
 aseptically
 antifatigue
@@ -16306,6 +16305,7 @@ alquifou
 antitoxine
 antitrade
 aconuresis
+aerostat
 aslaver
 alcicornium
 adolesce
