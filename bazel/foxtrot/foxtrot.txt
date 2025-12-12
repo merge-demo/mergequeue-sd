@@ -7594,6 +7594,7 @@ forjudgment
 fatimid
 fgn
 fructuarius
+feared
 funiculus
 flintworker
 flays
@@ -10385,7 +10386,6 @@ fronting
 fizzle
 focus
 furoid
-feared
 foreigner
 frangipanis
 fatalist
