@@ -12377,7 +12377,6 @@ albitophyre
 appropre
 adenomeningeal
 allumine
-atheroma
 armoniac
 amebiasis
 aortolith
@@ -18252,6 +18251,7 @@ andarko
 amity
 arabica
 aerogel
+atheroma
 accentuator
 achromous
 agush
