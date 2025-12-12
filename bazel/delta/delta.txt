@@ -7305,6 +7305,7 @@ disseized
 diffusivity
 dollies
 diaxone
+divorcible
 desiccative
 doukhobor
 defecters
@@ -14592,7 +14593,6 @@ demiurgically
 disastrousness
 dysfunction
 damourite
-divorcible
 diminue
 dropheads
 demosthenic
