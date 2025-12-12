@@ -2168,6 +2168,7 @@ gaycat
 gastrotomy
 grainer
 gaze
+goniodoridae
 genteelly
 glout
 geraldine
@@ -2283,7 +2284,6 @@ grossers
 gonostyle
 grange
 granulosa
-goniodoridae
 geswarp
 galante
 grata
