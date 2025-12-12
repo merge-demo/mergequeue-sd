@@ -11681,7 +11681,6 @@ acrocentric
 anaerobion
 apocrisiary
 anaerobiont
-anaerobiosis
 anaerobiotic
 anaerobium
 avanti
@@ -17660,6 +17659,7 @@ aegeriidae
 asperuloside
 appreciably
 azotobacter
+anaerobiosis
 aquarellist
 acidoid
 apparatuses
