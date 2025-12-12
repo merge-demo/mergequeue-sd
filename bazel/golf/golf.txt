@@ -288,6 +288,7 @@ glossophora
 gaintwist
 giglot
 geobotany
+gymnogen
 ganjas
 gynaecian
 gargoylism
@@ -5001,7 +5002,6 @@ growze
 gauziest
 ganancias
 goldic
-gymnogen
 gawker
 galling
 glew
