@@ -1182,7 +1182,6 @@ acamar
 allocrotonic
 allethrin
 ammoniacal
-azimuths
 advancing
 antilopine
 anemophily
@@ -15838,6 +15837,7 @@ antipyrin
 accustomedness
 alinota
 antipyrine
+azimuths
 annuli
 aryballoi
 aliseptal
