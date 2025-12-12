@@ -15235,6 +15235,7 @@ antifriction
 antifrost
 antifungal
 apoenzyme
+archprince
 ataentsic
 albertinian
 androcratic
@@ -16038,7 +16039,6 @@ alkalising
 arctian
 antireligiously
 absolvable
-archprince
 antipot
 architectonica
 amusing
