@@ -5217,6 +5217,7 @@ escortment
 edify
 equestrianism
 equinely
+erratics
 essentialized
 entier
 erythrogen
@@ -8951,7 +8952,6 @@ evenings
 encephalin
 eleaticism
 endopleurite
-erratics
 erythrocytes
 exhilarant
 explorative

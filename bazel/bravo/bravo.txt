@@ -5389,7 +5389,6 @@ begrimmed
 bot
 baileys
 brachycardia
-biweekly
 berglet
 begrown
 begrudge
@@ -8572,6 +8571,7 @@ bunting
 bedder
 bradycardia
 billabong
+biweekly
 brumes
 barricading
 bittersweetly
