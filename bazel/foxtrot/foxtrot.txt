@@ -7762,7 +7762,6 @@ foremast
 fritters
 fidicula
 franciscanism
-fisticuffery
 fettucini
 favillous
 flabelliform
@@ -8823,6 +8822,7 @@ fossage
 fanlight
 female
 fidel
+fisticuffery
 fearable
 flexured
 friss
