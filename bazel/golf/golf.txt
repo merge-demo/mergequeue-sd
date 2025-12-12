@@ -510,7 +510,6 @@ gisement
 gratuity
 geographic
 gruffing
-geologers
 graff
 galivants
 gliridae
@@ -753,6 +752,7 @@ gestapos
 gerim
 gunbearer
 gerkin
+geologers
 galvanopuncture
 gummaker
 goutwort
