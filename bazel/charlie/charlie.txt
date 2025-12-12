@@ -4267,7 +4267,6 @@ careme
 carene
 carer
 chyometer
-capsulotome
 caress
 cir
 caressed
@@ -5491,6 +5490,7 @@ casuistries
 casus
 cat
 catabaptist
+capsulotome
 contos
 catabases
 capoc
