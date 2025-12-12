@@ -6129,7 +6129,6 @@ deckedout
 derated
 diphtheroid
 derater
-dijudicant
 disilane
 docmac
 duperies
@@ -17649,6 +17648,7 @@ disapprobation
 dreamed
 duadic
 demilitarise
+dijudicant
 difluence
 duads
 dentalmen
