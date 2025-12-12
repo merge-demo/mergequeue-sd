@@ -2657,7 +2657,6 @@ expectorating
 excitors
 enmesh
 enduros
-electrotherapy
 electrotheraputic
 emyds
 expurgatorial
@@ -11508,6 +11507,7 @@ evigilation
 emenders
 endocrinous
 exsecant
+electrotherapy
 exoergic
 echinopanax
 exhibited
