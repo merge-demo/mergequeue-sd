@@ -3506,7 +3506,6 @@ boistousness
 balotade
 blue
 batfishes
-biri
 batfowl
 boiled
 batfowled
@@ -8283,6 +8282,7 @@ bigamist
 boyars
 betafite
 bigamizing
+biri
 burstiness
 bedesman
 bream
