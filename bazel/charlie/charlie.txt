@@ -22611,7 +22611,6 @@ counterextend
 crymotherapy
 connoted
 connoting
-connubial
 cannophori
 connubiality
 carmakers
@@ -28258,6 +28257,7 @@ crassest
 conspiratory
 certioration
 considerance
+connubial
 choroidoiritis
 cryptogrammic
 crassities
