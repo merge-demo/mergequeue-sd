@@ -13340,7 +13340,6 @@ coenoecic
 cleaners
 cyclostyle
 cyclostoma
-chasers
 centaurium
 ceration
 coformulator
@@ -22341,6 +22340,7 @@ corrupable
 conicality
 chordally
 crookfingered
+chasers
 coastwards
 calandrinae
 coniceine
