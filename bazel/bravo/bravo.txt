@@ -8373,7 +8373,6 @@ bradoon
 bights
 blickeys
 bonamano
-barrelfishes
 blathery
 bigamized
 bemuddled
@@ -10557,6 +10556,7 @@ blateness
 bhisti
 ballogan
 brasseys
+barrelfishes
 bugshas
 blathered
 blackprint
