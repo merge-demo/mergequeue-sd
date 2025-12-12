@@ -69,6 +69,7 @@ fconv
 fabulously
 facebar
 facebow
+fluidic
 fenchone
 feudalization
 faceharden
@@ -6246,7 +6247,6 @@ fouettee
 felloes
 freewheelers
 farmtown
-fluidic
 flapdragon
 friendlike
 frankeniaceous
