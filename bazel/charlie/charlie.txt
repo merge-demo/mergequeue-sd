@@ -9503,6 +9503,7 @@ cacochymia
 checkless
 checklist
 checkman
+cholagogue
 congruencies
 checkmate
 chirosophist
@@ -24913,7 +24914,6 @@ coffers
 corbe
 corbeau
 challahs
-cholagogue
 corbelled
 corbet
 corby
