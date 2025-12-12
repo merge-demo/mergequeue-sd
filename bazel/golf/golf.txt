@@ -2635,7 +2635,6 @@ genethlic
 glossopetra
 goatee
 glossosteresis
-geniality
 genetics
 goosey
 gastrolysis
@@ -5741,6 +5740,7 @@ girdlestead
 greedier
 genitival
 grandnephews
+geniality
 graveldiver
 glossemic
 glaciometer
