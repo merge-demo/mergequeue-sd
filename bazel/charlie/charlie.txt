@@ -1952,6 +1952,7 @@ camelopardus
 cloghad
 counterflashing
 camelry
+coexperiencer
 camelus
 castalia
 camembert
@@ -18180,7 +18181,6 @@ coexistence
 coexisting
 coexpand
 coexpanded
-coexperiencer
 coextend
 catchment
 clubbiness
