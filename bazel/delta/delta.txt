@@ -6824,7 +6824,6 @@ dryly
 desklike
 duennadom
 diphrelatic
-dunks
 deskman
 desks
 dragade
@@ -9141,6 +9140,7 @@ disinclines
 derisory
 doffs
 detriment
+dunks
 disdiaclasis
 disgracement
 didicoy
