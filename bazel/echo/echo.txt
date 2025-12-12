@@ -1807,6 +1807,7 @@ effervescive
 ensouling
 encipherer
 elench
+emblematology
 eurypterida
 explicatory
 ethylamin
@@ -5431,7 +5432,6 @@ endurer
 enduringly
 enterozoic
 earthmen
-emblematology
 endwise
 elaboratory
 equilaterally
