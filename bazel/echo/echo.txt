@@ -4328,7 +4328,6 @@ eyres
 enamour
 enamouredness
 expostulator
-eulogistical
 espouse
 espichellite
 espadrille
@@ -10730,6 +10729,7 @@ embedder
 epornitic
 eulachans
 eulamellibranchiata
+eulogistical
 electrical
 exanthemas
 ethylenically
