@@ -7624,7 +7624,6 @@ antilepsis
 agonothet
 accident
 aktivist
-anabaptism
 anisokonia
 abnegator
 allograph
@@ -11884,6 +11883,7 @@ aissaoua
 anamorphoscope
 apophlegmatism
 arrears
+anabaptism
 ankylenteron
 anamorphosis
 accurre
