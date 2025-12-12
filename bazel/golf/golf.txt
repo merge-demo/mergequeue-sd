@@ -4954,6 +4954,7 @@ gorse
 glauberite
 glair
 glaire
+gerontologist
 glosses
 gigger
 gradual
@@ -6843,7 +6844,6 @@ gregarinida
 gonococcocci
 gonopore
 gonocoele
-gerontologist
 gt
 gonof
 gudesire
