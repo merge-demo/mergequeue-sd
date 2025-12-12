@@ -1437,6 +1437,7 @@ accidentalism
 accidential
 accidently
 accinge
+antanagoge
 anhimidae
 anesthesiologists
 aphyllose
@@ -13972,7 +13973,6 @@ antanacathartic
 antanaclasis
 antelopes
 antebrachia
-antanagoge
 aneurysmally
 alcyonaria
 antanandro
