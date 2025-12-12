@@ -3478,6 +3478,7 @@ figshell
 floatation
 foe
 fury
+freelancing
 ficins
 fordays
 floorhead
@@ -11461,7 +11462,6 @@ foreglimpse
 fin
 ferri
 foliolose
-freelancing
 fevergum
 feminacies
 fairleader
