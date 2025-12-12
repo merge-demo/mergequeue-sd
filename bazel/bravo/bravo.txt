@@ -3676,7 +3676,6 @@ bulletheaded
 bagwomen
 befrilled
 bisabol
-bumboatman
 booklover
 balearian
 burnies
@@ -4041,6 +4040,7 @@ bedrock
 beamers
 beamfilling
 beeware
+bumboatman
 bivalvous
 beamhouse
 bibliophobe
