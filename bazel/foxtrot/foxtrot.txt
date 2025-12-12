@@ -8587,7 +8587,6 @@ fornix
 fanegada
 forspent
 flocculus
-feower
 freehold
 fainters
 floodmark
@@ -9192,6 +9191,7 @@ frenchwise
 frostproofing
 fulfulde
 forward
+feower
 filices
 filenames
 fifteenths
