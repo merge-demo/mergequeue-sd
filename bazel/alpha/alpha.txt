@@ -20420,7 +20420,6 @@ art
 aldehydic
 achrodextrin
 artar
-ampery
 arrojadite
 artcraft
 antitypes
@@ -21132,6 +21131,7 @@ aulacomniaceae
 asdic
 antiinflammatories
 arborary
+ampery
 annexal
 ase
 asearch
