@@ -1739,7 +1739,6 @@ gloeal
 glessite
 glass
 guesses
-gamesman
 guernseys
 gaullism
 gastropexy
@@ -3280,6 +3279,7 @@ gutty
 ghawazee
 gerfalcon
 gudesake
+gamesman
 gahnites
 gunrack
 geriatrician
