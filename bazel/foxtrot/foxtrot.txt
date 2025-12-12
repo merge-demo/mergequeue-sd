@@ -5796,7 +5796,6 @@ fossiliferous
 frescoes
 flitterbat
 fructicultural
-fumeroot
 fallage
 fastigium
 falconiform
@@ -7216,6 +7215,7 @@ falderols
 fimbrillose
 fiend
 fiver
+fumeroot
 foreground
 footpad
 farfetchedness

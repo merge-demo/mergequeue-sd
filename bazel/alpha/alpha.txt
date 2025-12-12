@@ -7174,6 +7174,7 @@ alabastrine
 aortographic
 ascenders
 apogees
+alnilam
 abilao
 acidness
 aminoxylol
@@ -9233,7 +9234,6 @@ awest
 alethic
 authenticating
 alnicoes
-alnilam
 alnitak
 alniviridol
 angles
