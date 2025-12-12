@@ -9250,7 +9250,6 @@ cocainizing
 cryonic
 carol
 cocceianism
-chatterboxes
 chattered
 chincapin
 chatterers
@@ -22354,6 +22353,7 @@ chessman
 conidae
 champlainic
 conidioid
+chatterboxes
 conidiophorous
 conidiospore
 copy
