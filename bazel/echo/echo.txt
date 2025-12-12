@@ -2500,7 +2500,6 @@ emancipators
 enwheeling
 entering
 esne
-embraceably
 electromagnetical
 extratribal
 excepting
@@ -10901,6 +10900,7 @@ enfin
 encephalocoele
 epibaterium
 euktolite
+embraceably
 euphory
 enchondrosis
 euphoriant
