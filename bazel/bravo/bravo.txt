@@ -11311,6 +11311,7 @@ blowziness
 boltsmith
 blowzing
 bls
+berth
 blub
 blickey
 blubbed
@@ -11903,7 +11904,6 @@ baggily
 bogach
 blabs
 becrush
-berth
 bushelwoman
 bruins
 barographs
