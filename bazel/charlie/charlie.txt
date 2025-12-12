@@ -14638,6 +14638,7 @@ cowbyre
 cystoschisis
 cariole
 conurbations
+chelaship
 clayman
 coliander
 cystospastic
@@ -15762,7 +15763,6 @@ cleanskin
 cleanskins
 cleanup
 conveniently
-chelaship
 corruptibly
 colonized
 clearable
