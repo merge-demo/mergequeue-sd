@@ -5639,7 +5639,6 @@ freethink
 favouritism
 flimsier
 fishbolt
-felicitations
 florist
 fellowshiped
 frumpiest
@@ -6936,6 +6935,7 @@ fulgurite
 formalisation
 forbode
 fastball
+felicitations
 foxlike
 farthingales
 formication
