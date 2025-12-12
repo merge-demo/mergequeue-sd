@@ -7865,6 +7865,7 @@ appointable
 amicron
 anociassociation
 arrentable
+allegoricalness
 alectryomancy
 anaptotic
 alectrion
@@ -18138,7 +18139,6 @@ aquaplane
 appendicial
 accustomed
 artware
-allegoricalness
 allodiary
 astigmatically
 aquaregia
