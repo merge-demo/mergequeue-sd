@@ -6552,6 +6552,7 @@ embattled
 epimedium
 enorthotrope
 electricity
+emperor
 emigrates
 erysimum
 enhuile
@@ -9470,7 +9471,6 @@ escortee
 escorts
 escot
 endbrain
-emperor
 enghosted
 excurved
 estus
