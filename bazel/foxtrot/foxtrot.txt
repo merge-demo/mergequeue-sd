@@ -1267,7 +1267,6 @@ fasti
 forebrain
 filariform
 foreordinated
-fermentative
 flutteringly
 farseeing
 figgier
@@ -9496,6 +9495,7 @@ flatbottom
 forbreak
 floatman
 florets
+fermentative
 fibdom
 functionalism
 frazzling
