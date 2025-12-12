@@ -13819,7 +13819,6 @@ anorn
 anorogenic
 airthing
 atacamite
-anorthite
 adriana
 antiparalytic
 anorthitic
@@ -24620,6 +24619,7 @@ abraxas
 avariciousness
 areological
 astyllen
+anorthite
 arecolidin
 arshins
 arab
