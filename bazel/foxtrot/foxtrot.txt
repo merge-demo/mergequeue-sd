@@ -6746,7 +6746,6 @@ fuchsinophil
 featherbed
 fluorescent
 forspeaking
-flamming
 fittest
 forjudged
 fluorescin
@@ -8841,6 +8840,7 @@ foozles
 fossilogy
 fload
 fashionability
+flamming
 felichthys
 firmest
 fettstein
