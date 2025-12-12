@@ -3540,7 +3540,6 @@ embossing
 emulsifications
 embossman
 esophagoplegia
-enchantery
 emanent
 edifier
 extracellularly
@@ -7824,6 +7823,7 @@ epithelium
 exophoria
 ejaculator
 epiglottides
+enchantery
 eddish
 electromedical
 epigoni
