@@ -12529,7 +12529,6 @@ brails
 bridehead
 boniface
 battle
-bonification
 bolshevik
 bud
 brashness
@@ -14016,6 +14015,7 @@ brachycephali
 brachycephalism
 bragging
 berust
+bonification
 browallia
 brigandism
 bedravel
