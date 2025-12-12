@@ -1560,7 +1560,6 @@ denominant
 dulciloquent
 deadheartedly
 deadheartedness
-deady
 dominancy
 defilades
 deadish
@@ -9576,6 +9575,7 @@ duellos
 diglots
 desmatippus
 disenchantment
+deady
 diglottist
 duumvir
 diallists

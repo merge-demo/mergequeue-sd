@@ -1635,7 +1635,6 @@ glassteel
 gravitational
 grimly
 grimines
-glibness
 gastricism
 glycolipid
 gaskin
@@ -7191,6 +7190,7 @@ girly
 gorglin
 gladden
 gandered
+glibness
 gestate
 grabbers
 geobotanical
