@@ -19089,7 +19089,6 @@ colliquable
 colliquate
 collyria
 collyridian
-collyrite
 carder
 collyrium
 cedes
@@ -31755,6 +31754,7 @@ cervisial
 customers
 customhouses
 copernicia
+collyrite
 controvertist
 copresent
 chimlas
