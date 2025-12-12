@@ -15755,6 +15755,7 @@ bedecks
 billethead
 backstrokes
 backhandedly
+bubber
 besonio
 begowned
 broigne
@@ -18396,7 +18397,6 @@ brachygrapher
 buzzingly
 bothlike
 besmuts
-bubber
 buttes
 bespring
 benzoins
