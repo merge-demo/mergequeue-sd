@@ -9971,7 +9971,6 @@ fed
 feracity
 firelike
 frigotherapy
-facial
 fibrosities
 fencings
 fliest
@@ -10399,6 +10398,7 @@ fitche
 footer
 fraggings
 fenchene
+facial
 filigree
 fictility
 flyspecked
