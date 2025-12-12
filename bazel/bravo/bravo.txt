@@ -11958,6 +11958,7 @@ budgerigah
 berthierite
 bytalk
 bogled
+bundled
 boglet
 beckelite
 bolts
@@ -17339,7 +17340,6 @@ blackjacked
 blowess
 brassylic
 brennage
-bundled
 bundler
 boudeuse
 bottleneck
