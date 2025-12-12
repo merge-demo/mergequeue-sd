@@ -12279,6 +12279,7 @@ embrasure
 evocatrix
 everlasting
 eggplant
+euclid
 enfoul
 exemplificator
 egypt
@@ -13085,7 +13086,6 @@ ejectable
 expenditrix
 ecclesiophobia
 enfonced
-euclid
 epimyocardium
 equanimousness
 embellishment
