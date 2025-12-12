@@ -5431,6 +5431,7 @@ enterozoic
 earthmen
 endwise
 elaboratory
+ensign
 equilaterally
 epigynies
 exaggerations
@@ -11658,7 +11659,6 @@ exacting
 electroirrigation
 eruca
 electivity
-ensign
 eburnian
 exaction
 enfire
