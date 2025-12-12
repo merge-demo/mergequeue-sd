@@ -161,7 +161,6 @@ gardenmaker
 geophagy
 gamond
 graniticoline
-gunwhale
 grandson
 glassworm
 goliardic
@@ -8142,6 +8141,7 @@ germanophobe
 gaspergous
 gynaeolater
 gloat
+gunwhale
 glowflies
 granulators
 glideless
