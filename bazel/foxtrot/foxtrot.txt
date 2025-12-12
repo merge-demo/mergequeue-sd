@@ -3925,7 +3925,6 @@ false
 filea
 fined
 faulty
-farmy
 formature
 fluctuated
 fischerite
@@ -7173,6 +7172,7 @@ fourche
 furnariidae
 fraileros
 fiendism
+farmy
 foothot
 frowstily
 faraon
