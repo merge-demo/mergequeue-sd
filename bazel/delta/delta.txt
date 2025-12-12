@@ -6062,6 +6062,7 @@ doughbelly
 diopsis
 deputing
 diaconicon
+ditrigonal
 dorps
 delicacy
 dilli
@@ -13478,7 +13479,6 @@ demicircle
 deutonymphal
 disrooting
 debenture
-ditrigonal
 dizygous
 disruddered
 disruly
