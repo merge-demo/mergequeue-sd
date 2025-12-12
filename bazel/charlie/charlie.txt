@@ -3674,7 +3674,6 @@ caraipi
 carlish
 cucumiform
 carajas
-carambole
 coextensively
 caviler
 caramboling
@@ -21093,6 +21092,7 @@ christeners
 cuckoopint
 cycloheptanone
 carcerist
+carambole
 chordacentrum
 concassation
 cherishers
