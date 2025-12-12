@@ -4521,6 +4521,7 @@ forheed
 forslake
 flooded
 fountainhead
+fervorless
 fructify
 famille
 fortread
@@ -8500,7 +8501,6 @@ fooldom
 fritillaries
 fluidal
 formylal
-fervorless
 farnovian
 fiuman
 fanaticising
