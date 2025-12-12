@@ -5637,7 +5637,6 @@ baggages
 backlashing
 baptistery
 bima
-blarina
 bridelike
 belate
 babbittess
@@ -6271,6 +6270,7 @@ benomyl
 backspread
 benightedness
 benorth
+blarina
 benefact
 beme
 bensall
