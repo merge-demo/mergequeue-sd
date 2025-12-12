@@ -8609,7 +8609,6 @@ genealogical
 gestic
 gibbeting
 geothermometer
-gregarine
 grangerism
 gaufrettes
 glucose
@@ -8898,6 +8897,7 @@ guesthouses
 greyfly
 gregau
 guarantine
+gregarine
 glycerination
 greisens
 gtc
