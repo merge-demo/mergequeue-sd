@@ -5888,7 +5888,6 @@ depersonalised
 depredated
 definitiveness
 diagnoses
-deleting
 droshky
 depredatory
 deontic
@@ -14683,6 +14682,7 @@ dk
 dkg
 dkl
 deadener
+deleting
 decasemic
 dispeoplement
 deviative
