@@ -7603,7 +7603,6 @@ botflies
 brainworker
 banagos
 beweeper
-beneficent
 beweeps
 bombilate
 bastardize
@@ -11555,6 +11554,7 @@ blurringly
 blurter
 balanopsidaceae
 barbecuing
+beneficent
 blurting
 bumblebeefish
 ballismus
