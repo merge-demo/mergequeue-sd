@@ -2787,7 +2787,6 @@ glucolipin
 gangwayed
 governably
 gelee
-gantlope
 goblets
 gluttonised
 graduals
@@ -8304,6 +8303,7 @@ grassbird
 guerdons
 grunzie
 grucche
+gantlope
 greyness
 guha
 gaingiving
