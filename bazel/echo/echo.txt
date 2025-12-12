@@ -6702,6 +6702,7 @@ epithecal
 enuresis
 entertake
 exstimulate
+exulding
 exhumed
 eonism
 exstill
@@ -14177,7 +14178,6 @@ equalled
 envenomization
 exulcerating
 euciliate
-exulding
 eviction
 entone
 exultingly
