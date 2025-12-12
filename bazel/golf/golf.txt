@@ -3658,7 +3658,6 @@ grinder
 ghettoizing
 gunnysack
 ghi
-gallegan
 gamomania
 ghibli
 gobline
@@ -5641,6 +5640,7 @@ gipsyry
 gratifier
 gravestone
 governance
+gallegan
 goller
 giantesque
 grithbreach
