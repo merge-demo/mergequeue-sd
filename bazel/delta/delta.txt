@@ -9174,7 +9174,6 @@ divorceuse
 dy
 dido
 diaglyptic
-discusses
 didodecahedron
 didoes
 didonia
@@ -15144,6 +15143,7 @@ diaphragmed
 deerherd
 dislustre
 disallows
+discusses
 decayable
 doing
 discopodous
