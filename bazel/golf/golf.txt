@@ -2907,6 +2907,7 @@ globulite
 gaincope
 gomphoses
 gastrorrhagia
+gorblin
 gruesomeness
 gratulant
 gayety
@@ -7154,7 +7155,6 @@ glassworker
 gremio
 gagtooth
 gorble
-gorblin
 gorcocks
 gypsylike
 grasscut
