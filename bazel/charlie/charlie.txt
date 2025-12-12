@@ -2217,7 +2217,6 @@ campong
 campongs
 convincing
 counterclaiming
-cheiropodist
 chimpanzee
 camponotus
 counterhammering
@@ -29577,6 +29576,7 @@ combated
 cebine
 croakier
 croakily
+cheiropodist
 croaking
 consociation
 croape
