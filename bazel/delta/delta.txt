@@ -9805,7 +9805,6 @@ deckpipe
 dysoxidize
 dogmatiser
 dipsos
-dermatocyst
 dillesk
 daimones
 denumerable
@@ -13449,6 +13448,7 @@ dittologies
 dispersiveness
 dading
 defamous
+dermatocyst
 diphyesis
 disrespect
 differentia

@@ -2400,7 +2400,6 @@ benzpinacone
 bareca
 barefaced
 bombacaceous
-baulk
 bonete
 bradenhead
 byres
@@ -10692,6 +10691,7 @@ bleacheries
 batonne
 blepharoplegia
 bronzine
+baulk
 bleymes
 blellums
 blemished
