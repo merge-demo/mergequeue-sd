@@ -6253,6 +6253,7 @@ consecrate
 cauldrife
 casquette
 ctenoidei
+crenulate
 calcaneocuboid
 cauldrifeness
 cauldrons
@@ -28697,7 +28698,6 @@ clung
 crenothrix
 crenula
 connectible
-crenulate
 cassythaceae
 crenulation
 creodonta
