@@ -4525,7 +4525,6 @@ genetically
 gypsywise
 guzzling
 grufted
-gyromele
 gangliitis
 gorgio
 gays
@@ -5473,6 +5472,7 @@ gum
 glauconiidae
 garottes
 glyptodon
+gyromele
 glyptodontoid
 glebae
 ghostwrites
