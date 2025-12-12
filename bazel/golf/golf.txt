@@ -1003,7 +1003,6 @@ gilse
 gametophytic
 gymsia
 grubber
-gurnetty
 granitizing
 gnomons
 geophilous
@@ -3658,6 +3657,7 @@ gunnysack
 ghi
 gamomania
 ghibli
+gurnetty
 gobline
 ghiblis
 guided
