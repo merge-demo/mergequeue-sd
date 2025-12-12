@@ -8273,7 +8273,6 @@ diagnostically
 disenthroned
 diagnosticate
 denitrating
-divergency
 dinotherium
 dehortatory
 demegoric
@@ -9396,6 +9395,7 @@ dunlin
 depulse
 demasted
 deliracy
+divergency
 dentirostres
 dautie
 dulosis

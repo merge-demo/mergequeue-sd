@@ -8187,7 +8187,6 @@ chaitra
 cheekpiece
 chakavski
 classics
-chakdar
 cymbling
 callower
 chakobu
@@ -23786,6 +23785,7 @@ contrecoup
 contredanse
 contredanses
 contreface
+chakdar
 coryphees
 contrefort
 contrepartie
