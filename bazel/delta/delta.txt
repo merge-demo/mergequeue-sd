@@ -1926,7 +1926,6 @@ dacryd
 dinophilus
 dob
 deperms
-deferments
 desire
 decennal
 durocs
@@ -8776,6 +8775,7 @@ distastefully
 dentalgia
 demythologisation
 dichogamy
+deferments
 diatonic
 doodle
 dungannonite
