@@ -886,6 +886,7 @@ gametocyte
 grayout
 gametogenic
 gooseflesh
+geothermic
 gueparde
 glutathione
 geognost
@@ -3436,7 +3437,6 @@ gelating
 glamourize
 greyware
 gesturist
-geothermic
 girdingly
 guimpes
 glaucosis
