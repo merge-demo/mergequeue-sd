@@ -4140,7 +4140,6 @@ delineavit
 decimalise
 despeche
 diagenetically
-doggerelled
 delinter
 deliquiate
 deliquium
@@ -18388,6 +18387,7 @@ deepfreezing
 dorrs
 divulgers
 detracting
+doggerelled
 duogravure
 decelerations
 dauncy

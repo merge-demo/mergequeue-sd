@@ -1127,6 +1127,7 @@ calciovolborthite
 calciphylactic
 calciphylaxis
 cabecera
+cons
 calciphilia
 centumvirate
 calciphilous
@@ -3501,7 +3502,6 @@ capsomers
 capstans
 capstone
 capsula
-cons
 capsular
 conceitedness
 capsulation
