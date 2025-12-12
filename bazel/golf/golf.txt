@@ -5053,7 +5053,6 @@ gallingness
 grovels
 garibaldi
 glider
-gumweed
 gonocheme
 garavance
 glowed
@@ -8255,6 +8254,7 @@ grainery
 glimpser
 gyropigeon
 grammarians
+gumweed
 gimp
 gospel
 ginglyform

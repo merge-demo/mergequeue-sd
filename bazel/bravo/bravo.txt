@@ -1480,7 +1480,6 @@ beggar
 boroglycerate
 barras
 beeches
-ball
 beerhouse
 ballad
 bloedite
@@ -15646,6 +15645,7 @@ bundlet
 bluster
 blastomycetes
 bewildered
+ball
 burr
 bedog
 beholder
