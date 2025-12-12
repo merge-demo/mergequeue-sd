@@ -10552,7 +10552,6 @@ blatch
 bouviers
 boychiks
 bambuco
-blately
 blateness
 bhisti
 ballogan
@@ -16276,6 +16275,7 @@ browst
 barogram
 brickmaker
 bromoketone
+blately
 brinjaul
 browzer
 bombycid
