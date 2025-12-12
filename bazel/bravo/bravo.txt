@@ -8112,7 +8112,6 @@ bruxism
 brast
 burrobrush
 bid
-benedict
 boread
 bouillone
 breezelike
@@ -11123,6 +11122,7 @@ blooding
 balanic
 bolography
 blunker
+benedict
 blandness
 brawniest
 buckler
