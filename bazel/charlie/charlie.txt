@@ -8444,7 +8444,6 @@ chockman
 champagnize
 cardiogenic
 champagnized
-cesurae
 champak
 chamfering
 characterstring
@@ -9710,6 +9709,7 @@ cheirography
 cheirolin
 cymbal
 cheirology
+cesurae
 ciconiidae
 colloidal
 cheiropatagium

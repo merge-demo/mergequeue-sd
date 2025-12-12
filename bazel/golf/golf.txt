@@ -3024,6 +3024,7 @@ glosser
 gushingness
 gauchest
 gaggle
+graceful
 glorias
 groped
 guaiacol
@@ -9496,7 +9497,6 @@ gae
 glaciaria
 gonyaulax
 gernative
-graceful
 guelphish
 grundlov
 group
