@@ -6546,7 +6546,6 @@ acrogynae
 arustle
 antidomestic
 ayacahuite
-arbutase
 athbash
 ay
 ayah
@@ -12156,6 +12155,7 @@ antiworld
 antimagistratical
 agaonidae
 aneretic
+arbutase
 algebrization
 anatropal
 aking
