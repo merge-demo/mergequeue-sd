@@ -2138,6 +2138,7 @@ cixiid
 capriciousness
 campcraft
 campe
+compelling
 cumbers
 cryal
 camped
@@ -20514,7 +20515,6 @@ costerdom
 colorability
 clayware
 copepodan
-compelling
 cornerways
 compellingly
 curblike
