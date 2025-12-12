@@ -10005,7 +10005,6 @@ falderal
 felid
 frilliness
 florid
-fortified
 flatwork
 fantod
 flavoury
@@ -10551,6 +10550,7 @@ fibrins
 flatus
 festivous
 fossilised
+fortified
 fauchard
 featherier
 frowziest
