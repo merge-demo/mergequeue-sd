@@ -5384,7 +5384,6 @@ endotheliomas
 explicators
 esquiline
 empyreum
-ensignhood
 eophyte
 endothermal
 endothermy
@@ -8671,6 +8670,7 @@ egocentrism
 eluate
 escopet
 eked
+ensignhood
 exomis
 equisetaceous
 epicondylar
