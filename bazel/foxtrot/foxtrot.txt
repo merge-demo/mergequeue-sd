@@ -7157,7 +7157,6 @@ footfolk
 ficklewise
 fruticulture
 flabel
-flumerin
 fictionised
 fused
 foremind
@@ -10354,6 +10353,7 @@ flamiest
 footgeld
 firs
 fleing
+flumerin
 feigning
 foxgloves
 foliation
