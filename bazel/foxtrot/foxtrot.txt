@@ -281,7 +281,6 @@ fadmongering
 flooders
 fairly
 folk
-fotive
 flakily
 fourierite
 foreshortening
@@ -4178,6 +4177,7 @@ firebug
 flagstones
 flickertail
 fishet
+fotive
 foliating
 foliar
 fanions
