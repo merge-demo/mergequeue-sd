@@ -2251,7 +2251,6 @@ gradation
 glasswort
 gipons
 glarry
-griff
 gospeller
 gigantine
 grandpaternal
@@ -4315,6 +4314,7 @@ gynecophorous
 gorcock
 gynecratic
 gelidness
+griff
 gorgonia
 gyneolater
 guinfo
