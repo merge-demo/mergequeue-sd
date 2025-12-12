@@ -13434,7 +13434,6 @@ burgs
 broilery
 beer
 bleeding
-bulse
 benzin
 bepun
 brayer
@@ -16001,6 +16000,7 @@ birdstone
 bronchotomy
 bersaglieri
 braggardism
+bulse
 bysacki
 bestrewing
 bloodstains
