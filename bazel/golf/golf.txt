@@ -1477,7 +1477,6 @@ gravery
 gastric
 gisarme
 growly
-greta
 gasolier
 ghostology
 granolith
@@ -3569,6 +3568,7 @@ ghaffir
 goons
 ginniest
 garnishes
+greta
 guacho
 gewgaws
 ghan
