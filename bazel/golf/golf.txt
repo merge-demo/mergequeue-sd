@@ -2585,6 +2585,7 @@ gametogeny
 generant
 generate
 guitars
+greedier
 gypsiferous
 generated
 gazetteerage
@@ -5737,7 +5738,6 @@ gillyflower
 glycosuric
 gushes
 girdlestead
-greedier
 genitival
 grandnephews
 geniality
