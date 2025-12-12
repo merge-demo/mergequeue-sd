@@ -5629,7 +5629,6 @@ fireboot
 flyless
 forbearingly
 fuddle
-fulgurata
 foxite
 firetop
 flimflamming
@@ -11728,6 +11727,7 @@ fashionably
 fratority
 figurational
 futurologist
+fulgurata
 flows
 fluorinations
 funebrous
