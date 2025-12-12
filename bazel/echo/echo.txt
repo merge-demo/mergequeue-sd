@@ -2918,6 +2918,7 @@ etrogim
 encamped
 earn
 eliminant
+ennia
 ennoblers
 ethid
 externalising
@@ -6164,7 +6165,6 @@ enneaphyllous
 expositing
 evacuating
 enneasepalous
-ennia
 endotheliolytic
 enargite
 endeavorer
