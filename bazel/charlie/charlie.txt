@@ -7018,7 +7018,6 @@ carretta
 cantoned
 clitellum
 centauress
-centaury
 carburetted
 carnal
 chink
@@ -29320,6 +29319,7 @@ cryptoheresy
 cryptoheretic
 corpulent
 cryptolite
+centaury
 cytochalasin
 cryptolith
 cryptology
