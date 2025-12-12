@@ -12096,7 +12096,6 @@ deplaceable
 disentrail
 disentrainment
 disentrance
-devilism
 disrank
 diamondback
 display
@@ -12969,6 +12968,7 @@ dysorexia
 dusack
 disorganise
 disorganised
+devilism
 deuteranopia
 designers
 despisal
