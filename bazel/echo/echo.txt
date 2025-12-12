@@ -6205,7 +6205,6 @@ ellipsoid
 erasure
 exodist
 enophthalmus
-enorm
 exhalations
 endopericarditis
 exhortator
@@ -7269,6 +7268,7 @@ eosinophile
 emptyhearted
 euonymuses
 enfeoffs
+enorm
 empolder
 establisher
 epa
