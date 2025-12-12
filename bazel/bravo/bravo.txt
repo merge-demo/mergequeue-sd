@@ -12544,7 +12544,6 @@ balsam
 boroughlet
 bragi
 bemocks
-bonk
 begrudging
 bagpiping
 bonne
@@ -14276,6 +14275,7 @@ bragite
 blimps
 boomless
 bluet
+bonk
 bessi
 bird
 banners
