@@ -2958,7 +2958,6 @@ dedicators
 deaconry
 dewar
 ducatus
-divagation
 dechlorination
 dansk
 dedifferentiating
@@ -18570,6 +18569,7 @@ dusked
 ditchdigger
 dissimilitude
 dusky
+divagation
 dessil
 dozer
 derivatively
