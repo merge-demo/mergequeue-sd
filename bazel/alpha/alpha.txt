@@ -1969,6 +1969,7 @@ analyse
 armorial
 acardite
 abreact
+ametabolian
 archigony
 adangle
 acetize
@@ -24837,7 +24838,6 @@ avoids
 antrustionship
 avolate
 anorth
-ametabolian
 achenial
 ascidioida
 avolitional
