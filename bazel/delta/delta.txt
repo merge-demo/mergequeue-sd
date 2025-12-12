@@ -12902,7 +12902,6 @@ delving
 deorientalize
 disobeying
 delineative
-dustiness
 desulphuration
 disoblige
 disobliger
@@ -15303,6 +15302,7 @@ declassing
 diasporas
 destructivism
 dolphin
+dustiness
 dirling
 diospyros
 dolphinfish
