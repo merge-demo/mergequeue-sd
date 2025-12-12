@@ -1526,7 +1526,6 @@ glyn
 geotonic
 gangland
 grouse
-gasoliers
 guiro
 garrotting
 giftwrap
@@ -10087,6 +10086,7 @@ gentleship
 gimmal
 gyneconitis
 grabens
+gasoliers
 gumshoed
 gonomere
 gutterman
