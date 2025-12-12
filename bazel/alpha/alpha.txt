@@ -3823,7 +3823,6 @@ ammodytidae
 adiathermancy
 antioxidase
 alcoranist
-arcticologist
 accipitrary
 acaridea
 adiathetic
@@ -6106,6 +6105,7 @@ aromaticness
 astrosphere
 albuminoidal
 antifeudalism
+arcticologist
 agitators
 apteral
 ablock
