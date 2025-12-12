@@ -1487,6 +1487,7 @@ dracma
 dc
 donmeh
 dcb
+demimentoniere
 depressure
 deaccessioning
 drawbolt
@@ -9725,7 +9726,6 @@ decremented
 dismissing
 discutient
 dilatative
-demimentoniere
 dodecahedron
 distillations
 durometer
