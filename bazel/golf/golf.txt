@@ -1366,7 +1366,6 @@ gauss
 ginners
 garglers
 graplins
-glamorizer
 glyoxylic
 grotto
 ghastly
@@ -5549,6 +5548,7 @@ garring
 gloams
 granadillo
 glutinously
+glamorizer
 gestalter
 grudgeons
 geon
