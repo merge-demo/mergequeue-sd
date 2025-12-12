@@ -619,7 +619,6 @@ folly
 farrantly
 forelimb
 foetiferous
-funnies
 frictionless
 frame
 facesaving
@@ -6361,6 +6360,7 @@ flagpole
 fluocerine
 felis
 fren
+funnies
 flang
 favourableness
 fullterm
