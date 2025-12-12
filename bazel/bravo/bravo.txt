@@ -1554,7 +1554,6 @@ ballgame
 ballhooter
 backslash
 balli
-burmanniaceous
 burlesques
 befiddle
 bacchanal
@@ -15174,6 +15173,7 @@ buzziest
 bellowsmaker
 bloater
 benzofulvene
+burmanniaceous
 breastplough
 blunted
 brushman
