@@ -434,6 +434,7 @@ dispelling
 disinthrall
 donjons
 dibs
+disprovement
 drenchers
 dimyaric
 diathermous
@@ -860,7 +861,6 @@ devoicing
 disorchard
 dankishness
 discardable
-disprovement
 delesseria
 developability
 dannebrog
