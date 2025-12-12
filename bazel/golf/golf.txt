@@ -1133,6 +1133,7 @@ gallnut
 galyac
 groupment
 gunpowder
+glump
 genion
 granddam
 gypsologist
@@ -2372,7 +2373,6 @@ goggler
 ger
 gabon
 guardants
-glump
 gerrhosaurid
 gemaric
 gonopodpodia
