@@ -5851,6 +5851,7 @@ disanagrammatize
 doxologizing
 dreidel
 dimagnesic
+disaffectation
 depraver
 dragonfly
 dewaxing
@@ -10990,7 +10991,6 @@ downgrade
 duettist
 dryopithecine
 deconventionalize
-disaffectation
 disaffecting
 dashnak
 dimensive
