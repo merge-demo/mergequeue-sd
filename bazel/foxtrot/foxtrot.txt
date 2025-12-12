@@ -3733,7 +3733,6 @@ flossed
 fillmore
 forwear
 formaliter
-fiscally
 facingly
 foujdary
 fourierian
@@ -4417,6 +4416,7 @@ feirie
 fowlpox
 fleta
 fishfinger
+fiscally
 footgear
 fetters
 fl
