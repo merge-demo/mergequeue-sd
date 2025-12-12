@@ -8349,7 +8349,6 @@ ayield
 agricultor
 amacrine
 autoelectronic
-anaxial
 anaerophyte
 alinement
 arthroendoscopy
@@ -13830,6 +13829,7 @@ ala
 anorthophyre
 adrenocorticotrophin
 autocratship
+anaxial
 augean
 acroter
 anorthose
