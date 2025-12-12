@@ -2444,7 +2444,6 @@ endows
 eupolyzoa
 eleve
 exegete
-ellipsoids
 enstatite
 electrogasdynamics
 embryographer
@@ -7895,6 +7894,7 @@ econ
 electrodepositable
 endorsation
 epeirid
+ellipsoids
 extrabuccal
 exquisitive
 experimentation
