@@ -2960,6 +2960,7 @@ dewar
 ducatus
 dechlorination
 dansk
+desaturate
 dedifferentiating
 developist
 dimanganion
@@ -3544,7 +3545,6 @@ dismissable
 doom
 defrayers
 defraying
-desaturate
 desiccated
 dagobas
 desmomyaria
