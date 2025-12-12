@@ -8941,7 +8941,6 @@ gaufferer
 groove
 garoter
 gingras
-grandparent
 gaffe
 gigi
 gladelike
@@ -9177,6 +9176,7 @@ gladstone
 gamogenetic
 gripey
 gusain
+grandparent
 glaceed
 garapata
 geogonic
