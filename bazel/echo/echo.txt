@@ -8939,7 +8939,6 @@ erikite
 erinaceidae
 extricated
 ephebes
-eclairissement
 ectotherm
 expropriation
 eryngos
@@ -11308,6 +11307,7 @@ endue
 eliquated
 empyrean
 evaporations
+eclairissement
 earthian
 ethicals
 emblemology
