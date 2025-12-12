@@ -2142,7 +2142,6 @@ decangular
 daedalus
 decently
 decanonize
-decanting
 digitized
 demonianism
 detectors
@@ -17889,6 +17888,7 @@ denaro
 disgrace
 disburser
 deterministically
+decanting
 durance
 dejectedly
 donate
