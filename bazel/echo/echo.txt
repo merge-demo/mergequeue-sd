@@ -1219,6 +1219,7 @@ equvalent
 estamin
 equicaloric
 engulfed
+eternalness
 exstemporal
 extremal
 eme
@@ -10752,7 +10753,6 @@ enclaret
 endorsee
 extort
 ephemeran
-eternalness
 extramoralist
 eigenvector
 emer
