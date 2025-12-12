@@ -19323,6 +19323,7 @@ chilloes
 clothing
 coloradan
 collies
+counterguard
 colorado
 chagrin
 chorioretinitis
@@ -26848,7 +26849,6 @@ coccagee
 cassoon
 countergirded
 contest
-counterguard
 counterguerilla
 courtless
 coraciiformes
