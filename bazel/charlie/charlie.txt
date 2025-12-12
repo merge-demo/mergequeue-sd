@@ -10860,7 +10860,6 @@ chippewas
 chippy
 cobishop
 cometic
-chloralose
 canzoni
 chippie
 chippier
@@ -17478,6 +17477,7 @@ cobleman
 cuttings
 campanist
 citronella
+chloralose
 chapping
 coblentzian
 cobloaf
