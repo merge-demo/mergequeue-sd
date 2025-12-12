@@ -3685,7 +3685,6 @@ enfranchised
 echinochrome
 escobilla
 enravishingly
-embrittling
 embryulculci
 exercitorial
 extravagantness
@@ -10357,6 +10356,7 @@ ellagic
 eloign
 ethylamime
 elytra
+embrittling
 ethnopsychology
 enalite
 enthuses
