@@ -4283,7 +4283,6 @@ gibeonite
 gonidium
 gasconism
 gynecological
-gramineousness
 greenwithe
 geoform
 gomart
@@ -10128,6 +10127,7 @@ gazetteer
 gelastic
 gonystylus
 giro
+gramineousness
 goldenfleece
 gnomic
 gills
