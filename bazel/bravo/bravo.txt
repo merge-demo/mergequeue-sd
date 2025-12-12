@@ -1943,6 +1943,7 @@ bywalk
 bullragging
 bitwise
 bentiness
+blackcaps
 bolshy
 bantoid
 babesiasis
@@ -10160,7 +10161,6 @@ biopsychologies
 battue
 beatitudes
 browsers
-blackcaps
 bejeweled
 blanketflower
 borrelia
