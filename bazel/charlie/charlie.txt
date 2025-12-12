@@ -8418,7 +8418,6 @@ chamises
 chamiso
 chamlet
 chamm
-chamma
 chammy
 calcydon
 citellus
@@ -14206,6 +14205,7 @@ cavernulous
 clumplike
 ccesser
 circumforaneous
+chamma
 circumfulgent
 circumfuse
 celanese
