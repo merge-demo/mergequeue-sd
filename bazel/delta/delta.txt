@@ -2428,6 +2428,7 @@ disaffects
 decima
 decimalism
 dueling
+disinfeudation
 decimalization
 displeases
 decimalizes
@@ -14580,7 +14581,6 @@ dryfarm
 departmentization
 deeming
 diatomine
-disinfeudation
 discordantness
 dentalman
 duckeries
