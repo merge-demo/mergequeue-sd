@@ -17109,7 +17109,6 @@ coadjutorship
 carrots
 coadjutress
 coadjutrix
-coadjuvate
 coadminister
 civic
 coadministratrix
@@ -28294,6 +28293,7 @@ cheepily
 copywise
 craticular
 cratinean
+coadjuvate
 crating
 cardiographer
 confederation
