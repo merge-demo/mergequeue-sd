@@ -2627,7 +2627,6 @@ disfriar
 diswarrened
 decoherence
 dirndl
-duramatral
 drippy
 draffy
 dyssodia
@@ -14745,6 +14744,7 @@ downcasts
 decrepitating
 dromornis
 deceptional
+duramatral
 delimitative
 diazide
 dizdar
