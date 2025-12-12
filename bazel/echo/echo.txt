@@ -1556,6 +1556,7 @@ enervates
 erosible
 extraversion
 encampment
+encyclopedist
 epinasty
 envigor
 exogeny
@@ -1972,7 +1973,6 @@ epitritic
 equiparable
 effetman
 exorcisory
-encyclopedist
 electrine
 edward
 ectoparasitic
