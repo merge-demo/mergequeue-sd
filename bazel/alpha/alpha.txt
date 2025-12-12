@@ -934,6 +934,7 @@ antiopium
 apostrophi
 absolutist
 absolutize
+aplanatic
 absolutory
 acanthopteri
 absolvatory
@@ -16952,7 +16953,6 @@ aftertan
 affectedness
 angliae
 amphorette
-aplanatic
 aplanatism
 ately
 airways

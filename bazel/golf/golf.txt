@@ -873,7 +873,6 @@ gadis
 galactan
 glove
 guily
-ghatti
 gymnophiona
 guerrilla
 gametangia
@@ -964,6 +963,7 @@ glottogony
 gamp
 graysby
 gastrolobium
+ghatti
 galliferous
 gilgamesh
 grouting
