@@ -1520,7 +1520,6 @@ eggberries
 enfranchising
 eurythermal
 egg
-ethmoid
 endosternum
 exradio
 episcopised
@@ -12315,6 +12314,7 @@ endotracheitis
 equimolecular
 epimerite
 erichtoid
+ethmoid
 eavesing
 enjambment
 eradicating
