@@ -2050,7 +2050,6 @@ forwander
 flatlander
 faunlike
 fascicule
-flaunting
 forfouchten
 feisty
 fairyisms
@@ -2588,6 +2587,7 @@ featherlight
 filthy
 forkable
 feoffed
+flaunting
 fancily
 foresheet
 ferromanganese
