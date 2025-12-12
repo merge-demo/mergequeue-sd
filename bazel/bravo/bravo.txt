@@ -624,6 +624,7 @@ bellwethers
 butchering
 boozed
 bullnecks
+biocycles
 biramous
 bacterioscopy
 bacteriosolvent
@@ -8905,7 +8906,6 @@ bandoras
 barbette
 baisakh
 biocycle
-biocycles
 biocidal
 biocide
 bioclimatic
