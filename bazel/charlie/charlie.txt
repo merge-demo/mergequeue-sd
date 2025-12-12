@@ -7630,7 +7630,6 @@ coiffing
 curettes
 concessionist
 centralizer
-ceremony
 chrysoeriol
 ceremonial
 chiquero
@@ -11622,6 +11621,7 @@ camphylene
 cladrastis
 cyanamids
 cholesteatoma
+ceremony
 concorrezanes
 cholesteatomatous
 cholesteremia

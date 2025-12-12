@@ -2940,7 +2940,6 @@ greenheaded
 gallons
 glabreity
 gulley
-growlier
 goads
 glumpish
 gavelkind
@@ -10060,6 +10059,7 @@ granitoidal
 gisler
 guerdoner
 gasterozooid
+growlier
 graperoot
 greatheart
 grandnephew
