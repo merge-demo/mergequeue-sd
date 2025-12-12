@@ -7431,7 +7431,6 @@ firstship
 forbarred
 forcibility
 forcibleness
-fibrilliferous
 filosa
 furnacite
 francophone
@@ -10320,6 +10319,7 @@ finalisms
 fortiori
 flexible
 festology
+fibrilliferous
 frondless
 feezing
 ferrado

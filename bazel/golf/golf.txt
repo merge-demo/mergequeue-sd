@@ -8662,7 +8662,6 @@ gapeseed
 gazetteership
 greatness
 greave
-gapers
 gavelet
 gisel
 greaved
@@ -10736,6 +10735,7 @@ gubernatorial
 gunnung
 graphometric
 gox
+gapers
 gussets
 gloms
 gairfish
