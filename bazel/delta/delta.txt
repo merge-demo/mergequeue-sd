@@ -1408,7 +1408,6 @@ disintegrable
 dulcid
 dechoralize
 damndests
-deperms
 deportation
 dawdling
 dibbed
@@ -1926,6 +1925,7 @@ disapprobations
 dacryd
 dinophilus
 dob
+deperms
 deferments
 desire
 decennal
