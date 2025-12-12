@@ -20627,7 +20627,6 @@ abmhos
 aswim
 archaists
 arthropods
-arthropomata
 arthrorheumatism
 acetates
 anaudic
@@ -25184,6 +25183,7 @@ anticonventionalist
 axonia
 aleochara
 assahy
+arthropomata
 axonolipa
 axonolipous
 amirate
