@@ -3110,7 +3110,6 @@ emissive
 endoscopy
 earthsmoke
 eloigning
-enactment
 euryte
 eloigns
 eloine
@@ -6424,6 +6423,7 @@ epeirogenetic
 ecophene
 embarrassing
 endangerments
+enactment
 espave
 espousal
 expandibility

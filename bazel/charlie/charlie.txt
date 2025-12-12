@@ -11732,6 +11732,7 @@ classicality
 coniomycetes
 caliphates
 chondrocoracoid
+coachman
 consonantalizing
 chondrocostal
 chondrocranial
@@ -29872,7 +29873,6 @@ coxal
 catarrhed
 crossbreeding
 crosscuts
-coachman
 courtier
 coling
 cuttikin
