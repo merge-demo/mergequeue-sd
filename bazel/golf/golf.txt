@@ -2256,6 +2256,7 @@ gospeller
 gigantine
 grandpaternal
 glamoury
+gipper
 gigantoblast
 gunroom
 gammoning
@@ -7983,7 +7984,6 @@ guttee
 goodhap
 galleyman
 gabblement
-gipper
 geologized
 grudgment
 gasterosteoid
