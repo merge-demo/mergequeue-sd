@@ -4423,6 +4423,7 @@ enteropneust
 egghot
 effervesces
 emicate
+exactus
 echards
 edifices
 epidermal
@@ -9388,7 +9389,6 @@ erythrogenesis
 escapees
 eyehole
 extraordinarily
-exactus
 entonic
 explainer
 endeavor
