@@ -944,7 +944,6 @@ forebay
 fanfishes
 flightless
 farandoles
-faxing
 fosterer
 fleecers
 flueric
@@ -8187,6 +8186,7 @@ fairyship
 funmaker
 foraminule
 florulent
+faxing
 fruitfullest
 fluffily
 fishpond
