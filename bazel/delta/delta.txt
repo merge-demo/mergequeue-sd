@@ -16606,7 +16606,6 @@ derout
 denotations
 dialuric
 decorations
-deionization
 dispromise
 dragonesque
 daphnis
@@ -17576,6 +17575,7 @@ disambiguated
 duteousness
 drumming
 drumreads
+deionization
 demential
 drumroll
 dendral
