@@ -3978,7 +3978,6 @@ gastrological
 guested
 gnomically
 giggliest
-geds
 genospecies
 gynecocratical
 guano
@@ -4144,6 +4143,7 @@ galaxiidae
 gemological
 geggee
 gimmickery
+geds
 gendering
 gangrenate
 guiltful
