@@ -2219,7 +2219,6 @@ effluve
 endoplasma
 elector
 exhume
-encyclopedian
 encell
 epauletted
 electragy
@@ -8118,6 +8117,7 @@ engineered
 elaeosaccharum
 epicede
 endointoxication
+encyclopedian
 elutriation
 ebenales
 embowelment
