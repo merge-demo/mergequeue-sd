@@ -2294,7 +2294,6 @@ biasways
 breloque
 bathyscape
 bemitred
-barbicels
 bathonian
 barbierite
 busyish
@@ -11499,6 +11498,7 @@ bispore
 bethwack
 blowfly
 bombload
+barbicels
 blumes
 beglooms
 blunderbuss

@@ -406,7 +406,6 @@ daintiness
 daiquiri
 dingle
 diriment
-diathermia
 dayanim
 dominos
 dwelt
@@ -1496,6 +1495,7 @@ draughts
 definiendum
 deformers
 diazines
+diathermia
 downlinked
 deacetylate
 duststorm
