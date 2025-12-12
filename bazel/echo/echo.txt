@@ -333,7 +333,6 @@ exoduses
 electrolyzability
 exigible
 eaten
-eighty
 electrodynamic
 enchantment
 empeirema
@@ -5957,6 +5956,7 @@ enframing
 enigma
 enigmas
 enjambements
+eighty
 enigmata
 eluvial
 exquisite
