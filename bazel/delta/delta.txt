@@ -3286,7 +3286,6 @@ disburdening
 domesticate
 deionized
 duodecillionth
-doublethought
 dominie
 departs
 defibrillated
@@ -7296,6 +7295,7 @@ deglutinated
 dentines
 dowage
 disseized
+doublethought
 diffusivity
 dollies
 diaxone
