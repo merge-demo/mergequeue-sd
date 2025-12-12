@@ -5448,6 +5448,7 @@ faunal
 figurativeness
 formulator
 foresummer
+ferriprussic
 feridjee
 furfuration
 fanatic
@@ -9143,7 +9144,6 @@ fluing
 fruitarian
 fractionalized
 forjudging
-ferriprussic
 fodient
 finagle
 faired
