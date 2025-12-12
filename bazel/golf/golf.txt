@@ -1233,7 +1233,6 @@ grues
 grackles
 guana
 gaufre
-glittered
 gnathostoma
 generalizations
 groups
@@ -6561,6 +6560,7 @@ grannom
 glaucic
 galls
 goma
+glittered
 glossoplegia
 granduncles
 grasp

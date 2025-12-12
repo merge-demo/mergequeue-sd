@@ -430,6 +430,7 @@ discoursers
 dairous
 dairt
 dais
+dispelling
 disinthrall
 donjons
 dibs
@@ -17751,7 +17752,6 @@ duboisine
 duc
 dibutyrin
 disconsolate
-dispelling
 ducally
 drunt
 discriminous
