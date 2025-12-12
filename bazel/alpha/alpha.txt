@@ -2620,7 +2620,6 @@ abacli
 amygdalotomy
 accrescent
 atheist
-agapeic
 allocated
 auxoflore
 abutters
@@ -11765,6 +11764,7 @@ antarctica
 analcimite
 aerophilic
 aggrieved
+agapeic
 aerosporin
 aiawong
 adenia
