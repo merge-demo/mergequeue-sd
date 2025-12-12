@@ -4686,7 +4686,6 @@ gamophyllous
 gyrophoraceous
 glance
 gringophobia
-gomavel
 ghafir
 geobiology
 gematrical
@@ -8473,6 +8472,7 @@ galactonic
 gratulation
 globefish
 grandeurs
+gomavel
 garoting
 gandhara
 gravitations
