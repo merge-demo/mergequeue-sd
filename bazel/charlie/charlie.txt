@@ -7458,7 +7458,6 @@ chitting
 ceratiasis
 ceratiid
 ceratins
-ceratioid
 capsuligerous
 curarized
 caffle
@@ -10893,6 +10892,7 @@ chirk
 chirkest
 chirking
 conglobating
+ceratioid
 chirks
 contrariety
 chlorotrifluoroethylene
