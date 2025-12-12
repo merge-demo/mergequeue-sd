@@ -1401,7 +1401,6 @@ gearshift
 gcd
 gangplow
 grundyite
-galvanopsychic
 gipsying
 guilloche
 genitals
@@ -3009,6 +3008,7 @@ gentlefolk
 goodnesses
 guidingly
 gambusia
+galvanopsychic
 guatambu
 greasiness
 glitnir
