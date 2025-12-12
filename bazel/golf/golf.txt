@@ -3779,6 +3779,7 @@ genoblastic
 gobbets
 gouvernantes
 giarra
+ginkgoes
 gherao
 giarre
 governing
@@ -5990,7 +5991,6 @@ geodesics
 gazogenes
 galactopathy
 grubs
-ginkgoes
 gastroparesis
 garreted
 groucho
