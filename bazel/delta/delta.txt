@@ -1334,7 +1334,6 @@ didappers
 daunt
 daunted
 dhobies
-decertified
 daffy
 dipentine
 demissive
@@ -7104,6 +7103,7 @@ darted
 damselfish
 destour
 demonial
+decertified
 destrer
 destressed
 decalescent
