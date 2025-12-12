@@ -752,7 +752,6 @@ frypans
 footmanhood
 flurries
 faraday
-fibrilliferous
 fanatism
 folily
 fabricating
@@ -7434,6 +7433,7 @@ firstship
 forbarred
 forcibility
 forcibleness
+fibrilliferous
 filosa
 furnacite
 francophone
