@@ -362,6 +362,7 @@ fellers
 flattering
 fiercening
 faults
+formalization
 featherway
 finspot
 fungales
@@ -6400,7 +6401,6 @@ faence
 forefoot
 fronture
 furry
-formalization
 foremean
 frogspawn
 fafnir
