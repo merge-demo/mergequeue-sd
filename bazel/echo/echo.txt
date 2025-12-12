@@ -7406,7 +7406,6 @@ epentheses
 errant
 exotic
 eleotrid
-experiencing
 encolumn
 etruria
 etalon
@@ -8316,6 +8315,7 @@ eriocaulaceae
 electrodeposit
 enciphers
 elev
+experiencing
 expressibly
 endured
 enchannel
