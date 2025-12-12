@@ -7638,7 +7638,6 @@ dottels
 dissimule
 developable
 diuretically
-dealer
 deflocculation
 digamous
 didinium
@@ -11623,6 +11622,7 @@ discontenting
 discontentments
 disboweled
 discontents
+dealer
 discontiguity
 discontinuances
 dambonite
