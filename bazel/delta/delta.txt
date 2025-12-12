@@ -4792,6 +4792,7 @@ disbudding
 doorkeep
 darwin
 dangs
+doggers
 dpt
 dilated
 detours
@@ -15038,7 +15039,6 @@ deposals
 disbutton
 decnet
 drysalteries
-doggers
 dyspnoeas
 dilogarithm
 dentonasal
