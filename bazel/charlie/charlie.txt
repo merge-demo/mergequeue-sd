@@ -22993,6 +22993,7 @@ cavalcade
 consonantised
 cagmag
 consonantism
+caesar
 consonantized
 cannibalizes
 consonantness
@@ -28181,7 +28182,6 @@ colipyuria
 churchman
 cranks
 crannage
-caesar
 crannel
 crannequin
 crannia
