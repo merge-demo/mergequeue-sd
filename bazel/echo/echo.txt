@@ -1106,7 +1106,6 @@ elatrometer
 electrotypes
 epicaridea
 edith
-embarras
 exsanguinated
 encatarrhaphy
 ejectee
@@ -4971,6 +4970,7 @@ entozoon
 enschedule
 exomphalous
 endemicity
+embarras
 electrofused
 endemism
 eco
