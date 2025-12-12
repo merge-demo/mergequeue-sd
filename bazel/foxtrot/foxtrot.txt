@@ -312,6 +312,7 @@ fraternation
 filical
 flow
 feints
+fourstrand
 fag
 feint
 fostell
@@ -1580,7 +1581,6 @@ favorer
 foresty
 ferrash
 fleecelike
-fourstrand
 falsettist
 famelessness
 fibrinogen
