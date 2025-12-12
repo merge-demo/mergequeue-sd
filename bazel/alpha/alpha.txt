@@ -3939,6 +3939,7 @@ adjudicators
 aversely
 agonied
 aphidian
+armouries
 alarmed
 argentamide
 adjunctively
@@ -8857,7 +8858,6 @@ allanturic
 actinal
 antevocalic
 arrayment
-armouries
 audiometries
 alderliefest
 adermin
