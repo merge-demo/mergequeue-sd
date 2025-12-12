@@ -19688,7 +19688,6 @@ combinative
 counterrotating
 combinator
 combinatory
-combinatorial
 combinatorially
 combinators
 combined
@@ -31125,6 +31124,7 @@ cobewail
 cunningness
 counterreplying
 cordierite
+combinatorial
 cunnings
 cunoniaceous
 cunt
