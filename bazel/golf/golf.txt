@@ -1758,6 +1758,7 @@ gastropneumonic
 governmentish
 gootee
 gingery
+gondolas
 giaour
 guberla
 gynopara
@@ -6663,7 +6664,6 @@ gateman
 gliders
 gropes
 gambusias
-gondolas
 guidons
 glasseye
 gondoletta
