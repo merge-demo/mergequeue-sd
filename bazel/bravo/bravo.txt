@@ -6325,6 +6325,7 @@ battens
 baltic
 benzalacetophenone
 bonum
+basilard
 benzalazine
 bakupari
 benzaldehyde
@@ -10584,7 +10585,6 @@ buduma
 blattid
 bulwand
 brockish
-basilard
 bouk
 bajada
 bobache
