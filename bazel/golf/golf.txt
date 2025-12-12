@@ -5297,6 +5297,7 @@ gluiest
 genial
 grenade
 goatish
+guesstimate
 gullet
 gelsemiums
 glenohumeral
@@ -6401,7 +6402,6 @@ graymill
 gugal
 gospelwards
 germanophile
-guesstimate
 glossophaga
 gulmohar
 galloped
