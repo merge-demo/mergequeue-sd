@@ -1480,6 +1480,7 @@ gasolier
 ghostology
 granolith
 girllike
+gearcase
 grotesque
 garner
 geogenetic
@@ -9165,7 +9166,6 @@ grammaticalness
 gazeful
 groat
 grusinian
-gearcase
 grooming
 gardant
 gradins
