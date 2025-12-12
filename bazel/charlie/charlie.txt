@@ -16732,7 +16732,6 @@ comptrollership
 clouds
 chanteuses
 cloudship
-cursedest
 cloudward
 cloudwards
 calamiferous
@@ -30787,6 +30786,7 @@ contineu
 chiffon
 carcerate
 culicoides
+cursedest
 contractation
 culinarian
 condenser
