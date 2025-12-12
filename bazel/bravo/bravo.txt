@@ -3383,7 +3383,6 @@ balneation
 bureau
 bassia
 bobbishly
-bassie
 betsey
 bassinet
 bitterling
@@ -17024,6 +17023,7 @@ bronchiostenosis
 broomtail
 bayman
 braces
+bassie
 bulimus
 baler
 bimahs
