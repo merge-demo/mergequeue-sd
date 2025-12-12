@@ -375,7 +375,6 @@ episomally
 empery
 eyeleting
 eelery
-extraforaneous
 enleaf
 exalte
 ensear
@@ -6989,6 +6988,7 @@ exiting
 effecting
 excisor
 encauma
+extraforaneous
 entrelac
 emetically
 epilogued
