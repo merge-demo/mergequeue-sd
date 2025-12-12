@@ -1644,6 +1644,7 @@ deallocate
 deobstruct
 devotional
 daunter
+desmodont
 dicephalus
 darkhaired
 deerhair
@@ -2936,7 +2937,6 @@ dedanite
 dedecorous
 darbies
 divide
-desmodont
 duodecimomos
 dedicant
 dichotic
