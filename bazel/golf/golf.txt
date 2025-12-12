@@ -182,6 +182,7 @@ gabarit
 groschen
 gavage
 gallivorous
+glyceric
 geraniales
 gelled
 garred
@@ -2296,7 +2297,6 @@ gymnodiniaceae
 galidictis
 ganofs
 gelant
-glyceric
 ganta
 gymnostomous
 gitoxin
