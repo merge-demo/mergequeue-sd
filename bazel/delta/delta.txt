@@ -2971,7 +2971,6 @@ dediticiancy
 dedogmatize
 discounted
 dedolation
-deseret
 destinal
 dotingness
 diegesis
@@ -6714,6 +6713,7 @@ disagreement
 dreyfusist
 dissentiously
 dahabiyas
+deseret
 danaid
 desiderated
 demikindred
