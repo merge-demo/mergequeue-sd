@@ -8327,6 +8327,7 @@ diaka
 despeed
 dapper
 duskly
+delating
 diapausing
 decree
 dyakish
@@ -14290,7 +14291,6 @@ despectant
 downsitting
 ditrichotomous
 ditriglyphic
-delating
 dragropes
 dispel
 duotones
