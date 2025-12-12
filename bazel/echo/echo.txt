@@ -10542,6 +10542,7 @@ expenses
 ephebeubea
 expiscator
 epitoxoid
+embrittled
 enceintes
 epistolized
 endogenic
@@ -11561,7 +11562,6 @@ extypal
 extraburghal
 elenchus
 encodement
-embrittled
 errantness
 ennoy
 evocator
