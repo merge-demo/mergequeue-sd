@@ -9571,7 +9571,6 @@ freebie
 frescos
 farsi
 fleeciest
-freebooter
 fecket
 freebootery
 forestiera
@@ -10949,6 +10948,7 @@ forewit
 foreseing
 facsimiles
 fooled
+freebooter
 fulzie
 favositidae
 flagellar
