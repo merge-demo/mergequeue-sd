@@ -1263,7 +1263,6 @@ glutinosity
 guib
 galvanologist
 garran
-gaia
 glenwood
 gnomonology
 granage
@@ -5744,6 +5743,7 @@ grandnephews
 geniality
 graveldiver
 glossemic
+gaia
 glaciometer
 gorilline
 gesundheit
