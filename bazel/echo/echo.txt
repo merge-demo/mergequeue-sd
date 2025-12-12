@@ -5903,6 +5903,7 @@ exaggerativeness
 epitomise
 edeitis
 enfief
+epistemonic
 enhancing
 enharbour
 electrometallurgy
@@ -7139,7 +7140,6 @@ exalts
 envolume
 embarment
 enwall
-epistemonic
 eucaryote
 enwallow
 excandescence
