@@ -5064,7 +5064,6 @@ altumal
 amalaka
 agerasia
 aerose
-altisonous
 ageratums
 alexinic
 aerosolized
@@ -15200,6 +15199,7 @@ autolaryngoscopy
 ankyroid
 affiancer
 androtauric
+altisonous
 antifibrinolysin
 antifibrinolysis
 apostolically
