@@ -9941,7 +9941,6 @@ bastardice
 bituminate
 bituminising
 bituminized
-bucktail
 basyl
 bedivere
 brisure
@@ -10507,6 +10506,7 @@ biologistic
 bepastured
 blastogenic
 bandfiled
+bucktail
 bop
 brainy
 bridgewards
