@@ -5212,6 +5212,7 @@ diazoamino
 denitrifier
 denizenation
 diquats
+demurrer
 deflectionization
 drumbler
 denizenship
@@ -8220,7 +8221,6 @@ depart
 diaderm
 diadic
 disabusing
-demurrer
 decouples
 dyadics
 diadkokinesia
