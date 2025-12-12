@@ -7130,7 +7130,6 @@ chloranthaceae
 centrad
 central
 centraler
-cobblery
 chevelure
 cestraciontidae
 centralise
@@ -27748,6 +27747,7 @@ cox
 cohog
 charting
 coxa
+cobblery
 caryophylleous
 cuttlefishes
 cupronickel

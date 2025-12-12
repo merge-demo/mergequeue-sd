@@ -7432,6 +7432,7 @@ forbarred
 forcibility
 forcibleness
 filosa
+frithles
 furnacite
 francophone
 freckliest
@@ -10104,7 +10105,6 @@ fructuary
 fliting
 footlight
 functionality
-frithles
 fluoroscopist
 federatist
 fellowheirship
