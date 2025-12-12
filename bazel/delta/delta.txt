@@ -2564,7 +2564,6 @@ dweller
 declassification
 derringer
 diachrony
-declassifies
 diplophonic
 disequality
 dematerialize
@@ -11745,6 +11744,7 @@ dyscrasic
 demissness
 dactylologies
 dimane
+declassifies
 decoupage
 disco
 dopamelanin
