@@ -877,7 +877,6 @@ gymnophiona
 guerrilla
 gametangia
 gerontomorphosis
-grillwork
 geminal
 gotha
 gametocyst
@@ -6707,6 +6706,7 @@ giantism
 gastroscopies
 graptolithida
 gallflies
+grillwork
 gimlets
 geomalic
 gayway
