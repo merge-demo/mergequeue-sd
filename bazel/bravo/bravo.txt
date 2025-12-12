@@ -13853,7 +13853,6 @@ bowkail
 barkentine
 blad
 biddably
-bowlder
 bluefishes
 bauno
 blethered
@@ -15946,6 +15945,7 @@ bedlamising
 bungee
 bogsucker
 bufotenin
+bowlder
 brutish
 bronchocephalitis
 bronchoconstriction

@@ -3198,6 +3198,7 @@ capeweed
 coverlet
 crystallogy
 craked
+conubium
 citruses
 capewise
 capework
@@ -23883,7 +23884,6 @@ cicadellidae
 conf
 chaffing
 clysmic
-conubium
 comminuate
 conularia
 conumerous
