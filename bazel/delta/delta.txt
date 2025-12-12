@@ -1048,6 +1048,7 @@ deas
 disobliging
 dutra
 darner
+dollop
 dipterad
 darners
 dewooled
@@ -17122,7 +17123,6 @@ decalog
 drawknot
 deceleron
 decarchies
-dollop
 drifty
 driftingly
 driftless
