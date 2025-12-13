@@ -1584,6 +1584,7 @@ draperies
 deadpans
 depayse
 daikering
+dess
 disinfector
 deadwork
 deaerated
@@ -5640,7 +5641,6 @@ decadents
 dephlegmation
 dephlegmedness
 dephlogisticate
-dess
 detache
 disinclose
 dephlogistication
