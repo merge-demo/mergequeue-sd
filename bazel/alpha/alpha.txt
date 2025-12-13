@@ -10351,6 +10351,7 @@ acupressure
 abscam
 apivorous
 attains
+anisotropal
 anaphorically
 affination
 athetized
@@ -15264,7 +15265,6 @@ afflue
 antigovernmentally
 antigrammatical
 arcadings
-anisotropal
 arar
 acetimetry
 afterdinner
