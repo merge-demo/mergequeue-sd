@@ -28271,7 +28271,6 @@ crossbreed
 crater
 cachet
 crossfiring
-conine
 cephalothoracic
 carabineer
 cabotages
@@ -29051,6 +29050,7 @@ cantab
 cryptorhynchus
 crimper
 cynomorpha
+conine
 creosoter
 crimping
 chattable

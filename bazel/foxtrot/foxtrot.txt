@@ -382,7 +382,6 @@ fieldfight
 follicles
 fireboxes
 froes
-fluorides
 faintly
 ferrymen
 fearer
@@ -2287,6 +2286,7 @@ foreface
 fistulizing
 forthon
 floorwise
+fluorides
 flintlike
 flagelliferous
 fenestrae
