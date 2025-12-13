@@ -223,6 +223,7 @@ greatens
 gradefinder
 gratiano
 gaiassa
+glassine
 gifts
 gelasimus
 guidman
@@ -6645,7 +6646,6 @@ gallinipper
 gradatively
 galanga
 gruntingly
-glassine
 gaed
 glucine
 goncalo
