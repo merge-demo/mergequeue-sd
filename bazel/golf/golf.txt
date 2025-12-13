@@ -9780,7 +9780,6 @@ gtt
 guidon
 gagaku
 gymnastic
-gasworks
 gluttonizing
 gradino
 goonda
@@ -10538,6 +10537,7 @@ guadua
 garn
 goblinry
 gundie
+gasworks
 graspingness
 galipots
 guigne
