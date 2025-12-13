@@ -4149,7 +4149,6 @@ firebox
 flocculation
 farkleberries
 fibrotuberculosis
-fellowcraft
 floerkea
 fibrils
 faintness
@@ -5949,6 +5948,7 @@ foolhardily
 falseface
 freer
 fraudlessness
+fellowcraft
 feretories
 floodlight
 forthinking
