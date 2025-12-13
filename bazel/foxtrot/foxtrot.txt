@@ -9063,6 +9063,7 @@ fleetwing
 frap
 feruling
 frasco
+firebrick
 foxbane
 foxberry
 falcular
@@ -10232,7 +10233,6 @@ focimetry
 fruticant
 fleshly
 fadedness
-firebrick
 fibrillations
 flakers
 frond

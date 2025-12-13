@@ -676,6 +676,7 @@ depermed
 dampness
 dextrosuria
 diacetylene
+distrains
 despairs
 dampproof
 dampproofing
@@ -15021,7 +15022,6 @@ dendroidal
 defeatism
 disarrangements
 dolcissimo
-distrains
 distinctify
 determ
 doggerel
