@@ -151,7 +151,6 @@ envoys
 expired
 effervescent
 erotopath
-enunciations
 earthly
 enriched
 exequy
@@ -6735,6 +6734,7 @@ enthusiastically
 eta
 enthusiastly
 emydosaurian
+enunciations
 emmarvel
 ephemeral
 empyema
