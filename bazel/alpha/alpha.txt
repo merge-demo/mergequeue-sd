@@ -10781,6 +10781,7 @@ amitrole
 amitular
 ancre
 antiagglutinating
+attenuated
 aged
 amiantuses
 amyxorrhea
@@ -12511,7 +12512,6 @@ anemography
 anemologic
 anticonfederationist
 anemometrically
-attenuated
 amanuenses
 anemometrographically
 alfilaria
