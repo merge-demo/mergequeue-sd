@@ -3405,6 +3405,7 @@ crackiness
 caprate
 cruciate
 coagulatory
+coelacanthid
 caprella
 capreol
 commotional
@@ -14319,7 +14320,6 @@ circumstances
 connarite
 circumstancing
 circumstant
-coelacanthid
 chronometry
 circumstantiality
 circumstantialities
