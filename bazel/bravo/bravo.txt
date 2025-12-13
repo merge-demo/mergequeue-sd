@@ -11432,7 +11432,6 @@ beaverkill
 bluesmen
 bluestems
 beguiles
-begazes
 bigeneric
 blenched
 bananalander
@@ -15362,6 +15361,7 @@ brigantia
 brigantines
 brigatry
 brigetty
+begazes
 beliquoring
 bekick
 burgensic

@@ -916,6 +916,7 @@ gelatinate
 gambia
 garnishable
 grittiness
+glyceryls
 gosport
 gemeinschaften
 galt
@@ -8795,7 +8796,6 @@ greenling
 grogram
 glaserite
 gatherable
-glyceryls
 goosish
 gravel
 gazpachos
