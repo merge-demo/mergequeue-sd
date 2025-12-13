@@ -608,6 +608,7 @@ guaranian
 glockenspiels
 glossopalatine
 guineas
+gabe
 gorgoniacea
 ghostweed
 graveside
@@ -10132,7 +10133,6 @@ gills
 gnotobiologies
 grouping
 gaskets
-gabe
 gulfy
 gauderies
 grummels
