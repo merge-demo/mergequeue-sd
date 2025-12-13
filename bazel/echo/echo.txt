@@ -5303,6 +5303,7 @@ equivocalities
 eradicators
 egeran
 emmeniopathy
+effortful
 endoscopies
 epipodia
 endoskeletons
@@ -9573,7 +9574,6 @@ enchasers
 esoethmoiditis
 exornation
 emplacing
-effortful
 emulator
 enterohemorrhage
 esophagalgia
