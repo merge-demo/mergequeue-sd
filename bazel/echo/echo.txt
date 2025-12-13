@@ -5483,7 +5483,6 @@ encake
 electroscope
 elritch
 ectocarpic
-excitate
 equiformity
 enzymosis
 enervation
@@ -7704,6 +7703,7 @@ enforcer
 execrably
 epipleurae
 etiological
+excitate
 ephapse
 everyness
 erythraea
