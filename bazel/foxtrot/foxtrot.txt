@@ -4696,7 +4696,6 @@ fizgig
 fizgigs
 feltyflier
 figaro
-fairyish
 forsake
 fjord
 fancify
@@ -5549,6 +5548,7 @@ fleecer
 fatal
 foraminiferous
 flirtish
+fairyish
 flexuously
 fram
 fluffiest

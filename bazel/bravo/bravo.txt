@@ -9036,7 +9036,6 @@ bionics
 brachyprosopic
 bionomic
 backswordman
-bursas
 batton
 bionomies
 beckie
@@ -15321,6 +15320,7 @@ boomier
 briefcase
 barramunda
 bandylegged
+bursas
 blisterwort
 bohorok
 boisterously
