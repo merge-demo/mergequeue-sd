@@ -15202,7 +15202,6 @@ claiver
 crucigerous
 claywares
 caam
-colours
 chlorphenol
 crassina
 clam
@@ -25898,6 +25897,7 @@ cortexes
 cortication
 cortices
 corticiferous
+colours
 cordula
 corticifugally
 catchier

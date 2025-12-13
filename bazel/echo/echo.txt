@@ -4558,6 +4558,7 @@ enam
 emplore
 effigies
 ectomesoblast
+entangledness
 expede
 encheason
 enchequer
@@ -6504,7 +6505,6 @@ entomophthora
 elaphodus
 ended
 entangled
-entangledness
 endotrachelitis
 exhauster
 enwrapt
