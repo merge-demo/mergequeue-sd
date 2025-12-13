@@ -8610,7 +8610,6 @@ farseeingness
 fetcher
 foglietto
 fenceress
-faradisms
 flappiest
 farmyard
 forescript
@@ -9977,6 +9976,7 @@ fed
 feracity
 firelike
 frigotherapy
+faradisms
 fibrosities
 fencings
 fliest
