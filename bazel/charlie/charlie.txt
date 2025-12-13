@@ -10050,6 +10050,7 @@ collab
 chessdom
 chesser
 cabinda
+chondrule
 chessylite
 chessist
 chirimen
@@ -14532,7 +14533,6 @@ cabuja
 conchoidal
 cysticercerci
 cysticerci
-chondrule
 chackling
 cylindrite
 centerable
