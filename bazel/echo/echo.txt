@@ -12680,7 +12680,6 @@ echoisms
 epicotyledonary
 exonerate
 exonerating
-ephemerous
 encephalotomies
 euclase
 episcopicide
@@ -13724,6 +13723,7 @@ elfhood
 euphemised
 emblazoning
 exerting
+ephemerous
 epitrochoidal
 ectosphere
 extincted
