@@ -6782,7 +6782,6 @@ futuric
 fold
 fantasy
 fleechment
-flote
 frosts
 frosteds
 fledgeless
@@ -10379,6 +10378,7 @@ fonctionnaire
 forgivers
 fecundities
 fertilizable
+flote
 frontignan
 fucate
 fronting
