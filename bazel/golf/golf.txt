@@ -2685,6 +2685,7 @@ geniculately
 geniculation
 granule
 gemarist
+galloper
 guinness
 gigantocyte
 genioglossal
@@ -4602,7 +4603,6 @@ gilim
 graphometry
 glim
 goala
-galloper
 goobers
 gagger
 grinter
