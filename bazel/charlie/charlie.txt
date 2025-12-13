@@ -2599,7 +2599,6 @@ ceraunograph
 carbona
 canduc
 crepier
-camphires
 censuses
 cyclotrons
 cliffing
@@ -17674,6 +17673,7 @@ cunjer
 cockal
 carboloy
 counternoise
+camphires
 cockpit
 couched
 comaking
