@@ -1259,6 +1259,7 @@ ganomalite
 gradings
 greasers
 galliardly
+galipots
 galactia
 grognard
 geneki
@@ -10538,7 +10539,6 @@ goblinry
 gundie
 gasworks
 graspingness
-galipots
 guigne
 guarnieri
 goladar
