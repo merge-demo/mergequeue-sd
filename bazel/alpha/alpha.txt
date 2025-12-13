@@ -8688,7 +8688,6 @@ aldehydase
 allelotropism
 alleluia
 applesauce
-alleluiah
 agers
 amnesiacs
 appareled
@@ -19933,6 +19932,7 @@ astrocytomata
 arterialized
 anemochoric
 abstrusenesses
+alleluiah
 antileukemic
 apostle
 autohemorrhage
