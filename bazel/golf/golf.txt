@@ -7100,7 +7100,6 @@ giottesque
 glaces
 gourounut
 gaus
-gunwales
 gesnerian
 garbell
 garnetberry
@@ -9003,6 +9002,7 @@ grievable
 grievance
 gantlines
 grievances
+gunwales
 gearbox
 germinating
 gigues
