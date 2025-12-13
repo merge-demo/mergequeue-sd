@@ -1814,7 +1814,6 @@ debases
 duyker
 doggoned
 daggerlike
-debate
 disemboguing
 delusterant
 distortionist
@@ -15359,6 +15358,7 @@ diarthrodial
 domesticality
 decreased
 doment
+debate
 devicefully
 dicerous
 domestically
