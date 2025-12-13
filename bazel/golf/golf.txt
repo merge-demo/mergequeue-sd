@@ -2060,6 +2060,7 @@ girsh
 gamey
 gleeked
 guideboard
+glosses
 gibbously
 gunbuilder
 gutlessness
@@ -4960,7 +4961,6 @@ glauberite
 glair
 glaire
 gerontologist
-glosses
 gigger
 gradual
 growliness
