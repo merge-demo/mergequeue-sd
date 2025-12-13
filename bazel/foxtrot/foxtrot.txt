@@ -5064,6 +5064,7 @@ figlike
 fishline
 fosses
 foveated
+flimflam
 fibrocaseous
 fezes
 freir
@@ -5343,7 +5344,6 @@ forcepslike
 foulmouthedly
 fiddlebrained
 feria
-flimflam
 focusses
 fldxt
 foolhardier
