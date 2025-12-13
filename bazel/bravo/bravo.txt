@@ -7812,6 +7812,7 @@ bialate
 bidonville
 berain
 bezante
+brigandine
 biacuru
 biallyl
 breach
@@ -15355,7 +15356,6 @@ blondine
 bevomited
 bother
 brachypterous
-brigandine
 bandhu
 brigantia
 brigantines

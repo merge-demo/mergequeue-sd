@@ -323,6 +323,7 @@ fagaceae
 firesafe
 flamingo
 fessed
+fending
 fittage
 fornicatory
 fplot
@@ -10181,7 +10182,6 @@ fetologies
 furdel
 ferryage
 famines
-fending
 flakes
 fullgrownness
 foggages
