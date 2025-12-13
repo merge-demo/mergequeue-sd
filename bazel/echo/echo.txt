@@ -6955,7 +6955,6 @@ endostylic
 erian
 esophago
 ecthlipses
-eyebrows
 ensaint
 ecophysiology
 entre
@@ -12012,6 +12011,7 @@ endolymphic
 epithermally
 excreation
 exclamatory
+eyebrows
 exclaves
 excavational
 expensed
