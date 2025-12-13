@@ -453,6 +453,7 @@ gaping
 galeid
 genny
 gyms
+gabfests
 gemmation
 gerontogeous
 gonopoietic
@@ -4300,7 +4301,6 @@ goatlike
 gigantesque
 grousing
 gumlike
-gabfests
 granulate
 glyptotherium
 goboes
