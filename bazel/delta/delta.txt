@@ -10790,6 +10790,7 @@ dipstick
 diazotize
 divinization
 dipteraceae
+diaphanoscope
 dipterygian
 discontiguous
 dipteryx
@@ -18355,7 +18356,6 @@ downloaded
 duodenocholecystostomy
 duodenocholedochotomy
 depolishing
-diaphanoscope
 decency
 desecrating
 demigroat
