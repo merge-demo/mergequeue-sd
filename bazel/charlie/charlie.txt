@@ -23652,6 +23652,7 @@ contradictious
 cairene
 contradictiously
 contradictiousness
+chemistries
 contradictiveness
 contradictory
 couxio
@@ -27326,7 +27327,6 @@ courap
 couratari
 courbaril
 courbe
-chemistries
 courbette
 courbettes
 carcaneted
