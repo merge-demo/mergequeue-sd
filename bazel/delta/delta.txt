@@ -5699,7 +5699,6 @@ deplenish
 dialup
 depleteable
 decapodan
-ducape
 dichroite
 daftlike
 depletions
@@ -6522,6 +6521,7 @@ dirtbird
 dreggily
 distomiasis
 discourages
+ducape
 descort
 differentiators
 debruise
