@@ -5783,6 +5783,7 @@ agaricoid
 agarics
 apluda
 aleurodidae
+aberrated
 acephalia
 acculturative
 agaroid
@@ -16402,7 +16403,6 @@ antlophobia
 antocular
 agitationist
 aurelius
-aberrated
 antoeci
 antoecian
 antoecians

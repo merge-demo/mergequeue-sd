@@ -2159,7 +2159,6 @@ boogeyman
 bobsledder
 baptizing
 bess
-bepuddle
 bedward
 bields
 batwoman
@@ -9811,6 +9810,7 @@ bidialectal
 bytalks
 bitanhol
 bitartrate
+bepuddle
 beneplacito
 burmannia
 bandonion
