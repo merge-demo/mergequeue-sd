@@ -2614,6 +2614,7 @@ fulful
 fearlessness
 flashly
 framesmith
+flower
 fibrinogenic
 forecastles
 funnel
@@ -7755,7 +7756,6 @@ forelook
 fauvist
 facer
 fanfaronade
-flower
 flanes
 firearms
 foremast

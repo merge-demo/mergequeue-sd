@@ -583,7 +583,6 @@ echometer
 echopractic
 examinate
 elitisms
-ebonise
 exobiological
 epihippus
 echt
@@ -5620,6 +5619,7 @@ endent
 encouraging
 eirene
 epilogation
+ebonise
 enforest
 epacme
 enform
