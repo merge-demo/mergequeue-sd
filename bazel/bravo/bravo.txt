@@ -10017,7 +10017,6 @@ beblear
 bedfast
 breeched
 bivocal
-bossism
 bivocalized
 bombings
 blitzkrieging
@@ -16933,6 +16932,7 @@ blacktopped
 banca
 biographic
 baganda
+bossism
 baliti
 berceuse
 blackbeard
