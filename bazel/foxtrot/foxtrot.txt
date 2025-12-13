@@ -5516,7 +5516,6 @@ fletcherism
 frontignac
 fieri
 fervours
-finnan
 fletchers
 furrower
 furnit
@@ -9262,6 +9261,7 @@ frontispieced
 fixing
 fraktur
 fasciolet
+finnan
 fresnel
 foresentence
 fetishist
