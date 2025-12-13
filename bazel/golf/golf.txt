@@ -7376,7 +7376,6 @@ generalizers
 glomus
 gromet
 gossypine
-gamotropism
 grumps
 globated
 gramas
@@ -9351,6 +9350,7 @@ gerundially
 geomagnetically
 greet
 grond
+gamotropism
 gront
 gamodeme
 genuflect
