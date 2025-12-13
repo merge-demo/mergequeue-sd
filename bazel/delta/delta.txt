@@ -6910,6 +6910,7 @@ drollist
 discomposes
 desoxalic
 dichromasy
+daytide
 decanter
 dialled
 despair
@@ -13832,7 +13833,6 @@ distancing
 dalmatian
 disjoining
 deceptitious
-daytide
 dysphemia
 dogeared
 delectation
