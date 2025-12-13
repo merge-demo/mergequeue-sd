@@ -5836,6 +5836,7 @@ fluochloride
 fixtures
 fattening
 fervidly
+functionally
 fodders
 flounders
 flotas
@@ -10857,7 +10858,6 @@ frousy
 faddism
 fulgidity
 flaite
-functionally
 fantasizing
 footholds
 fallings

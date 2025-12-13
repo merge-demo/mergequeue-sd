@@ -7443,7 +7443,6 @@ gyrometer
 galactopyra
 goodmen
 grimacingly
-germens
 glycines
 greggriffin
 gamotropic
@@ -10278,6 +10277,7 @@ geechee
 gonophore
 glacier
 gustiness
+germens
 galvanometry
 galvanoplastically
 grownup
