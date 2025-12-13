@@ -11257,7 +11257,6 @@ enthronized
 epidictical
 exserts
 earthquake
-exundate
 ectoloph
 elucidations
 entelluses
@@ -13820,6 +13819,7 @@ earworm
 extracystic
 equiarticulate
 entomolite
+exundate
 extracivic
 energeticist
 engenderer
