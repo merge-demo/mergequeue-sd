@@ -4492,6 +4492,7 @@ circumference
 carlot
 carls
 cavorters
+cutwork
 communalised
 carmagnole
 ceremonials
@@ -31905,7 +31906,6 @@ cruppers
 carcased
 cutwater
 cutweed
-cutwork
 cutworm
 claimless
 cutworms
