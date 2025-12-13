@@ -4371,7 +4371,6 @@ emphasised
 electrobioscopy
 environmentally
 encanthis
-equisetaceae
 expectorations
 enfacing
 ensigncies
@@ -13913,6 +13912,7 @@ expiscated
 eruditeness
 eliminatory
 entortill
+equisetaceae
 extorter
 ectoderm
 eburnated
