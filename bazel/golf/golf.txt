@@ -8664,6 +8664,7 @@ gavelet
 gisel
 greaved
 garlopa
+geobiologic
 galvaniser
 grossulaceous
 gospellike
@@ -10455,7 +10456,6 @@ gilia
 gesneraceous
 gomphodont
 glossolabiolaryngeal
-geobiologic
 gumdigging
 gumdrop
 gumly
