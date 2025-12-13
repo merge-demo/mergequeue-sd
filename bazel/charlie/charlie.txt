@@ -7845,7 +7845,6 @@ cessed
 cesser
 cesses
 cuttle
-cipolin
 cessible
 copperplate
 cyclorrhaphous
@@ -20115,6 +20114,7 @@ commissoria
 corticole
 clypeastroidea
 commissure
+cipolin
 chalcidic
 commissurotomies
 commit
