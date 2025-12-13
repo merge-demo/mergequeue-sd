@@ -2795,7 +2795,6 @@ eustatic
 evenhanded
 epiplastron
 enaluron
-elephantiasis
 elymi
 eliza
 eosins
@@ -4646,6 +4645,7 @@ eucrites
 elbowing
 eyeopener
 eryhtrism
+elephantiasis
 encyclopaedically
 extraterritorially
 encyclopedia
