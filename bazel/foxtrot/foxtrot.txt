@@ -2189,6 +2189,7 @@ fats
 fratercula
 farmhouse
 fumulus
+flechettes
 fluster
 felts
 forthtell
@@ -5382,7 +5383,6 @@ forthset
 flutists
 fleche
 folliculate
-flechettes
 faucitis
 flecked
 forkhead
