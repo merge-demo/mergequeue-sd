@@ -2274,7 +2274,6 @@ full
 flavones
 filamentiferous
 fantails
-folktale
 fulmineous
 fragging
 fluorocarbons
@@ -6605,6 +6604,7 @@ foamflower
 flammulation
 firework
 frocks
+folktale
 floriculturally
 fullness
 fertilized

@@ -2650,7 +2650,6 @@ goosey
 gastrolysis
 gudgeoned
 geomoroi
-glow
 garg
 germantown
 globulicidal
@@ -5687,6 +5686,7 @@ germanics
 gubernacular
 geyserine
 gingalls
+glow
 gastralgic
 growsome
 grubbiest
