@@ -1071,7 +1071,6 @@ elective
 eprise
 edification
 evaluators
-exfigure
 earock
 equipoised
 evaluates
@@ -7967,6 +7966,7 @@ epineuneuria
 enterocholecystostomy
 evolutionary
 epineurium
+exfigure
 enormousness
 enclaving
 ergotinine
