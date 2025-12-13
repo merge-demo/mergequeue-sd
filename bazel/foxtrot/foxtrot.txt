@@ -6503,6 +6503,7 @@ fario
 factionist
 fluxes
 floody
+foliolose
 flustrated
 footages
 fotui
@@ -11461,7 +11462,6 @@ furrure
 foreglimpse
 fin
 ferri
-foliolose
 fevergum
 feminacies
 fairleader
