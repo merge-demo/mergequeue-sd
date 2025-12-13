@@ -3521,6 +3521,7 @@ capsuliform
 coverup
 capsuling
 clamer
+cathodoluminescent
 capsulitis
 capsulizing
 cabman
@@ -24519,7 +24520,6 @@ copernicus
 cholecystojejunostomy
 clodhopperish
 codger
-cathodoluminescent
 copers
 cutches
 coperta
