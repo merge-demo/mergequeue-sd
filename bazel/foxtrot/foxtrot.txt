@@ -5767,7 +5767,6 @@ foge
 freckliness
 foehns
 finebent
-fringilliform
 finings
 fiefs
 fulth
@@ -6405,6 +6404,7 @@ faence
 forefoot
 fronture
 furry
+fringilliform
 foremean
 frogspawn
 fafnir
