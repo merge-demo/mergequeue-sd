@@ -2673,7 +2673,6 @@ entosphenoid
 electrotypy
 enolase
 earwigged
-erethisms
 eightyfold
 esquamulose
 evaporated
@@ -6606,6 +6605,7 @@ emetocathartic
 elevation
 embryoctonic
 esterifying
+erethisms
 eched
 eyeing
 exoderms

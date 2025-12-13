@@ -7604,7 +7604,6 @@ besottedness
 botflies
 brainworker
 banagos
-beweeper
 beweeps
 bombilate
 bastardize
@@ -13071,6 +13070,7 @@ bacterioscopist
 bromisation
 bastinaded
 blowzier
+beweeper
 brahui
 boride
 benchmen
