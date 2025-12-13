@@ -13375,6 +13375,7 @@ anker
 asianism
 ankerhold
 annie
+amphithurons
 annalistic
 antiinflammatory
 ankylodontia
@@ -23917,7 +23918,6 @@ authigenetic
 antiozonant
 authigenous
 anodine
-amphithurons
 astrict
 aurite
 authored
