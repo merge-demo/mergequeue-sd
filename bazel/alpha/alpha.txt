@@ -5687,7 +5687,6 @@ agal
 agalactic
 appoggiaturas
 agalaxia
-anisomelus
 agalena
 apholates
 asperating
@@ -18653,6 +18652,7 @@ apogaic
 available
 almuredin
 animability
+anisomelus
 aurified
 anaxagorize
 anhungry
