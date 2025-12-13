@@ -8246,6 +8246,7 @@ bb
 bobstay
 bullfist
 brothership
+bids
 brummer
 bespurt
 bulgaric
@@ -16711,7 +16712,6 @@ bolyaian
 bucks
 blinders
 bucksaw
-bids
 bedfoot
 bariatrics
 bucktooth
