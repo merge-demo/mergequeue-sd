@@ -5025,7 +5025,6 @@ ginger
 grisliest
 glamoured
 greatmouthed
-grolier
 glebeless
 grippe
 genethliac
@@ -7531,6 +7530,7 @@ gat
 governed
 gotten
 graecizing
+grolier
 glazieries
 governesses
 galvanotonic
