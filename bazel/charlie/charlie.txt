@@ -14285,7 +14285,6 @@ circumpose
 condite
 circumquaque
 circumradius
-charitable
 claver
 conferring
 cevadilla
@@ -18932,6 +18931,7 @@ cham
 collates
 collation
 collations
+charitable
 cesti
 collatitious
 cloine
