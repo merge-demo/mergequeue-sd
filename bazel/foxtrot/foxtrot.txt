@@ -1252,6 +1252,7 @@ flatdom
 faradism
 fastening
 frocked
+fangy
 foals
 fama
 favella
@@ -5294,7 +5295,6 @@ freebooters
 farewells
 flabbergasted
 footloose
-fangy
 foamed
 floppily
 frangulinic
