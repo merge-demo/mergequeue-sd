@@ -7128,7 +7128,6 @@ centra
 chloranthaceae
 centrad
 central
-centraler
 chevelure
 cestraciontidae
 centralise
@@ -25326,6 +25325,7 @@ cornering
 crang
 cornerstone
 cornet
+centraler
 cornetcy
 cornetcies
 cornetfishes
