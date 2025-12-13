@@ -13220,6 +13220,7 @@ coulometric
 crossrail
 cycloaliphatic
 cycloalkane
+circumvoisin
 cyclobothra
 cyclobutane
 constableship
@@ -14364,7 +14365,6 @@ citrus
 catastrophe
 clicky
 circumvest
-circumvoisin
 contrapletal
 circumvolution
 curdler
