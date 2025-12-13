@@ -5723,7 +5723,6 @@ bebeast
 bemuzzles
 boilingly
 beliefless
-badman
 beliers
 blemishing
 belies
@@ -11750,6 +11749,7 @@ bobwhites
 bargees
 becoom
 benevolentness
+badman
 biopyribole
 besmoothed
 barnful
