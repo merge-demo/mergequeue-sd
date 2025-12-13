@@ -4592,7 +4592,6 @@ enchymatous
 ervenholder
 ephebeia
 epithalamic
-enchytraeid
 emceing
 enchytraeus
 eupad
@@ -8856,6 +8855,7 @@ exp
 epergnes
 evonymus
 estrangement
+enchytraeid
 ergative
 elmier
 entomologic

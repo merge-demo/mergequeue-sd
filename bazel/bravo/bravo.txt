@@ -15707,6 +15707,7 @@ burble
 buttstrapping
 bigfoot
 brambly
+billiardly
 buskins
 beamster
 bandmasters
@@ -17833,7 +17834,6 @@ botein
 burthen
 bluewing
 bacteriaceous
-billiardly
 burthens
 burthensome
 burtonization
