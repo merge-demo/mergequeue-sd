@@ -2931,6 +2931,7 @@ gallinulelike
 gombos
 gingerous
 gee
+guerilla
 gelose
 gaylussite
 glossing
@@ -3181,7 +3182,6 @@ gramoches
 goatherd
 geosphere
 gapless
-guerilla
 glandes
 geochronologist
 growthful
