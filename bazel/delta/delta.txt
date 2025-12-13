@@ -10832,7 +10832,6 @@ decreement
 divaricatingly
 diseur
 directionalize
-directionally
 deckles
 dhan
 demoralizingly
@@ -13394,6 +13393,7 @@ disquiparancy
 demo
 disemprison
 dissentients
+directionally
 delighted
 deliverymen
 disquisit

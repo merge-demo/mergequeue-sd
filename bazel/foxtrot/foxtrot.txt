@@ -8870,6 +8870,7 @@ frenzily
 fot
 fainaigue
 florideous
+filamentoid
 foreshorten
 fictious
 freeholder
@@ -10790,7 +10791,6 @@ fanned
 factualistic
 flue
 fubbery
-filamentoid
 feer
 fullering
 footpads
