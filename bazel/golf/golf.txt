@@ -365,6 +365,7 @@ galactosis
 grimsire
 gastrodynia
 gauric
+garancin
 glovelike
 galactotrophy
 goodhumoredness
@@ -5492,7 +5493,6 @@ gluing
 gladful
 goethite
 gentlest
-garancin
 gilenyie
 glossarize
 galiongee
