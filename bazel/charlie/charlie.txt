@@ -951,7 +951,6 @@ cycloidei
 canelle
 coerces
 calabrian
-calabrians
 calabur
 changedness
 canalling
@@ -13138,6 +13137,7 @@ cicatrizate
 caudicle
 canalize
 craniographer
+calabrians
 cott
 cerebrations
 cicatrizer
