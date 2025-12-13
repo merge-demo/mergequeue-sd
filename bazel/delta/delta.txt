@@ -6617,7 +6617,6 @@ defibrinize
 demonstrativeness
 doyley
 diaporthe
-dermatrophy
 dicarboxylate
 demembration
 deperming
@@ -8896,6 +8895,7 @@ diastalses
 dacoits
 dicaryotic
 dichotomist
+dermatrophy
 dicasteries
 dicastic
 dysmenorrhea
