@@ -11811,7 +11811,6 @@ chopa
 chalcids
 contradictories
 catechisms
-chopdar
 cyprinoidea
 connation
 chopins
@@ -13062,6 +13061,7 @@ cibbaria
 cibboria
 cybele
 coleworts
+chopdar
 cyberculture
 cybernate
 cybernating
