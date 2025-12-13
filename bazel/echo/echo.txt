@@ -1437,7 +1437,6 @@ engineeringly
 euphuisms
 enarbour
 esconson
-eupatrids
 electrophoresis
 eelpout
 effort
@@ -13746,6 +13745,7 @@ eryngoes
 enouncing
 emberizine
 equilibrated
+eupatrids
 effervescence
 emancipationist
 evokers
