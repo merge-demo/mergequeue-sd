@@ -2267,6 +2267,7 @@ barbecuer
 barbellula
 bowwood
 belabor
+bubinga
 barbellulate
 blunderings
 blossombill
@@ -16587,7 +16588,6 @@ banderoled
 brisky
 banaba
 bedmakers
-bubinga
 bougainvillea
 bacillary
 bubonocele
