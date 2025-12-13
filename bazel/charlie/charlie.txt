@@ -960,7 +960,6 @@ chunter
 cholick
 charpais
 calaite
-calamancoes
 calamander
 catti
 calamansi
@@ -16770,6 +16769,7 @@ cloverlay
 citizen
 clupeidae
 cloverleafs
+calamancoes
 chandlers
 cloverleaves
 cloverley
