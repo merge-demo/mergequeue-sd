@@ -11314,7 +11314,6 @@ dalliers
 drainageway
 difluoride
 discarding
-discardment
 discards
 dentals
 discarnate
@@ -12355,6 +12354,7 @@ deductively
 dragomen
 dishabituated
 dishable
+discardment
 debitable
 datil
 discomedusoid

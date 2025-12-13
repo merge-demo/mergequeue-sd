@@ -14954,7 +14954,6 @@ citric
 citril
 citrination
 congressmen
-currachs
 citrinin
 citrinins
 citrins
@@ -20374,6 +20373,7 @@ cresols
 condonative
 concamerate
 companable
+currachs
 companage
 circumfluent
 counterword
