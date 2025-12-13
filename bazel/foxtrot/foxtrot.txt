@@ -7331,6 +7331,7 @@ friendliest
 flourishy
 formularised
 foraminose
+fusel
 foraminulate
 fought
 flabbily
@@ -8127,7 +8128,6 @@ folies
 funneled
 foretellers
 forethrift
-fusel
 fondon
 fooster
 farmland
