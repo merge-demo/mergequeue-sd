@@ -7720,6 +7720,7 @@ graduands
 geopolitic
 girning
 galvanized
+gimpy
 globus
 grizzliest
 goldworker
@@ -8651,7 +8652,6 @@ gladdy
 grantee
 greaseproofness
 grindstones
-gimpy
 gastronomical
 gests
 grizzliness
