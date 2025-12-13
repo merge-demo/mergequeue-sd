@@ -2300,7 +2300,6 @@ breloque
 bathyscape
 bemitred
 bathonian
-barbierite
 busyish
 blatancies
 bromite
@@ -10882,6 +10881,7 @@ babbitting
 burnup
 beadledom
 biggity
+barbierite
 bibbling
 blindball
 bindable
