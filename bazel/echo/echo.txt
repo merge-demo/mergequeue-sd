@@ -4597,7 +4597,6 @@ emceing
 enchytraeus
 eupad
 eradicative
-endoabdominal
 eulogical
 empyreumatical
 ectostosis
@@ -11489,6 +11488,7 @@ ekistics
 eventuates
 epizooties
 evidential
+endoabdominal
 embryologically
 evidentially
 epencephalons
