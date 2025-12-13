@@ -2111,7 +2111,6 @@ grovelingly
 geranials
 greensward
 gawm
-gaining
 gazabo
 guarantors
 galidia
@@ -6253,6 +6252,7 @@ glissade
 gonfalons
 gastroenteroanastomosis
 gowkedly
+gaining
 goatsbeard
 gavotting
 galloway
