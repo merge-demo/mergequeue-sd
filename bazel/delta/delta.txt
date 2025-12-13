@@ -2279,7 +2279,6 @@ decempedal
 demotion
 diademing
 dominiums
-decemplex
 dissocialize
 decempunctate
 doused
@@ -17861,6 +17860,7 @@ diaconicum
 defilement
 dudleya
 developmentalist
+decemplex
 diagnosis
 drabbletailed
 duecentist
