@@ -1552,7 +1552,6 @@ droops
 docked
 drippings
 dices
-deputising
 deadfalls
 deviler
 dim
@@ -13063,6 +13062,7 @@ discocarpium
 decimalised
 decimals
 descantist
+deputising
 dispeaceful
 dory
 dital
