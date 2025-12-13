@@ -8807,7 +8807,6 @@ engold
 elaborately
 erectile
 elsin
-egyptology
 endarteritis
 estrones
 erectopatent
@@ -9631,6 +9630,7 @@ enhedge
 epenthesize
 epacris
 espagnole
+egyptology
 elaeagnus
 enfrai
 esparsette
