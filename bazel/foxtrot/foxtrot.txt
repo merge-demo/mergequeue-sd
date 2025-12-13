@@ -427,7 +427,6 @@ fauchards
 frockmaker
 fairship
 feal
-flitting
 fogmen
 fairway
 fragilariaceae
@@ -9383,6 +9382,7 @@ faffy
 footgears
 firkins
 flatways
+flitting
 fecal
 fileted
 facing
