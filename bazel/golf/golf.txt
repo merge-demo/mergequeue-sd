@@ -9360,7 +9360,6 @@ gangtide
 geronomite
 glossas
 goldurn
-glycuronid
 governability
 griffs
 gruf
@@ -9568,6 +9567,7 @@ gastornithidae
 groved
 greenskeeper
 gur
+glycuronid
 geochronological
 groveled
 gridiron
