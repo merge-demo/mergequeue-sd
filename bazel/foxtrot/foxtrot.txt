@@ -9184,7 +9184,6 @@ fashionmonging
 fenagles
 fusses
 forms
-fracturing
 filicide
 frenchiness
 foredevote
@@ -10590,6 +10589,7 @@ francophobe
 feeblebrained
 fanteeg
 forwarn
+fracturing
 freakouts
 fibrination
 finement
