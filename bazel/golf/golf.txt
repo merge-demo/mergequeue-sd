@@ -1289,7 +1289,6 @@ granch
 giddying
 gunnels
 gainless
-granulose
 ginkgo
 gloria
 gestation
@@ -5368,6 +5367,7 @@ glassmen
 greener
 glycollate
 geometricist
+granulose
 generalised
 glaucus
 grammatology
