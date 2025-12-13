@@ -1273,7 +1273,6 @@ anerythroplasia
 antemask
 androlepsia
 amay
-acarophobia
 acarotoxic
 arcturus
 aerognosy
@@ -10592,6 +10591,7 @@ amygdule
 affirmative
 amigos
 amiidae
+acarophobia
 amyl
 ainu
 amylan
