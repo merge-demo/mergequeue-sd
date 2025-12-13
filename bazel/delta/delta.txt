@@ -6261,6 +6261,7 @@ dividable
 deprivative
 defenser
 detoxicate
+doorplates
 deploredness
 diplokaryon
 dweeble
@@ -10929,7 +10930,6 @@ delusions
 denazify
 disabled
 demerol
-doorplates
 defrayer
 deterges
 divulgement
