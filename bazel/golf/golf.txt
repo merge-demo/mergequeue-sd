@@ -1047,7 +1047,6 @@ gerardias
 gorgonin
 gompholobium
 ganglioid
-goral
 ganglioma
 gangliomas
 ganglionate
@@ -2582,6 +2581,7 @@ giltheads
 guillotined
 grassed
 gargling
+goral
 gametogeny
 generant
 generate
