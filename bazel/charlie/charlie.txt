@@ -7048,7 +7048,6 @@ centennials
 caribes
 caisson
 chisedec
-centerable
 cutup
 chumpivilca
 centerboard
@@ -14539,6 +14538,7 @@ cysticerci
 chondrule
 chackling
 cylindrite
+centerable
 cysticercoidal
 cinerea
 cysticercosis

@@ -194,7 +194,6 @@ blennymenitis
 bhadon
 barat
 beamlike
-berceau
 bargainee
 bedclothes
 bacchants
@@ -13386,6 +13385,7 @@ banqueters
 bimbashi
 bokark
 botryomycosis
+berceau
 botryopteriaceae
 bottekin
 ballotade
