@@ -609,6 +609,7 @@ demoses
 dramamine
 deposes
 doff
+driveways
 damnability
 damnabilities
 disegno
@@ -6155,7 +6156,6 @@ demast
 droshkies
 dolours
 decrepitness
-driveways
 derestrict
 disputations
 derf
