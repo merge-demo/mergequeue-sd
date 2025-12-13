@@ -1292,7 +1292,6 @@ effect
 endocardiac
 exopeptidase
 effective
-euryphagous
 epimachinae
 entomologists
 extrapolating
@@ -10483,6 +10482,7 @@ ettirone
 escalan
 eructate
 ecclesiolatry
+euryphagous
 eucgia
 eightpenny
 enologies
