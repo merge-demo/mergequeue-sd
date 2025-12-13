@@ -7034,6 +7034,7 @@ diaster
 districts
 dalasis
 divinisation
+demonolatry
 donkeys
 despose
 deformed
@@ -15315,7 +15316,6 @@ diagnostics
 design
 distilleries
 dismit
-demonolatry
 deafforestation
 dolphus
 dryfat
