@@ -1177,7 +1177,6 @@ enscroll
 ensweep
 educational
 extratracheal
-estimation
 eroded
 elenge
 entirities
@@ -6206,6 +6205,7 @@ ellipsoid
 erasure
 exodist
 enophthalmus
+estimation
 exhalations
 endopericarditis
 exhortator
