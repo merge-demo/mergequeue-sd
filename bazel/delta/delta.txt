@@ -1267,7 +1267,6 @@ datively
 dreamlore
 dimouts
 danthonia
-discal
 dusted
 diazoic
 denari
@@ -5476,6 +5475,7 @@ deregister
 disenablement
 deorsum
 deossification
+discal
 deuterostomatous
 dissipates
 dyakisdodecahedron

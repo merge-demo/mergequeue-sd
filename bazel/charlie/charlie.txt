@@ -4433,7 +4433,6 @@ caryophyllus
 cares
 curite
 cartisane
-cheeks
 concettist
 caryopilite
 courthouses
@@ -16911,6 +16910,7 @@ cynic
 concretize
 certainer
 commerces
+cheeks
 cyclopentadiene
 clunked
 clunkers
