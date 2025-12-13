@@ -16990,7 +16990,6 @@ annoyously
 adorned
 americanizer
 apneumona
-apneumonous
 agrammatical
 apneusis
 apnoea
@@ -20554,6 +20553,7 @@ assimulate
 agend
 arrased
 ageable
+apneumonous
 arthritical
 afterswarm
 affrontingness
