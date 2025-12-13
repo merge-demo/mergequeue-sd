@@ -2488,7 +2488,6 @@ decisional
 decisions
 decisis
 delays
-dixy
 decisively
 darkened
 decitizenize
@@ -9360,6 +9359,7 @@ differentiae
 deliquescing
 darkle
 dismembering
+dixy
 differentiant
 daggy
 differentiate
