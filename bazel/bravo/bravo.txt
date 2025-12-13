@@ -10192,7 +10192,6 @@ blackfishing
 beroida
 begrime
 badgering
-broomy
 brickiest
 bassing
 bitreadle
@@ -12005,6 +12004,7 @@ bohunks
 beverly
 beneficeless
 burnfire
+broomy
 boyard
 boyardism
 bartholomean
