@@ -4519,6 +4519,7 @@ bae
 bandolero
 blankest
 brigadiership
+besmottered
 barricaded
 burnsides
 batata
@@ -13671,7 +13672,6 @@ bridged
 barwin
 bullcart
 bindery
-besmottered
 bushes
 boskages
 basibranchiate
