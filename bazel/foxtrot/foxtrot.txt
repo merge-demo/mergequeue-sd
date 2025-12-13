@@ -1521,6 +1521,7 @@ foci
 filibeg
 flauntiness
 forepiece
+fribbling
 faunish
 fleecing
 foamers
@@ -8170,7 +8171,6 @@ fustie
 fairishness
 fibulas
 fasthold
-fribbling
 fideicommissor
 foundlings
 fingerboards
