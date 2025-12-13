@@ -6221,7 +6221,6 @@ beneventan
 bijugous
 benevolency
 bengalese
-brinjaree
 batavian
 bengola
 bipartient
@@ -10916,6 +10915,7 @@ blindweed
 blindworm
 backscratcher
 blackamoor
+brinjaree
 beshiver
 bumps
 biloquist
