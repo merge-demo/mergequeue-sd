@@ -6798,7 +6798,6 @@ gnosticize
 genericness
 gamelang
 ganam
-gamgee
 gratias
 gobbe
 gud
@@ -10715,6 +10714,7 @@ gucked
 garbanzo
 grided
 gu
+gamgee
 grams
 gumma
 gunship
