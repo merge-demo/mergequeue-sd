@@ -7925,6 +7925,7 @@ fonder
 foreseize
 flatteries
 firy
+frangulic
 fantasticness
 federalisation
 flaglet
@@ -9333,7 +9334,6 @@ flane
 fewmets
 fromward
 ferromagnesian
-frangulic
 forjudge
 flichter
 fishless
