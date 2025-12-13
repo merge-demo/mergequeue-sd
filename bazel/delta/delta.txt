@@ -3924,7 +3924,6 @@ designating
 discomedusan
 disherits
 demount
-dekameters
 decumani
 dekapode
 duo
@@ -9082,6 +9081,7 @@ dorsoabdominal
 dollying
 dropsywort
 disembattle
+dekameters
 dyester
 discommodity
 diluvy
