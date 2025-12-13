@@ -6891,7 +6891,6 @@ caffein
 celtization
 cardiorrhexis
 consol
-camis
 ceratomandibular
 cytotactic
 clocklike
@@ -24095,6 +24094,7 @@ convexedness
 chippage
 cryptoanalytic
 calcific
+camis
 cafeneh
 convexly
 convexness
