@@ -6927,7 +6927,6 @@ dehydrogenating
 despairfully
 delphinid
 deaconize
-despairing
 desparple
 disturber
 downsinking
@@ -11016,6 +11015,7 @@ dizzying
 discrive
 dithiobenzoic
 duoliteral
+despairing
 discongruity
 durindana
 dutifulness
