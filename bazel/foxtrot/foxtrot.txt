@@ -550,6 +550,7 @@ ff
 fertilely
 figless
 frim
+fricti
 foxwood
 fiumara
 flagging
@@ -3714,7 +3715,6 @@ foalfoot
 flaccidities
 fillings
 furfuryl
-fricti
 fierasferid
 fistulas
 fittiness
