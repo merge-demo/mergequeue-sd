@@ -16297,7 +16297,6 @@ downingia
 diabrosis
 degenerescent
 decator
-discoloring
 downlink
 desertion
 downloading
@@ -16439,6 +16438,7 @@ drabant
 draughthouse
 dextrotartaric
 duchesses
+discoloring
 delectableness
 dichotomousness
 determiner
