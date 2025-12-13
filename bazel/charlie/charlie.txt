@@ -15200,7 +15200,6 @@ clayton
 chinkers
 claiver
 crucigerous
-ceromancy
 claywares
 caam
 colours
@@ -20527,6 +20526,7 @@ compensatingly
 confriar
 cypruses
 chivareed
+ceromancy
 colometrically
 cacodyls
 cherishable
