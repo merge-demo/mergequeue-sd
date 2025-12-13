@@ -3514,7 +3514,6 @@ grandfatherless
 girding
 gaspar
 getling
-goldenest
 getpenny
 gibberish
 greaselessness
@@ -9351,6 +9350,7 @@ gerundially
 geomagnetically
 greet
 grond
+goldenest
 gront
 gamodeme
 genuflect
