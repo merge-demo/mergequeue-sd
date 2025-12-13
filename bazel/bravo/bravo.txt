@@ -2600,7 +2600,6 @@ batman
 blastoderm
 balistarii
 belostoma
-bumpkinly
 broncs
 barkier
 bravery
@@ -4268,6 +4267,7 @@ beaverkin
 bosnian
 beaverskin
 bishophood
+bumpkinly
 branded
 beaverteen
 braidings
