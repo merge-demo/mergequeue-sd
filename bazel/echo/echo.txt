@@ -6121,7 +6121,6 @@ ergoplasm
 excommunicant
 entozoans
 epicentre
-eaved
 earlywood
 ervipiame
 enmeshment
@@ -9450,6 +9449,7 @@ escopeta
 euphemistical
 evulgate
 ethylsulphuric
+eaved
 embanks
 estudy
 electives
