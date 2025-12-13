@@ -4604,7 +4604,6 @@ dejecting
 derere
 dights
 diastases
-decard
 disorienting
 dellies
 disroof
@@ -10967,6 +10966,7 @@ deuterocone
 dispenses
 disforestation
 doublethinking
+decard
 discostate
 dorsoradial
 digressions
