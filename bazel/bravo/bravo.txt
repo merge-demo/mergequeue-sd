@@ -220,7 +220,6 @@ biofog
 bandicoot
 blancard
 baccy
-banishments
 bacciferous
 britannic
 brookless
@@ -482,6 +481,7 @@ bioplast
 blady
 balaenoidea
 backslapper
+banishments
 bituminiferous
 batteries
 breakax

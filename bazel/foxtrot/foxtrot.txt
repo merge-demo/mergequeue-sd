@@ -745,6 +745,7 @@ forepart
 frostiness
 fruitful
 fruitlet
+frictionproof
 finickier
 fortunella
 frypans
@@ -8646,7 +8647,6 @@ fytte
 farstepped
 furthering
 frigidness
-frictionproof
 faintest
 footing
 fellatory
