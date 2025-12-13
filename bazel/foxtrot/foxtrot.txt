@@ -3558,6 +3558,7 @@ foody
 funding
 forboding
 fairylands
+foxery
 fulgence
 filched
 flounciest
@@ -4621,7 +4622,6 @@ fitout
 fitchered
 foolfish
 fitters
-foxery
 fifo
 formazyl
 firked
