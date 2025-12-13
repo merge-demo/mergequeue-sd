@@ -5496,6 +5496,7 @@ glossarize
 galiongee
 granddad
 gyrfalcons
+geomorphogenist
 gonadic
 gandhiism
 gliffy
@@ -9054,7 +9055,6 @@ golem
 grosser
 gramashes
 granatum
-geomorphogenist
 gastrocnemian
 gastroenterologic
 gaper
