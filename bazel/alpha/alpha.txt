@@ -6154,6 +6154,7 @@ aglossia
 aglucon
 agminated
 agnails
+aquate
 agnat
 agnatha
 advenient
@@ -18162,7 +18163,6 @@ adequately
 aquascope
 alltud
 ashberry
-aquate
 aquatic
 aquatics
 aquatile

@@ -7974,7 +7974,6 @@ epineurium
 enormousness
 enclaving
 ergotinine
-endostea
 eczematization
 eupraxia
 epingle
@@ -13171,6 +13170,7 @@ espiegleries
 earclip
 epigynous
 enhancive
+endostea
 edema
 endognathal
 edriophthalmic
