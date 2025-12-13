@@ -6604,6 +6604,7 @@ destroyed
 dilettant
 denumerative
 dipentene
+dirian
 decipherable
 digested
 deprecations
@@ -10879,7 +10880,6 @@ dirgeman
 debts
 dirgy
 doggedly
-dirian
 dirichletian
 diencephalon
 desulfuriser
