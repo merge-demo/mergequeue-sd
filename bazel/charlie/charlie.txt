@@ -9133,6 +9133,7 @@ cartoned
 coalface
 chartularies
 citrene
+chitty
 chartulas
 charwoman
 centipedes
@@ -27242,7 +27243,6 @@ cerebellopontine
 countor
 countour
 cardhouse
-chitty
 country
 countrieman
 cavillingly
