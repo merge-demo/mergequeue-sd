@@ -4966,7 +4966,6 @@ decate
 drabbletail
 deradenitis
 demoted
-demotes
 demotions
 deferent
 dysmeromorph
@@ -11268,6 +11267,7 @@ disannulment
 deckers
 devitrifiable
 dysbulic
+demotes
 duodecimo
 damnatory
 dunnaging
