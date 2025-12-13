@@ -11409,7 +11409,6 @@ choanate
 choanephora
 cystopyelography
 choanocyte
-choanoflagellate
 cotta
 choanophorous
 cataplasm
@@ -21496,6 +21495,7 @@ cubital
 continental
 cupromanganese
 concubinary
+choanoflagellate
 coeducation
 concubinarian
 chondropterygii
