@@ -1705,6 +1705,7 @@ feased
 folic
 fumigant
 forprise
+floriparous
 fibrinoalbuminous
 forestep
 footstall
@@ -6875,7 +6876,6 @@ ferritungstite
 fattiest
 fumeuses
 foggily
-floriparous
 farewell
 fiery
 flasks
