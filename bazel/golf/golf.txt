@@ -5047,6 +5047,7 @@ girasoles
 gleetiest
 goofed
 ganders
+gastaldo
 gallingness
 grovels
 garibaldi
@@ -8527,7 +8528,6 @@ gyromitra
 grecian
 gressorious
 glycin
-gastaldo
 geisha
 graveolent
 ghostfish
