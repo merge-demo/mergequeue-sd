@@ -2262,6 +2262,7 @@ grandpaternal
 glamoury
 grubbily
 gipper
+gagger
 gigantoblast
 gunroom
 gammoning
@@ -4612,7 +4613,6 @@ graphometry
 glim
 goala
 goobers
-gagger
 grinter
 gladiole
 garlic
