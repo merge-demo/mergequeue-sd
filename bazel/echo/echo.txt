@@ -2746,6 +2746,7 @@ empalement
 elementalistic
 extrathoracic
 elementalize
+emusify
 ephori
 elementaloid
 emperil
@@ -4907,7 +4908,6 @@ endarteteria
 endaspidean
 endbrains
 epipodite
-emusify
 euhemerize
 entropy
 exencephalic
