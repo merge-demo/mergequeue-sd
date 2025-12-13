@@ -5062,6 +5062,7 @@ figlike
 fishline
 fosses
 foveated
+fibrocaseous
 fezes
 freir
 foreseers
@@ -8494,7 +8495,6 @@ filix
 freeward
 ferruminated
 formicid
-fibrocaseous
 foreadvertise
 formicine
 floormen
