@@ -4735,7 +4735,6 @@ deprivals
 demob
 demiurgic
 dehydrogenates
-discreetness
 devi
 disremember
 demobilising
@@ -13726,6 +13725,7 @@ dystrophies
 despoiling
 diphosgene
 disturbation
+discreetness
 defends
 doorplate
 divalent

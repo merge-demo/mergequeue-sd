@@ -5142,6 +5142,7 @@ electroosmotic
 euphorbiaceae
 endoenzyme
 epitrochoid
+erysiphe
 entresol
 enthymematical
 elytrorrhaphy
@@ -9435,7 +9436,6 @@ ecbolics
 ethologies
 encourages
 embedment
-erysiphe
 eam
 ephahs
 euryale
