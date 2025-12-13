@@ -2416,7 +2416,6 @@ decylic
 dorsiparous
 deciliter
 dorsiferous
-druidry
 destituent
 doodads
 ditheistical
@@ -10088,6 +10087,7 @@ dynamization
 dockmackie
 dynamo
 deranging
+druidry
 dehydrogeniser
 djalmaite
 dracaena
