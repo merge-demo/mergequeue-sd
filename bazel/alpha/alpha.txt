@@ -35,6 +35,7 @@ assort
 abac
 ahuehuete
 antecedence
+arachnomorphae
 area
 allseeds
 aphorized
@@ -18257,7 +18258,6 @@ accentuator
 achromous
 agush
 archont
-arachnomorphae
 arabiyeh
 apparel
 acquisitum
