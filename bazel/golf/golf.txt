@@ -5306,7 +5306,6 @@ galvanism
 geomedicine
 gymnogenous
 gurish
-glaucophane
 garish
 galoubet
 gringolee
@@ -7690,6 +7689,7 @@ gobblers
 greybeard
 goatishly
 gastrophilist
+glaucophane
 grading
 grease
 general
