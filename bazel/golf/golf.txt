@@ -10215,7 +10215,6 @@ glade
 glaucium
 goalies
 gladiolar
-guids
 guidwife
 groundly
 geladas
@@ -10796,6 +10795,7 @@ gaincall
 guttated
 gorki
 gazelles
+guids
 gawky
 gesellschaften
 glycocoll
