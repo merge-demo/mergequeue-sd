@@ -2573,6 +2573,7 @@ epithelize
 exothecate
 expansure
 exturb
+epicnemial
 estimated
 eave
 eu
@@ -3289,7 +3290,6 @@ emarginated
 eventilate
 evildoing
 enteralgia
-epicnemial
 elaeodendron
 erythrin
 euphroe

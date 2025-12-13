@@ -2934,7 +2934,6 @@ counterseal
 concaulescence
 chrysoidine
 cantatas
-cantation
 cantatrice
 coverts
 chestily
@@ -9946,6 +9945,7 @@ chequers
 creosoted
 chalukya
 chequin
+cantation
 cherchez
 chercock
 cherem
