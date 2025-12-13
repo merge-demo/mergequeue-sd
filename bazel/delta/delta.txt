@@ -8293,7 +8293,6 @@ disadvantageously
 dependancy
 dynamiting
 dagesh
-digitation
 doombook
 dialyzer
 dentin
@@ -8511,6 +8510,7 @@ divider
 didactically
 dianilid
 deathworm
+digitation
 dilate
 dianilide
 disheritor
