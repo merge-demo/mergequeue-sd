@@ -4752,6 +4752,7 @@ emprent
 erethic
 eguttulate
 enterotomy
+erythroblast
 excusatory
 encode
 exitance
@@ -9002,7 +9003,6 @@ espionage
 erythritol
 equivalue
 expurgating
-erythroblast
 echinulation
 electromyographic
 eurychoric
