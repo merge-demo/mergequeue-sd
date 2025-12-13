@@ -4809,6 +4809,7 @@ foothills
 flagman
 freshment
 fasciolaria
+fons
 fancifulness
 flinching
 floatiest
@@ -7029,7 +7030,6 @@ feases
 fermentum
 forebodings
 fucation
-fons
 fauxbourdon
 folkloristic
 ferrum
