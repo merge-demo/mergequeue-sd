@@ -11310,7 +11310,6 @@ berouged
 blowziness
 boltsmith
 blowzing
-bls
 berth
 blub
 blickey
@@ -15242,6 +15241,7 @@ biwa
 beach
 brecken
 blueblaw
+bls
 bestrewed
 bridesmaid
 begumming
