@@ -1082,6 +1082,7 @@ frizer
 flichters
 foreswear
 feriae
+fernambuck
 farreachingly
 fernleaf
 federates
@@ -2520,7 +2521,6 @@ fiatconfirmatio
 fanam
 feeler
 frugivorous
-fernambuck
 fibromembranous
 filamentule
 freebee

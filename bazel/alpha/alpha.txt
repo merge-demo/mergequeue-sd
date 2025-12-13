@@ -6061,6 +6061,7 @@ autodecomposition
 ancillary
 alible
 aquilege
+arrect
 addisonian
 akrabattine
 agyrophobia
@@ -10068,7 +10069,6 @@ ambivalence
 aiger
 ambiversion
 ambivert
-arrect
 amble
 apanteles
 ambleocarpus
