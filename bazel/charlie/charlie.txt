@@ -2872,6 +2872,7 @@ cetorhinoid
 canonizer
 canonizes
 canonizing
+cappadine
 churchreeve
 canonry
 canons
@@ -7204,7 +7205,6 @@ clarine
 centriscidae
 cups
 centriscoid
-cappadine
 centriscus
 centrism
 chalices
