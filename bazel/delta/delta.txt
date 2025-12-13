@@ -12592,7 +12592,6 @@ daffed
 disintegrated
 dipterological
 denotation
-dispersoid
 dromedaries
 diamantoid
 denominators
@@ -13513,6 +13512,7 @@ defrosters
 deadwood
 demiglobe
 dermatopathophobia
+dispersoid
 downtrodden
 dysgraphia
 deticks
