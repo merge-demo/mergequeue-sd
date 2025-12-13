@@ -8952,6 +8952,7 @@ celadons
 carbinyl
 cortex
 chariot
+conoclinium
 continuo
 charioting
 chariotman
@@ -31522,7 +31523,6 @@ cursedness
 coniferophyte
 calciferous
 cutaneous
-conoclinium
 curser
 cursers
 curship
