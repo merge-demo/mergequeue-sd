@@ -9742,6 +9742,7 @@ breakages
 biramose
 bankbook
 backslapped
+bustlingly
 buildingless
 bioenergetics
 boatie
@@ -18057,7 +18058,6 @@ bustler
 bustlers
 bustles
 biologize
-bustlingly
 blenny
 bloom
 banzais
