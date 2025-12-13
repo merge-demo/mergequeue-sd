@@ -927,6 +927,7 @@ fluoroborate
 faradisation
 fluosilicic
 fimbrilliferous
+footlight
 faradised
 flether
 furfural
@@ -10103,7 +10104,6 @@ franion
 foretopman
 fructuary
 fliting
-footlight
 functionality
 fluoroscopist
 federatist
