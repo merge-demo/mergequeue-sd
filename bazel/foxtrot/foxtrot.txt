@@ -2912,6 +2912,7 @@ farinha
 furazane
 frustums
 fencing
+felons
 francic
 floccipend
 flutist
@@ -10251,7 +10252,6 @@ froideur
 froise
 frokin
 filum
-felons
 frolic
 felstone
 fluidglycerate
