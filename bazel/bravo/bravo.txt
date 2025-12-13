@@ -4504,7 +4504,6 @@ brickset
 bacchanalias
 bumptiously
 buffering
-buhrstone
 borocalcite
 bathala
 burthening
@@ -12083,6 +12082,7 @@ bolboxalis
 blushingly
 berun
 bold
+buhrstone
 byrnies
 barrat
 beehives
