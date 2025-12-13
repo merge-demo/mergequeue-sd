@@ -6068,7 +6068,6 @@ enlaurel
 emancipatist
 eelpot
 enliveningly
-enlief
 evertebrate
 excruciate
 escutcheon
@@ -8219,6 +8218,7 @@ elephantiasic
 epipharyngeal
 esugarization
 epicanthus
+enlief
 exonerates
 epistatic
 empyrosis

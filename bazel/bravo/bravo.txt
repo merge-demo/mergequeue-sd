@@ -12453,6 +12453,7 @@ bondmen
 bullyrock
 bookroom
 bawdrick
+bosun
 bierbalk
 bondship
 bondsman
@@ -17381,7 +17382,6 @@ bamboozler
 boychik
 baetylic
 bungtown
-bosun
 blithered
 bungwall
 bagre
