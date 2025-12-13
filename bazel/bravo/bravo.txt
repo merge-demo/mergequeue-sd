@@ -7255,7 +7255,6 @@ bongrace
 bauta
 bute
 bituminised
-beshear
 balearic
 bestrew
 bearwoods
@@ -17879,6 +17878,7 @@ bibliotics
 biassed
 busheled
 bourse
+beshear
 bookman
 beauship
 bivium
