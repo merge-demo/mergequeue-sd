@@ -2637,7 +2637,6 @@ graal
 glims
 gardy
 genethlic
-glossopetra
 goatee
 glossosteresis
 genetics
@@ -9181,6 +9180,7 @@ glauconitization
 gripgrass
 grouchily
 gora
+glossopetra
 gridding
 geographically
 granulates
