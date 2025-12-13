@@ -23953,7 +23953,6 @@ aster
 anthropometrically
 autoabstract
 ambisextrous
-acrology
 antiscepticism
 abadejo
 anepiploic
@@ -24795,6 +24794,7 @@ avions
 affair
 adieux
 avirulence
+acrology
 attunely
 algolagny
 anxious
