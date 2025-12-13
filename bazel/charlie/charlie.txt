@@ -18493,7 +18493,6 @@ coenenchymata
 chilinidae
 chronosemic
 cutler
-cohosts
 cohow
 cohune
 callianassa
@@ -25094,6 +25093,7 @@ combinantive
 corers
 carbonates
 chlorospinel
+cohosts
 coresign
 convento
 chincher
