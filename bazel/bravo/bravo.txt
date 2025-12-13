@@ -7414,7 +7414,6 @@ biliation
 bighting
 beautifications
 boluses
-blindfolds
 betime
 bastionet
 blotching
@@ -15072,6 +15071,7 @@ bebops
 brett
 brachymetropic
 brettice
+blindfolds
 betty
 brickwork
 barbouillage
