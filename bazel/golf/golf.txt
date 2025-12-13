@@ -4437,7 +4437,6 @@ goozle
 grammatist
 gloriam
 gleeted
-gazer
 gorget
 grandezza
 gearcases
@@ -5951,6 +5950,7 @@ grogshops
 goofs
 gastrograph
 gambirs
+gazer
 glamourizer
 gluepot
 gimballed
