@@ -10350,7 +10350,6 @@ diabological
 decisive
 diseuses
 demurrers
-diagrammers
 ditton
 diopter
 diopters
@@ -11375,6 +11374,7 @@ dispirited
 dilacerating
 deodands
 dowhacky
+diagrammers
 devoter
 dilatometric
 dehydrogenise
