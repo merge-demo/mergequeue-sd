@@ -8668,6 +8668,7 @@ greaved
 garlopa
 galvaniser
 grossulaceous
+gospellike
 gigartinales
 gummic
 gonocalycine
@@ -9856,7 +9857,6 @@ grasswards
 gabbarts
 gallivant
 geometers
-gospellike
 giggish
 gnathopoda
 gorillas
