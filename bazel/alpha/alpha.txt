@@ -5852,7 +5852,6 @@ asperness
 achiote
 acculturizing
 anisocarpic
-afternight
 ampyx
 agendas
 aponeurosis
@@ -13584,6 +13583,7 @@ autophagy
 annuller
 apprizes
 aquafortis
+afternight
 annulment
 annuloid
 autoaddress
