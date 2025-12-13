@@ -3796,7 +3796,6 @@ ciconia
 chloroethylene
 carbazic
 carbazylic
-chlorpikrin
 cheerios
 civilist
 carbazole
@@ -24640,6 +24639,7 @@ carpospore
 copperbottom
 copperer
 curare
+chlorpikrin
 copperhead
 constructionism
 capsuled
