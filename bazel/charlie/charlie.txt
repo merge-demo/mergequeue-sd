@@ -1850,7 +1850,6 @@ camarade
 conciliar
 camaraderie
 camarasaurus
-camarera
 camarin
 carboras
 camaron
@@ -24959,6 +24958,7 @@ cordate
 catawamptious
 clavicytherium
 cordax
+camarera
 carnivora
 castoff
 cordeau
