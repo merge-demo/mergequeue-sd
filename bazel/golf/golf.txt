@@ -6591,6 +6591,7 @@ grappas
 glottalization
 ground
 grabblers
+gynecologies
 gesture
 gambeson
 gweeon
@@ -7909,7 +7910,6 @@ gounau
 gentleheartedness
 glossologist
 garbless
-gynecologies
 guyana
 granny
 gorgelet
