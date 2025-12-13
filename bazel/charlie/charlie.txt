@@ -9869,6 +9869,7 @@ chemosynthesis
 chemosynthetic
 chemosmoses
 chemosmotic
+carrosserie
 consumptible
 calpacks
 caleches
@@ -23668,7 +23669,6 @@ chakari
 contradistinctly
 cremated
 contrafacture
-carrosserie
 contrafissura
 contrafissure
 cruciform

@@ -5416,6 +5416,7 @@ grates
 germanic
 gaveler
 geoplana
+gaseosity
 glossily
 girdle
 gnotobiosis
@@ -8259,7 +8260,6 @@ grippingness
 giardiasis
 gre
 garamond
-gaseosity
 gurries
 gara
 geopolitist
