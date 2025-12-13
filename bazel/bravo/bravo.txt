@@ -15840,6 +15840,7 @@ bloomsburian
 boilermakers
 bodybuild
 bratling
+batoidei
 bromeigon
 bromeikon
 blushet
@@ -17064,7 +17065,6 @@ bullboat
 babylonite
 bullcomber
 bucentaur
-batoidei
 barcarole
 buttery
 brokerages
