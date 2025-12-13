@@ -5982,6 +5982,7 @@ amphigoric
 appraisable
 anergia
 angulosplenial
+allied
 alimenter
 aggressed
 antithesis
@@ -8763,7 +8764,6 @@ allicient
 anglist
 anticeremonially
 agrypnias
-allied
 allies
 alligated
 acceders
