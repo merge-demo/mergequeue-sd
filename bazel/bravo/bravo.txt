@@ -13142,7 +13142,6 @@ bowtel
 borty
 britannica
 borwort
-bumper
 borzoi
 bastardised
 boschneger
@@ -13549,6 +13548,7 @@ boughs
 bougie
 bercelet
 botry
+bumper
 bouchees
 boodlers
 barite
