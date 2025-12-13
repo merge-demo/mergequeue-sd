@@ -20847,6 +20847,7 @@ circumradiuses
 colicine
 carbonyls
 clonked
+cruelty
 considerative
 compoundedness
 compounder
@@ -23414,7 +23415,6 @@ contempts
 cygnet
 contemptuous
 contemptuously
-cruelty
 cholecystocolotomy
 contended
 contendent
