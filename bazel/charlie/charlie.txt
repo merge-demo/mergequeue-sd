@@ -3553,7 +3553,6 @@ captandum
 captate
 colation
 captation
-caption
 captioned
 convenably
 captioning
@@ -18995,6 +18994,7 @@ cotylosauria
 craniometric
 combattant
 collembola
+caption
 collembole
 cokernut
 collembolous
