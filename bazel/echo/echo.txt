@@ -6086,6 +6086,7 @@ epirrhema
 enochic
 enlightenment
 enticing
+embellish
 eructates
 excommunion
 england
@@ -8089,7 +8090,6 @@ electrophotomicrography
 epicoelia
 encephalothlipsis
 electrovection
-embellish
 episarkine
 ethnology
 epiural
