@@ -214,7 +214,6 @@ gallish
 goldcup
 glagolitsa
 greys
-gooks
 girdling
 gags
 gonoecium
@@ -1018,6 +1017,7 @@ gnomons
 geophilous
 gorgonian
 gymnure
+gooks
 guttle
 glanduliferous
 gully

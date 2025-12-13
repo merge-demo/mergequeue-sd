@@ -7328,7 +7328,6 @@ comnenian
 cupels
 cephalocentesis
 coprocessors
-cufflink
 cephalocercal
 cushlamochree
 cephalochord
@@ -8900,6 +8899,7 @@ cryptologic
 closterium
 chards
 coralliferous
+cufflink
 chared
 charely
 consultation
