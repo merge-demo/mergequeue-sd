@@ -2953,6 +2953,7 @@ finches
 floodlike
 feverous
 fallostomy
+fuci
 fz
 frogmouths
 fouquieriaceae
@@ -11108,7 +11109,6 @@ flops
 fervanite
 foyaite
 fundamentalists
-fuci
 flatbread
 fastland
 formality
