@@ -11302,7 +11302,6 @@ amphiscians
 asyndetically
 amphispermous
 actinocarpous
-amphisporangiate
 amphistoma
 achillean
 asyllabic
@@ -23621,6 +23620,7 @@ aimed
 auntish
 auntly
 auntlier
+amphisporangiate
 auntliest
 auntlike
 auntre
