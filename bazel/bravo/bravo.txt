@@ -11682,7 +11682,6 @@ bungstarter
 briseis
 benthon
 bucket
-bayogoula
 bobbers
 bartlett
 bobby
@@ -17813,6 +17812,7 @@ bunkerman
 bursiculate
 bursitis
 bestialise
+bayogoula
 benzbitriazole
 beuncled
 booze
