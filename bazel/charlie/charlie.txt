@@ -613,6 +613,7 @@ cacotrophy
 councilwomen
 caecally
 combwright
+ceased
 coorg
 ctenodipterini
 caecilia
@@ -14877,7 +14878,6 @@ consignors
 crossopterygian
 cookbooks
 corypphaei
-ceased
 cofferfish
 cytopyge
 cantaro
