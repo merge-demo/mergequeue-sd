@@ -9943,7 +9943,6 @@ chequer
 chequers
 creosoted
 chalukya
-chequerwork
 chequin
 cherchez
 chercock
@@ -28976,6 +28975,7 @@ contestability
 cried
 criey
 cosmopolitan
+chequerwork
 coxoceritic
 curiescopy
 crier
