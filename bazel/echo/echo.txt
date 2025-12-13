@@ -6380,6 +6380,7 @@ endopod
 engineering
 electrocutes
 enlargers
+ethrogs
 ensiling
 ensilist
 exceptions
@@ -8627,7 +8628,6 @@ enameller
 emerging
 excretions
 equinus
-ethrogs
 ealdormen
 elfishness
 equipages
