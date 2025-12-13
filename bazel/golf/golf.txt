@@ -4228,6 +4228,7 @@ galactolytic
 gippers
 gliosa
 greenovite
+galvayne
 gigantosaurus
 gastropore
 gonidiose
@@ -9664,7 +9665,6 @@ glumales
 gratuitousness
 gorsiest
 gowfer
-galvayne
 gerardia
 grammatophyllum
 gainer
