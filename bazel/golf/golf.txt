@@ -3233,6 +3233,7 @@ galoot
 greatish
 getatability
 gally
+glimmerite
 graffage
 gazement
 gormandizer
@@ -7951,7 +7952,6 @@ gymnospermy
 glumness
 getmjlkost
 gametogonium
-glimmerite
 gregaloid
 gyniolatry
 gloucester
