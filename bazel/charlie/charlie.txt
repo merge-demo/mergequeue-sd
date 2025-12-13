@@ -10851,7 +10851,6 @@ chemiatrist
 chippered
 cardosanto
 carpetbaggers
-counterinsult
 connectedness
 coefficient
 chippewas
@@ -22886,6 +22885,7 @@ comforting
 chromosomic
 consigned
 consignee
+counterinsult
 consignify
 cantorous
 countersalient
