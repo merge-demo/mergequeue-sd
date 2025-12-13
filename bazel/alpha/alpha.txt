@@ -6261,6 +6261,7 @@ archengineer
 asarota
 alnager
 arboretum
+accentuation
 agoraphobiac
 antiferment
 aquerne
@@ -23134,7 +23135,6 @@ amblyaphia
 attemptable
 arthurian
 anthroponym
-accentuation
 areopagy
 astonishingness
 allegedly
