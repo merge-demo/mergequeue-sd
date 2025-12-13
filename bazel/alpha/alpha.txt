@@ -2607,6 +2607,7 @@ armenite
 actutate
 alain
 applies
+attenuates
 arriswise
 acquiesce
 abetments
@@ -13774,7 +13775,6 @@ alani
 acted
 arteriodialysis
 asfetida
-attenuates
 anopla
 anoplonemertean
 atazir
