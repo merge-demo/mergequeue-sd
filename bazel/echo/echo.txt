@@ -7011,7 +7011,6 @@ enactory
 embellished
 epiphenomenon
 eundem
-emote
 entrapping
 entrustment
 eurygaea
@@ -11537,6 +11536,7 @@ evincive
 excavationist
 echnida
 evite
+emote
 estrone
 emissi
 epidotiferous
