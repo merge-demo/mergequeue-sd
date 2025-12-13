@@ -4626,7 +4626,6 @@ deaconship
 damfoolish
 discharm
 disfranchised
-deaness
 dawsoniaceae
 disagglomeration
 disfunction
@@ -7906,6 +7905,7 @@ doh
 dewing
 degrease
 discommon
+deaness
 disrump
 decongested
 diffidently
