@@ -3749,6 +3749,7 @@ analemmatic
 adessenarian
 adeste
 afterpressure
+albumenoid
 antesternum
 affectionate
 adevism
@@ -7503,7 +7504,6 @@ albumenized
 autopathography
 aerophoto
 albumenizer
-albumenoid
 archtreasurer
 albumens
 albumimeter
