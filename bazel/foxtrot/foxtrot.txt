@@ -173,7 +173,6 @@ freezers
 fabes
 faradopalpation
 fictionary
-felaheen
 foredoomer
 foreribs
 farcialize
@@ -4658,6 +4657,7 @@ faust
 flybelts
 fulani
 faeroe
+felaheen
 fells
 ferrotungsten
 fulica
