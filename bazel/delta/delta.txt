@@ -15758,6 +15758,7 @@ dormice
 dormilona
 demidog
 dormitive
+drunkards
 dormitories
 deftly
 dissenting
@@ -17583,7 +17584,6 @@ drumstick
 daiker
 drumwood
 drunk
-drunkards
 desuperheater
 dogbite
 drunkenwise
