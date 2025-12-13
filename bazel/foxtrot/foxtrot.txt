@@ -2627,7 +2627,6 @@ fabric
 falanaka
 freshes
 fluocerite
-feazing
 freinage
 frumpling
 ferrumination
@@ -6984,6 +6983,7 @@ fordless
 fond
 fondateur
 fonded
+feazing
 fondest
 favilla
 fonding
