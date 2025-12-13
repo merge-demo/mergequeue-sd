@@ -2082,7 +2082,6 @@ fusibleness
 freeform
 fideistic
 firnismalerei
-fogle
 federalist
 floriculture
 felicitator
@@ -4129,6 +4128,7 @@ fireback
 fusilading
 foramina
 flog
+fogle
 fulk
 felonry
 flexed
