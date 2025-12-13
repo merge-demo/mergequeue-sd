@@ -1684,7 +1684,6 @@ enamel
 electrolyses
 endamages
 earpieces
-echolocate
 endogenicity
 ejaculating
 enterosyphilis
@@ -3580,6 +3579,7 @@ enriching
 expositive
 emotionalised
 eudaemonize
+echolocate
 enjelly
 elatinaceous
 estimators
