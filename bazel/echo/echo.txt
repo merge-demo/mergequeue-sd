@@ -2231,7 +2231,6 @@ esophagogastrostomy
 exploitive
 electrically
 enciente
-embryony
 embraceable
 entredeux
 encoach
@@ -8241,6 +8240,7 @@ enjoying
 endures
 entozoa
 epigenist
+embryony
 exulcerate
 eseptate
 enweave
