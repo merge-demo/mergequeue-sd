@@ -2778,6 +2778,7 @@ baronries
 briggs
 baroque
 baconer
+becowards
 bowsprits
 bureaus
 barites
@@ -8615,7 +8616,6 @@ bronchial
 belatedly
 beeswinged
 boule
-becowards
 billiards
 billyboy
 bivalved
