@@ -6865,7 +6865,6 @@ antilabor
 anticommercialism
 airling
 airlock
-atmospherical
 annoyingness
 ava
 attention
@@ -8609,6 +8608,7 @@ allegata
 allegations
 allegers
 anthophyllite
+atmospherical
 antiatheistical
 alleges
 abbreviately
