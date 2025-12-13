@@ -6443,7 +6443,6 @@ demitone
 dictatrix
 deodara
 dragomanic
-desalinated
 diaereses
 dihedrals
 deafeningly
@@ -16667,6 +16666,7 @@ drained
 drainer
 dragbolt
 dawdle
+desalinated
 dogging
 drainers
 davidian
