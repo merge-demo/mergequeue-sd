@@ -5351,7 +5351,6 @@ fleabags
 futures
 federalization
 fireclay
-fluorites
 feoffee
 fleadock
 fleahopper
@@ -8525,6 +8524,7 @@ fidley
 flailing
 firehall
 falsie
+fluorites
 flatwise
 foramen
 forinsec
