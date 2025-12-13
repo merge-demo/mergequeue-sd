@@ -5964,7 +5964,6 @@ dropforged
 deme
 deprome
 demisphere
-drawling
 disaffectedly
 deprostrate
 draughtiest
@@ -9404,6 +9403,7 @@ diffractiveness
 dist
 diffranchise
 dely
+drawling
 diadumenus
 decrete
 durabilities
