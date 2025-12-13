@@ -15019,7 +15019,6 @@ anticryptic
 aglossate
 airsickness
 airbus
-anlage
 anosphresia
 arbalister
 archworker
@@ -18488,6 +18487,7 @@ accrediting
 affectionless
 arietinous
 arbor
+anlage
 achillea
 acrocyst
 abdominal
