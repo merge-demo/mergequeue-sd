@@ -4138,7 +4138,6 @@ farded
 fenchyl
 feezed
 fireboy
-flying
 fiendishly
 fraticelli
 firebomb
@@ -7435,6 +7434,7 @@ floperoo
 forevalue
 firstship
 forbarred
+flying
 forcibility
 forcibleness
 filosa
