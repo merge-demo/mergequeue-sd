@@ -16196,7 +16196,6 @@ clinicopathological
 clinkant
 clinkerer
 clinkery
-clinkering
 clinking
 chields
 cakemaker
@@ -19928,6 +19927,7 @@ covenanting
 cephalexin
 carot
 commassee
+clinkering
 cigar
 commata
 claustra
