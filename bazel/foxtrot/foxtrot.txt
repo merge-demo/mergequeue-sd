@@ -4033,7 +4033,6 @@ fossilisable
 fluxibly
 fibrin
 finis
-fadelessly
 ferriage
 fletchings
 fungoid
@@ -4198,6 +4197,7 @@ fidicinales
 fetus
 fructose
 fadding
+fadelessly
 fruitlessness
 finialed
 fragmentally
