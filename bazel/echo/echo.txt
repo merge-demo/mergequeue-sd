@@ -2878,7 +2878,6 @@ electrocardiographically
 elfland
 entelodon
 elflocks
-encaustic
 endermic
 epiphyseolysis
 elfwife
@@ -11209,6 +11208,7 @@ etuis
 elver
 extatic
 exportations
+encaustic
 evanescible
 evanescing
 exorbitancy
