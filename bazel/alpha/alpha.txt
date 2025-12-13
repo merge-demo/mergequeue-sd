@@ -23652,7 +23652,6 @@ arables
 amylodextrin
 aureole
 autosomatognostic
-aureoled
 anemograph
 alee
 aureoline
@@ -23745,6 +23744,7 @@ anisuria
 aurums
 alopecurus
 auscultascope
+aureoled
 adzes
 academic
 athrong
