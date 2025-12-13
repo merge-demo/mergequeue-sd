@@ -2222,6 +2222,7 @@ gemwork
 gastrolith
 girella
 gymnosperms
+gare
 galas
 gaster
 gastrocatarrhal
@@ -7062,7 +7063,6 @@ galilees
 genteelism
 geomantical
 genyantrum
-gare
 gastrodermis
 genealogist
 goschen
