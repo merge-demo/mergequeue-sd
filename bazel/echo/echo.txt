@@ -8557,7 +8557,6 @@ enharmonic
 earnings
 equibalanced
 electrodialitic
-equicontinuous
 eyebar
 endemial
 electrotherapeutic
@@ -13278,6 +13277,7 @@ electrohomeopathy
 earner
 eyeshield
 exploded
+equicontinuous
 englifier
 endophragm
 estranger
