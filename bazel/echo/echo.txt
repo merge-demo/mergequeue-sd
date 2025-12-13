@@ -1958,6 +1958,7 @@ euthamia
 earthen
 etherialize
 exteriorate
+enquires
 elastics
 exothermal
 eagle
@@ -4689,7 +4690,6 @@ emplaced
 exponentiating
 encircle
 embrowned
-enquires
 emittent
 elocutive
 entryway
