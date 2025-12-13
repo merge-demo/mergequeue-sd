@@ -2930,7 +2930,6 @@ freezed
 foxberries
 fac
 furloughs
-fungological
 fluitant
 froths
 fevered
@@ -7814,6 +7813,7 @@ fossilizing
 forenoons
 flenched
 fibrilla
+fungological
 fibromyomectomy
 florette
 fluidimeter
