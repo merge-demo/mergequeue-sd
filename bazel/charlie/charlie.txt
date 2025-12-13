@@ -6806,7 +6806,6 @@ cellblock
 celled
 centennium
 cellepore
-cellfalcicula
 cyprians
 celliform
 cellist
@@ -17003,6 +17002,7 @@ cnidarian
 cnidian
 crayoned
 cnidoblast
+cellfalcicula
 cnidocil
 cobbed
 coexplosion
