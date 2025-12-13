@@ -3529,7 +3529,6 @@ gibbsites
 gumbotils
 gapo
 glucogene
-gilt
 grogginess
 gantangs
 gigtree
@@ -10598,6 +10597,7 @@ grecoue
 giftedly
 gurmukhi
 goffering
+gilt
 gneissitic
 gatewoman
 grenadiership
