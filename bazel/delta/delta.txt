@@ -3244,7 +3244,6 @@ defencive
 dents
 defend
 dikast
-dolmenic
 dissentient
 distrainor
 defendant
@@ -11894,6 +11893,7 @@ disdainfulness
 deflagrating
 drawknives
 dentel
+dolmenic
 dispermic
 daying
 dieri
