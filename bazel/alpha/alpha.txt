@@ -3750,7 +3750,6 @@ antesternum
 affectionate
 adevism
 adfected
-archmilitarist
 aburabozu
 adfluxion
 adjiga
@@ -17260,6 +17259,7 @@ alsbachite
 aspersory
 apophthegmatical
 angostura
+archmilitarist
 antineuralgic
 apoplastogamous
 attempts
