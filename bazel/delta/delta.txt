@@ -5500,7 +5500,6 @@ deoxygenated
 depaints
 divestitures
 dilatation
-deoxyribonucleotide
 disportive
 dogtrot
 dudishness
@@ -15564,6 +15563,7 @@ donovan
 dons
 deltahedron
 donsie
+deoxyribonucleotide
 deflocculent
 donsky
 donum
