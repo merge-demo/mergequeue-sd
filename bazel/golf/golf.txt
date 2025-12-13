@@ -4087,7 +4087,6 @@ gerundively
 groining
 gletscher
 grifted
-gastrectomies
 germanical
 gimcrack
 gleaned
@@ -10014,6 +10013,7 @@ gubernatrix
 goodsome
 geophysically
 graveness
+gastrectomies
 gargled
 gelatinify
 galago
