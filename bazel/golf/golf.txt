@@ -180,6 +180,7 @@ gradgrind
 golfer
 goaled
 gabarit
+glimed
 groschen
 gavage
 gallivorous
@@ -6740,7 +6741,6 @@ ginglyni
 grudgeless
 gonid
 gluttonies
-glimed
 geer
 gride
 graphitic
