@@ -4797,7 +4797,6 @@ corynocarpaceae
 calicular
 cottonee
 carpometacarpal
-carpometacarpi
 carpompi
 counterorganization
 carpool
@@ -6123,6 +6122,7 @@ childhood
 compositively
 cattails
 cattalo
+carpometacarpi
 cattaloes
 cyaniding
 catted
