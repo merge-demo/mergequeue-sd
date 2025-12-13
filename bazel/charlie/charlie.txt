@@ -23158,7 +23158,6 @@ constricted
 cobby
 carpomania
 constricting
-constriction
 coelomic
 constrictive
 constrictor
@@ -25798,6 +25797,7 @@ cinclidotus
 corrugant
 corrugate
 corrugated
+constriction
 cataphoric
 conciliabule
 corrugator
