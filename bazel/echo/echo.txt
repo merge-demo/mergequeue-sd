@@ -4929,7 +4929,6 @@ endamaging
 estreated
 ericeticolous
 exilable
-emulsifiable
 endowed
 expertly
 entopical
@@ -6289,6 +6288,7 @@ embrocation
 ejusd
 enrolls
 enrollees
+emulsifiable
 eumycetes
 equijacent
 embowed
