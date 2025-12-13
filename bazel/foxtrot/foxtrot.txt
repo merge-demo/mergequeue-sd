@@ -311,7 +311,6 @@ fraternation
 filical
 flow
 feints
-fag
 feint
 fostell
 finagles
@@ -10419,6 +10418,7 @@ frontlash
 flatmen
 fallowing
 fronter
+fag
 frontoauricular
 frontomallar
 frontomental
