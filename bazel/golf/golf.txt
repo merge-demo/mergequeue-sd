@@ -5756,7 +5756,6 @@ glossiest
 gybed
 glossinas
 glowbard
-gurneyite
 gerres
 gunite
 gpad
@@ -7488,6 +7487,7 @@ gonad
 gamesmanship
 gymnotidae
 gordon
+gurneyite
 gerful
 gemlich
 globulousness
