@@ -2965,6 +2965,7 @@ clip
 cantharidian
 cycloacetylene
 cantharidize
+circumspheral
 cantharidized
 cantharus
 clotter
@@ -14318,7 +14319,6 @@ calorific
 cointers
 corniness
 cystorrhagia
-circumspheral
 circumsphere
 circumstances
 connarite
