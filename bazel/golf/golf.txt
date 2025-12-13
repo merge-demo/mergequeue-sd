@@ -2585,6 +2585,7 @@ generant
 generate
 guitars
 greedier
+gemmative
 gypsiferous
 generated
 gazetteerage
@@ -7787,7 +7788,6 @@ gray
 getaway
 greasily
 goosishly
-gemmative
 grudgeful
 greasiest
 graying
