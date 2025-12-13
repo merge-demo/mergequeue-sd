@@ -440,6 +440,7 @@ gardenable
 gammexane
 grapefruits
 garrote
+ghi
 gallantness
 goldless
 gibbetted
@@ -3656,7 +3657,6 @@ ghettoes
 grinder
 ghettoizing
 gunnysack
-ghi
 gamomania
 ghibli
 gurnetty
