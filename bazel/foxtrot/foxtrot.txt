@@ -3963,6 +3963,7 @@ footsteps
 founders
 focalise
 forfends
+fleecer
 fingerer
 flaunch
 fingerers
@@ -5551,7 +5552,6 @@ favellae
 flexion
 foreclosable
 ferdiad
-fleecer
 fatal
 foraminiferous
 flirtish
