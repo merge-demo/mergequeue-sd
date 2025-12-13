@@ -787,7 +787,6 @@ goombay
 gastrospasm
 guamuchil
 graf
-gimlet
 gambade
 gravata
 gastroenteritic
@@ -4156,6 +4155,7 @@ gnawing
 gregarian
 gringo
 gnars
+gimlet
 gymnasts
 gibbi
 grahamism

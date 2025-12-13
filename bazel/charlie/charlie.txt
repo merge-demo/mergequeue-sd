@@ -10873,7 +10873,6 @@ clerk
 chipproof
 crucifying
 clocher
-chypre
 cariacine
 chipwood
 chiquito
@@ -28056,6 +28055,7 @@ conversions
 crampette
 constituter
 cramping
+chypre
 crampingly
 crampish
 carpentership
