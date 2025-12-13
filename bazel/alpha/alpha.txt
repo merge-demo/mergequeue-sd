@@ -4121,7 +4121,6 @@ antilyssic
 admonitionist
 antenna
 aplacental
-anabranch
 acrasia
 alcaide
 arousers
@@ -7855,6 +7854,7 @@ americomania
 adenology
 antimonopolist
 affecter
+anabranch
 archimandrite
 accorders
 alectoria
