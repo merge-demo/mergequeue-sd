@@ -10306,7 +10306,6 @@ epifocal
 electuaries
 epipterygoid
 extemporise
-exaggerative
 ethnos
 ethonomics
 ethnocentric
@@ -12527,6 +12526,7 @@ etymologized
 euphemy
 emissaria
 enhalos
+exaggerative
 evaginable
 eugeny
 enneacontahedron
