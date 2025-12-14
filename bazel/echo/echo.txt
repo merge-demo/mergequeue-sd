@@ -2327,7 +2327,6 @@ edulcoration
 exhaustable
 electroconvulsive
 engorged
-exocone
 egoistic
 exergonic
 eurytomidae
@@ -8006,6 +8005,7 @@ emetin
 envapour
 emigating
 epipanies
+exocone
 endovasculitis
 exsanguious
 euthenist
