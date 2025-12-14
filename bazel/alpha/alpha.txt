@@ -10037,7 +10037,6 @@ arboreal
 appel
 arousing
 ambigu
-anorthitite
 acinacity
 ambilateralaterally
 annonce
@@ -19742,6 +19741,7 @@ astrobiological
 albarellos
 aucan
 arithmetizes
+anorthitite
 acrosticheae
 araeostyle
 arythmical
