@@ -1197,6 +1197,7 @@ gothic
 glabrescent
 grinned
 guejarite
+gemmer
 gunja
 galipine
 gorilla
@@ -2412,7 +2413,6 @@ gambol
 gelatiniferous
 gemmating
 gushier
-gemmer
 gumphion
 gunpowderous
 gloppy
