@@ -725,7 +725,6 @@ denudatory
 dismarry
 dancing
 distale
-dictagraph
 dodging
 dander
 dandy
@@ -7993,6 +7992,7 @@ degummer
 deemsters
 demanganize
 deliberate
+dictagraph
 dextrousness
 deoccidentalize
 dispergating
