@@ -1760,7 +1760,6 @@ encompasser
 enable
 enstrengthen
 estimates
-entresse
 eocene
 elliott
 earplugs
@@ -10670,6 +10669,7 @@ elaterins
 effetmen
 enterpriser
 expectoration
+entresse
 enveloper
 extirpatory
 eva
