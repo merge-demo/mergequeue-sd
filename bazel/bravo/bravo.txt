@@ -779,6 +779,7 @@ beeline
 biometrical
 bethorn
 blackout
+buntings
 basilidan
 building
 baedekerian
@@ -11344,7 +11345,6 @@ bakeapple
 bendingly
 beguiled
 buff
-buntings
 bobooti
 baa
 bigwigs
