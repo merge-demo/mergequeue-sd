@@ -27453,6 +27453,7 @@ cidarid
 couturiere
 cankerweed
 couturieres
+chronol
 couturiers
 chanduy
 credenciveness
@@ -29641,7 +29642,6 @@ convulsiveness
 cotingid
 crocodylus
 cacochymical
-chronol
 counteraffirm
 croconic
 convincedness
