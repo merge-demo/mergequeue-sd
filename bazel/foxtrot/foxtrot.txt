@@ -5404,7 +5404,6 @@ fosterite
 furole
 flyswat
 figuration
-fruittime
 forthbringer
 formable
 flimsiness
@@ -8990,6 +8989,7 @@ fernless
 fableist
 fabricate
 flabellarium
+fruittime
 fourragere
 flutter
 fermila
