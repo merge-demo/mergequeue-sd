@@ -1045,7 +1045,6 @@ countersale
 calcaneoscaphoid
 calcaneum
 calcannea
-calcannei
 chloroplastid
 channellers
 calcareous
@@ -3227,6 +3226,7 @@ caducicorn
 cattle
 coquet
 concatenations
+calcannei
 cellvibrio
 carpodacus
 cameleon
