@@ -11369,7 +11369,6 @@ bibliographies
 blousy
 beteela
 blueblood
-boro
 baronetical
 breams
 bandits
@@ -15677,6 +15676,7 @@ broadspread
 broadsword
 bamangwato
 bodhisattwa
+boro
 bromethyl
 betorcin
 bolder
