@@ -4775,7 +4775,6 @@ dejected
 diabolatry
 disgracing
 disbudding
-doorkeep
 darwin
 dangs
 doggers
@@ -5636,6 +5635,7 @@ dephlegmation
 dephlegmedness
 dephlogisticate
 detache
+doorkeep
 disinclose
 dephlogistication
 darst
