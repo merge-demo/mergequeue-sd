@@ -2546,6 +2546,7 @@ dudgen
 drailing
 declaredly
 declares
+duping
 dimaris
 daneworts
 diplococcus
@@ -18417,7 +18418,6 @@ dupedom
 dupery
 destroyer
 diphthongise
-duping
 diabolic
 dipsticks
 dupion
