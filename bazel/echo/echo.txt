@@ -9090,6 +9090,7 @@ erythrosiderite
 egoistically
 exacerbescent
 erythrosis
+estang
 ecchondrosis
 eriglossa
 encephala
@@ -9792,7 +9793,6 @@ empiric
 enucleating
 evolving
 estampede
-estang
 ethnographist
 extorted
 econometrician
