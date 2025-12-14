@@ -1920,6 +1920,7 @@ globulet
 gunboat
 gaudless
 ganglia
+gonocytes
 gulped
 gastromycosis
 geal
@@ -10523,7 +10524,6 @@ gynecic
 globosely
 goupin
 graveman
-gonocytes
 gastrogastrotomy
 grecized
 goggles
