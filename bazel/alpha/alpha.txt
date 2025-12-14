@@ -527,7 +527,6 @@ assonantal
 acidities
 absterge
 agomphiasis
-abjurations
 acecaffin
 axolemma
 abjurement
@@ -6087,6 +6086,7 @@ agitant
 agitate
 agitated
 agitational
+abjurations
 aftosa
 agitations
 allorrhyhmia
