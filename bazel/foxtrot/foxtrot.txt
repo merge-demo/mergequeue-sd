@@ -1095,7 +1095,6 @@ frenchman
 feedlots
 farrel
 figuresome
-flameproofer
 faculae
 fontinalaceous
 fam
@@ -11092,6 +11091,7 @@ flagellated
 flockless
 functionnaire
 functors
+flameproofer
 formational
 foulard
 functus
