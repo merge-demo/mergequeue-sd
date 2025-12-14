@@ -3716,6 +3716,7 @@ battings
 battledores
 bywork
 baldly
+baldie
 barotraumata
 bronteon
 battlefronts
@@ -14890,7 +14891,6 @@ bura
 bearing
 balantidium
 breastheight
-baldie
 begulfing
 breasthook
 bumpee
