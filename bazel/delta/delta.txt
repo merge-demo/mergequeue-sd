@@ -8323,7 +8323,6 @@ doomsman
 decolourized
 demoded
 disequalize
-diplogenetic
 datagram
 disenactment
 dialectal
@@ -10854,6 +10853,7 @@ dirempt
 direness
 dolly
 developement
+diplogenetic
 doctrinarianism
 diabolifuge
 direnesses
