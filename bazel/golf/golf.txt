@@ -4213,7 +4213,6 @@ gauds
 gnathites
 glaswegian
 gibbeted
-gelofre
 genealogy
 gymnorhinal
 gaspergou
@@ -5315,6 +5314,7 @@ gymnogenous
 gurish
 garish
 galoubet
+gelofre
 gringolee
 glossolabiopharyngeal
 gammers
