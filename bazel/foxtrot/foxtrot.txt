@@ -7593,6 +7593,7 @@ factors
 ferrules
 foredefeated
 frankheartedness
+funneled
 fatuity
 footslogs
 forestaller
@@ -8131,7 +8132,6 @@ fillister
 fathogram
 fumigator
 folies
-funneled
 foretellers
 forethrift
 fondon
