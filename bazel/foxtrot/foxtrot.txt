@@ -1286,7 +1286,6 @@ figurine
 foresaw
 fleys
 fertileness
-faradocontractility
 fastish
 fuscescent
 fastnesses
@@ -5190,6 +5189,7 @@ flatfeet
 fictions
 funic
 flameflower
+faradocontractility
 feeding
 flued
 fere
