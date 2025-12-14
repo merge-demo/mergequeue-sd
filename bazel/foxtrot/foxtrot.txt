@@ -2163,7 +2163,6 @@ function
 farrowed
 fliskiest
 faery
-fondants
 frontpiece
 fructiferously
 ferrous
@@ -8201,6 +8200,7 @@ fluffily
 fishpond
 ferula
 fantastry
+fondants
 feverberries
 formicinae
 fraught
