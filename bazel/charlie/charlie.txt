@@ -22807,6 +22807,7 @@ clamourer
 consertion
 chemophysiological
 conservacy
+conscripts
 conservancy
 coutelle
 conservant
@@ -31143,7 +31144,6 @@ cupel
 clinometria
 credulousness
 cupeller
-conscripts
 cupellers
 cupfulfuls
 canvassing
