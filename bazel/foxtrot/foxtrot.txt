@@ -686,7 +686,6 @@ filemot
 floccing
 funkier
 fingerprinted
-flannelmouths
 feathercut
 fairish
 featlier
@@ -4983,6 +4982,7 @@ frenulum
 flyway
 feebleheartedly
 flammule
+flannelmouths
 fatidic
 flanch
 formalize

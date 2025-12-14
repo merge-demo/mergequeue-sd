@@ -334,7 +334,6 @@ galactolipide
 graveship
 galactometer
 gorling
-gaussian
 glochidial
 grilses
 gleen
@@ -10671,6 +10670,7 @@ goldmist
 glyoxalase
 gliding
 gonagra
+gaussian
 gasolines
 gametogony
 gladius
