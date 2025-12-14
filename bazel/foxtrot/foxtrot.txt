@@ -8357,7 +8357,6 @@ feigningly
 forbidden
 fulminates
 forkier
-fumewort
 forcy
 familiars
 foveolated
@@ -10874,6 +10873,7 @@ frontalis
 fluvioterrestrial
 fustianist
 filigreing
+fumewort
 filagreing
 fractiously
 foreskins
