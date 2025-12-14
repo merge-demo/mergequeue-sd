@@ -8228,6 +8228,7 @@ allochroous
 aphelandra
 achronical
 asaron
+autocephality
 antiquating
 acroscopic
 abegge
@@ -18695,7 +18696,6 @@ accusably
 addlebrain
 archbeadle
 accidentalist
-autocephality
 archbishopry
 archbishopric
 acroamata
