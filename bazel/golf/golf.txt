@@ -5909,6 +5909,7 @@ gasfiring
 geolatry
 grandesque
 glycogenous
+graphoscope
 gravimetric
 goliards
 gallinaceous
@@ -8270,7 +8271,6 @@ gladii
 graphophone
 grossulariaceae
 graphophonic
-graphoscope
 glycoprotein
 grinderies
 guerdonless
