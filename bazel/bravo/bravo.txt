@@ -918,7 +918,6 @@ bivinyl
 bedsit
 biopsychic
 belligerently
-bagsful
 bequirtle
 bombarder
 bazookaman
@@ -1901,6 +1900,7 @@ bandoleros
 barouche
 bandor
 baaskaap
+bagsful
 bacchantic
 babby
 biotechs
