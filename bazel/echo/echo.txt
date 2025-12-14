@@ -1021,7 +1021,6 @@ edeomania
 enhamper
 enhydris
 emberizinae
-enslavedness
 epipleura
 elberta
 expeditions
@@ -12275,6 +12274,7 @@ evocatrix
 everlasting
 eggplant
 euclid
+enslavedness
 enfoul
 exemplificator
 egypt
