@@ -5823,7 +5823,6 @@ bellyached
 bismethyl
 bellyacher
 bellyaches
-becriming
 blinking
 billowiness
 bracozzo
@@ -9925,6 +9924,7 @@ benzoated
 buhl
 biotite
 bitterroot
+becriming
 backfall
 berrying
 bittersweets
