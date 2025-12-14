@@ -1817,7 +1817,6 @@ eightling
 edematose
 euler
 epidiorite
-estoque
 encystments
 errabund
 elaterin
@@ -10167,6 +10166,7 @@ etherizes
 extraditing
 easeful
 encoders
+estoque
 executives
 ethernet
 extrahazardous
