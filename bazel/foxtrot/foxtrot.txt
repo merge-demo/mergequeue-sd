@@ -3552,6 +3552,7 @@ flaggelating
 filaments
 fistule
 flexibility
+funestal
 filarian
 fattily
 frogleaf
@@ -11620,7 +11621,6 @@ farci
 fibrous
 fylgja
 fosite
-funestal
 finestiller
 forehew
 fustigatory
