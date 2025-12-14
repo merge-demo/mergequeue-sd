@@ -6597,7 +6597,6 @@ destroyed
 dilettant
 denumerative
 dipentene
-dirian
 decipherable
 digested
 deprecations
@@ -12629,6 +12628,7 @@ disyoking
 degradational
 disjasked
 decorous
+dirian
 drubbings
 disject
 disjected
