@@ -8190,7 +8190,6 @@ decalcified
 disbind
 deywoman
 dermalith
-desexualize
 diaconal
 disenorm
 dauby
@@ -10455,6 +10454,7 @@ diphenylchloroarsine
 despend
 diphenylenimine
 ditcher
+desexualize
 dug
 diphenylhydantoin
 dogmatic
