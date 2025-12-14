@@ -5890,6 +5890,7 @@ grundel
 gladify
 gothites
 gerunds
+glazy
 gate
 gymnosporangium
 gynoecium
@@ -7992,7 +7993,6 @@ gasterosteoid
 grandmas
 guanosine
 granada
-glazy
 gables
 gladded
 grandmotherly
