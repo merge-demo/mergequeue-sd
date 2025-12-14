@@ -4012,6 +4012,7 @@ furrow
 fabricated
 filmlike
 festin
+foleye
 fluoaluminic
 felicific
 facades
@@ -7143,7 +7144,6 @@ frostlike
 funerealness
 figwort
 fundamentalistic
-foleye
 farinacious
 frontoparietal
 footers
