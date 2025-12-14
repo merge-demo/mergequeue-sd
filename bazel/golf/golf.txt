@@ -3087,6 +3087,7 @@ glaciologists
 grands
 graphiter
 greensauce
+gentianaceous
 gamelin
 genepi
 glom
@@ -8847,7 +8848,6 @@ gauntleting
 germain
 generalize
 griddler
-gentianaceous
 glueyness
 gallus
 globate
