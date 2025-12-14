@@ -4008,7 +4008,6 @@ anarchies
 amimide
 anthus
 acerola
-arrows
 ankuses
 acronymize
 advect
@@ -18003,6 +18002,7 @@ approximator
 appt
 arteriotomy
 aggrandise
+arrows
 alemonger
 anchoritism
 agnomination
