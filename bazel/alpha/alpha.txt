@@ -7054,7 +7054,6 @@ antitubercular
 appraisingly
 akebia
 actinia
-abjudicator
 adoniram
 adductive
 avick
@@ -12070,6 +12069,7 @@ anthropophagize
 admiral
 assentation
 anastasia
+abjudicator
 autodestruction
 aletris
 abstractors
