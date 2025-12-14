@@ -4824,6 +4824,7 @@ flinching
 floatiest
 faena
 fellowshipping
+foursome
 falsen
 fellside
 forties
@@ -8313,7 +8314,6 @@ foregame
 fraternising
 faithfulness
 fountaining
-foursome
 fiscalism
 forhaile
 foreroyal
