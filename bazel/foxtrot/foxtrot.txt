@@ -935,7 +935,6 @@ footlight
 faradised
 flether
 furfural
-fardo
 ferneries
 fanciness
 flyleaf
@@ -6404,6 +6403,7 @@ fluoroform
 fluorescigenous
 fumarolic
 fricasseing
+fardo
 faence
 forefoot
 fronture
