@@ -1375,7 +1375,6 @@ caliculate
 calyculate
 cavernitis
 calyculated
-coercing
 cuminseed
 counterband
 calicut
@@ -14943,6 +14942,7 @@ counterparallel
 crossjack
 citreous
 citric
+coercing
 citril
 citrination
 congressmen
