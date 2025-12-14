@@ -3033,6 +3033,7 @@ emetia
 exhaustible
 equated
 excreters
+exporters
 ellfish
 esthetes
 endarterium
@@ -4208,7 +4209,6 @@ emulant
 earwiggy
 emulations
 echograph
-exporters
 expiree
 escarping
 escambio
