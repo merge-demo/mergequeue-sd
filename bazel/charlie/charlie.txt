@@ -8746,7 +8746,6 @@ chapless
 chapleted
 countersmile
 clothesbasket
-chapon
 corrugators
 cuppa
 crips
@@ -28399,6 +28398,7 @@ creak
 catalecticant
 caesarize
 creaky
+chapon
 cholestene
 creakiness
 creaking
