@@ -3244,7 +3244,6 @@ acuities
 aerologic
 alley
 antiendotoxin
-antizymic
 archfire
 algerita
 ayond
@@ -6670,6 +6669,7 @@ ailanto
 ailed
 aileron
 acrosporous
+antizymic
 adradius
 aboon
 arakanese
