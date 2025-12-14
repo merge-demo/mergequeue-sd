@@ -3258,6 +3258,7 @@ footrill
 fittit
 fuzed
 foreknowledge
+fimbria
 freestanding
 fibrosity
 footropes
@@ -10725,7 +10726,6 @@ flotsams
 fideisms
 frumps
 forcedly
-fimbria
 fuder
 frustrating
 fairing
