@@ -3263,7 +3263,6 @@ fluorinate
 footrill
 fittit
 fuzed
-foreknowledge
 fimbria
 freestanding
 fibrosity
@@ -8412,6 +8411,7 @@ fiberfill
 futhorcs
 forlive
 foreking
+foreknowledge
 fictively
 fuseboard
 fm
