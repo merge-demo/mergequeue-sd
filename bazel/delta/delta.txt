@@ -5417,7 +5417,6 @@ deyhouse
 decoction
 delicatesse
 daffodil
-denudant
 dendra
 delim
 deschampsia
@@ -9842,6 +9841,7 @@ dissepimental
 dinkiest
 dentile
 draggily
+denudant
 diesis
 discouragingness
 dynamometamorphism
