@@ -4000,6 +4000,7 @@ flunk
 fingerprint
 ferric
 furazolidone
+frivolize
 fluorosis
 fishery
 forleft
@@ -5811,7 +5812,6 @@ flitters
 frequents
 flankwise
 froggiest
-frivolize
 ferfet
 firehouse
 furbishes
