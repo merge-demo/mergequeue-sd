@@ -14219,6 +14219,7 @@ allectory
 allomorph
 arapahite
 agglutinant
+armband
 abrahamic
 aeroscopic
 arent
@@ -17065,7 +17066,6 @@ affinitatively
 arthrobranchia
 ammoniac
 anthroponomical
-armband
 aeolicism
 aerophotography
 agranulocyte
