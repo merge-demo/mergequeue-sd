@@ -4777,7 +4777,6 @@ binnacle
 bedral
 bedraping
 bedread
-bridebowl
 bedrench
 baldling
 blast
@@ -8436,6 +8435,7 @@ blams
 blackcoat
 bikkurim
 biosynthetically
+bridebowl
 balkier
 biogenous
 blackwood

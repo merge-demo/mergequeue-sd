@@ -6456,7 +6456,6 @@ firring
 floretty
 fisherboat
 feltman
-froisse
 footbaths
 feneration
 fluotantalic
@@ -7711,6 +7710,7 @@ flarfish
 falsified
 finnack
 fasciated
+froisse
 fernier
 frayproof
 foreigneering
