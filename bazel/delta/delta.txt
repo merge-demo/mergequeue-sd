@@ -6358,7 +6358,6 @@ diacatholicon
 defined
 ducula
 demurrable
-dietary
 doegling
 doctrinized
 derned
@@ -9917,6 +9916,7 @@ dimetallic
 dimeter
 discophorous
 dimethylbenzene
+dietary
 disneyland
 decretorial
 debarred
