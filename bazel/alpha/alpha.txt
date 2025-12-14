@@ -12879,7 +12879,6 @@ arousement
 angletouch
 antiquarianly
 angletwitch
-allays
 anglewise
 azedarac
 avenger
@@ -20015,6 +20014,7 @@ arnold
 aptitudinally
 ashweed
 arnusian
+allays
 anticonvulsant
 applemonger
 aroast
