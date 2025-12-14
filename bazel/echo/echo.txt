@@ -11564,6 +11564,7 @@ emmenology
 equipartisan
 evoking
 empetraceous
+electroaffinity
 evolute
 embrute
 enlighten
@@ -12252,7 +12253,6 @@ exegetics
 exing
 ecphorias
 ensheaths
-electroaffinity
 emptied
 ensued
 eds
