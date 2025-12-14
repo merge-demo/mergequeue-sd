@@ -3788,7 +3788,6 @@ astrogeny
 allayers
 adhibition
 antidemocracies
-aracari
 apologies
 anthobiology
 alberta
@@ -10747,6 +10746,7 @@ agrammaphasia
 alevins
 anthophorous
 amire
+aracari
 anthracometric
 amyris
 abattis
