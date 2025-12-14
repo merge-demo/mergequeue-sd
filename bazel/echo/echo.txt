@@ -4963,7 +4963,6 @@ endemism
 eco
 eightscore
 endenization
-excusator
 ecarte
 escritorial
 equipollentness
@@ -12887,6 +12886,7 @@ expansionist
 expansionistic
 enserf
 eructs
+excusator
 erupturient
 exploitative
 enclasping
