@@ -16176,6 +16176,7 @@ clines
 caudexes
 clinger
 crankness
+compole
 crossbeak
 clingfishes
 contravenes
@@ -30635,7 +30636,6 @@ chymotrypsin
 cucupha
 chlorids
 cucurb
-compole
 cucurbitaceous
 cucurbite
 clinicist
