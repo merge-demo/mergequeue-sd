@@ -4766,6 +4766,7 @@ aeons
 aphrodisia
 alaihi
 abashments
+awaiter
 aepyceros
 aisleless
 artolatry
@@ -18386,7 +18387,6 @@ arapahos
 azorian
 adversant
 anaglyptography
-awaiter
 anticensoriously
 autoecious
 araracanga
