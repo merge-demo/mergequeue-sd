@@ -4692,7 +4692,6 @@ blindcat
 bignesses
 buckstay
 blastoid
-bediapering
 benedictively
 boxiness
 bemisting
@@ -9017,6 +9016,7 @@ bedstands
 bioluminescence
 bewhite
 brender
+bediapering
 bremsstrahlung
 bacterioagglutinin
 bets

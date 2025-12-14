@@ -4348,7 +4348,6 @@ grubless
 gravidity
 gymnic
 gloeosporiose
-gawks
 geodesist
 galeopsis
 gingered
@@ -5782,6 +5781,7 @@ grieshuckle
 girasols
 gyrolite
 geologize
+gawks
 gammons
 goldsmithery
 galloperdix
