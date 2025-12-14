@@ -5813,7 +5813,6 @@ dysraphia
 dujan
 disambiguation
 drengh
-deploration
 dismarshall
 disauthentic
 dextrocerebral
@@ -11041,6 +11040,7 @@ disconformably
 dramatised
 dentalising
 dieselized
+deploration
 degusts
 disclosable
 dodderers
