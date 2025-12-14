@@ -807,6 +807,7 @@ flautists
 frisk
 fowl
 fermate
+frough
 frizado
 flatulently
 frowsy
@@ -9253,7 +9254,6 @@ fichat
 feretra
 forfend
 fraise
-frough
 fortunately
 fraised
 flemishes
