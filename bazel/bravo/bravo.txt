@@ -12260,7 +12260,6 @@ bodock
 bowfront
 brogans
 biflected
-boltrope
 begrave
 bonellia
 barbarea
@@ -16224,6 +16223,7 @@ beagle
 bowsery
 browless
 baritones
+boltrope
 botonnee
 bundy
 berrypicking
