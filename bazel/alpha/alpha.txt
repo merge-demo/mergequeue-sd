@@ -2555,7 +2555,6 @@ azimuthal
 acroterteria
 addda
 assumingness
-acopyrine
 acopon
 adenalgia
 atrabiliar
@@ -5632,6 +5631,7 @@ afterworld
 antischool
 aneurine
 aftward
+acopyrine
 afunctional
 autocystoplasty
 anticorrosion
