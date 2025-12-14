@@ -2409,6 +2409,7 @@ filipuncture
 felanders
 frenchness
 ferities
+flittering
 fulgoridae
 flyflapper
 falsiteit
@@ -11479,7 +11480,6 @@ facilities
 figural
 finnmarks
 furthest
-flittering
 firmity
 fiercened
 furtively
