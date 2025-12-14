@@ -3900,6 +3900,7 @@ bhil
 bedlamp
 bifidated
 breadline
+behoovefulness
 baxtone
 brachyskelic
 birdliming
@@ -5473,7 +5474,6 @@ bahmani
 bootid
 broadmouth
 baronets
-behoovefulness
 barrier
 behooves
 behooving
