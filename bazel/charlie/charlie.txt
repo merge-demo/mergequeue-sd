@@ -20537,7 +20537,6 @@ compensator
 compensatory
 cotillions
 compensators
-compenser
 countree
 compere
 compered
@@ -27260,6 +27259,7 @@ crebrity
 countrification
 complies
 countrified
+compenser
 cephalanthous
 chlorophane
 countrifiedness
