@@ -1756,7 +1756,6 @@ fashioning
 fusels
 fusobacterium
 fireworms
-fedn
 featherfew
 fluoridates
 featheriness
@@ -5985,6 +5984,7 @@ firkin
 fawn
 footscald
 floodwood
+fedn
 foisty
 fabrics
 fulah
