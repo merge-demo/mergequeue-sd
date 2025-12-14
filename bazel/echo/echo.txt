@@ -361,6 +361,7 @@ entelodont
 eighteenfold
 educ
 exoneural
+espundia
 enterorrhea
 epicalyxes
 ebionite
@@ -6680,7 +6681,6 @@ entosclerite
 eulogiser
 ecrevisse
 epulis
-espundia
 endamebiasis
 entertainingly
 electrophysics

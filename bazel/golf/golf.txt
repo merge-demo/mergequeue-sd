@@ -2070,6 +2070,7 @@ gutlessness
 glutted
 gherkins
 gavots
+gemmingia
 garnered
 giftless
 gametophyll
@@ -7276,7 +7277,6 @@ gammas
 gromyl
 gormand
 gibbus
-gemmingia
 gormandised
 geissolomataceous
 graduators
