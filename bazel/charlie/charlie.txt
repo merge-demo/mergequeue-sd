@@ -5745,6 +5745,7 @@ catching
 carolean
 cannon
 clarinetist
+cricketed
 catchlight
 cultivatability
 cornein
@@ -15357,7 +15358,6 @@ cripply
 clapnest
 clapnet
 concentered
-cricketed
 chavel
 cen
 clappe
