@@ -5318,6 +5318,7 @@ everglades
 exsertion
 endospore
 evidentness
+equips
 encharm
 epiphyte
 epituberculous
@@ -7725,7 +7726,6 @@ ensure
 emendable
 excrementize
 estopping
-equips
 edelweisses
 ethinamate
 eggshells
