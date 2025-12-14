@@ -9675,7 +9675,6 @@ balsas
 bisischiatic
 bauera
 bisk
-bisks
 bysmalith
 bismark
 boulder
@@ -11986,6 +11985,7 @@ bidigitate
 bromeliad
 babysitting
 bunkhouse
+bisks
 biogens
 bohora
 benny
