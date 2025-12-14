@@ -903,6 +903,7 @@ grassfire
 graved
 gobioid
 gusseted
+glycogelatin
 gez
 ginning
 genome
@@ -4118,7 +4119,6 @@ gimel
 gobernadora
 gegenschein
 gogglebox
-glycogelatin
 guardianess
 genus
 gelechiid
