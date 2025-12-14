@@ -5669,7 +5669,6 @@ extraventricular
 extras
 episcopalism
 emerson
-eagerest
 engallant
 exameter
 exogastric
@@ -7443,6 +7442,7 @@ effluvial
 embattling
 ellerian
 eavesdroppers
+eagerest
 ephemerid
 ewe
 ephemeridae
