@@ -4466,6 +4466,7 @@ episematic
 earlock
 esthesiophysiology
 elsewhat
+exophthalmus
 enforcing
 exterminator
 embryogeny
@@ -12710,7 +12711,6 @@ exalted
 exophthalmia
 embloom
 exenterating
-exophthalmus
 emboweling
 engramma
 exopod
