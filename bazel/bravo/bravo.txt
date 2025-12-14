@@ -13469,7 +13469,6 @@ bangboard
 botulinus
 bottu
 billable
-botulinuses
 boggles
 botulism
 bigamistic
@@ -17251,6 +17250,7 @@ badgers
 bolographically
 bumblers
 bumbles
+botulinuses
 bootlaces
 bacterioblast
 bumbling
