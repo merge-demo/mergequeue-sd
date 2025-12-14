@@ -2672,7 +2672,6 @@ birefractive
 blowoffs
 birdland
 boraxes
-beakhead
 burnouses
 bewaitered
 benightment
@@ -12728,6 +12727,7 @@ bucorvinae
 becloaked
 bioelectric
 bullneck
+beakhead
 bitstocks
 biparous
 boce
