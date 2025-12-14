@@ -9090,7 +9090,6 @@ brittlewort
 bidented
 brown
 bandagist
-bicolours
 buzzwords
 biorhythm
 butyrins
@@ -9776,6 +9775,7 @@ bradylexia
 beglitter
 basiating
 blemish
+bicolours
 biophysicochemical
 bystreet
 bistres
