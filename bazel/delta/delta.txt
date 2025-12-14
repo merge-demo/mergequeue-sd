@@ -14223,6 +14223,7 @@ dangerous
 diswashing
 dur
 diswere
+darogah
 decurions
 diswit
 dacryon
@@ -17292,7 +17293,6 @@ dilluer
 druidology
 droller
 drolleries
-darogah
 drollest
 dischase
 demilion

@@ -6818,6 +6818,7 @@ bowpots
 berteroa
 berthas
 bulkages
+bambuco
 bibliotaphic
 batten
 berthed
@@ -10546,7 +10547,6 @@ backlash
 blatch
 bouviers
 boychiks
-bambuco
 blateness
 bhisti
 ballogan
