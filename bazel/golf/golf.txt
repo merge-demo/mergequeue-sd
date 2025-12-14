@@ -4353,7 +4353,6 @@ girse
 grubless
 gravidity
 gymnic
-gloeosporiose
 geodesist
 galeopsis
 gingered
@@ -7929,6 +7928,7 @@ generalist
 gouged
 geochemistry
 graphitoidal
+gloeosporiose
 greases
 glecoma
 gorst
