@@ -586,6 +586,7 @@ faufel
 forlornity
 fallowist
 fardh
+fairydom
 fivefold
 fifish
 floorless
@@ -3985,7 +3986,6 @@ fibres
 fraulein
 friarling
 february
-fairydom
 felicitation
 frontlessness
 formability
