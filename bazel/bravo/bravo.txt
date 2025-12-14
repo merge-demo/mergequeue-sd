@@ -5656,6 +5656,7 @@ blowpipes
 brasiers
 bocher
 busks
+bepale
 boraciferous
 benjoin
 bnf
@@ -11831,7 +11832,6 @@ bestowals
 bodicemaking
 bodied
 becrowding
-bepale
 boucan
 bodykins
 bodilize
