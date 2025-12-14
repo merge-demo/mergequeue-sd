@@ -5298,6 +5298,7 @@ endoscope
 endoscopes
 equivocalities
 eradicators
+espionage
 egeran
 emmeniopathy
 effortful
@@ -8994,7 +8995,6 @@ emaciating
 enfeeblement
 echappee
 exponent
-espionage
 erythritol
 equivalue
 expurgating
