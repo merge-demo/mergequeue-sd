@@ -4888,6 +4888,7 @@ compense
 carryout
 carryouts
 crosshatched
+chiropodous
 carritches
 carriwitchet
 carrocci
@@ -10962,7 +10963,6 @@ chiropodistry
 callan
 chiropodists
 cfh
-chiropodous
 chiropompholyx
 contraposita
 chiropterygian
