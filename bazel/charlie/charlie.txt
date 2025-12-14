@@ -21352,7 +21352,6 @@ credulously
 conciseness
 clocks
 cosponsor
-concision
 corrugation
 concitation
 cominform
@@ -29064,6 +29063,7 @@ cantatory
 corbans
 crimson
 crimsoned
+concision
 credendum
 crimsonness
 crin
