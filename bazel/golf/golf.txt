@@ -2025,6 +2025,7 @@ gauzewing
 gomorrah
 gnaeus
 grithman
+giornata
 gauzy
 galatae
 goitrogenicity
@@ -4633,7 +4634,6 @@ gravegarth
 glossoid
 girlery
 glink
-giornata
 griotte
 gloggs
 galbulae
