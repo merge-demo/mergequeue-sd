@@ -4430,6 +4430,7 @@ batis
 befleas
 belchers
 bypassing
+bordering
 becloaks
 blackfriars
 batule
@@ -13005,7 +13006,6 @@ biennials
 besteading
 blackberry
 bucking
-bordering
 bemantle
 balangay
 bolster
