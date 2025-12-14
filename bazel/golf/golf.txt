@@ -7226,7 +7226,6 @@ greenthumbed
 gallotannin
 give
 geocratic
-gape
 gorgosaurus
 galenism
 gorillalike
@@ -9609,6 +9608,7 @@ gujrati
 gerbe
 gowds
 gedanite
+gape
 gowl
 gravimeters
 glandula
