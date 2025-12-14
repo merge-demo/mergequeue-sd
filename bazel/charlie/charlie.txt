@@ -7536,7 +7536,6 @@ cercopithecidae
 catodon
 cercopithecus
 cimbri
-cercosporella
 canalisation
 cercus
 cerdonian
@@ -18959,6 +18958,7 @@ circumcircle
 cardiosphygmogram
 collectivistically
 cocainization
+cercosporella
 contraflow
 collectivists
 collegese
