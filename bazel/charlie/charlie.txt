@@ -8268,6 +8268,7 @@ carlism
 crummable
 chalicotheriidae
 cephalohumeralis
+cellipetal
 chantress
 chalina
 coonskin
@@ -28542,7 +28543,6 @@ creditress
 creditrix
 crednerite
 cubebs
-cellipetal
 continuances
 cavallies
 crustaceans
