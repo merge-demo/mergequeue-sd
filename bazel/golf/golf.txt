@@ -6850,7 +6850,6 @@ gonococcocci
 gonopore
 gonocoele
 gt
-gonof
 gudesire
 gonophs
 galloflavine
@@ -9415,6 +9414,7 @@ greenleaf
 grothite
 glumiflorae
 guatoan
+gonof
 glissandi
 gymel
 glycerolize
