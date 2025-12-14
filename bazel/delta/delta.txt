@@ -1008,6 +1008,7 @@ definement
 darkies
 drupel
 darkish
+demesne
 drillmasters
 draughtsmen
 disquietudes
@@ -12484,7 +12485,6 @@ damageableness
 dancette
 dexterity
 deboise
-demesne
 dislimb
 disyllabized
 dumky

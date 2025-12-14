@@ -3150,6 +3150,7 @@ grangers
 girlhoods
 grudgefully
 glucina
+gurgitation
 geopotential
 gelosin
 grassplot
@@ -10670,7 +10671,6 @@ goldmist
 glyoxalase
 gliding
 gonagra
-gurgitation
 gasolines
 gametogony
 gladius
