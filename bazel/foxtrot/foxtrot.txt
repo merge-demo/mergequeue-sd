@@ -917,6 +917,7 @@ fenberry
 fanwise
 falangism
 faddier
+foxbane
 fadaise
 fleabug
 fallouts
@@ -9072,7 +9073,6 @@ frap
 feruling
 frasco
 firebrick
-foxbane
 foxberry
 falcular
 fribbleism

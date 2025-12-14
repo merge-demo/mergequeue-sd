@@ -6831,7 +6831,6 @@ aired
 anabolic
 arraignability
 airedales
-asseverations
 augment
 airfare
 amyctic
@@ -12456,6 +12455,7 @@ androsphinx
 androsporangium
 androsterone
 androtomy
+asseverations
 acoemeti
 ayens
 agre
