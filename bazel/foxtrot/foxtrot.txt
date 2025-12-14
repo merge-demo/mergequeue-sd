@@ -99,6 +99,7 @@ flagrantness
 famousness
 facetely
 froufrous
+focusable
 floorcloths
 falsest
 fuminess
@@ -6227,7 +6228,6 @@ forlana
 fatlings
 fargoing
 floccules
-focusable
 fascinative
 fermentitious
 foundationary
