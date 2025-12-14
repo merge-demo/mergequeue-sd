@@ -1109,6 +1109,7 @@ elhi
 eikons
 environage
 edition
+expiscated
 endere
 editorialization
 elsa
@@ -13908,7 +13909,6 @@ extrametrical
 eccl
 extramission
 erythrism
-expiscated
 eruditeness
 eliminatory
 entortill
