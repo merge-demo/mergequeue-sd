@@ -5830,7 +5830,6 @@ genre
 gangways
 goofiest
 garlicky
-garrulously
 goony
 grunts
 gnatworm
@@ -8693,6 +8692,7 @@ gree
 griper
 glissading
 gismondite
+garrulously
 gutterling
 gibbering
 glacification
