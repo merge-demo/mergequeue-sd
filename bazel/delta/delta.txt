@@ -7153,7 +7153,6 @@ diipolia
 deamidase
 desulfurising
 dinotheriidae
-desulfurizer
 desulfurizing
 demolitions
 dynamometric
@@ -10240,6 +10239,7 @@ dismalities
 diplomatism
 defrauded
 dinking
+desulfurizer
 defatting
 dinkum
 detractory
