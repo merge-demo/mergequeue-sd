@@ -2885,6 +2885,7 @@ elfwort
 erigenia
 elian
 enervated
+enjoined
 exacinate
 equicostate
 encystation
@@ -4256,7 +4257,6 @@ excerpts
 effectible
 edifyingly
 en
-enjoined
 extirpation
 epicarides
 ejectment

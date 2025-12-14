@@ -9482,7 +9482,6 @@ checkery
 checkering
 consignifying
 cataphysical
-checkerist
 collet
 clavola
 checkers
@@ -22370,6 +22369,7 @@ coniform
 cacana
 chusite
 corruptible
+checkerist
 costliness
 conyger
 colobin
