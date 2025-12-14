@@ -12273,6 +12273,7 @@ euclid
 enslavedness
 enfoul
 exemplificator
+expository
 egypt
 exemplified
 extradites
@@ -13365,7 +13366,6 @@ esthesiometry
 exsanguinity
 everydeal
 elytral
-expository
 enteropexia
 expositorial
 ephererist

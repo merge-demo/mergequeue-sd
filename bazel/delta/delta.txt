@@ -9609,7 +9609,6 @@ doctordom
 dollie
 digressional
 digressive
-digressory
 doctrinally
 dastard
 disencumbers
@@ -14034,6 +14033,7 @@ door
 distraught
 defensiveness
 distraughtly
+digressory
 disappearances
 draggy
 details
