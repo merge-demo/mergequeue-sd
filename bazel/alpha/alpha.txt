@@ -1157,7 +1157,6 @@ apheliotropism
 aploperistomatous
 anaplasis
 archeostome
-academist
 arboral
 academite
 academization
@@ -5409,6 +5408,7 @@ arided
 aphacia
 adulterated
 afghans
+academist
 archicytula
 aficionada
 aficionadas
