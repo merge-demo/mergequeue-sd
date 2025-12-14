@@ -3842,6 +3842,7 @@ extraboldface
 eminencies
 evendown
 exterminating
+epitomise
 emphatical
 eminent
 easternized
@@ -5890,7 +5891,6 @@ ecarinate
 execrators
 embox
 exaggerativeness
-epitomise
 edeitis
 enfief
 epistemonic
