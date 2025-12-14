@@ -8135,6 +8135,7 @@ dalk
 depilates
 disambiguate
 disventure
+dormouse
 delineate
 domesticized
 deepener
@@ -15767,7 +15768,6 @@ dormitories
 deftly
 dissenting
 dimwits
-dormouse
 digallic
 dornic
 deletive
