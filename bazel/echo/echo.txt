@@ -9722,7 +9722,6 @@ eastlings
 entotrophi
 establishmentism
 entitles
-eradiates
 enodal
 equisonance
 everyplace
@@ -12712,6 +12711,7 @@ engramma
 exopod
 epigraphist
 embus
+eradiates
 exopterygotism
 eurypygae
 epha

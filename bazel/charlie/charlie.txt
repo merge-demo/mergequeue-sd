@@ -6505,7 +6505,6 @@ calusar
 conchie
 cavy
 cavia
-cavicorn
 cuprocyanide
 catalogues
 cavicornia
@@ -16319,6 +16318,7 @@ czardases
 circumspectness
 clisere
 cullibility
+cavicorn
 clyses
 clishmaclaver
 clysma
