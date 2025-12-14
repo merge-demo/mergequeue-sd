@@ -3780,7 +3780,6 @@ beswitch
 bioenvironmental
 betatrons
 batwomen
-brevipennate
 beetlestock
 batz
 beldamship
@@ -7256,6 +7255,7 @@ bute
 bituminised
 balearic
 bestrew
+brevipennate
 bearwoods
 bladdernut
 bestrewment
