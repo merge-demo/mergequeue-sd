@@ -14241,6 +14241,7 @@ agiotages
 anterooms
 anteroparietal
 anencephalous
+asperifolious
 alchochoden
 ancipitous
 afflatuses
@@ -18335,7 +18336,6 @@ also
 authoriser
 aragonitic
 annulations
-asperifolious
 aggie
 anabaptistical
 alowe
