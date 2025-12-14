@@ -4067,7 +4067,6 @@ bhakta
 buckwash
 bskt
 beamroom
-baragnosis
 blitzkrieged
 beams
 bean
@@ -9339,6 +9338,7 @@ bewater
 birchwood
 bromidrosis
 bindweb
+baragnosis
 barcaroles
 birdbander
 blockholer
