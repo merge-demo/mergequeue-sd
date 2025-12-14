@@ -3578,7 +3578,6 @@ ghaffir
 goons
 ginniest
 garnishes
-greta
 guacho
 gewgaws
 ghan
@@ -5632,6 +5631,7 @@ geochemist
 geophysical
 gasaliers
 gefilte
+greta
 gownlet
 glottogonist
 gervais
