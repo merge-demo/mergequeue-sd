@@ -68,7 +68,6 @@ fibrolite
 februaries
 fconv
 fabulously
-facebar
 facebow
 fluidic
 fenchone
@@ -1039,6 +1038,7 @@ filicornia
 flatboats
 finalists
 farinometer
+facebar
 farinose
 founce
 flannelly
