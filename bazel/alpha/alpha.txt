@@ -401,6 +401,7 @@ amoved
 addressograph
 asteriscuses
 auditions
+aphidid
 acapnial
 acquitting
 antivice
@@ -1682,7 +1683,6 @@ astr
 anorganic
 alkalimeter
 ambiguously
-aphidid
 acculturation
 acculturize
 anarchoindividualist
