@@ -436,7 +436,6 @@ embiodea
 explicated
 engager
 erf
-eunuchal
 eveners
 enanthesis
 expediteness
@@ -13949,6 +13948,7 @@ enduement
 exterioration
 eschews
 elaborateness
+eunuchal
 eudeve
 encumberer
 entoire

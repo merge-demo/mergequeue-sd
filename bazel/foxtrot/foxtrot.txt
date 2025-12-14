@@ -734,7 +734,6 @@ fana
 feoffment
 fluxion
 fumigants
-fragmentate
 fertilizes
 fogscoffer
 flittiness
@@ -1373,6 +1372,7 @@ fishbones
 fulminuric
 fatiha
 fablers
+fragmentate
 fidate
 fatima
 fruticeous
