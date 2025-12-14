@@ -10525,7 +10525,6 @@ bradyuria
 bashlik
 blastosphere
 balanus
-bromal
 buttonhold
 belligerent
 badasses
@@ -11629,6 +11628,7 @@ baccare
 bittacle
 beachboys
 bulldog
+bromal
 berend
 boxhead
 buchmanite
