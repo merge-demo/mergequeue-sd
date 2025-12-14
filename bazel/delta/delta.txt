@@ -11646,6 +11646,7 @@ dicatalexis
 discontinuously
 drop
 discontinuousness
+discreating
 disconula
 disconvenience
 dauphin
@@ -12304,7 +12305,6 @@ dappleness
 disincrustion
 decousu
 disgrading
-discreating
 disgruntlement
 driblet
 denitration
