@@ -503,7 +503,6 @@ examinator
 emphyteusis
 echelle
 exhibitant
-extraphenomenal
 estate
 entosphenal
 echeneidae
@@ -8224,6 +8223,7 @@ epistaxis
 epistemically
 enjoyingly
 engirded
+extraphenomenal
 epistena
 electrodiplomatic
 episternal
