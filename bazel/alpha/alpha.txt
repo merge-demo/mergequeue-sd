@@ -4577,6 +4577,7 @@ adenotomy
 atomatic
 antas
 advisableness
+antibromic
 amidon
 anicca
 adiaphorism
@@ -21667,7 +21668,6 @@ achromats
 afikomen
 amusingly
 antitragus
-antibromic
 assassinations
 assassinative
 assassinist
