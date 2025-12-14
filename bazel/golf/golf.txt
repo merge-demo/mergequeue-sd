@@ -82,6 +82,7 @@ gallops
 grapestalk
 grutten
 gadabouts
+gestalter
 gualaca
 glauber
 gubernator
@@ -5555,7 +5556,6 @@ gloams
 granadillo
 glutinously
 glamorizer
-gestalter
 grudgeons
 geon
 greencoat
