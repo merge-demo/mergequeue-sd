@@ -7641,6 +7641,7 @@ constitutionals
 ceremoniousness
 canonici
 counterpoint
+chirotype
 congregates
 carreta
 cereous
@@ -15679,7 +15680,6 @@ chokers
 clavicularium
 claviculate
 chrysohermidin
-chirotype
 clima
 chrysograph
 claviger
