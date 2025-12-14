@@ -5381,6 +5381,7 @@ futuristic
 fraughting
 fettles
 flanken
+facial
 feebleness
 fruiteries
 ferulaic
@@ -10402,7 +10403,6 @@ fitche
 footer
 fraggings
 fenchene
-facial
 filigree
 fictility
 flyspecked
