@@ -2743,7 +2743,6 @@ genit
 gnatho
 groundmass
 glozing
-graciosity
 gryllidae
 grather
 gonopodium
@@ -6727,6 +6726,7 @@ gobmouthed
 growable
 gromatic
 gibbergunyah
+graciosity
 gymnosperm
 grattage
 gewgawed
