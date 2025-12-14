@@ -1776,6 +1776,7 @@ eyewaiter
 eogaea
 episepalous
 emanium
+electrotelegraphy
 esrogim
 emigrant
 exoclinal
@@ -2636,7 +2637,6 @@ enfant
 extendibility
 eudaemonics
 engenderment
-electrotelegraphy
 exhort
 epispadia
 electrotherapeutical
