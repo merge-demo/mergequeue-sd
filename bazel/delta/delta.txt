@@ -2117,7 +2117,6 @@ daunts
 doab
 disinheritances
 duddies
-despoilment
 decameron
 digraph
 decamethonium
@@ -5909,6 +5908,7 @@ depressional
 depressions
 discordia
 dotard
+despoilment
 dissipations
 demonstration
 dispossessing
