@@ -13150,6 +13150,7 @@ animalillio
 arracacia
 adenostemonous
 androgametangium
+autonomous
 anathematizing
 anthelions
 anticomment
@@ -13570,7 +13571,6 @@ antislaveryism
 acrodactylum
 adlegation
 authenticator
-autonomous
 acuminose
 annular
 antihierarchical
