@@ -11860,6 +11860,7 @@ cosharer
 congenitalness
 chordamesodermal
 chordamesodermic
+celandine
 chordate
 chorded
 chordee
@@ -26717,7 +26718,6 @@ counterblast
 counterborder
 clavilux
 counterbored
-celandine
 curcumin
 counterborer
 counterboring
