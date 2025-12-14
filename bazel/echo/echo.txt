@@ -193,7 +193,6 @@ exprobratory
 epidermolysis
 erinaceous
 elaphure
-earthshaker
 earthman
 erythritic
 earthslide
@@ -13512,6 +13511,7 @@ elephantous
 erotology
 exteriorization
 electrocauterization
+earthshaker
 exuviated
 elbert
 earcap
