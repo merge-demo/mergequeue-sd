@@ -1309,6 +1309,7 @@ balanorrhagia
 balanta
 bottine
 balantidic
+blitzkrieging
 balaos
 baroquely
 benzamino
@@ -10020,7 +10021,6 @@ breeched
 bivocal
 bivocalized
 bombings
-blitzkrieging
 buffos
 bivouaced
 bivouacked
