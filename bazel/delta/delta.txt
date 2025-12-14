@@ -3169,6 +3169,7 @@ dinnery
 defeated
 downs
 diluviate
+dumbfish
 disgout
 dissimulated
 dished
@@ -18234,7 +18235,6 @@ demioctangular
 discussant
 drogermen
 dishonorable
-dumbfish
 diapir
 doxologize
 dictery
