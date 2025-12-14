@@ -15225,7 +15225,6 @@ clamcracker
 crabfish
 clame
 cheeseboard
-clamflat
 ctn
 calamospermae
 chivalry
@@ -30468,6 +30467,7 @@ cto
 charcuteries
 carbo
 ctr
+clamflat
 comortgagee
 cannibalean
 cts
