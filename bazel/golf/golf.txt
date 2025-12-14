@@ -6604,7 +6604,6 @@ gynecologies
 gesture
 gambeson
 gweeon
-grummets
 girons
 gimmerpet
 groyne
@@ -10272,6 +10271,7 @@ geographics
 gershom
 girn
 goglets
+grummets
 gomontia
 geechee
 gonophore

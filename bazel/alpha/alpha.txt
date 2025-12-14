@@ -6494,7 +6494,6 @@ ahamkara
 autoclaves
 antienthusiasm
 angiosperms
-ahantchuyuk
 ahartalav
 abolisher
 alarming
@@ -12294,6 +12293,7 @@ ancistroid
 atechnic
 ancodont
 anubing
+ahantchuyuk
 ancoly
 ancome
 ancona
