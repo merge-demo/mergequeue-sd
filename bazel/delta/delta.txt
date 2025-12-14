@@ -5098,6 +5098,7 @@ dissipated
 dissimulates
 disterr
 destitute
+dermatoplasm
 deperition
 ductings
 dravya
@@ -6278,7 +6279,6 @@ disarming
 decarboxylation
 dehydrates
 dehydrators
-dermatoplasm
 dendroceratine
 diapositive
 deluminize
