@@ -1789,7 +1789,6 @@ componental
 calvaire
 cordage
 calvary
-caffeate
 countergarrison
 curagh
 calvarial
@@ -18001,6 +18000,7 @@ congresso
 cytogeneticist
 choriphyllous
 clitoridectomy
+caffeate
 coherers
 coppice
 coenacle
