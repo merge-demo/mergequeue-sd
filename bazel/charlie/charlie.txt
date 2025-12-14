@@ -29106,6 +29106,7 @@ crinkly
 comorado
 chloroacetate
 carcassless
+crossness
 crinklier
 czarisms
 concretization
@@ -29927,7 +29928,6 @@ crosslike
 carbosilicate
 crossline
 crosslink
-crossness
 cladophorales
 crossopt
 carposporangia
