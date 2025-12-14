@@ -8028,7 +8028,6 @@ frivolled
 fae
 ferie
 froebelian
-flashbulb
 fungaceous
 forestal
 forestalls
@@ -8998,6 +8997,7 @@ foreshadower
 frontally
 fourrageres
 fantaddish
+flashbulb
 fessely
 flixweed
 fuster
