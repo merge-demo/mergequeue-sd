@@ -7876,7 +7876,6 @@ bewreath
 bealtine
 bibiri
 boondoggles
-barefisted
 bartizan
 bibitory
 bothridiums
@@ -14325,6 +14324,7 @@ bifidly
 brayera
 brayerin
 brionies
+barefisted
 brayers
 bougainvillia
 brutedom
