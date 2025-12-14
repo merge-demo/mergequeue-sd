@@ -3726,7 +3726,6 @@ argoan
 amies
 archidiaceae
 antilogarithmic
-alloted
 abrenounce
 alliteration
 antiquity
@@ -8164,6 +8163,7 @@ artisanship
 algoid
 adroitness
 anglophiliac
+alloted
 algolagnia
 adjuster
 antimark
