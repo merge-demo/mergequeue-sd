@@ -3760,6 +3760,7 @@ goldfield
 generator
 glycolyl
 gropingly
+galactose
 germania
 giantkind
 guys
@@ -5248,7 +5249,6 @@ gastrocoele
 groundsheet
 gale
 gleamless
-galactose
 gramophone
 germinant
 goldarnedest
