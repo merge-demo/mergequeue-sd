@@ -8058,6 +8058,7 @@ exceptive
 empowerment
 equicrural
 electrooculogram
+ergative
 exosporium
 extraprovincial
 enlargedness
@@ -8850,7 +8851,6 @@ exp
 epergnes
 evonymus
 estrangement
-ergative
 elmier
 entomologic
 ergatocrat

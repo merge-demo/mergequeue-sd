@@ -3267,6 +3267,7 @@ fibrosity
 footropes
 faradizer
 ferventness
+freighter
 foppery
 flaught
 filbert
@@ -6110,7 +6111,6 @@ fillagree
 fortuitously
 fortnights
 fervidity
-freighter
 frettation
 folksinging
 fundmongering
