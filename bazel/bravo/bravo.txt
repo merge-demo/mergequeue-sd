@@ -8747,7 +8747,6 @@ barchans
 bimethyls
 bimillenium
 bimillionaire
-buoyancies
 bubblingly
 bimodule
 bimong
@@ -10878,6 +10877,7 @@ beadledom
 biggity
 barbierite
 bibbling
+buoyancies
 blindball
 bindable
 befingered
