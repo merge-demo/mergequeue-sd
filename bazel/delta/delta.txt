@@ -1718,7 +1718,6 @@ defensibility
 deaspiration
 degree
 dihely
-depersonalization
 daredevilry
 desponsate
 drouthy
@@ -18291,6 +18290,7 @@ desultorily
 draftproof
 dunnish
 dunnite
+depersonalization
 dagger
 dextorsal
 desmepithelium
