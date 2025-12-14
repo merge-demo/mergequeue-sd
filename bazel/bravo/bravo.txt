@@ -10172,7 +10172,6 @@ blackfeet
 brakeage
 barrelhouses
 barege
-bewrayingly
 beatille
 backstone
 basketballs
@@ -13991,6 +13990,7 @@ braceros
 butcherbroom
 bracherer
 basiate
+bewrayingly
 blackguards
 boraginaceae
 balanced
