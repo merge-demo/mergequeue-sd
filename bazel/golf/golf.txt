@@ -4771,6 +4771,7 @@ greenfishes
 grandiflora
 gudemother
 gainstand
+gastriloquy
 garua
 galactite
 glick
@@ -5873,7 +5874,6 @@ greggle
 gather
 gedrite
 golliwog
-gastriloquy
 ginglymoarthrodia
 glt
 gatten

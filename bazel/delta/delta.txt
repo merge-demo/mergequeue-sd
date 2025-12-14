@@ -8569,6 +8569,7 @@ deflex
 diaphony
 diaphysial
 diaphonic
+diffusimeter
 divertedly
 denegation
 diaphonies
@@ -17651,7 +17652,6 @@ difluence
 duads
 dentalmen
 dygogram
-diffusimeter
 deedholder
 doolies
 dhaw
