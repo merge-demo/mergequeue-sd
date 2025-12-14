@@ -4741,7 +4741,6 @@ collages
 carpeting
 carpetlayer
 carpetmaking
-clubability
 captivation
 carpets
 chant
@@ -29472,6 +29471,7 @@ calvinist
 chaldaism
 chati
 cannoning
+clubability
 crystallod
 crystallogeny
 crystallogenical
