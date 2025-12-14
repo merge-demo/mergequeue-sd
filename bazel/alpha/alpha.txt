@@ -5426,7 +5426,6 @@ annexionist
 acrorhagus
 afluking
 adjutrix
-aforementioned
 anemoclastic
 attainers
 aculeus
@@ -11935,6 +11934,7 @@ anapaestically
 anew
 amenism
 aricin
+aforementioned
 anapaite
 aenean
 acquiesence

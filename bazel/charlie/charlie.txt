@@ -7992,6 +7992,7 @@ cretic
 chackled
 chackler
 chacma
+chlortetracycline
 chacmas
 chaco
 calfs
@@ -8118,7 +8119,6 @@ crepuscule
 chainless
 counteractions
 crosscheck
-chlortetracycline
 chumping
 craspedon
 chainlike
