@@ -1925,7 +1925,6 @@ cambuca
 cambuscan
 came
 camel
-comforted
 cameleer
 culverins
 cauliflorous
@@ -16142,6 +16141,7 @@ cabobs
 climbers
 cheetal
 chromosantonin
+comforted
 caskanet
 collinearly
 chechen
