@@ -7744,7 +7744,6 @@ extractiform
 encephalogram
 equispatial
 exotisms
-easternmost
 elements
 embolite
 expedientially
@@ -11868,6 +11867,7 @@ engracing
 excavator
 enlace
 eructated
+easternmost
 extancy
 elutes
 exceeded
