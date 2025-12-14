@@ -1806,7 +1806,6 @@ forbesite
 folkmots
 flak
 flaithship
-frustules
 fluxed
 forging
 fanfarade
@@ -5986,6 +5985,7 @@ footscald
 floodwood
 fedn
 foisty
+frustules
 fabrics
 fulah
 floricultural
