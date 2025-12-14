@@ -2885,7 +2885,6 @@ fettlings
 farcin
 freighted
 fackins
-firefighters
 fungiferous
 fistulate
 feathertop
@@ -8488,6 +8487,7 @@ frontierman
 fumado
 figment
 forked
+firefighters
 formica
 foolishly
 fasciculate

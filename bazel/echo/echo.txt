@@ -1761,6 +1761,7 @@ embankments
 electrification
 encompasser
 enable
+enstrengthen
 estimates
 entresse
 eocene
@@ -8727,7 +8728,6 @@ eulogising
 endangering
 equivocates
 emphractic
-enstrengthen
 equivoluminal
 explainers
 enfume
