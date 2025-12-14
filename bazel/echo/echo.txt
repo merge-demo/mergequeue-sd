@@ -2355,7 +2355,6 @@ embiid
 epepophysis
 evangelization
 excusively
-epipetalous
 episcopalianize
 ensorcell
 events
@@ -5841,6 +5840,7 @@ epidermatous
 enodate
 engrasp
 emancipatory
+epipetalous
 ephedrins
 extrasensible
 eriophyllous
