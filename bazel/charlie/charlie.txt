@@ -23395,7 +23395,6 @@ canner
 centenaries
 coraciae
 contemple
-campanularia
 contemporaneous
 constancy
 chez
@@ -24752,6 +24751,7 @@ cabbing
 copula
 cheechakos
 coroscopy
+campanularia
 copulae
 copular
 copularium
