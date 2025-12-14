@@ -3578,6 +3578,7 @@ captor
 capturable
 catechized
 capture
+choledochal
 captured
 captures
 capturing
@@ -11571,7 +11572,6 @@ cholecystokinin
 cholecystolithiasis
 cholecystostomy
 cholecystotomy
-choledochal
 culpability
 choledochoduodenostomy
 colpeurysis

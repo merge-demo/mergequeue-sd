@@ -13910,6 +13910,7 @@ boxhauled
 brierberry
 bundle
 boxhauling
+broomshank
 boxhauls
 bowwow
 bethels
@@ -16124,7 +16125,6 @@ baseman
 bosomy
 brailler
 butylated
-broomshank
 blotting
 bogier
 broomstraw
