@@ -1228,6 +1228,7 @@ enroot
 efficiently
 earthshock
 ethylidyne
+endoplasmic
 eelcake
 elsewheres
 exposition
@@ -5456,7 +5457,6 @@ energical
 energid
 epitendineum
 ensuing
-endoplasmic
 extramundane
 endotheliomyxoma
 energize
