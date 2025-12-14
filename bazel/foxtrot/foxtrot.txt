@@ -3817,7 +3817,6 @@ forestall
 foxer
 filmstrips
 filo
-filose
 ferrier
 furnitureless
 foreflap
@@ -5393,6 +5392,7 @@ flunkyistic
 forthset
 flutists
 fleche
+filose
 folliculate
 faucitis
 flecked
