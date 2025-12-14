@@ -4623,7 +4623,6 @@ fitchew
 fluoridizing
 feedable
 fally
-flavory
 fullams
 fitout
 fitchered
@@ -5847,6 +5846,7 @@ fulcrums
 flidge
 forswears
 fitz
+flavory
 farine
 fertilisable
 fowling
