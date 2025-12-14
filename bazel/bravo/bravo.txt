@@ -4914,7 +4914,6 @@ battled
 beefalo
 beefaloes
 basketweaving
-birefringence
 bilimbis
 blackheartedly
 brig
@@ -17010,6 +17009,7 @@ braziers
 bibliothecarial
 bubblish
 banjoists
+birefringence
 bulger
 boyhood
 bacchanalism
