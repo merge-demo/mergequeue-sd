@@ -7571,6 +7571,7 @@ foreconclude
 flagonet
 figworts
 floggers
+functionality
 foggier
 fractionise
 forecourts
@@ -10111,7 +10112,6 @@ franion
 foretopman
 fructuary
 fliting
-functionality
 fluoroscopist
 federatist
 fellowheirship
