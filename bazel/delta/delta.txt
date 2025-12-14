@@ -1031,6 +1031,7 @@ dispensers
 darksum
 domineers
 danalite
+dullard
 decimeter
 dharmasutra
 darling
@@ -18023,7 +18024,6 @@ diffusiometer
 duler
 dull
 dillydallier
-dullard
 debind
 dipotassium
 detrusor
