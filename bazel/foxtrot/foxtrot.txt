@@ -2226,6 +2226,7 @@ feudee
 freshmanhood
 fikie
 fiscus
+fregit
 firebombs
 fuliguline
 foodless
@@ -5137,7 +5138,6 @@ famulli
 fragrancies
 forewords
 furler
-fregit
 farmhousey
 fraile
 flashings
