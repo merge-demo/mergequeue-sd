@@ -3028,6 +3028,7 @@ canto
 confederatism
 cortege
 colander
+contrasts
 cantonalism
 crapelike
 cantoner
@@ -23758,7 +23759,6 @@ contrastive
 conciliarly
 contrastiveness
 chemicalization
-contrasts
 contrasuggestible
 cruiskeen
 catface
