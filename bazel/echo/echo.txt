@@ -2120,6 +2120,7 @@ esophagostenosis
 eyestring
 ensorceling
 excoriation
+ecchondrotome
 explicandum
 electropult
 elation
@@ -7427,7 +7428,6 @@ extracurricular
 exercise
 elohimic
 enfile
-ecchondrotome
 effusions
 emboliform
 ephestia
