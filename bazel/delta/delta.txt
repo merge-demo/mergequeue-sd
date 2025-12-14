@@ -843,6 +843,7 @@ delignate
 danism
 disheartenment
 dreamtime
+disproved
 dartmoor
 disinterested
 despoticly
@@ -4671,7 +4672,6 @@ dumminess
 dithyrambos
 diphthongous
 dimissory
-disproved
 dapple
 dreamsiness
 disintoxicate

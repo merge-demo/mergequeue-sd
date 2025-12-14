@@ -1763,7 +1763,6 @@ adiamorphism
 adsorption
 afflicted
 actualist
-asker
 abuse
 aceacenaphthene
 anthony
@@ -13599,6 +13598,7 @@ aquafortis
 annulment
 annuloid
 autoaddress
+asker
 abura
 akaakai
 apostasis
