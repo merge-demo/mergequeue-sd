@@ -9198,7 +9198,6 @@ episcopes
 epikleses
 empannel
 epiderm
-erotylidae
 enlarges
 extremer
 etheric
@@ -14149,6 +14148,7 @@ endearment
 entrails
 epitaphic
 evensongs
+erotylidae
 extrachromosomal
 encomium
 electly
