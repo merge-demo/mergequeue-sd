@@ -562,6 +562,7 @@ fussbudgets
 fliskier
 fallen
 ferny
+furriered
 falling
 flichtering
 faradized
@@ -11709,7 +11710,6 @@ frameless
 fanfish
 fiancailles
 frowns
-furriered
 forebitter
 ferruled
 foredesign
