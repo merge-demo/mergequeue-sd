@@ -2397,7 +2397,6 @@ gadwall
 greenboard
 ganisters
 grampa
-granddaughterly
 gongoristic
 gentianal
 gilver
@@ -3997,6 +3996,7 @@ guano
 galliots
 guardage
 grassnut
+granddaughterly
 grex
 gluttonousness
 graphometrical
