@@ -403,7 +403,6 @@ geostrategy
 germinogony
 genuflexuous
 galatea
-galateas
 glucogenesis
 gelding
 glidewort
@@ -3139,6 +3138,7 @@ guffaws
 gullage
 gurglet
 geopolar
+galateas
 gatemaker
 grips
 golandaas
