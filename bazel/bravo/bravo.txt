@@ -3415,7 +3415,6 @@ biophysically
 boatshop
 bagani
 belzebuth
-bummers
 bastardry
 briny
 bastards
@@ -7476,6 +7475,7 @@ baldnesses
 bettermost
 bedeviling
 bulbar
+bummers
 bebeerine
 bifidities
 brew
