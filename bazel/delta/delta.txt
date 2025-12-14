@@ -3621,7 +3621,6 @@ degerm
 donnish
 degerminate
 doated
-degerminator
 distentions
 degerming
 degerms
@@ -8269,6 +8268,7 @@ diagnosticians
 dispopularize
 dizzy
 draped
+degerminator
 disputableness
 diagonal
 diagonalizable
