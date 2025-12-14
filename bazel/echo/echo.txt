@@ -1332,7 +1332,6 @@ ervil
 exsect
 earthiest
 embryologists
-effendis
 efferently
 efferents
 effervescency
@@ -4018,6 +4017,7 @@ enamelers
 ecstasize
 exterminated
 empiricalness
+effendis
 epibolism
 engorgement
 esquimau
