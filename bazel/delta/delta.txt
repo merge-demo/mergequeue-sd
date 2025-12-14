@@ -838,7 +838,6 @@ disembalm
 danielle
 dalbergia
 demonetizes
-demicylindrical
 delignate
 danism
 disheartenment
@@ -10989,6 +10988,7 @@ dashnak
 dimensive
 dilutor
 duodrama
+demicylindrical
 disaffinity
 dubba
 dheri
