@@ -5739,6 +5739,7 @@ depoetize
 deconsider
 depoh
 decd
+debeaker
 disserts
 dehumidify
 depolarization
@@ -8100,7 +8101,6 @@ definienda
 di
 diabetes
 diaphyses
-debeaker
 duodial
 dentex
 developpes
