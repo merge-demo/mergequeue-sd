@@ -17093,6 +17093,7 @@ coadjutors
 carduus
 coadjutorship
 carrots
+coelomate
 coadjutress
 coadjutrix
 coadminister
@@ -20711,7 +20712,6 @@ cardiagraph
 crinion
 ceramiaceae
 complicant
-coelomate
 camphanic
 complicate
 centrutra

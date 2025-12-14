@@ -9544,6 +9544,7 @@ birthright
 bugaboos
 baffeta
 births
+bioenergetics
 bracteolate
 brontephobia
 birthstool
@@ -9743,7 +9744,6 @@ bankbook
 backslapped
 bustlingly
 buildingless
-bioenergetics
 boatie
 byssoid
 buckskin
