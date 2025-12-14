@@ -4751,7 +4751,6 @@ coindicate
 carphiophiops
 carpholite
 ceiler
-calonyction
 carphology
 carpid
 cogredient
@@ -10575,6 +10574,7 @@ carburise
 choledochotomy
 convivial
 chillingly
+calonyction
 catamounts
 chilodon
 chilognathous
