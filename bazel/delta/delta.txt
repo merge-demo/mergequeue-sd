@@ -3557,7 +3557,6 @@ defunct
 descendence
 discredence
 derivably
-dawcock
 drumlin
 defunction
 deul
@@ -18380,6 +18379,7 @@ daviesia
 duodenums
 dysphagia
 denter
+dawcock
 dimorphite
 dinoflagellate
 damsons
