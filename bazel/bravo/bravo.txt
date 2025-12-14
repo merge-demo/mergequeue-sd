@@ -652,7 +652,6 @@ babua
 basos
 briars
 barren
-brioche
 bicorne
 bombo
 bungey
@@ -15501,6 +15500,7 @@ batted
 backshish
 beardlike
 berkeley
+brioche
 bargeload
 brioches
 backspier
