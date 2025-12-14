@@ -5406,6 +5406,7 @@ dentulous
 dentural
 dermatology
 diametrally
+diminutively
 diascia
 dentures
 duretto
@@ -9206,7 +9207,6 @@ damascenes
 discase
 dermomuscular
 doeling
-diminutively
 diedric
 debruising
 deuteromorphic
