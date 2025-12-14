@@ -1958,7 +1958,6 @@ etherialize
 exteriorate
 elastics
 exothermal
-eagle
 economizing
 eker
 epigastriocele
@@ -8705,6 +8704,7 @@ equivalent
 egomanias
 ensiles
 ejections
+eagle
 equivaluer
 empest
 exposited
