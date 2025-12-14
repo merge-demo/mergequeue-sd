@@ -2662,7 +2662,6 @@ assignor
 acrasias
 amygdalic
 acre
-amount
 afoam
 aquamarine
 ammochaeta
@@ -16998,6 +16997,7 @@ adorned
 americanizer
 apneumona
 agrammatical
+amount
 apneusis
 apnoea
 adiaphoretic
