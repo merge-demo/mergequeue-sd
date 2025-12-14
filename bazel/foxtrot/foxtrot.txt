@@ -2703,6 +2703,7 @@ factorization
 fouette
 fervor
 flamenco
+flux
 fashions
 fruitive
 filibusterer
@@ -9044,7 +9045,6 @@ fiendship
 feudaries
 flirtational
 flintified
-flux
 fowlfoot
 fared
 faultful
