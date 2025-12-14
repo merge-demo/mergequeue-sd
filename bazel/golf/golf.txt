@@ -7026,7 +7026,6 @@ grumpiest
 gyrovague
 griefless
 guldengroschen
-geir
 glossopode
 gallerian
 gunpowdery
@@ -8482,6 +8481,7 @@ gagman
 gunneress
 ginglymoarthrodial
 granita
+geir
 gleyde
 grivets
 glaze
