@@ -3346,7 +3346,6 @@ definitions
 dormant
 dilatant
 deliriate
-dupers
 diastem
 demitting
 desume
@@ -6959,6 +6958,7 @@ discouragedly
 disentrancement
 dysuric
 despisable
+dupers
 draggles
 dorcas
 dispatcher
