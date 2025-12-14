@@ -2632,7 +2632,6 @@ garabato
 galluot
 glisters
 genesial
-genesitic
 gymnastics
 genethliacal
 garaged
@@ -9105,6 +9104,7 @@ ganglionectomies
 girthline
 ginnery
 glutination
+genesitic
 goadster
 gyres
 gease

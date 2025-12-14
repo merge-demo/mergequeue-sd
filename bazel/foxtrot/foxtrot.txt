@@ -1597,6 +1597,7 @@ ferroaluminum
 formidability
 favosites
 fixings
+frapped
 florae
 fiddlebow
 forereaching
@@ -2368,7 +2369,6 @@ frolicky
 falsities
 favoritism
 ferforth
-frapped
 falconiformes
 fainty
 frogling
