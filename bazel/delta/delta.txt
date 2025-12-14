@@ -2191,6 +2191,7 @@ decarburise
 decarburising
 diakonika
 despiritualize
+dip
 differing
 directorship
 dissympathy
@@ -10145,7 +10146,6 @@ doodled
 dimidiated
 digestive
 dirts
-dip
 discurrent
 displease
 dismember
