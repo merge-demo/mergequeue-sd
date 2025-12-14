@@ -14469,6 +14469,7 @@ courante
 cising
 curnock
 cisjurane
+contreface
 cisleithan
 cislunar
 cismontanism
@@ -23779,7 +23780,6 @@ contrawise
 contrecoup
 contredanse
 contredanses
-contreface
 coryphees
 contrefort
 contrepartie
