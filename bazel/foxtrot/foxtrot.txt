@@ -4271,7 +4271,6 @@ fatless
 flail
 fireward
 forehead
-francophilism
 firewater
 fictionisation
 freehandedly
@@ -6715,6 +6714,7 @@ frequent
 finableness
 forecontrive
 fenner
+francophilism
 flingers
 factual
 fiestas
