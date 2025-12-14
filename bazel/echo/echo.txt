@@ -1174,7 +1174,6 @@ extratracheal
 eroded
 elenge
 entirities
-espathate
 enlute
 educationist
 eurypyga
@@ -12082,6 +12081,7 @@ excuseless
 endemisms
 excresence
 excreta
+espathate
 escheator
 endued
 engulfs
