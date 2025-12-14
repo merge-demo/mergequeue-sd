@@ -23849,7 +23849,6 @@ controvertible
 controverting
 coracine
 cullender
-counterproof
 compluvia
 craton
 contubernal
@@ -28274,6 +28273,7 @@ clitic
 cratemen
 criss
 crossbreed
+counterproof
 crater
 cachet
 crossfiring

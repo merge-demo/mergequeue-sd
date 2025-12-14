@@ -63,6 +63,7 @@ forebless
 friskily
 fading
 faster
+foilable
 fibrolite
 februaries
 fconv
@@ -10914,7 +10915,6 @@ fruitist
 forgeful
 footgrip
 fi
-foilable
 fiscalizing
 fullonian
 ferrying
