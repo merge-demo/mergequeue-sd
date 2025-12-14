@@ -793,6 +793,7 @@ batrachophobia
 benignness
 blake
 baffies
+boomkin
 benting
 bibliotist
 bangalow
@@ -12790,7 +12791,6 @@ boomingly
 beamwork
 boronatrocalcite
 betalk
-boomkin
 bondswoman
 barquest
 bootes
