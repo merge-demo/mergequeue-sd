@@ -5186,7 +5186,6 @@ gantsl
 grasslands
 gyrophoraceae
 graylags
-glazes
 gemmy
 glycan
 glyceride
@@ -9903,6 +9902,7 @@ globing
 gyrogonite
 glossarist
 glycerose
+glazes
 guanize
 gamasid
 graticulation
