@@ -210,6 +210,7 @@ foreignism
 florin
 folletage
 footstock
+foresin
 freedwoman
 ferns
 formicating
@@ -11742,7 +11743,6 @@ frights
 fathom
 foliiform
 flneur
-foresin
 fremdly
 florimanist
 followings
