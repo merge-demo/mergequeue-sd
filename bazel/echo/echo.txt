@@ -8314,7 +8314,6 @@ expressibly
 endured
 enchannel
 exercised
-emulating
 exarchate
 eagling
 epitheme
@@ -12492,6 +12491,7 @@ enomania
 escarbuncle
 esophagotomy
 eximidus
+emulating
 eximious
 ense
 etiogenic
