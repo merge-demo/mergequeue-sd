@@ -16237,7 +16237,6 @@ cantos
 canisters
 clinometrical
 calendal
-carvol
 cephalin
 chayaroot
 convector
@@ -21389,6 +21388,7 @@ corvinas
 conclusible
 conclusion
 cytherellidae
+carvol
 conclusional
 cochairmen
 conclusionally
