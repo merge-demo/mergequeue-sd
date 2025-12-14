@@ -3517,6 +3517,7 @@ addlehead
 arisaema
 addleheadedness
 addleness
+approbations
 activists
 addlepate
 angiotome
@@ -17939,7 +17940,6 @@ approbated
 anachronist
 adorner
 approbating
-approbations
 acaciin
 arghel
 approbative
