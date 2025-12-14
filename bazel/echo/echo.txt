@@ -688,6 +688,7 @@ esocyclic
 ened
 ecology
 eromania
+erring
 encephalolith
 employing
 enspell
@@ -8924,7 +8925,6 @@ echoers
 enables
 enzymatic
 expatiators
-erring
 eightvo
 epididymodeferentectomy
 erika
