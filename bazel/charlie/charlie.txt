@@ -1069,7 +1069,6 @@ colory
 chitinocalcareous
 circumcisions
 calceolaria
-coenospecifically
 cfs
 calceolate
 cowhide
@@ -3140,6 +3139,7 @@ caparisons
 capataz
 capcase
 celotomy
+coenospecifically
 craterid
 cristatella
 cape
