@@ -4627,7 +4627,6 @@ evolve
 eremiteship
 enchoric
 encyclopedias
-ekoi
 entanglers
 exuberance
 entablement
@@ -13990,6 +13989,7 @@ embryo
 emboitement
 epitoniidae
 embargoist
+ekoi
 epicoracohumeral
 exaltate
 extralimital
