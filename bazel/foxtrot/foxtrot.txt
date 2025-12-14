@@ -3197,6 +3197,7 @@ fairyland
 frosh
 fickle
 fixage
+frapler
 fruits
 fiches
 findjan
@@ -9281,7 +9282,6 @@ frangipani
 framea
 framer
 frames
-frapler
 forename
 fungologist
 fumarine
