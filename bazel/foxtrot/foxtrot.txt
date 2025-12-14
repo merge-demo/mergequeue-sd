@@ -5471,7 +5471,6 @@ fatalisms
 fley
 foxed
 flem
-farkleberry
 fluozirconic
 fernbrake
 ferreter
@@ -8622,6 +8621,7 @@ forescript
 floury
 feasant
 foredid
+farkleberry
 fir
 fittings
 ferretto
