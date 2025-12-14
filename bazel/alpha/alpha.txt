@@ -8831,7 +8831,6 @@ adolescency
 anthophore
 allobrogical
 abidance
-absorption
 atturn
 allocate
 adverse
@@ -23256,6 +23255,7 @@ attitudinised
 attitudiniser
 amphimictically
 archencephala
+absorption
 attitudinizer
 attitudinizes
 attn
