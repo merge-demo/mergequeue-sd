@@ -4437,7 +4437,6 @@ grides
 gumdigger
 ghoulishness
 gurdwara
-ganggang
 galantine
 goozle
 grammatist
@@ -8621,6 +8620,7 @@ guidwilly
 gotos
 goldanged
 gimbaling
+ganggang
 goban
 guider
 grauwacke

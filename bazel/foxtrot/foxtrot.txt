@@ -5510,7 +5510,6 @@ ferally
 fleshing
 floreate
 fettuccine
-formatters
 fleshliest
 fiddlies
 faroelite
@@ -10266,6 +10265,7 @@ frolicker
 frolicking
 frillies
 flagitiousness
+formatters
 ferricyanhydric
 frolicsome
 fishful
