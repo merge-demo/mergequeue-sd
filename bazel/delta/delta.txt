@@ -1668,7 +1668,6 @@ deammonation
 deashing
 dandle
 deanships
-dothiorella
 deanthropomorphism
 diasynthesis
 deanthropomorphization
@@ -17707,6 +17706,7 @@ duarchies
 dhauri
 dubb
 declamando
+dothiorella
 demidevil
 dilemmic
 dullhearted
