@@ -14252,7 +14252,6 @@ circumnavigates
 corollike
 circumnavigating
 circumnavigation
-clefted
 chickaree
 coelia
 circumnavigator
@@ -24649,6 +24648,7 @@ chlorpikrin
 copperhead
 constructionism
 capsuled
+clefted
 copperheadism
 canzonet
 coppering
