@@ -1668,6 +1668,7 @@ blusher
 byganging
 barchan
 buqsha
+barrace
 brilliantness
 bawdyhouse
 bagnios
@@ -3726,7 +3727,6 @@ brucella
 betrinket
 battler
 battleships
-barrace
 budgerigar
 biomathematics
 blushiness
