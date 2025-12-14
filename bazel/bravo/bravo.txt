@@ -2321,7 +2321,6 @@ barreler
 benzoperoxide
 badarrah
 bourignianism
-braggart
 barboy
 bubbletops
 bagging
@@ -7519,6 +7518,7 @@ berhymed
 burd
 bistre
 bramantesque
+braggart
 bullragged
 bleariest
 birefraction
