@@ -3474,6 +3474,7 @@ ampassy
 abodah
 alai
 autofluorescence
+adversive
 arthroclasia
 adeleidae
 adhesively
@@ -11400,7 +11401,6 @@ abody
 amps
 assigner
 approximant
-adversive
 admire
 ampul
 admonitory
