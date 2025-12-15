@@ -7190,7 +7190,6 @@ corruptest
 centrifugalize
 catawba
 clamors
-centrifugaller
 cladoceran
 centrifugate
 centrifuge
@@ -21072,6 +21071,7 @@ consociated
 conalbumin
 conamarin
 communard
+centrifugaller
 cramoisie
 cornfed
 conand

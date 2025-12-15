@@ -1064,6 +1064,7 @@ borosalicylate
 becense
 bain
 bepraisement
+benzothiofuran
 boogymen
 bullterrier
 biogenic
@@ -6465,7 +6466,6 @@ backcloth
 barangay
 biternate
 bedabbles
-benzothiofuran
 burs
 bolection
 benzoxyacetic
