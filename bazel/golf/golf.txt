@@ -5322,7 +5322,6 @@ glyoxilin
 gordunite
 glacialism
 granitical
-graveling
 geometries
 glossolalist
 glycerin
@@ -7798,6 +7797,7 @@ gipseian
 greeny
 grubworm
 gulleys
+graveling
 geologising
 glycolipine
 gargoylish
