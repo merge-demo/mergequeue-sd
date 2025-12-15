@@ -4,7 +4,6 @@ gaseliers
 greenleek
 googul
 gummous
-graph
 gunrooms
 gabber
 gabbers
@@ -1710,6 +1709,7 @@ gastrophilite
 grandly
 gazetteerish
 gordioidea
+graph
 gane
 grassquit
 gastrojejunostomy
