@@ -5030,7 +5030,6 @@ gingelis
 germanization
 genom
 ganof
-gurgoyl
 gastrelcosis
 ginger
 grisliest
@@ -7311,6 +7310,7 @@ gauffer
 graphiologist
 glutaric
 glitches
+gurgoyl
 goldsinny
 gynics
 grahams
