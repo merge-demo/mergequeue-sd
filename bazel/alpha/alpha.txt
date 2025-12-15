@@ -19920,6 +19920,7 @@ adonises
 ampoules
 alastors
 adjuration
+autoscopy
 armorials
 armoric
 arkansawyer
@@ -22366,7 +22367,6 @@ anthropolitic
 abigeus
 animableness
 antilia
-autoscopy
 accreting
 astrodome
 astrogated
