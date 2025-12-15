@@ -4584,7 +4584,6 @@ gnarred
 girder
 gil
 generalate
-goosebill
 geometrid
 grating
 grippiness
@@ -4678,6 +4677,7 @@ gasconade
 gabeler
 gummosis
 gamori
+goosebill
 gentrice
 gironny
 graphophobia
