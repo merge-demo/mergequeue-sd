@@ -970,7 +970,6 @@ ecchymotic
 expositors
 empaling
 endorsing
-excel
 enquiring
 exorbital
 earthwork
@@ -7845,6 +7844,7 @@ enterolith
 elbowed
 epigrammatizing
 endaortitis
+excel
 endonuclease
 epilimnia
 entozoan
