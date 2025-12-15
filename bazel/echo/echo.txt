@@ -605,7 +605,6 @@ evincement
 eclamptic
 efficacious
 extuberate
-epizoites
 embole
 ecstatics
 eclating
@@ -7057,6 +7056,7 @@ enunciability
 etymologer
 euphemous
 ebonising
+epizoites
 eleemosynar
 enunciated
 embowelled
