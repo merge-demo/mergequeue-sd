@@ -7677,7 +7677,6 @@ diting
 disunified
 deviations
 dusting
-deviatory
 discission
 densimetrically
 depicting
@@ -8366,6 +8365,7 @@ diastolic
 dimerizing
 dermamycosis
 deplanes
+deviatory
 dialysable
 dorobo
 deaconess
