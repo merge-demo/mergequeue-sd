@@ -7231,7 +7231,6 @@ footpad
 farfetchedness
 fatidically
 favellidia
-feodary
 flaxboard
 forepeak
 fordwine
@@ -10082,6 +10081,7 @@ firster
 foredecree
 formalise
 fearfulness
+feodary
 flightshot
 fittyfied
 fluoborite
