@@ -3063,6 +3063,7 @@ cantwise
 castigated
 canula
 canulae
+choloid
 canulas
 chthonophagy
 coistrel
@@ -30401,7 +30402,6 @@ centaurial
 crustific
 crustily
 crustose
-choloid
 coroutine
 crusts
 custard
