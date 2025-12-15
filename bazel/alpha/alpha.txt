@@ -401,7 +401,6 @@ amoved
 addressograph
 asteriscuses
 auditions
-aphidid
 acapnial
 acquitting
 afterswarming
@@ -13869,6 +13868,7 @@ anotta
 anotus
 anounou
 ambivalency
+aphidid
 affix
 anour
 asher
