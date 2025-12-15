@@ -5075,6 +5075,7 @@ chider
 carzey
 casablanca
 casalty
+catwise
 citywards
 colat
 casanova
@@ -26353,7 +26354,6 @@ cot
 cotabulate
 carya
 cotarius
-catwise
 centipedal
 commutative
 cotch
