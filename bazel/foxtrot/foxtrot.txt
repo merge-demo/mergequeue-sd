@@ -4389,6 +4389,7 @@ fishbowls
 flexive
 forky
 fisheyes
+fermenter
 forecomingness
 fistify
 funiculitis
@@ -9541,7 +9542,6 @@ fibrovasal
 fodientia
 flameless
 foveate
-fermenter
 freckle
 furnace
 fieldmouse
