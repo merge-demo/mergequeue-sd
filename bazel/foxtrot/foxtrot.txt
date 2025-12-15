@@ -3274,7 +3274,6 @@ fireburn
 fomenting
 flatware
 feelings
-ficoidal
 fiddlecome
 formalizes
 fracedinous
@@ -4306,6 +4305,7 @@ farragos
 flutemouth
 forebodement
 forbearantly
+ficoidal
 fumaryl
 fennig
 fanner
