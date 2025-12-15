@@ -1537,7 +1537,6 @@ fanfaron
 foulish
 foreshift
 foetuses
-fauterer
 foreteach
 farrow
 frundel
@@ -10041,6 +10040,7 @@ flauntily
 feasibleness
 feedman
 fantee
+fauterer
 ferriferous
 falseness
 fireblende
