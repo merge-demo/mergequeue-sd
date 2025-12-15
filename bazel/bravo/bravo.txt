@@ -3225,6 +3225,7 @@ basilateral
 bowker
 balak
 basilect
+belays
 bloodwit
 begunk
 beautifying
@@ -9563,7 +9564,6 @@ barbacoan
 bisagre
 basidium
 backlotter
-belays
 bisayan
 buccaro
 bettered
