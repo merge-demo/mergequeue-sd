@@ -9786,7 +9786,6 @@ escapade
 emittance
 exergue
 emunctories
-exprobrate
 estampage
 empiric
 enucleating
@@ -12682,6 +12681,7 @@ errantries
 eligible
 emunctory
 ecliptically
+exprobrate
 esotericist
 erie
 emparadise
