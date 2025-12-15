@@ -2659,7 +2659,6 @@ falsely
 fittonia
 frisks
 fluoridating
-fertilise
 fistular
 fylfots
 fertilizational
@@ -10374,6 +10373,7 @@ flashcube
 fletcherite
 formatting
 frontierless
+fertilise
 farmyards
 funli
 fungite
