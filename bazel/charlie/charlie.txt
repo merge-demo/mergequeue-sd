@@ -9888,6 +9888,7 @@ cresylene
 choochoo
 chemotaxy
 collocatory
+cilia
 chemotaxonomy
 chemotaxonomic
 controls
@@ -13452,7 +13453,6 @@ cartesianism
 cilery
 corsetless
 cloying
-cilia
 cloakedly
 ciliate
 ciliated

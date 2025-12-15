@@ -2356,6 +2356,7 @@ fanhouse
 feres
 floatstone
 flytings
+flitters
 fegs
 frolicky
 falsities
@@ -5815,7 +5816,6 @@ flittermouse
 fellowship
 fathmur
 fagaceous
-flitters
 frequents
 flankwise
 froggiest
