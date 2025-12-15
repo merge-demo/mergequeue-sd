@@ -7608,7 +7608,6 @@ bloodripe
 barnacle
 bacubert
 bewhisker
-biplicate
 bleater
 burele
 bywalker
@@ -12078,6 +12077,7 @@ blushingly
 berun
 bold
 buhrstone
+biplicate
 byrnies
 barrat
 beehives
