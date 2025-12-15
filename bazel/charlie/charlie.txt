@@ -5582,7 +5582,6 @@ catalexes
 catalexis
 catalin
 curule
-cauponation
 coxing
 contentful
 catalinite
@@ -26423,6 +26422,7 @@ cusparine
 crackpot
 cotised
 cotising
+cauponation
 cajuns
 candroys
 characteristics
