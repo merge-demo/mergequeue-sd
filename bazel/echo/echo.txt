@@ -10081,6 +10081,7 @@ euphausiacea
 entities
 etherealization
 earthlike
+encasserole
 extrusible
 endorses
 ethereally
@@ -12429,7 +12430,6 @@ epapillate
 elengely
 ea
 entorganism
-encasserole
 endite
 equilibrative
 escobadura
