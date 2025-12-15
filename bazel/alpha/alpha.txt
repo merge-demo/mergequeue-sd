@@ -2473,6 +2473,7 @@ aldebaran
 adiaphoral
 acnes
 amperemeter
+ammoniticone
 acnida
 arabizes
 airily
@@ -12865,7 +12866,6 @@ angiotrophic
 antiepicenter
 angiport
 autoinductive
-ammoniticone
 aeroscopically
 angle
 arenarious
