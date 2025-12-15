@@ -17947,7 +17947,6 @@ approbating
 acaciin
 arghel
 approbative
-approbativeness
 absorbents
 apprompt
 aloud
@@ -21930,6 +21929,7 @@ associatedness
 andesine
 arrack
 autolyse
+approbativeness
 autocarist
 ambagious
 aniselike
