@@ -2327,7 +2327,6 @@ furner
 fluoroscopes
 falbalas
 frillings
-fecula
 fenzelia
 feod
 firestopping
@@ -6791,6 +6790,7 @@ fass
 founding
 fitcher
 futuric
+fecula
 fold
 fantasy
 fleechment
