@@ -12681,6 +12681,7 @@ chudic
 cucumber
 charnels
 chuet
+ciudad
 chueta
 compellation
 chufas
@@ -14970,7 +14971,6 @@ citterns
 citua
 cytulae
 colormaking
-ciudad
 cosmesis
 carpetless
 carbonado
