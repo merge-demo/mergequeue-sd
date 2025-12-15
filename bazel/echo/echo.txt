@@ -11794,6 +11794,7 @@ epirot
 elusion
 ensignship
 eurymus
+earcap
 endorsingly
 exasperatedly
 eversion
@@ -13514,7 +13515,6 @@ electrocauterization
 earthshaker
 exuviated
 elbert
-earcap
 epitimesis
 epiplopexy
 error
