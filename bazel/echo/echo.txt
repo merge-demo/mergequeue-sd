@@ -537,7 +537,6 @@ exhumation
 eavesdropper
 equatorially
 excommunicatory
-encrimson
 echinomys
 entrained
 erythrene
@@ -13525,6 +13524,7 @@ eccles
 eumolpides
 externomedian
 evillest
+encrimson
 exscinds
 entailers
 earlesss
