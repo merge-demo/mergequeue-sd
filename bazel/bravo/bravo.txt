@@ -12837,7 +12837,6 @@ bkpt
 burk
 basihyoid
 barthian
-breastwise
 boong
 bourignonist
 buckplate
@@ -15429,6 +15428,7 @@ banns
 brimfullness
 brongniardite
 blazon
+breastwise
 brodeglass
 braggishly
 bilboes
