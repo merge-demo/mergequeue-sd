@@ -712,7 +712,6 @@ grapholite
 grossify
 gooranut
 grassmen
-galvanised
 germanistic
 gawn
 gladdest
@@ -2963,6 +2962,7 @@ glycol
 gaeldom
 geocyclic
 gnat
+galvanised
 gorsy
 gynaecocracies
 gunfighters
