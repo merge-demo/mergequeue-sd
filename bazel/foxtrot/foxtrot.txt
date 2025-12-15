@@ -1477,6 +1477,7 @@ friedman
 fiqh
 flamer
 foreshows
+frontate
 franklinization
 fabulate
 flytes
@@ -5769,7 +5770,6 @@ frise
 flocking
 fenmen
 flited
-frontate
 foge
 freckliness
 foehns

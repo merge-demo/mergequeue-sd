@@ -4398,6 +4398,7 @@ grylli
 grossulariaceous
 gunky
 guz
+gossameriness
 glottochronology
 ginglymostomoid
 gondi
@@ -8596,7 +8597,6 @@ gonidioid
 gravure
 gnetaceous
 gathic
-gossameriness
 gametically
 genealogical
 gestic
