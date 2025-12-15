@@ -5075,6 +5075,7 @@ fezes
 freir
 foreseers
 frsiket
+furs
 fitches
 fluorescence
 faky
@@ -7749,7 +7750,6 @@ farcically
 florian
 freeish
 falconlike
-furs
 forsaken
 flamelike
 formalizations
