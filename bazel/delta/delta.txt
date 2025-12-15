@@ -5412,7 +5412,6 @@ decoction
 delicatesse
 daffodil
 dendra
-delim
 deschampsia
 denudating
 disordained
@@ -10383,6 +10382,7 @@ diordinal
 duplet
 disgregation
 dipotassic
+delim
 disassimilate
 dioscurian
 disenfranchised
