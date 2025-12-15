@@ -5056,7 +5056,6 @@ aerophotos
 antiwhitism
 antipatheticalness
 aeroplaner
-aeroplanes
 aeroscepsy
 achromatizing
 archaeology
@@ -23244,6 +23243,7 @@ atticomastoid
 amandin
 apiculture
 attila
+aeroplanes
 alopathic
 attingency
 asked

@@ -2619,7 +2619,6 @@ decodon
 demiurges
 disfriar
 diswarrened
-decoherence
 dirndl
 drippy
 draffy
@@ -3681,6 +3680,7 @@ decimalisation
 denigrate
 dropworts
 degraduate
+decoherence
 digitinervate
 degravate
 demipike
