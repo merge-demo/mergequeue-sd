@@ -4927,7 +4927,6 @@ dragonne
 dynastic
 depositum
 demonstrations
-derotreme
 decrescence
 daktylon
 duskily
@@ -14603,6 +14602,7 @@ devs
 divort
 deconsecration
 dietarily
+derotreme
 depetalize
 desulfovibrio
 duodenectomy
