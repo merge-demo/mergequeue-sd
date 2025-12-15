@@ -1452,7 +1452,6 @@ eveck
 euxanthate
 euhemerism
 efforts
-effraction
 eighths
 etymologised
 eurythermic
@@ -5223,6 +5222,7 @@ embarcadero
 ensphere
 edginesses
 edificative
+effraction
 euchroic
 eugenicists
 exsected

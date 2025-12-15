@@ -22063,6 +22063,7 @@ canoe
 cedrium
 conformator
 conformed
+cumara
 conformer
 coercibleness
 cumbered
@@ -30968,7 +30969,6 @@ comoedia
 cheimatophobia
 cleidotomy
 cumar
-cumara
 cumarins
 cuvage
 collocal
