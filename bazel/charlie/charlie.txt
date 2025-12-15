@@ -1539,6 +1539,7 @@ callynteria
 callionymidae
 coachers
 crookkneed
+calycophoran
 clepe
 calliope
 concertos
@@ -26419,7 +26420,6 @@ cotingoid
 chancel
 cotype
 cusparine
-calycophoran
 crackpot
 cotised
 cotising
