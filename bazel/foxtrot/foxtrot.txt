@@ -3564,7 +3564,6 @@ fulgence
 filched
 flounciest
 flankard
-fellowmen
 frenchism
 fogie
 fidelity
@@ -7652,6 +7651,7 @@ forestarling
 fubby
 forefield
 factitiousness
+fellowmen
 feminineness
 flimsilyst
 flips
