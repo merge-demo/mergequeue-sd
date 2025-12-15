@@ -3165,6 +3165,7 @@ caper
 caperbush
 capercaillie
 chaulmoogric
+coroplast
 colored
 capercut
 combustibles
@@ -27527,7 +27528,6 @@ cameroon
 covent
 coventrate
 coventry
-coroplast
 creaturehood
 cover
 containable
