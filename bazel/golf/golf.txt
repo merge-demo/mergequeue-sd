@@ -867,6 +867,7 @@ ganglionitis
 grenadiers
 gilded
 gulinular
+gouramis
 garrooka
 goldfields
 gunzian
@@ -9441,7 +9442,6 @@ garbline
 glorify
 gobia
 galliot
-gouramis
 garroted
 glandulation
 gluttingly
