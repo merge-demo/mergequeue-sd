@@ -4118,6 +4118,7 @@ fornenst
 faff
 fontanel
 fersmite
+flockmaster
 fratriage
 fipples
 firca
@@ -8060,7 +8061,6 @@ fierceness
 faceup
 fructiculture
 foresteep
-flockmaster
 floriated
 feyest
 frontward
