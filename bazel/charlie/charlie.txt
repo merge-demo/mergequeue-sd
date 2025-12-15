@@ -19899,7 +19899,6 @@ commandingly
 commandingness
 commandite
 commandless
-cruentate
 cyp
 coruler
 crepidoma
@@ -23399,6 +23398,7 @@ creatureless
 contemplative
 canner
 centenaries
+cruentate
 coraciae
 contemple
 contemporaneous

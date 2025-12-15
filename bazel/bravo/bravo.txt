@@ -106,7 +106,6 @@ burlies
 biforine
 brachycephales
 babyism
-barn
 baconic
 blurrily
 babylike
@@ -1261,6 +1260,7 @@ balalaika
 birdberry
 batrachiate
 bayoneteer
+barn
 balan
 bedstead
 behindhand
