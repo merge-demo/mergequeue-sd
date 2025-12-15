@@ -13003,7 +13003,6 @@ disparity
 disruptability
 dithecous
 disbosom
-dispeed
 defy
 dispark
 declarer
@@ -16251,6 +16250,7 @@ doubter
 downcome
 dogtail
 downcoming
+dispeed
 deke
 disulfids
 desmidian
