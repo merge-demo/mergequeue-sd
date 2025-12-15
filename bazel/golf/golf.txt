@@ -5264,7 +5264,6 @@ gastriloquist
 gibbals
 gourding
 glaciologist
-genethlialogy
 goldin
 guardianships
 girouette
@@ -7943,6 +7942,7 @@ glonoin
 galleons
 glycerol
 goodyish
+genethlialogy
 gymnurinae
 gymnospermy
 glumness
