@@ -5135,6 +5135,7 @@ enoch
 electroosmotic
 euphorbiaceae
 endoenzyme
+electros
 epitrochoid
 erysiphe
 entresol
@@ -11097,7 +11098,6 @@ expiate
 eusthenopteron
 expediment
 energetical
-electros
 espies
 extraequilibrium
 esquiredom
