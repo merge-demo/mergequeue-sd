@@ -3482,6 +3482,7 @@ floorhead
 formuliser
 forpined
 formulaically
+frigidly
 fibrillation
 finnic
 fended
@@ -9958,7 +9959,6 @@ frumentum
 flanche
 frantic
 frigiddaria
-frigidly
 foundation
 forthfigured
 fusee
