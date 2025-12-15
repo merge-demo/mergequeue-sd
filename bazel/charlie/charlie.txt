@@ -5559,6 +5559,7 @@ catadioptrical
 catadioptrics
 conserved
 chantment
+collocutor
 catadrome
 chlorophaeite
 catadupe
@@ -19113,7 +19114,6 @@ collocative
 collock
 cowfish
 compartmentalizes
-collocutor
 cogitations
 collodion
 crushproof
