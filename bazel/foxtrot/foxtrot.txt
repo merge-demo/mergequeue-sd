@@ -4745,7 +4745,6 @@ fablemongering
 forestry
 flo
 fertil
-furtherest
 fiddleneck
 freethinkers
 feuillage
@@ -5003,6 +5002,7 @@ flibbertigibbety
 figbird
 foundationally
 funambule
+furtherest
 fettle
 flood
 faured
