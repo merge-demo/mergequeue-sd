@@ -2912,6 +2912,7 @@ awkwardest
 alienist
 across
 anguilliform
+aiguellette
 alvus
 allege
 ameristic
@@ -19910,7 +19911,6 @@ anaphylactogen
 armyworms
 armlessness
 armlets
-aiguellette
 aeolis
 armlike
 armlock
