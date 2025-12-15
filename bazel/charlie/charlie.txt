@@ -19934,6 +19934,7 @@ carot
 commassee
 clinkering
 cigar
+corrugated
 commata
 claustra
 commaterial
@@ -25803,7 +25804,6 @@ colophonate
 cinclidotus
 corrugant
 corrugate
-corrugated
 constriction
 cataphoric
 conciliabule
