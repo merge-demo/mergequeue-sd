@@ -1752,7 +1752,6 @@ forejudgment
 feldspathoidal
 forehent
 fashioning
-fusels
 fusobacterium
 fireworms
 featherfew
@@ -8280,6 +8279,7 @@ forgett
 faits
 feldspars
 fistulated
+fusels
 fulltime
 fructuose
 forgettably
