@@ -8371,7 +8371,6 @@ gadsman
 guisards
 gerundival
 gingerbread
-guns
 glucid
 gasterosteiform
 ginner
@@ -10833,6 +10832,7 @@ gelatinizing
 gyved
 gigunu
 guvacine
+guns
 goatland
 growing
 grammatic
