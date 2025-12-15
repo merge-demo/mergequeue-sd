@@ -4559,7 +4559,6 @@ forethinker
 foolable
 faciolingual
 fourth
-feudists
 frit
 futtocks
 forespoken
@@ -7888,6 +7887,7 @@ fustian
 frithbot
 forbear
 foreran
+feudists
 fascination
 forereach
 forereading
