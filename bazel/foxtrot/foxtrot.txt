@@ -3001,6 +3001,7 @@ flirts
 flaggelation
 forbs
 furiousness
+favorableness
 faceoff
 fossiform
 faintheartedness
@@ -8937,7 +8938,6 @@ flabellinerved
 fallency
 flneuse
 footbridge
-favorableness
 foundrous
 farhands
 flotative
