@@ -2952,7 +2952,6 @@ gallons
 glabreity
 gulley
 goads
-glumpish
 gavelkind
 growleries
 glycol
@@ -3246,6 +3245,7 @@ ghosty
 gilgul
 goldenwing
 galoot
+glumpish
 greatish
 getatability
 gally
