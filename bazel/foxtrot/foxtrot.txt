@@ -1461,6 +1461,7 @@ faubourgs
 focussing
 fistulose
 featly
+festivals
 faulds
 faultfind
 fasciculite
@@ -6166,7 +6167,6 @@ farrieries
 fabella
 fungibles
 fumigate
-festivals
 fragmentized
 finality
 flowerage

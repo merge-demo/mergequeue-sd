@@ -6083,7 +6083,6 @@ cheilotomies
 catnaper
 caddle
 catnaps
-catnep
 chilotomy
 catnip
 comical
@@ -31216,6 +31215,7 @@ cupulate
 crosslets
 cupule
 convertible
+catnep
 ceratophyte
 ceramicists
 cupules
