@@ -5435,7 +5435,6 @@ adjutrix
 anemoclastic
 attainers
 aculeus
-agenesic
 aforetimes
 adenoblast
 afortiori
@@ -13841,6 +13840,7 @@ ala
 anorthophyre
 adrenocorticotrophin
 autocratship
+agenesic
 anaxial
 augean
 avaritia
