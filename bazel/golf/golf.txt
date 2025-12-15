@@ -5775,7 +5775,6 @@ gyrolite
 geologize
 gawks
 gammons
-goldsmithery
 galloperdix
 glockenspiel
 gallopade
@@ -6612,6 +6611,7 @@ gonycampsis
 galeass
 gigolos
 graphalloy
+goldsmithery
 good
 grus
 gurglets

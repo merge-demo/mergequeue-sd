@@ -2473,6 +2473,7 @@ entozoic
 euphausiidae
 extraconstellated
 ethnobotanic
+enterogram
 enounce
 epiphytal
 emancipators
@@ -7854,7 +7855,6 @@ eireannach
 extincts
 executioner
 epihyal
-enterogram
 exogonium
 exanthema
 entogastric
