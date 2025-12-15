@@ -634,7 +634,6 @@ ebriety
 ennoble
 evilness
 exprobration
-extimulate
 epigonos
 enshrouding
 extracondensed
@@ -13593,6 +13592,7 @@ extance
 extemporally
 electropotential
 elkanah
+extimulate
 eisegesis
 exarteritis
 electropyrometer
