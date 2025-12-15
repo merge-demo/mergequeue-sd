@@ -4147,6 +4147,7 @@ fairlike
 fractionlet
 faithwise
 figments
+fermorite
 figuredly
 forthrights
 firebox
@@ -6033,7 +6034,6 @@ floreating
 folletto
 flabbiness
 fresco
-fermorite
 flightiness
 forewarmer
 fontange
