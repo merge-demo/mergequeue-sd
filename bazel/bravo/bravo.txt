@@ -7242,7 +7242,6 @@ bestowment
 burgee
 briary
 breaching
-bottlemaker
 blades
 beveled
 bestraddled
@@ -13450,6 +13449,7 @@ buscarl
 becomes
 bookshelves
 boulter
+bottlemaker
 bottstick
 botulins
 bashaw
