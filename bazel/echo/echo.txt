@@ -6713,7 +6713,6 @@ exsuperate
 expurgational
 exhilarate
 eschewers
-enthralldom
 exurb
 enormously
 enveloping
@@ -9553,6 +9552,7 @@ effulgence
 edestan
 ecphoria
 expressing
+enthralldom
 emigrated
 emptory
 expediente
