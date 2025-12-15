@@ -9522,7 +9522,6 @@ checkrein
 checkroll
 compathy
 checkrope
-cumulant
 conoy
 checkrowed
 checkrower
@@ -15470,6 +15469,7 @@ clarre
 clarseach
 corrodes
 clarsech
+cumulant
 chemotaxonomically
 clart
 clarty
