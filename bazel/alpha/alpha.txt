@@ -753,7 +753,6 @@ alpiniaceae
 abramis
 abaised
 abranchious
-apeling
 abrase
 accersitor
 aswail
@@ -1761,6 +1760,7 @@ armouring
 adelaster
 armpit
 accustomedly
+apeling
 accustomizing
 anisyl
 adiamorphism
