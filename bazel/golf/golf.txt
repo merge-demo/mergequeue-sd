@@ -7134,7 +7134,6 @@ gatter
 grottoed
 glottological
 generalia
-gonothecae
 garnett
 gifola
 gnathostomatous
@@ -8677,6 +8676,7 @@ growthless
 glycohaemia
 gladys
 gerip
+gonothecae
 grapy
 goopy
 geyser
