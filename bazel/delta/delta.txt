@@ -5148,7 +5148,6 @@ denes
 deices
 defer
 daughterlike
-deading
 dismastment
 densitometric
 deniably
@@ -9707,6 +9706,7 @@ dekametre
 disconcord
 diethylamide
 dilapidation
+deading
 dilatably
 deters
 desiderate
