@@ -6005,7 +6005,6 @@ gimbri
 gome
 glutelins
 greaten
-guerrillaship
 gluemaker
 glutinative
 gigantomachy
@@ -8266,6 +8265,7 @@ glissaded
 gladii
 graphophone
 grossulariaceae
+guerrillaship
 graphophonic
 glycoprotein
 grinderies
