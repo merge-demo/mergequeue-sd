@@ -4496,7 +4496,6 @@ expatriated
 encephalopathia
 encephalophyma
 ethynylation
-entoptoscope
 emigrationist
 encephalos
 encapsulated
@@ -13740,6 +13739,7 @@ extinguishers
 entoptically
 ectoplasm
 extipulate
+entoptoscope
 eryngoes
 enouncing
 emberizine
