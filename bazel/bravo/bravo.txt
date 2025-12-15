@@ -8594,7 +8594,6 @@ billfishes
 bradypode
 bellflower
 balkanized
-bewpers
 bhuts
 bastionary
 bearskin
@@ -10017,6 +10016,7 @@ bivocal
 bivocalized
 bombings
 buffos
+bewpers
 bivouaced
 bivouacked
 balaphon
