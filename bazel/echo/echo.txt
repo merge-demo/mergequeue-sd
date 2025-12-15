@@ -5117,7 +5117,6 @@ enteroptotic
 extrudability
 eisell
 exilic
-exorcizing
 endoderm
 eyeflap
 elegibility
@@ -11088,6 +11087,7 @@ expiring
 energized
 evocatory
 evans
+exorcizing
 expiate
 eusthenopteron
 expediment
