@@ -5304,6 +5304,7 @@ endoskeletons
 evaders
 embaphium
 ethenyl
+endosomes
 electrosurgeries
 endosmoses
 explicit
@@ -7187,7 +7188,6 @@ eyalet
 enzootics
 entophytous
 electrophilically
-endosomes
 encase
 ectomeres
 edwards
