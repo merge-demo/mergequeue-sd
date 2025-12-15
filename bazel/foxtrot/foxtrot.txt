@@ -3866,6 +3866,7 @@ focalising
 fulgurous
 feces
 frustulum
+furnariides
 flet
 fleshpots
 fesels
@@ -11380,7 +11381,6 @@ fosters
 furnaces
 ferromagneticism
 flashlamp
-furnariides
 flect
 facies
 farinaceous
