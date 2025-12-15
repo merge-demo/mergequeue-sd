@@ -6348,6 +6348,7 @@ electrotyper
 ephebe
 expenseful
 earthward
+encephala
 emulsor
 euskarian
 egested
@@ -9092,7 +9093,6 @@ erythrosis
 estang
 ecchondrosis
 eriglossa
-encephala
 erythroxylaceous
 eulogizer
 erythroxylon
