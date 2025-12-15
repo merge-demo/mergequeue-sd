@@ -4112,7 +4112,6 @@ eccentring
 empodia
 eclegm
 extracranial
-energids
 expungement
 erythrodermia
 externum
@@ -11067,6 +11066,7 @@ epicostal
 endotheliocyte
 ecologists
 epimerum
+energids
 estocada
 egressive
 euskaric
