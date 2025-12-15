@@ -7148,6 +7148,7 @@ dynamometric
 depictor
 deambulate
 desulfurs
+dovecotes
 daphnetin
 desulphur
 desulphurate
@@ -9459,7 +9460,6 @@ davidsonite
 dozener
 digeneous
 decubitus
-dovecotes
 dissert
 digenetic
 digenetica
