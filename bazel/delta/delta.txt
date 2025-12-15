@@ -1999,7 +1999,6 @@ dimble
 defaecate
 dysphasia
 dictation
-dacryocele
 decadrachma
 decadrachmae
 dumbed
@@ -16749,6 +16748,7 @@ drammocks
 descriptively
 dicey
 desalt
+dacryocele
 disauthorize
 disharmonized
 dietics
