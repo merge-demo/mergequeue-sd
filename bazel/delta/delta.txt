@@ -10564,7 +10564,6 @@ dialyzate
 demipagan
 disserviceableness
 dissuasiveness
-ddname
 derate
 doorsills
 diceratidae
@@ -16451,6 +16450,7 @@ dolichocercic
 decidement
 derivately
 defogger
+ddname
 delirate
 diachyma
 drabbler
