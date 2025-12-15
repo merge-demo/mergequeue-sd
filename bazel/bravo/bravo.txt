@@ -2541,6 +2541,7 @@ barile
 barilla
 beleaf
 barters
+bowed
 blackie
 bathofloric
 bidar
@@ -3963,7 +3964,6 @@ borborygm
 beachcombers
 beachdrops
 biliment
-bowed
 bumpiest
 bisulphate
 backstays
