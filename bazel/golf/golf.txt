@@ -7672,6 +7672,7 @@ gnathometer
 guachamaca
 germane
 geira
+guessing
 grounding
 geodynamics
 gyppery
@@ -9335,7 +9336,6 @@ groins
 grolieresque
 gruffness
 glycerole
-guessing
 goter
 goldenback
 giggles
