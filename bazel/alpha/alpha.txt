@@ -11692,7 +11692,6 @@ anaerobiotic
 anaerobium
 avanti
 anaphylactic
-angulating
 anaesthesis
 abeltree
 appearanced
@@ -12032,6 +12031,7 @@ ascribed
 armagnac
 alkylated
 anarthrosis
+angulating
 algous
 anarthrously
 anarthrousness
