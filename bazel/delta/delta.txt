@@ -3398,6 +3398,7 @@ ditremidae
 defleas
 downlinks
 deflect
+differentness
 dichotomic
 disinhuming
 darer
@@ -9587,7 +9588,6 @@ desmitis
 deuterons
 digonal
 digoneutism
-differentness
 divisi
 digoxins
 digraphically
