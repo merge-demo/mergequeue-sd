@@ -413,7 +413,6 @@ exarchies
 eburin
 exobiologists
 ec
-ecardines
 ectoethmoid
 extravagate
 eloigner
@@ -5665,6 +5664,7 @@ eppie
 extraventricular
 extras
 episcopalism
+ecardines
 emerson
 engallant
 exameter
