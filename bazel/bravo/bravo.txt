@@ -7379,7 +7379,6 @@ balaenoptera
 bocklogged
 bullidae
 bilbies
-bunker
 becumber
 brasilia
 balusters
@@ -18407,6 +18406,7 @@ bagwash
 buttonweed
 bwanas
 bombardmen
+bunker
 banned
 bloodwort
 bxs
