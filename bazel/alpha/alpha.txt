@@ -9792,7 +9792,6 @@ amperage
 amalgamization
 anaphase
 amalic
-argosine
 aircrews
 audacity
 ambery
@@ -14037,6 +14036,7 @@ antebrachial
 authorizers
 autoing
 arouses
+argosine
 aggrandized
 amouret
 antecavern
