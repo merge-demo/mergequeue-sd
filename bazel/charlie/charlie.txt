@@ -2444,7 +2444,6 @@ conemaking
 cancerogenic
 circumcentral
 cancerophobe
-cancerophobia
 celtophil
 cancerously
 coolth
@@ -3615,6 +3614,7 @@ checkle
 chrisoms
 carabidan
 carabidoid
+cancerophobia
 carabids
 cappy
 colorist

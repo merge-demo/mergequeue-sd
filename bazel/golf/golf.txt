@@ -2292,7 +2292,6 @@ glimpses
 granulocytopoiesis
 geitonogamy
 gassiness
-grossers
 gonostyle
 grange
 granulosa
@@ -8648,6 +8647,7 @@ govern
 gladiators
 gradal
 gemsbok
+grossers
 guttered
 grip
 gladdy
