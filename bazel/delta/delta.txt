@@ -9561,7 +9561,6 @@ dialogising
 digladiating
 decken
 duellos
-diglots
 desmatippus
 disenchantment
 deady
@@ -14520,6 +14519,7 @@ divinesse
 decarburised
 disjointly
 demotic
+diglots
 dodoisms
 dyadic
 divinister
