@@ -479,6 +479,7 @@ graylag
 griffons
 geelhout
 glutoid
+gumptionless
 galeorhinidae
 grouches
 galere
@@ -4266,7 +4267,6 @@ gaillard
 gynandria
 gladiators
 grovelling
-gumptionless
 gavelage
 gunsling
 gasteralgia
