@@ -6896,6 +6896,7 @@ belleek
 beggarman
 barrelhead
 beseige
+bludge
 biliverdic
 botchers
 bescutcheon
@@ -11326,7 +11327,6 @@ bestialising
 bankable
 bromegrass
 bestreak
-bludge
 belouke
 bludgeon
 bludgeons

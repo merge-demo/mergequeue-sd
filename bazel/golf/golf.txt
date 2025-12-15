@@ -974,7 +974,6 @@ gamp
 graysby
 gastrolobium
 galliferous
-gilgamesh
 grouting
 gagmen
 ganched
@@ -10638,6 +10637,7 @@ gloomiest
 ghoul
 gunpower
 gasping
+gilgamesh
 glyphography
 gentled
 gourmandise
