@@ -2177,6 +2177,7 @@ compilatory
 coleorhiza
 camphols
 contemnor
+copies
 camphorated
 camphorates
 camphory
@@ -24563,7 +24564,6 @@ cindie
 copydesk
 copier
 cerebrogalactose
-copies
 copyfitter
 chemosterilant
 comvia
