@@ -6253,6 +6253,7 @@ barndoor
 biuret
 bosporus
 blastogenesis
+boshvark
 bubas
 blatantly
 brush
@@ -8663,7 +8664,6 @@ biloculina
 braches
 bilophodont
 batistes
-boshvark
 baxterian
 brattish
 boiko
