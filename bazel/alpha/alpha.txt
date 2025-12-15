@@ -11890,7 +11890,6 @@ arrears
 anabaptism
 ankylenteron
 anamorphosis
-accurre
 acetarious
 azocochineal
 aspermatous
@@ -18470,6 +18469,7 @@ arbitrate
 aquamanile
 arbitration
 arbitrative
+accurre
 adducing
 abducing
 aclidian
