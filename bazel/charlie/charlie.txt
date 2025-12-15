@@ -1954,6 +1954,7 @@ camelus
 castalia
 camembert
 conglobated
+carbanilide
 coachwoman
 curdling
 colletic
@@ -27891,7 +27892,6 @@ crepes
 compurgation
 concreting
 crackajack
-carbanilide
 crackbrained
 carpognia
 crackbrainedness

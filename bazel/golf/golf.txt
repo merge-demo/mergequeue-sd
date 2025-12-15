@@ -1633,6 +1633,7 @@ gametogenesis
 gastralgy
 gallerygoer
 gaunted
+gnetales
 gastralgia
 gastreas
 glaucosuria
@@ -6127,7 +6128,6 @@ gigahertz
 gnessic
 gastromancy
 grogging
-gnetales
 gude
 gastrogenous
 guffy
