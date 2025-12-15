@@ -1541,7 +1541,6 @@ foulish
 foreshift
 foetuses
 fauterer
-fussy
 foreteach
 farrow
 frundel
@@ -3773,6 +3772,7 @@ flagellatory
 fiducial
 forehold
 fibrocystic
+fussy
 futilous
 foreflipper
 filmet
