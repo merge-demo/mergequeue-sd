@@ -4260,6 +4260,7 @@ forenoted
 fantastication
 flowerpecker
 fetichist
+futuro
 fortuning
 foreyard
 faba
@@ -11208,7 +11209,6 @@ foremanship
 fippence
 fasciolae
 fictil
-futuro
 frittata
 farads
 firer
