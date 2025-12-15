@@ -4170,7 +4170,6 @@ bracteal
 beastlily
 beclown
 barrow
-bradypus
 beastling
 bullswool
 beastlings
@@ -11929,6 +11928,7 @@ boggler
 bannerol
 brachium
 bogglers
+bradypus
 boggling
 bessarabian
 brinded
