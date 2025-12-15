@@ -3389,7 +3389,6 @@ capote
 cyclohexene
 crypted
 capparid
-capparis
 capped
 cappelletti
 capper
@@ -16828,6 +16827,7 @@ conred
 caravanned
 chokecherry
 cahokia
+capparis
 clubhauled
 clubhauls
 clubhouses
