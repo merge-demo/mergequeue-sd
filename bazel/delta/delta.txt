@@ -3920,6 +3920,7 @@ disherits
 demount
 decumani
 dekapode
+diacaustic
 duo
 dermopathic
 dahlsten
@@ -8133,7 +8134,6 @@ dormouse
 delineate
 domesticized
 deepener
-diacaustic
 diamminonitrate
 diapasons
 destitution

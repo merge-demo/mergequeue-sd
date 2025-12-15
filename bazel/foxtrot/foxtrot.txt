@@ -7955,7 +7955,6 @@ flammivomous
 footles
 fishhold
 fetologist
-freshing
 forslow
 frondesced
 feudatories
@@ -10674,6 +10673,7 @@ frightable
 famelessly
 facultied
 fibular
+freshing
 fruitlets
 fainting
 foxy
