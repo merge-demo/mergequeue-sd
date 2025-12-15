@@ -1018,6 +1018,7 @@ additives
 abstractest
 adequacy
 abstraction
+assiette
 apostoless
 abstractional
 abstractionist
@@ -21832,7 +21833,6 @@ advowson
 algebraical
 assiege
 auricula
-assiette
 assify
 alpen
 assign
