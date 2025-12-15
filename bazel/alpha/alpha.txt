@@ -10817,6 +10817,7 @@ acronomy
 alloantibody
 antirent
 abides
+asteroid
 apparentement
 activizing
 assized
@@ -22128,7 +22129,6 @@ adenocancroid
 acestoma
 asternata
 archmessenger
-asteroid
 asteroids
 andamanese
 arithromania
