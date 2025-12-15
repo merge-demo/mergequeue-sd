@@ -6255,7 +6255,6 @@ deploredness
 diplokaryon
 dweeble
 diplex
-debat
 doldrums
 diact
 dermatoneurosis
@@ -10096,6 +10095,7 @@ dynamogenesis
 dauphins
 demological
 dynamograph
+debat
 dauerschlaf
 dynamometamorphic
 disseverance
