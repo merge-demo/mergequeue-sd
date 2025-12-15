@@ -5617,7 +5617,6 @@ afterthrift
 apastron
 armil
 anchoritically
-absorptivity
 aphototaxis
 aftervision
 afterwale
@@ -23236,6 +23235,7 @@ androphonomania
 amphinesian
 atrabilarious
 apomecometry
+absorptivity
 auriphrygiate
 anapaganize
 atticisms
