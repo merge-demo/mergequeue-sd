@@ -394,7 +394,6 @@ elumbated
 entrenching
 extruct
 erythrinus
-espanol
 echowise
 effulges
 ebulliate
@@ -8209,6 +8208,7 @@ enrapturedly
 estreating
 eulamellibranchia
 electromagnetist
+espanol
 elephantiasic
 epipharyngeal
 esugarization
