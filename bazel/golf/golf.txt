@@ -4510,6 +4510,7 @@ glomeration
 granules
 gristles
 geophytes
+gigantize
 gallon
 guacimo
 gypsyhead
@@ -4874,7 +4875,6 @@ gunnel
 gnomonics
 gleg
 goldarn
-gigantize
 greenings
 goiterogenic
 gladfulness
