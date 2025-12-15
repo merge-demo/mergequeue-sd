@@ -5112,6 +5112,7 @@ bodymaking
 beflagging
 babery
 bentwood
+borani
 byplace
 biquadrantal
 balanites
@@ -12980,7 +12981,6 @@ boranes
 bradyteleocinesia
 baccillla
 bevomit
-borani
 borasca
 bemeet
 borassus
