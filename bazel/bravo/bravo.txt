@@ -2871,7 +2871,6 @@ bienniums
 bowle
 blindingly
 brocaded
-bullseye
 blazonries
 bracero
 bacchanalianism
@@ -5640,6 +5639,7 @@ belate
 babbittess
 belating
 belauded
+bullseye
 balt
 buccobranchial
 brocks
