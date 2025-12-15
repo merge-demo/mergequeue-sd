@@ -10733,7 +10733,6 @@ brushup
 bharata
 bossship
 bangiaceous
-boron
 birdbrained
 baldberry
 beggarism
@@ -16642,6 +16641,7 @@ baronies
 bucharest
 buchloe
 bunkoing
+boron
 burros
 bloomy
 balconette
