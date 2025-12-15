@@ -9162,6 +9162,7 @@ grammaticalness
 gazeful
 groat
 grusinian
+gibbets
 grooming
 gardant
 gradins
@@ -9835,7 +9836,6 @@ garpikes
 greasewood
 generous
 gesticulatively
-gibbets
 guayabi
 guaiac
 goitcho

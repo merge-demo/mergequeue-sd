@@ -17013,7 +17013,6 @@ confoundable
 cardiacs
 coabode
 colliquative
-cynogale
 coabound
 chibouque
 cytodieretic
@@ -25026,6 +25025,7 @@ cordons
 cords
 craftmanship
 courteously
+cynogale
 crosscourt
 costiferous
 celotex
