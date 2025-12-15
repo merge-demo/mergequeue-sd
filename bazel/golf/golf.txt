@@ -9013,6 +9013,7 @@ getable
 glenlike
 greenbelt
 guiltier
+goatland
 griffaun
 glumaceae
 geosynchronous
@@ -10833,7 +10834,6 @@ gyved
 gigunu
 guvacine
 guns
-goatland
 growing
 grammatic
 galga
