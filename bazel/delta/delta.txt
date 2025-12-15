@@ -11193,7 +11193,6 @@ depopulate
 disbars
 disbase
 dani
-disbeliefs
 diarchic
 decemjugate
 dissociating
@@ -14371,6 +14370,7 @@ dragonize
 diurnals
 diurnule
 dimensuration
+disbeliefs
 diuron
 demeaned
 dribbled
