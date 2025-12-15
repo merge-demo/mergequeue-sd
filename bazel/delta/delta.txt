@@ -5091,7 +5091,6 @@ dispone
 dissipated
 dissimulates
 disterr
-destitute
 dermatoplasm
 deperition
 ductings
@@ -18343,6 +18342,7 @@ dasi
 dinah
 dryerman
 doubleton
+destitute
 duodenate
 duodenation
 depurge
