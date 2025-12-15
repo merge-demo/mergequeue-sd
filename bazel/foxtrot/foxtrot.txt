@@ -6365,7 +6365,6 @@ fanmaker
 flagpole
 fluocerine
 felis
-fren
 funnies
 flang
 favourableness
@@ -10205,6 +10204,7 @@ froren
 froggish
 forslack
 froghood
+fren
 finn
 flunkeydom
 frailer

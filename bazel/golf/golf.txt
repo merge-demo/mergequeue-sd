@@ -7229,6 +7229,7 @@ globosite
 gymnocarpous
 gizzen
 galahad
+gambit
 gonoblastidial
 grabbler
 globulose
@@ -8749,7 +8750,6 @@ geraniaceous
 gismo
 groundenell
 grubby
-gambit
 glucosuric
 gobemouche
 garrets
