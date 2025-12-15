@@ -1013,7 +1013,6 @@ edentata
 egesting
 epinicion
 ethyls
-edentulate
 edeodynia
 edeomania
 enhamper
@@ -3954,6 +3953,7 @@ evenhand
 eophytic
 empearl
 electroretinography
+edentulate
 each
 exultancy
 esothyropexy

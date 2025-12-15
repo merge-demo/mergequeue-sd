@@ -7609,7 +7609,6 @@ gloeosporium
 goodyness
 grabhook
 gauzily
-gripsack
 gigolo
 gerenda
 garpike
@@ -10234,6 +10233,7 @@ gargles
 ganzie
 getspa
 gobet
+gripsack
 gluttei
 gitanemuk
 globalism
