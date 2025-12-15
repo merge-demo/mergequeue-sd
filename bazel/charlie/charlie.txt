@@ -8358,6 +8358,7 @@ chamacoco
 chamaebatia
 chamaecranial
 cogons
+coffees
 centry
 compinge
 corkir
@@ -18216,7 +18217,6 @@ classico
 coffeepots
 colloidize
 coffeeroom
-coffees
 counterview
 continuant
 coffeetime
