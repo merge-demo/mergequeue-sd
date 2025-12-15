@@ -8714,7 +8714,6 @@ actinopod
 amygdalopathy
 allergin
 allergists
-adsmith
 assurable
 alliaceae
 annuities
@@ -15465,6 +15464,7 @@ antimension
 archisperm
 antimere
 antimerina
+adsmith
 antimerism
 antimesia
 archetypically
