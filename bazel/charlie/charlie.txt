@@ -340,7 +340,6 @@ cradle
 cemented
 choker
 cysticercus
-cacodemon
 cacodemonia
 cowtongue
 cacodemoniac
@@ -22415,6 +22414,7 @@ conyrin
 corms
 charisma
 coniroster
+cacodemon
 conirostral
 conirostres
 cheechako
