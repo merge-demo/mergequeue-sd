@@ -888,7 +888,6 @@ gametocyst
 glycoluril
 gametocyte
 grayout
-gametogenic
 gooseflesh
 geothermic
 gueparde
@@ -2369,6 +2368,7 @@ georgette
 gelosie
 galianes
 gelotherapy
+gametogenic
 gaoloring
 ganef
 garbed
