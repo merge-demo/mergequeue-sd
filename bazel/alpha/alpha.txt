@@ -8517,7 +8517,6 @@ airplane
 alkylarylsulfonate
 anallergic
 agnate
-alkylate
 atremate
 alkylbenzenesulfonates
 alkylic
@@ -23492,6 +23491,7 @@ augite
 augitophyre
 autotomies
 absolutistic
+alkylate
 augmentable
 acopic
 argol
