@@ -5583,7 +5583,6 @@ boletes
 bouleuterion
 borons
 beknighted
-ballistite
 beknotted
 burrio
 brassicaceous
@@ -11424,6 +11423,7 @@ bluestems
 beguiles
 bigeneric
 blenched
+ballistite
 bananalander
 bivious
 barytones

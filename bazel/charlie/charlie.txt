@@ -12989,6 +12989,7 @@ cyanoderma
 catchland
 cantrap
 cyanoethylation
+crystallomagnetic
 crumbable
 cumic
 crates
@@ -29486,7 +29487,6 @@ crystallography
 concretism
 choragium
 crystalloidal
-crystallomagnetic
 cravers
 cunye
 crystallomancy
