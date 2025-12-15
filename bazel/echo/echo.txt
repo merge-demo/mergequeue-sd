@@ -1078,6 +1078,7 @@ essayish
 edifying
 ectoblastic
 egolatrous
+entombs
 edile
 estonian
 epiphyseal
@@ -6799,7 +6800,6 @@ ethnogenic
 epicranial
 erigerons
 exoticism
-entombs
 excremental
 eviscerator
 entomere
