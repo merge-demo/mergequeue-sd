@@ -961,7 +961,6 @@ azoflavine
 absorbing
 absorpt
 absorptiometer
-allegeable
 alive
 analcites
 absorptional
@@ -7935,6 +7934,7 @@ alength
 amentias
 ashcans
 activistic
+allegeable
 allomerized
 adobos
 adorningly
