@@ -4968,7 +4968,6 @@ duncedom
 dragontail
 dephosphorize
 draggled
-diamb
 demountable
 devastators
 demounts
@@ -8574,6 +8573,7 @@ diaphoretics
 denaturalise
 doozy
 diaphorite
+diamb
 decating
 declasses
 deuterovitellose
