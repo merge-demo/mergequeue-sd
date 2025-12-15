@@ -5753,6 +5753,7 @@ graveldiver
 glossemic
 gaia
 glaciometer
+giga
 gorilline
 gesundheit
 glossies
@@ -7418,7 +7419,6 @@ gregariniform
 gepeoo
 grantsmen
 galvanometers
-giga
 granduncle
 gnatproof
 geylies
