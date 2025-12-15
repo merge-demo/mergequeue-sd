@@ -5829,7 +5829,6 @@ blinking
 billowiness
 bracozzo
 bellyaching
-bizarrely
 benevolences
 bemata
 beleaps
@@ -14065,6 +14064,7 @@ blot
 babbage
 blasters
 bugged
+bizarrely
 butsudan
 brekkle
 bumbaze
