@@ -9074,6 +9074,7 @@ bonzery
 basking
 bipectinated
 biopotential
+bauno
 biopsy
 biopsic
 bailliage
@@ -13834,7 +13835,6 @@ barkentine
 blad
 biddably
 bluefishes
-bauno
 blethered
 bitbrace
 boloball
