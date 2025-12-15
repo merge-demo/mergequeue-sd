@@ -8568,7 +8568,6 @@ bo
 bunting
 bedder
 bradycardia
-billabong
 biweekly
 brumes
 barricading
@@ -15240,6 +15239,7 @@ bls
 bestrewed
 bridesmaid
 begumming
+billabong
 bridesmaids
 blunges
 bridesmen
