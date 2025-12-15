@@ -11830,7 +11830,6 @@ alypin
 analyzes
 analkalinity
 anallagmatic
-anallantoidean
 aceric
 acclimature
 amitoses
@@ -20885,6 +20884,7 @@ alecs
 asarite
 anatomizable
 ablastemic
+anallantoidean
 allergist
 amoebean
 ascare
