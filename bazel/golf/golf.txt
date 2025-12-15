@@ -791,7 +791,6 @@ guamuchil
 graf
 gambade
 gravata
-gastroenteritic
 gambang
 gastrular
 gastrohelcosis
@@ -6920,6 +6919,7 @@ gooders
 goodheartedness
 goody
 giganticide
+gastroenteritic
 geomalism
 glowers
 genealogic
