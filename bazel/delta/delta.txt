@@ -2279,6 +2279,7 @@ disceptator
 dithioglycol
 decemuiri
 derby
+degenerated
 decemviral
 deepish
 decemvirship
@@ -15117,7 +15118,6 @@ dubitatively
 dipolarization
 dogstones
 dogtie
-degenerated
 dogtooth
 diabetogenous
 delegare
