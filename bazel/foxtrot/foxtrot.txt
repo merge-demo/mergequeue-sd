@@ -1236,6 +1236,7 @@ feodatory
 frizzler
 freieslebenite
 funkias
+frizzles
 formene
 flightiest
 fiends
@@ -3872,7 +3873,6 @@ forewoman
 fieldball
 floria
 firmnesses
-frizzles
 fanglomerate
 farleu
 fimbrillate
