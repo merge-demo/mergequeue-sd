@@ -11264,7 +11264,6 @@ childe
 conservation
 chloroamine
 chloroaurate
-christianlike
 chloroaurite
 chlorobenzene
 centripetency
@@ -21182,6 +21181,7 @@ conceptiveness
 conceptual
 conceptualise
 cynthius
+christianlike
 crooning
 clachan
 chiropractors
