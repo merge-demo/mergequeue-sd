@@ -296,7 +296,6 @@ ganjas
 gynaecian
 gargoylism
 granulative
-gaminesque
 gaist
 gulpingly
 giles
@@ -5337,6 +5336,7 @@ geometries
 glossolalist
 glycerin
 gamelan
+gaminesque
 glycerite
 gigmanism
 glycerolate
