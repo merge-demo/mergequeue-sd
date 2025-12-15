@@ -4353,7 +4353,6 @@ canonicity
 cladophyll
 codeias
 caribing
-comarca
 caribous
 calculation
 calpacked
@@ -4765,6 +4764,7 @@ cogredient
 conclaves
 carping
 canceration
+comarca
 clofibrate
 carpiodes
 carpium
