@@ -2126,6 +2126,7 @@ gazabo
 guarantors
 galidia
 ganodus
+ghanian
 gormaw
 guarabu
 gazebo
@@ -9289,7 +9290,6 @@ gastrectasia
 grotesqueness
 greenhearted
 grobian
-ghanian
 gesithcund
 gravies
 gigabyte

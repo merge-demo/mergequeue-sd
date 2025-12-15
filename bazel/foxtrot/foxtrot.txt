@@ -6906,6 +6906,7 @@ farris
 febriferous
 flammeous
 fitly
+feucht
 folklike
 feasible
 fallace
@@ -8837,7 +8838,6 @@ fearable
 flexured
 friss
 familiarly
-feucht
 fluidible
 flushgate
 forespoke
