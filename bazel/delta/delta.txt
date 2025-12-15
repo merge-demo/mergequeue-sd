@@ -12211,7 +12211,6 @@ diomedea
 disbandment
 directional
 dormie
-dodoisms
 drapes
 disfranchises
 drosophilae
@@ -14525,6 +14524,7 @@ divinesse
 decarburised
 disjointly
 demotic
+dodoisms
 dyadic
 divinister
 deallocating

@@ -1912,7 +1912,6 @@ gogetting
 glommox
 gastrozooid
 glaikit
-gonadotrophic
 guauaenok
 globulet
 gunboat
@@ -3999,6 +3998,7 @@ guano
 galliots
 guardage
 grassnut
+gonadotrophic
 granddaughterly
 grex
 gluttonousness
