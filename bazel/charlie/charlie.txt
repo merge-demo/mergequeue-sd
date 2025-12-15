@@ -16888,7 +16888,6 @@ clumpish
 cinquecentism
 capitano
 clumpishness
-cohere
 clumps
 canavalin
 curst
@@ -29119,6 +29118,7 @@ crinoidea
 cachexy
 calcaneotibial
 casper
+cohere
 chicagoan
 crinoidean
 crinoids
