@@ -5784,6 +5784,7 @@ disoxygenate
 dainties
 datableness
 diaxial
+devilled
 deceit
 distalwards
 deepnesses
@@ -13901,7 +13902,6 @@ discoboli
 disdainous
 dachs
 distillmint
-devilled
 dinero
 disorganizer
 donatiaceae
