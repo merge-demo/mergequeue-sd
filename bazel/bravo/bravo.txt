@@ -1142,7 +1142,6 @@ bushwa
 baiters
 banqueter
 bridges
-blastula
 baitfish
 buffeter
 ballard
@@ -11475,6 +11474,7 @@ begged
 branchiostegan
 bathometer
 bluffs
+blastula
 behaves
 broadshare
 bromthymol
