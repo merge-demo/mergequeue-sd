@@ -3666,7 +3666,6 @@ ephemerons
 electrifies
 echelette
 exhaustivity
-egoistry
 embrittle
 enfranchised
 echinochrome
@@ -4067,6 +4066,7 @@ expulsionist
 essenism
 eutheria
 ethological
+egoistry
 encyrtidae
 ecdysis
 energetistic
