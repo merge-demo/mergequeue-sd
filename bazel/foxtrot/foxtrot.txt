@@ -6521,6 +6521,7 @@ faintish
 frenzied
 filmlands
 frills
+feasant
 falter
 facility
 ferricyanogen
@@ -8622,7 +8623,6 @@ flappiest
 farmyard
 forescript
 floury
-feasant
 foredid
 farkleberry
 fir
