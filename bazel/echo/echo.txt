@@ -1379,6 +1379,7 @@ encycl
 expungeable
 extraterrestrial
 engrailment
+engorge
 earl
 electivism
 electrodialyses
@@ -2687,7 +2688,6 @@ envoi
 eleemosynary
 etymology
 emetic
-engorge
 eleemosynarily
 elegancy
 egos
