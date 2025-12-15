@@ -5226,7 +5226,6 @@ euchroic
 eugenicists
 exsected
 enantiomeride
-extrascriptural
 escartelly
 esphresis
 euphonium
@@ -9568,6 +9567,7 @@ emulator
 enterohemorrhage
 esophagalgia
 esophagean
+extrascriptural
 equidistance
 esophagogastroscopy
 entrike
