@@ -9112,6 +9112,7 @@ allurement
 aerosat
 anemonin
 antitheologian
+antefurcae
 abdicator
 acuminating
 alluring
@@ -21106,7 +21107,6 @@ archenemies
 accomplement
 archwise
 assignee
-antefurcae
 ascones
 asconoid
 air
