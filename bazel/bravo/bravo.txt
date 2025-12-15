@@ -10012,7 +10012,6 @@ bn
 baroscopical
 bargainor
 biverb
-bevesselled
 beblear
 bedfast
 breeched
@@ -16940,6 +16939,7 @@ berceuse
 blackbeard
 benzalaniline
 borax
+bevesselled
 burdensomely
 buick
 buildings
