@@ -53,7 +53,6 @@ fruited
 finds
 foolhardihood
 foreshowing
-forcipulate
 flams
 frab
 fetwa
@@ -3702,6 +3701,7 @@ fathead
 firesider
 franchisal
 flannelboard
+forcipulate
 folder
 fillable
 frownless
