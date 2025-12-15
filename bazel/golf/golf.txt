@@ -5537,6 +5537,7 @@ grubble
 gerridae
 gloomingly
 garnishment
+geophilidae
 gentlemanship
 gadaria
 gastroparietal
@@ -5652,7 +5653,6 @@ glochid
 geranial
 gemology
 gradable
-geophilidae
 gondolet
 gymnasium
 gulfed
