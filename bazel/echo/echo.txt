@@ -2452,7 +2452,6 @@ exsecants
 educables
 expansivity
 embryopathology
-emender
 enervators
 endostylar
 escheatable
@@ -4800,6 +4799,7 @@ engrail
 epicranium
 equivocality
 encountered
+emender
 epigenesist
 endothecium
 entranceway
