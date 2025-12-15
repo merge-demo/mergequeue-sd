@@ -4519,6 +4519,7 @@ epagoge
 echinodermal
 electing
 embeggar
+eucarpic
 earthmove
 erica
 enrol
@@ -8319,7 +8320,6 @@ evangelise
 enscrolls
 eternizing
 eland
-eucarpic
 endocyemate
 epithetic
 effortlessness
