@@ -8708,6 +8708,7 @@ exposited
 evulgation
 extempore
 effs
+edam
 ektexines
 emmergoose
 entombing
@@ -9183,7 +9184,6 @@ exultance
 extrinsicate
 erbiums
 empleomania
-edam
 eroticomania
 endarterectomy
 embound
