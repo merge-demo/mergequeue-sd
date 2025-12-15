@@ -625,7 +625,6 @@ gillie
 geophysicist
 gigartina
 glide
-glutael
 gradatory
 guenepe
 guideline
@@ -3192,6 +3191,7 @@ geochronologist
 growthful
 guardiancy
 germina
+glutael
 geotechnic
 graplin
 geraniaceae
