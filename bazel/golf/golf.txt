@@ -5410,7 +5410,6 @@ gruelings
 gingal
 gammadion
 gliddery
-gloaters
 gemmary
 guiltless
 guacin
@@ -6173,6 +6172,7 @@ gnapweed
 gallification
 grammar
 generalizing
+gloaters
 gyre
 grommet
 garters
