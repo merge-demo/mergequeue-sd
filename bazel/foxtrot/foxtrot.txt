@@ -1121,7 +1121,6 @@ farsightedness
 forkedly
 faciocervical
 flatwoods
-fabricable
 foes
 formnail
 forbade
@@ -10380,6 +10379,7 @@ flusterment
 fibroplasia
 fonctionnaire
 forgivers
+fabricable
 fecundities
 fertilizable
 flote

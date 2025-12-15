@@ -1688,6 +1688,7 @@ gastroduodenostomy
 gastritis
 ganodont
 gottfried
+gurdy
 gamed
 gommier
 grusian
@@ -3747,7 +3748,6 @@ granaries
 guttur
 guayacan
 graduations
-gurdy
 glabellae
 gasterothecal
 gallein
