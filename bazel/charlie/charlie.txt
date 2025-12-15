@@ -9331,7 +9331,6 @@ catlap
 coscinodiscaceae
 chautauqua
 craniometrically
-chautauquan
 chemicobiology
 contemporariness
 cryptological
@@ -13249,6 +13248,7 @@ crass
 cyclohexanone
 cyclohexyl
 cycloheximide
+chautauquan
 chetverik
 communicants
 cataloguer
