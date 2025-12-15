@@ -7792,7 +7792,6 @@ ferroprussic
 fruitwise
 fractionize
 flyflower
-fabliau
 fogyish
 fondouk
 financial
@@ -11728,6 +11727,7 @@ fashionably
 fratority
 figurational
 futurologist
+fabliau
 fulgurata
 flows
 fluorinations
