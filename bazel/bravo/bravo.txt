@@ -10942,6 +10942,7 @@ blinkingly
 blinter
 blocky
 brassage
+baskerville
 bloodstreams
 blintzes
 blacksmiths
@@ -12747,7 +12748,6 @@ biforked
 bigaroon
 bucolic
 bullfice
-baskerville
 bookward
 bookwards
 byronite
