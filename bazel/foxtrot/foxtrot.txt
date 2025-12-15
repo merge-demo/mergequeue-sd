@@ -3234,7 +3234,6 @@ friers
 flexionless
 fuchsone
 forefend
-fatality
 flunkies
 falern
 forewarnings
@@ -5961,6 +5960,7 @@ freer
 fraudlessness
 fellowcraft
 feretories
+fatality
 floodlight
 forthinking
 fearlessly
