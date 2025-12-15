@@ -7678,7 +7678,6 @@ corkish
 clampers
 cerionidae
 cerise
-cadere
 combustively
 cerithiidae
 cerithium
@@ -8943,6 +8942,7 @@ charybdian
 crankman
 charybdis
 chestnutty
+cadere
 charicleia
 chatwood
 castigates
