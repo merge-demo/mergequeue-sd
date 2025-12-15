@@ -16789,7 +16789,6 @@ clownery
 capitative
 culicines
 clowneries
-clownheal
 coadjutrices
 clownship
 crinkle
@@ -24725,6 +24724,7 @@ coprolitic
 coprophagy
 couril
 coprophagist
+clownheal
 coprophagous
 chymified
 coprophilism
