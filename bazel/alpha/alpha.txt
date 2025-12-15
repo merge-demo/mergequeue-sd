@@ -381,6 +381,7 @@ aberrative
 acinose
 avoyer
 ambulant
+apteroid
 andesitic
 antietam
 arsenide
@@ -17536,7 +17537,6 @@ acerbest
 archipelagoes
 abeyancy
 afar
-apteroid
 apophthegmatist
 amalings
 appeasements
