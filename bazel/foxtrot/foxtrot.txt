@@ -9223,7 +9223,6 @@ fragmentist
 foundries
 faucals
 fidalgo
-forsakes
 feldspathose
 flosh
 fusing
@@ -11664,6 +11663,7 @@ foxskins
 functionalized
 fluavil
 fructiform
+forsakes
 fresne
 frwy
 fluorochrome
