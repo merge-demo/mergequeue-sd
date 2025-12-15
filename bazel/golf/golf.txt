@@ -3669,6 +3669,7 @@ guided
 goths
 groinery
 glottides
+geason
 grisaille
 galvanize
 gpm
@@ -10851,7 +10852,6 @@ guzul
 genotypical
 gasworker
 grailer
-geason
 gymnasiarch
 genesiurgic
 gastrothecal
