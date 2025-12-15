@@ -556,6 +556,7 @@ fiumara
 flagging
 ficin
 federative
+favose
 fallectomy
 forebays
 fussbudgets
@@ -10566,7 +10567,6 @@ fliping
 foughty
 fermage
 foreloper
-favose
 feudalist
 funambulation
 fruchtschiefer
