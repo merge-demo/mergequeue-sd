@@ -2198,7 +2198,6 @@ animalculist
 ashmolean
 aethereal
 antecabinet
-aphotaxis
 alleviation
 achrodextrinase
 anticentralism
@@ -2908,6 +2907,7 @@ acrosomes
 autolimnetic
 aneurysms
 anapsid
+aphotaxis
 ammoniureted
 acrux
 awkwardest
