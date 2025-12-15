@@ -528,7 +528,6 @@ dalmanites
 discocarpous
 dalmatic
 daywork
-dalt
 dawen
 dalton
 denomination
@@ -6026,6 +6025,7 @@ disillusion
 dammit
 dolesomeness
 desmotrope
+dalt
 deflates
 dicephalism
 doug
