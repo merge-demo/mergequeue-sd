@@ -7165,7 +7165,6 @@ armillaria
 alkalinizes
 alabarch
 aidmanmen
-alabaster
 atellan
 aphizog
 alabastrian
@@ -16426,6 +16425,7 @@ antoniniani
 antoninianus
 acidophil
 appointed
+alabaster
 aurei
 anaplastic
 antonomastic
