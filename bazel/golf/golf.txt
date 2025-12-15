@@ -7699,7 +7699,6 @@ glozed
 gnotobiotically
 gastropodan
 guardhouses
-gradiometric
 gaup
 gnawed
 granzita
@@ -8504,6 +8503,7 @@ geotectonically
 gravelish
 gunline
 guardian
+gradiometric
 geognostical
 gulpers
 galloping
