@@ -8300,6 +8300,7 @@ chalklike
 chalkline
 columnated
 chalkone
+chastisement
 chalkos
 chalkotheke
 chalkpit
@@ -10672,7 +10673,6 @@ chalk
 chimneyless
 counterdefender
 chimneylike
-chastisement
 chimneyman
 chimneypiece
 chimopelagic
