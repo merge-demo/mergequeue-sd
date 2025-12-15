@@ -3608,7 +3608,6 @@ earlet
 endogonidium
 embright
 entreprenant
-entombment
 epigrammatist
 endura
 euploids
@@ -11087,6 +11086,7 @@ enlisted
 electrocapillary
 evangelisation
 expiring
+entombment
 energized
 evocatory
 evans
