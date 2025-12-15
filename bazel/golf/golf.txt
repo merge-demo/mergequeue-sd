@@ -252,7 +252,6 @@ gillers
 gainage
 griselda
 greenlandic
-geologizing
 ghostlike
 gambrelled
 glamorous
@@ -6704,6 +6703,7 @@ gallflies
 grillwork
 gimlets
 geomalic
+geologizing
 gayway
 garce
 gumboils

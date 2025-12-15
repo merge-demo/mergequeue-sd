@@ -14694,7 +14694,6 @@ citharexylum
 citharist
 coprophiliac
 coesite
-cygnets
 citharoedi
 chaplets
 cholesteryl
@@ -19683,6 +19682,7 @@ combinative
 counterrotating
 combinator
 combinatory
+cygnets
 combinatorially
 combinators
 combined
