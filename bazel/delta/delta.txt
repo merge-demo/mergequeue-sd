@@ -11390,7 +11390,6 @@ discigerous
 discinct
 discing
 drisk
-disciple
 depicter
 dispress
 drawl
@@ -16349,6 +16348,7 @@ discobolus
 dismasts
 dicoelous
 daven
+disciple
 dismount
 divergently
 discinoid
