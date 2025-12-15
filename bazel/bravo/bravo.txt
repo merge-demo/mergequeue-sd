@@ -2855,7 +2855,6 @@ biform
 bashawism
 buddage
 barrage
-barnmen
 banger
 brushland
 barraging
@@ -10401,6 +10400,7 @@ bonesetting
 blandishing
 blandishments
 braggadocian
+barnmen
 ballooned
 briticism
 banner
