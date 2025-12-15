@@ -17413,7 +17413,6 @@ boppers
 bunk
 begrudged
 bipersonal
-byerite
 bushbaby
 blindest
 bestriding
@@ -18141,6 +18140,7 @@ balsamize
 biffins
 boundly
 bagel
+byerite
 boweling
 bullyboy
 boschvark
