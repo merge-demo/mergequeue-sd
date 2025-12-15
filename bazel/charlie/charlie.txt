@@ -9278,7 +9278,6 @@ chromotherapy
 chalutz
 cordite
 chaucerian
-chauchat
 calorifics
 ceratophyllaceae
 cuorin
@@ -18323,6 +18322,7 @@ cogitativity
 comparer
 curvle
 cogitator
+chauchat
 cogito
 coglorify
 cogman
