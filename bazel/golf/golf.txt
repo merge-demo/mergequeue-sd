@@ -1569,6 +1569,7 @@ gypsumed
 grana
 gentlemens
 gurglet
+gasking
 gasser
 glutelin
 gripe
@@ -10071,7 +10072,6 @@ gadflies
 gondoliers
 ginn
 gueridons
-gasking
 garnering
 gelseminine
 gongman
