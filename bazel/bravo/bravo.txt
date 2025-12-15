@@ -4464,6 +4464,7 @@ beached
 bestuur
 becomed
 bungs
+beekeepers
 becometh
 becomingness
 becoresh
@@ -4950,7 +4951,6 @@ bandy
 beek
 balkers
 bioclimatologies
-beekeepers
 beekeeping
 bedight
 bosher
