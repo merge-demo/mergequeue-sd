@@ -1705,6 +1705,7 @@ foreshape
 feased
 folic
 fumigant
+fulmarus
 forprise
 floriparous
 fibrinoalbuminous
@@ -5044,7 +5045,6 @@ fizz
 forekeel
 faithbreaker
 faconne
-fulmarus
 flapdock
 fluvialist
 familiarized

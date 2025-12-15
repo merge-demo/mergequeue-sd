@@ -5080,6 +5080,7 @@ goldweed
 glycogen
 gerefa
 grizzlers
+grammaticaster
 gandering
 gisarmes
 gassy
@@ -7877,7 +7878,6 @@ greece
 galvanometrical
 groom
 grammarless
-grammaticaster
 goff
 garlandlike
 gabbais
