@@ -5011,7 +5011,6 @@ dressmakership
 disnest
 dannie
 demurrant
-dually
 driveling
 demonstratedly
 divisibly
@@ -8731,6 +8730,7 @@ demoting
 diathermies
 downhill
 dendrophil
+dually
 dispensatrix
 demisacrilege
 diathesis
