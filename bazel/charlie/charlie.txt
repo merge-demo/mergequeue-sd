@@ -16533,7 +16533,6 @@ croupes
 chirm
 cloisterly
 cloisterlike
-carburization
 cantish
 capsules
 cloisterwise
@@ -18015,6 +18014,7 @@ cryptorchidism
 coenacted
 compromitting
 coenacts
+carburization
 coenacula
 coenaculous
 coenamored
