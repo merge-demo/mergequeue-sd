@@ -2531,7 +2531,6 @@ giggled
 groundlessness
 gremiale
 gamogeny
-gastroanastomosis
 graven
 glomeroporphyritic
 gumshield
@@ -4533,6 +4532,7 @@ gangliitis
 gorgio
 gays
 grubbers
+gastroanastomosis
 galactemia
 gawcey
 gorry
