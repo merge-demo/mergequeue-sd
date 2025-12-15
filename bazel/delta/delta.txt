@@ -12330,7 +12330,6 @@ dinos
 disgustfulness
 disgustingly
 dealated
-dishabilitate
 dishabille
 disclosures
 dinomic
@@ -16317,6 +16316,7 @@ douche
 diosmotic
 discredits
 dispeace
+dishabilitate
 downriver
 defended
 downshift
