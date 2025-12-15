@@ -1763,7 +1763,6 @@ groupoids
 gastropneumonic
 governmentish
 gootee
-gingery
 gondolas
 giaour
 guberla
@@ -2752,6 +2751,7 @@ geniture
 grenades
 geodesists
 gristmiller
+gingery
 gliadins
 guillotine
 gader
