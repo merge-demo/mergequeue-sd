@@ -806,6 +806,7 @@ circulating
 circumvent
 chesboil
 calidity
+corgis
 cahot
 cahows
 choses
@@ -15255,7 +15256,6 @@ cupmaking
 clamorousness
 corallite
 clamorsome
-corgis
 clamour
 concuss
 contune
