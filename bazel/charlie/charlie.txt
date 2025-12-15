@@ -1595,6 +1595,7 @@ cutcher
 callorhynchidae
 callosal
 chronographs
+cuniculus
 callose
 crafts
 calloses
@@ -31113,7 +31114,6 @@ cacodylate
 cunicular
 cuniculi
 camelid
-cuniculus
 crosspatches
 cuniforms
 cunila
