@@ -17181,6 +17181,7 @@ apologs
 applause
 apologue
 apologues
+antenarial
 astacidae
 apolune
 aralie
@@ -20341,7 +20342,6 @@ afley
 aeromedicine
 aseptol
 arrogate
-antenarial
 anemonal
 alonsoa
 alem

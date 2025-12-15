@@ -4958,6 +4958,7 @@ gorse
 glauberite
 glair
 glaire
+gobinism
 gerontologist
 glosses
 gigger
@@ -6322,7 +6323,6 @@ gobiid
 gobylike
 gnashed
 groaningly
-gobinism
 griece
 gymnasial
 guidsire
