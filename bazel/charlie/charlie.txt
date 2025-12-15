@@ -19349,6 +19349,7 @@ carnivoracity
 colorature
 celesta
 colorblind
+characid
 cartomancies
 colorcasting
 colorcasts
@@ -29206,7 +29207,6 @@ crip
 crippied
 canzon
 cogboat
-characid
 crippleness
 crippler
 cripples
