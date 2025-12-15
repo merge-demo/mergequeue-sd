@@ -1209,6 +1209,7 @@ guttate
 garfishes
 glasswork
 grappler
+grammatology
 glaux
 gimcrackery
 gimmicking
@@ -5371,7 +5372,6 @@ geometricist
 granulose
 generalised
 glaucus
-grammatology
 galesaur
 gloatingly
 garaging
