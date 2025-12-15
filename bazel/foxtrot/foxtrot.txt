@@ -73,6 +73,7 @@ fenchone
 feudalization
 faceharden
 flagships
+frigor
 flecken
 facellite
 felonious
@@ -7499,7 +7500,6 @@ faltered
 flatuses
 frustrater
 fluor
-frigor
 fourbagger
 fluellin
 fogou
