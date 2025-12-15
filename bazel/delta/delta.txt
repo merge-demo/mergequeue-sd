@@ -3754,6 +3754,7 @@ desmose
 demain
 dreadful
 dytiscidae
+dysphoric
 doubleword
 dehorner
 dagoes
@@ -4490,7 +4491,6 @@ dauntlessly
 duomachy
 devalorize
 developmentist
-dysphoric
 deemphasizes
 dulnesses
 dropshots

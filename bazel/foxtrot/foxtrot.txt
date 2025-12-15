@@ -2205,7 +2205,6 @@ finjan
 facilitated
 farraginous
 freyja
-fantasmagoria
 flacked
 fixe
 fogged
@@ -4309,6 +4308,7 @@ farragos
 flutemouth
 forebodement
 forbearantly
+fantasmagoria
 ficoidal
 fumaryl
 fennig
