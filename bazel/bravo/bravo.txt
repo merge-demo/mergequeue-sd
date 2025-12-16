@@ -3465,7 +3465,6 @@ ballan
 buzzsaw
 benzylic
 biscuiting
-bugeye
 bactericides
 bouncing
 breaststrokes
@@ -3635,6 +3634,7 @@ botchery
 billheads
 bioplasm
 batoon
+bugeye
 ballistocardiograph
 biconjugate
 benzylidene
