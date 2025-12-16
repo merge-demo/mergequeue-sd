@@ -11585,7 +11585,6 @@ evolutoid
 elegize
 evangelistic
 enchiridion
-eusuchian
 exonerations
 explicating
 elegious
@@ -12969,6 +12968,7 @@ expectedness
 explode
 etherous
 evanition
+eusuchian
 epicentrums
 equanimously
 expecter
