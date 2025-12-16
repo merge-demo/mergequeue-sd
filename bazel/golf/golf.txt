@@ -4313,6 +4313,7 @@ goatlike
 gigantesque
 grousing
 gumlike
+glamorizes
 granulate
 glyptotherium
 goboes
@@ -7039,7 +7040,6 @@ gentil
 glycerizine
 gumshoes
 glazier
-glamorizes
 grillade
 grindle
 gigameter
