@@ -6382,7 +6382,6 @@ embezzler
 endopod
 engineering
 electrocutes
-enlargers
 ethrogs
 ensiling
 ensilist
@@ -7724,6 +7723,7 @@ emergents
 englify
 ensure
 emendable
+enlargers
 excrementize
 estopping
 edelweisses
