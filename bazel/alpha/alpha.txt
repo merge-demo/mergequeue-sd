@@ -15835,7 +15835,6 @@ antiphons
 agiotage
 assistants
 alismataceae
-abiogenist
 alloisomeric
 anaclitic
 antiphrases
@@ -16013,6 +16012,7 @@ advisable
 arariba
 atreus
 antiradiating
+abiogenist
 ascendants
 ammi
 accessorius
