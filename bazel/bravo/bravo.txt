@@ -6596,6 +6596,7 @@ berdache
 battuta
 berdash
 booming
+beyerite
 birotation
 bromelins
 betons
@@ -9877,7 +9878,6 @@ bitter
 besee
 bitterbloom
 bittered
-beyerite
 bitterender
 ballooning
 bapt

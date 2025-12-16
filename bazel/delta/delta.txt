@@ -329,6 +329,7 @@ deckman
 desquamative
 desmidiaceae
 dribbling
+drachma
 dunkadoo
 demobs
 dipsacaceae
@@ -6780,7 +6781,6 @@ dietzeite
 desiredly
 distruster
 desirer
-drachma
 daira
 desires
 dihedrons
