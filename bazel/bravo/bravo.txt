@@ -1393,7 +1393,6 @@ bale
 babassu
 backups
 baleare
-bajonado
 battledore
 backjoint
 balearica
@@ -5649,6 +5648,7 @@ busks
 bepale
 boraciferous
 benjoin
+bajonado
 bnf
 besped
 beldams
