@@ -13733,7 +13733,6 @@ derm
 dissolutionism
 dissolvableness
 dissolvative
-dissolve
 dosadh
 daffadillies
 druxy
@@ -13882,6 +13881,7 @@ distillator
 danebrog
 distillatory
 draggiest
+dissolve
 deflagrations
 distillery
 dynamogeneses
