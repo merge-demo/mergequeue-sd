@@ -2213,6 +2213,7 @@ bourage
 barricos
 buddler
 bassoons
+bugologist
 barbarise
 barbarised
 benzazimide
@@ -14858,7 +14859,6 @@ besteaded
 basichromatin
 bekilted
 besselian
-bugologist
 bayoneted
 breakthroughs
 breakweather
