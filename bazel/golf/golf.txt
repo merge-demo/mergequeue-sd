@@ -8419,7 +8419,6 @@ ganderteeth
 gratified
 gaseous
 gratis
-gunflint
 grad
 gorsebird
 gladiolas
@@ -10598,6 +10597,7 @@ grivet
 grasset
 gunmetal
 grecoue
+gunflint
 giftedly
 gurmukhi
 goffering
