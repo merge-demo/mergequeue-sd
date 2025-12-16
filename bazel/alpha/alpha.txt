@@ -2630,6 +2630,7 @@ allocated
 auxoflore
 abutters
 acquire
+aphorismic
 antescript
 asiden
 acquisite
@@ -13016,7 +13017,6 @@ accommodable
 alfridaric
 angustura
 angwich
-aphorismic
 archly
 anhaemolytic
 agios
