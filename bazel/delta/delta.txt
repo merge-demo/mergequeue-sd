@@ -16141,6 +16141,7 @@ dousing
 dout
 desorbing
 decrypted
+deacidified
 dualist
 douziemes
 dysmeromorphic
@@ -17144,7 +17145,6 @@ drifters
 driftpins
 depositary
 damara
-deacidified
 disconcertedly
 dislocated
 defiladed
