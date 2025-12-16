@@ -3596,7 +3596,6 @@ dodecant
 diatomic
 destituting
 diatonous
-declaredness
 depredations
 dripping
 dextrogyre
@@ -5703,6 +5702,7 @@ drepanid
 demit
 deplorabilia
 dextrane
+declaredness
 deplorability
 duals
 deplorableness

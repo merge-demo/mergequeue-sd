@@ -8885,7 +8885,6 @@ explosible
 encephalomalaxis
 ergotism
 ergotizing
-erichthoid
 ewder
 ergotoxine
 ergots
@@ -13991,6 +13990,7 @@ emboitement
 epitoniidae
 embargoist
 ekoi
+erichthoid
 epicoracohumeral
 exaltate
 extralimital
