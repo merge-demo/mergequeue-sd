@@ -3095,7 +3095,6 @@ eloiner
 eloiners
 essentiate
 eburated
-ethnarchs
 erbium
 euryphage
 eloining
@@ -7665,6 +7664,7 @@ euphemiser
 electrotautomerism
 expoundable
 epideistic
+ethnarchs
 extrait
 eriocaulaceous
 effluxion
