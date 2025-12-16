@@ -17521,6 +17521,7 @@ cocao
 chaneling
 caped
 cocarde
+consolator
 chomped
 cocash
 cocause
@@ -22961,7 +22962,6 @@ consocies
 caustified
 consolations
 consolato
-consolator
 consolatory
 consolatorily
 chartophylax
