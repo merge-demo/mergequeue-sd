@@ -8469,6 +8469,7 @@ diametral
 diametric
 diamide
 diamides
+depressor
 descanter
 deesis
 dapperest
@@ -16687,7 +16688,6 @@ dacryoadenitis
 dattock
 drainpipes
 dottedness
-depressor
 destigmatize
 dabblers
 deeny
