@@ -7842,7 +7842,6 @@ cesium
 cesiums
 cespititious
 cespititous
-contrite
 cespitosely
 cespitulose
 cess
@@ -30055,6 +30054,7 @@ cabbagewood
 complicating
 cycloconium
 crout
+contrite
 cumbersomely
 croute
 chiggak
