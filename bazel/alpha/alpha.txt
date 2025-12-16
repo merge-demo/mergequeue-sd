@@ -10235,6 +10235,7 @@ asiarchate
 amebicide
 antiface
 amebid
+arabic
 attorneys
 appendaged
 abray
@@ -20582,7 +20583,6 @@ arthritis
 arthrobacterium
 arranged
 apathies
-arabic
 anallantoic
 acidulates
 arthrocleisis
