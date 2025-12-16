@@ -5164,6 +5164,7 @@ chaprassi
 caseinogen
 caseload
 caseloads
+capitano
 casemaker
 caprylene
 cackle
@@ -16890,7 +16891,6 @@ ceyssatite
 clumping
 clumpish
 cinquecentism
-capitano
 clumpishness
 clumps
 canavalin
