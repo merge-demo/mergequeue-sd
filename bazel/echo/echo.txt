@@ -5374,7 +5374,6 @@ ethylidene
 evicted
 envolupen
 endotheliomas
-explicators
 esquiline
 empyreum
 eophyte
@@ -13855,6 +13854,7 @@ extractibility
 eggcups
 earliness
 engagingness
+explicators
 euphenic
 emandibulate
 equitably

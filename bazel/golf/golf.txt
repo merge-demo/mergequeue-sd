@@ -976,7 +976,6 @@ gundi
 gouge
 greasebush
 glycogenesis
-goldhammer
 ganderess
 gamester
 grimace
@@ -1727,6 +1726,7 @@ glunch
 governail
 grandpap
 guaba
+goldhammer
 gambado
 gangwayman
 gadoids
