@@ -17735,7 +17735,6 @@ cocreating
 corojo
 cocreator
 cocreatorship
-cocreditor
 citation
 campbellism
 coct
@@ -22208,6 +22207,7 @@ coppicing
 counterreaction
 cottonopolis
 croisad
+cocreditor
 congeon
 chapaties
 congeree
