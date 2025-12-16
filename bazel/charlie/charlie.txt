@@ -10233,7 +10233,6 @@ campanulated
 columboid
 clitoritis
 chicanery
-chicaneries
 chicaners
 convallarin
 chicanes
@@ -19957,6 +19956,7 @@ caules
 commemorated
 commemorates
 commemoration
+chicaneries
 commemorative
 concavo
 commemorativeness
