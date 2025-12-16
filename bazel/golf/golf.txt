@@ -6569,7 +6569,6 @@ grandaddy
 glaziest
 gemminess
 ganowanian
-gnatty
 gleditsia
 gandoura
 goumier
@@ -8375,6 +8374,7 @@ gadolinite
 gunport
 gallivanting
 genipa
+gnatty
 galeeny
 gaucherie
 gawby
