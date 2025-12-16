@@ -4848,7 +4848,6 @@ aerobate
 aerobatic
 arsenism
 azalea
-anthropolater
 aerobia
 asamblea
 ace
@@ -7630,6 +7629,7 @@ asylum
 arrhythmical
 alchemy
 angiomata
+anthropolater
 alchemic
 antiviral
 alchemies

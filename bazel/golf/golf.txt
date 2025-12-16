@@ -358,6 +358,7 @@ galoped
 galactosis
 grimsire
 gastrodynia
+gnetaceous
 gauric
 garancin
 glovelike
@@ -8593,7 +8594,6 @@ gemel
 gossipy
 gonidioid
 gravure
-gnetaceous
 gathic
 gossameriness
 gametically
