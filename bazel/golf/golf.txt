@@ -1104,7 +1104,6 @@ gravitate
 graptolitic
 gallants
 guillotining
-gwyniad
 granet
 giddier
 gesith
@@ -10217,6 +10216,7 @@ gearwheels
 glade
 glaucium
 goalies
+gwyniad
 gladiolar
 guidwife
 groundly
