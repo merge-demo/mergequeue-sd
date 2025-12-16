@@ -4697,7 +4697,6 @@ declaration
 demiurgos
 dewaxed
 drifting
-disheveling
 ducklar
 demivambrace
 dorsicollar
@@ -11344,6 +11343,7 @@ discerning
 dingdonging
 dudaim
 dahabeeyah
+disheveling
 discerped
 discontinued
 dowset
