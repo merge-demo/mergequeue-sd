@@ -2679,7 +2679,6 @@ bestayed
 bondmaid
 barnyard
 bibenzyl
-beastings
 beblood
 butein
 batch
@@ -11680,6 +11679,7 @@ bobcats
 binmen
 buddles
 beboss
+beastings
 bardolatry
 birthmate
 bestubbled
