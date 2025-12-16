@@ -3349,6 +3349,7 @@ demitting
 desume
 desisted
 duddery
+deuterotoky
 destiny
 domesticable
 dynamometry
@@ -13569,7 +13570,6 @@ dollfish
 drynaria
 decant
 dismeasurable
-deuterotoky
 diplomacies
 dividendus
 demicritic
