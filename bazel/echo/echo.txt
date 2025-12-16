@@ -82,7 +82,6 @@ earnest
 extendable
 elelments
 excepted
-eusporangiate
 eclecticize
 ephedraceae
 electrophysicist
@@ -12388,6 +12387,7 @@ euphemia
 eelbob
 exhaustive
 eryon
+eusporangiate
 essencing
 electrolyze
 eucleidae
