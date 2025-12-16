@@ -9241,7 +9241,6 @@ drosophilidae
 debarkation
 disilluded
 discolour
-decorament
 dollface
 divined
 disinsectization
@@ -12836,6 +12835,7 @@ doughfoots
 deafish
 dualistically
 dysmenorrheal
+decorament
 dominative
 diameter
 dhanvantari
