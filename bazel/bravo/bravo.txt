@@ -6031,6 +6031,7 @@ bole
 bemocking
 bibliological
 brahmanical
+bulgarian
 bort
 bablah
 bloated
@@ -12342,7 +12343,6 @@ brickwall
 beget
 bluishness
 bedizening
-bulgarian
 bergeres
 beele
 boonk
