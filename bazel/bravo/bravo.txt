@@ -13005,7 +13005,6 @@ balneae
 borofluoric
 bedrop
 braggartry
-bulder
 bordroom
 botchier
 borinqueno
@@ -14932,6 +14931,7 @@ breathes
 boarstaff
 bookishly
 breathingly
+bulder
 bruteness
 bepaper
 breathless
