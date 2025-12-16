@@ -242,6 +242,7 @@ fringy
 functionaries
 fulimart
 frostbound
+foretopsail
 falutin
 fritterer
 facultize
@@ -8761,7 +8762,6 @@ fiddlers
 forwardal
 fermentability
 fadable
-foretopsail
 forethought
 forum
 frenzic
