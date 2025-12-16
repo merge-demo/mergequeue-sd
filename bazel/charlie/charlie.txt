@@ -8187,7 +8187,6 @@ chaitra
 cheekpiece
 chakavski
 classics
-cymbling
 callower
 chakobu
 chakram
@@ -25528,6 +25527,7 @@ chaise
 crutchlike
 cordeliere
 coronets
+cymbling
 coronetted
 crushability
 coronettee
