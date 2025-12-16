@@ -2706,7 +2706,6 @@ chokestrap
 clingfish
 canker
 cankerberry
-cankerbird
 chaperone
 carriable
 cankereat
@@ -10635,6 +10634,7 @@ conchospiral
 cuts
 claustrophobe
 cryptesthetic
+cankerbird
 conenchyma
 conglomerated
 comfortably

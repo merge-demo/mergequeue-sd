@@ -968,7 +968,6 @@ galliferous
 grouting
 gagmen
 ganched
-gonotokont
 granddads
 gundi
 gouge
@@ -10482,6 +10481,7 @@ gentleheartedly
 gundalow
 gyrosyn
 greetings
+gonotokont
 grakle
 gummatous
 grandsirs
