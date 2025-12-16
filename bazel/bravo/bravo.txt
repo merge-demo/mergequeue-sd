@@ -3755,7 +3755,6 @@ bielded
 barasingha
 blackening
 basialveolar
-begger
 bobflies
 bilobular
 battute
@@ -10373,6 +10372,7 @@ bagdi
 bootholder
 bradyauxetically
 blandation
+begger
 balsamo
 blackmails
 barodynamics

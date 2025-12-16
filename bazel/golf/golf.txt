@@ -2028,6 +2028,7 @@ giggly
 gel
 gases
 gaveled
+grecian
 groundswells
 gibbosities
 gnomologic
@@ -8519,7 +8520,6 @@ ganglioblast
 gyrophoric
 gulden
 gyromitra
-grecian
 gressorious
 glycin
 geisha
