@@ -286,7 +286,6 @@ foreshortening
 ford
 febrifacient
 footpounds
-flagarie
 fissle
 foxfire
 fledges
@@ -10705,6 +10704,7 @@ fantasizes
 figent
 fitfully
 flary
+flagarie
 fleckered
 faradays
 fartlek
