@@ -1121,6 +1121,7 @@ calciobiotite
 calcioferrite
 ceratobranchial
 calcioscheelite
+cutlassfishes
 calciovolborthite
 calciphylactic
 calciphylaxis
@@ -31845,7 +31846,6 @@ cutiterebra
 controverse
 coloss
 congealed
-cutlassfishes
 confusive
 cutleriaceous
 cutleries
