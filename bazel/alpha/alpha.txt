@@ -17925,6 +17925,7 @@ apprisers
 apprising
 arachnid
 antioxidizing
+assayable
 arteriophlebotomy
 antimeric
 atopy
@@ -20882,7 +20883,6 @@ asaphia
 azotized
 acetophenetide
 aseity
-assayable
 aerosinusitis
 asaphidae
 ascosporic
