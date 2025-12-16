@@ -2541,7 +2541,6 @@ essaying
 elysian
 electropathy
 electropathology
-electrophysiological
 eunectes
 electrocutioner
 ebulus
@@ -11900,6 +11899,7 @@ encolure
 entomologise
 etheneldeli
 ennui
+electrophysiological
 enunciatively
 epimenidean
 eucalyptic
