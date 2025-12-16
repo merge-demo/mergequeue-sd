@@ -744,7 +744,6 @@ beadsman
 bechatter
 boric
 badinages
-baalim
 beblotch
 bearcoot
 bumboatmen
@@ -11439,6 +11438,7 @@ bravos
 bundlers
 bandsmen
 basophilia
+baalim
 begemming
 bedoctor
 bootlegs
