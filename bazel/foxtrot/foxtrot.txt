@@ -4866,6 +4866,7 @@ flivvers
 funambulating
 falsism
 falsifiers
+futureless
 foothook
 foreacquaint
 formfitting
@@ -9972,7 +9973,6 @@ friendships
 feloniousness
 frigoric
 foun
-futureless
 fed
 feracity
 firelike
