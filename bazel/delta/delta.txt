@@ -4635,7 +4635,6 @@ douzaines
 dereliction
 demipectinate
 denarius
-diswench
 demiscible
 dicebox
 denticulate
@@ -7102,6 +7101,7 @@ diagnostic
 dicoccous
 destructions
 discouple
+diswench
 duroquinone
 destructivity
 dabbing
