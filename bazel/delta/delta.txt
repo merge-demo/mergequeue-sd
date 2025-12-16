@@ -6921,6 +6921,7 @@ deoxidise
 despatching
 despecialization
 disembarrassed
+disintegrator
 dispute
 domineer
 despecialize
@@ -12574,7 +12575,6 @@ denotation
 dromedaries
 diamantoid
 denominators
-disintegrator
 deifications
 disintegrators
 dextrer
