@@ -2574,7 +2574,6 @@ galenites
 gaiterless
 giveaways
 graywall
-guv
 gauchely
 gabbards
 goosefish
@@ -3232,6 +3231,7 @@ gloppen
 grammies
 gebur
 galoping
+guv
 giron
 gluttons
 girtonian
