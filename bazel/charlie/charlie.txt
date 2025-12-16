@@ -10064,6 +10064,7 @@ cerias
 chest
 cameralistic
 curing
+cushie
 chesterfield
 chesterfieldian
 copulatively
@@ -23141,7 +23142,6 @@ coxodynia
 constitutionalism
 cabalistic
 constitutionalist
-cushie
 constitutionalization
 constitutionalize
 constitutionally
