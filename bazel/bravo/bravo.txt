@@ -3328,7 +3328,6 @@ batikuling
 basketware
 bluecoat
 basketwoman
-batocrinus
 beal
 bromargyrite
 basketwork
@@ -16009,6 +16008,7 @@ bespectacled
 brindle
 barythymia
 basifiers
+batocrinus
 boubous
 brisance
 brahmanaspati
