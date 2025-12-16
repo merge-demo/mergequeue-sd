@@ -7926,7 +7926,6 @@ epimandibular
 enthrone
 epimanikia
 eolopile
-equivocatory
 estragol
 ensilation
 expounds
@@ -13015,6 +13014,7 @@ exotropism
 elopement
 epopee
 endochondral
+equivocatory
 espiegle
 embryonal
 ezba
