@@ -4554,6 +4554,7 @@ famble
 fairyfolk
 filibranchia
 fishgigs
+fellowman
 fatiguing
 fissuring
 flagellation
@@ -6016,7 +6017,6 @@ flacon
 foo
 fidiculae
 ferroelectrically
-fellowman
 fibrinoplastin
 forthrightness
 fiducinales
