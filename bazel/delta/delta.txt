@@ -317,6 +317,7 @@ daybed
 devchar
 disembowelment
 dollfaced
+dovyalis
 daybill
 diaconus
 downcomer
@@ -540,7 +541,6 @@ damaged
 detort
 damageous
 deaccessions
-dovyalis
 deliber
 dao
 damagers
