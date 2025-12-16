@@ -1198,6 +1198,7 @@ griot
 gradations
 globular
 guttate
+geloscopy
 garfishes
 glasswork
 grappler
@@ -8162,7 +8163,6 @@ gemmiparous
 grapeless
 gumlah
 guillem
-geloscopy
 geotaxy
 groomsmen
 grapeflower
