@@ -2803,7 +2803,6 @@ cannonading
 cannonarchy
 coprophyte
 cannonballed
-commercialistic
 conglutination
 cannoneer
 capitella
@@ -17473,6 +17472,7 @@ campanist
 citronella
 chloralose
 chapping
+commercialistic
 coblentzian
 cobloaf
 cobola
