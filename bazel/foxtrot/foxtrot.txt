@@ -6373,6 +6373,7 @@ fierasfer
 fluorane
 francois
 florentium
+fastland
 fishtailing
 fluorboric
 frugiferousness
@@ -11113,7 +11114,6 @@ fervanite
 foyaite
 fundamentalists
 flatbread
-fastland
 formality
 firecrackers
 fins
