@@ -3335,6 +3335,7 @@ definish
 decolored
 decapitalization
 definite
+deckel
 definitely
 distrait
 definiteness
@@ -16874,7 +16875,6 @@ disturnpike
 drawspring
 dispersible
 divergingly
-deckel
 debasers
 derrick
 demicaponier
