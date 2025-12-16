@@ -7836,7 +7836,6 @@ divesting
 diprotodon
 divertise
 donnered
-duomos
 dadap
 dukery
 disproving
@@ -15482,6 +15481,7 @@ donat
 donatee
 dentilation
 durra
+duomos
 donation
 dentiloguy
 daymen
