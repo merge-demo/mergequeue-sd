@@ -6704,7 +6704,6 @@ etherate
 elodeas
 enthelminthic
 exungulate
-effume
 ectosomal
 extratarsal
 esthesioneurosis
@@ -9949,6 +9948,7 @@ erythromelalgia
 extincting
 endowers
 entonement
+effume
 elodea
 entreatment
 esurient
