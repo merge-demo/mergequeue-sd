@@ -461,6 +461,7 @@ fainant
 frogtongue
 fluate
 fawningly
+flatfooted
 frigatoon
 fistical
 fundulus
@@ -8682,7 +8683,6 @@ ferroprint
 forth
 frolicful
 freesia
-flatfooted
 flaunters
 funiculate
 furicane
