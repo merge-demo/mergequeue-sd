@@ -8089,6 +8089,7 @@ epiural
 extracalicular
 exradius
 epididymite
+enteradenography
 earaches
 enew
 exhumator
@@ -11804,7 +11805,6 @@ engrid
 ewerer
 experimented
 empocket
-enteradenography
 erraticness
 exasperatingly
 exauctorate
