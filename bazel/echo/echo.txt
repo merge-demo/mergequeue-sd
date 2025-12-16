@@ -5688,6 +5688,7 @@ engenders
 extravagantes
 electrorefining
 ergotaminine
+escheatage
 engild
 engilding
 empirism
@@ -13957,7 +13958,6 @@ expressless
 epimer
 endokaryogamy
 enface
-escheatage
 extraparochial
 equicurve
 ectophytic
