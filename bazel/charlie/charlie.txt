@@ -3569,6 +3569,7 @@ captivates
 captivatingly
 clowre
 classier
+commute
 captive
 caucus
 calvarias
@@ -20320,7 +20321,6 @@ commutatively
 carpogone
 commutativity
 commutator
-commute
 commuted
 cacography
 condolement
