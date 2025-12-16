@@ -7697,7 +7697,6 @@ auburns
 amassed
 antepyretic
 ambigenous
-abelicea
 adaw
 alcoholize
 alcoholmeter
@@ -23796,6 +23795,7 @@ aspermia
 auster
 attirer
 autohemolysis
+abelicea
 atheistic
 antimallein
 austereness
