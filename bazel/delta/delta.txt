@@ -2487,7 +2487,6 @@ decitizenize
 decivilize
 dissolutional
 dateline
-deckel
 deporte
 debased
 ditchdown
@@ -16875,6 +16874,7 @@ disturnpike
 drawspring
 dispersible
 divergingly
+deckel
 debasers
 derrick
 demicaponier
