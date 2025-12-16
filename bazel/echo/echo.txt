@@ -3263,6 +3263,7 @@ explanatoriness
 equipaga
 enweaving
 embassade
+elkhorn
 emanatist
 epical
 emanativ
@@ -8422,7 +8423,6 @@ eponymus
 ensand
 email
 epicier
-elkhorn
 eroticomaniacal
 epopoeias
 eveweed
