@@ -8381,6 +8381,7 @@ foundations
 foliage
 fossilological
 forlain
+factish
 fatten
 fetted
 flanning
@@ -11369,7 +11370,6 @@ frothless
 foreprovision
 footways
 foister
-factish
 focalizing
 fluorindin
 fibropolypus
