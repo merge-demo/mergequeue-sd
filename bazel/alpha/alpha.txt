@@ -13936,7 +13936,6 @@ anglice
 answered
 answerers
 answeringly
-amish
 abstrusely
 appeach
 ant
@@ -18725,6 +18724,7 @@ applaud
 antiquist
 archbuilder
 archchemic
+amish
 antiopelmous
 archchronicler
 asteroxylaceae
