@@ -5400,7 +5400,6 @@ affriended
 applying
 aggrandizable
 affrightful
-affydavy
 acid
 affrightment
 affronted
@@ -21152,6 +21151,7 @@ arborary
 ampery
 annexal
 ase
+affydavy
 asearch
 alhet
 asecretory
