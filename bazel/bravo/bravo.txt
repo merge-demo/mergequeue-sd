@@ -4745,7 +4745,6 @@ benitoite
 butcherliness
 badmash
 bangs
-bedlams
 boliviano
 bienseance
 bedlar
@@ -9146,6 +9145,7 @@ branchial
 balsamation
 bubbybush
 buckone
+bedlams
 barotropy
 banderlog
 behalf
