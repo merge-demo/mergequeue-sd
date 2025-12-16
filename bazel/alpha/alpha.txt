@@ -1451,6 +1451,7 @@ accite
 acclaimable
 almaciga
 amblyope
+almightily
 atocha
 anagignoskomena
 acclaimer
@@ -16491,7 +16492,6 @@ abietinic
 almacantar
 anusvara
 apulmonic
-almightily
 autolysin
 armoire
 aeron
