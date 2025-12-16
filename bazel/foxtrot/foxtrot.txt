@@ -5319,7 +5319,6 @@ fatwood
 fretters
 french
 flain
-fernwort
 fulyie
 facient
 fucaceous
@@ -10960,6 +10959,7 @@ freebooter
 fulzie
 favositidae
 flagellar
+fernwort
 fourball
 floodless
 flubdub

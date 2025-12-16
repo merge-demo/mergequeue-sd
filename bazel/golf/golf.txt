@@ -1417,7 +1417,6 @@ geneva
 glazen
 gallinazo
 gnamma
-gothicism
 grapenuts
 golfs
 gemologists
@@ -2823,6 +2822,7 @@ gossan
 gybing
 grenadines
 goosehouse
+gothicism
 gnathoplasty
 gallates
 galactophlysis
