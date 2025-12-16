@@ -3572,7 +3572,6 @@ fencelet
 faradises
 foremention
 flymen
-flenches
 freedstool
 forgetable
 fractabling
@@ -6609,6 +6608,7 @@ flammulation
 firework
 frocks
 folktale
+flenches
 floriculturally
 fullness
 fertilized
