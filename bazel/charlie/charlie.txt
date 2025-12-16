@@ -4994,7 +4994,6 @@ cartoner
 cartonful
 covinously
 crimmers
-carpitis
 cartons
 cartoonist
 chrysomonadina
@@ -29279,6 +29278,7 @@ cryptococci
 caulophylline
 clout
 cicoree
+carpitis
 cryptococcosis
 chinband
 credent
