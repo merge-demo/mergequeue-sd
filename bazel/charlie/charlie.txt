@@ -4444,7 +4444,6 @@ concettist
 caryopilite
 courthouses
 caripuna
-cariri
 caririan
 commoner
 choke
@@ -6057,6 +6056,7 @@ continuos
 cyclicity
 catiline
 cating
+cariri
 cativo
 cheapo
 chumpa
