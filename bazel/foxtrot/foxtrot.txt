@@ -5722,7 +5722,6 @@ flyproof
 flush
 flavins
 flirt
-fixatif
 footed
 flirtatiously
 flosculariidae
@@ -6817,6 +6816,7 @@ foredoomed
 fleshhook
 fervescent
 flyers
+fixatif
 forseeable
 fluidics
 foreshadowing
