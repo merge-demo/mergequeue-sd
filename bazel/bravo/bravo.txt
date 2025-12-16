@@ -1476,7 +1476,6 @@ balking
 budgy
 brawlier
 backbiter
-boyarisms
 blighter
 bodaciously
 bugwort
@@ -10825,6 +10824,7 @@ brutalities
 bronteum
 blets
 bonhomme
+boyarisms
 bonism
 blew
 bodilessness
