@@ -493,7 +493,6 @@ ecesic
 ectropometer
 epistroma
 ecgonin
-ecgonine
 evenhandedness
 echappe
 examinator
@@ -7673,6 +7672,7 @@ epidemically
 exalt
 escurialize
 evidentiary
+ecgonine
 erythrine
 enfevered
 epidemiography
