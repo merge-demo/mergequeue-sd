@@ -7773,7 +7773,6 @@ bacchae
 brooch
 bill
 bhutanese
-bant
 bimilllennia
 bagpipes
 babuism
@@ -17145,6 +17144,7 @@ bullyism
 bintangor
 bombe
 brushmaking
+bant
 bullion
 balkanization
 bullyrag
