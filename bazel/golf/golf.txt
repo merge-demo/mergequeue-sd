@@ -3349,7 +3349,6 @@ gasogen
 gloats
 groovelike
 germifuge
-goog
 gaudeamuses
 giftie
 guan
@@ -10431,6 +10430,7 @@ graciousness
 glyptological
 greenstuff
 gyracanthus
+goog
 gourdhead
 gambreled
 granitelike
