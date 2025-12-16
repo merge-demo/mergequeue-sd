@@ -385,7 +385,6 @@ beri
 ballium
 broguish
 butterball
-bermudite
 bewailed
 bladderpod
 bathinette
@@ -15681,6 +15680,7 @@ biaxially
 bardee
 brocatelle
 beowulf
+bermudite
 brocatello
 brocatels
 blaubok
