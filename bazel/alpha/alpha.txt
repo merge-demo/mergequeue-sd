@@ -2770,7 +2770,6 @@ amontillado
 acrobatical
 acrobatism
 actinotherapeutic
-alveolites
 arloup
 ascidioidea
 acrobryous
@@ -4466,6 +4465,7 @@ adure
 andia
 allergia
 atropinization
+alveolites
 acetylacetone
 aconitin
 antipuritan
