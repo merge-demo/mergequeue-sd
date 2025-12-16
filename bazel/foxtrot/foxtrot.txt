@@ -5983,7 +5983,6 @@ filleter
 fanwright
 ferguson
 favism
-firkin
 fawn
 footscald
 floodwood
@@ -7802,6 +7801,7 @@ faint
 fraenum
 fittingly
 forgathering
+firkin
 finning
 fluorescein
 ferrotyped
