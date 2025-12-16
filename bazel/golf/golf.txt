@@ -10435,6 +10435,7 @@ gourdhead
 gambreled
 granitelike
 geejee
+gelds
 glareworm
 graduality
 gnotobiotic
@@ -10610,7 +10611,6 @@ grilly
 gymnogene
 geologic
 gribble
-gelds
 greaser
 grandisonian
 gowany
