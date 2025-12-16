@@ -2451,7 +2451,6 @@ gimels
 grillage
 gemmulation
 graniferous
-gotched
 glycohemia
 ghoulish
 gastraeum
@@ -4008,6 +4007,7 @@ gunlaying
 garrotted
 gynostemiumia
 gremial
+gotched
 geometroidea
 guesstimating
 ginnle
