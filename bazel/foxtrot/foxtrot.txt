@@ -1032,6 +1032,7 @@ fretful
 federalese
 filicornia
 flatboats
+fantaseid
 finalists
 farinometer
 facebar
@@ -6645,7 +6646,6 @@ focussed
 forams
 fetlocked
 fecche
-fantaseid
 fetlow
 flacianism
 foder
