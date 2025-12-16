@@ -1801,7 +1801,6 @@ folkmots
 flak
 flaithship
 fluxed
-forging
 fanfarade
 flyspecks
 fiddler
@@ -9414,6 +9413,7 @@ flagpoles
 furacana
 flammed
 faciendum
+forging
 franz
 felidae
 foliiferous
