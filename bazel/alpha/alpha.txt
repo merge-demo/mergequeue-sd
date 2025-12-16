@@ -5747,6 +5747,7 @@ avoucher
 agrostographies
 augusta
 aminoacetone
+alethopteroid
 ambrosia
 amentiferous
 arteriostrepsis
@@ -7971,7 +7972,6 @@ amelioratory
 afterword
 acritical
 amatungula
-alethopteroid
 archidium
 acacatechol
 alethoscope
