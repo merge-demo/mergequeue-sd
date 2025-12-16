@@ -7809,7 +7809,6 @@ antigalactic
 aldol
 assured
 afterfall
-apaestically
 accidentarily
 antimatrimonial
 adipescent
@@ -17980,6 +17979,7 @@ approvance
 absolutes
 arsyl
 approvedly
+apaestically
 antiempirical
 anisodactyle
 allodialism
