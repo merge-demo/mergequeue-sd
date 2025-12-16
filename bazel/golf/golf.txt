@@ -412,7 +412,6 @@ gelder
 gneu
 gymnogynous
 gymmal
-gabion
 greatened
 greatcoated
 gegger
@@ -5948,6 +5947,7 @@ gimballed
 garrison
 gemitorial
 globuliform
+gabion
 gaylussacia
 geonyctinastic
 germy
