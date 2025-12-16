@@ -6732,7 +6732,6 @@ fossildom
 felted
 fogless
 frounced
-fogo
 frescoists
 fighters
 feast
@@ -9707,6 +9706,7 @@ fremd
 frenchly
 fafaronade
 fissionability
+fogo
 festinate
 floatable
 footmanry
