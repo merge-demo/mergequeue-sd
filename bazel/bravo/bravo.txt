@@ -6656,7 +6656,6 @@ baseheartedness
 bagass
 bergman
 bergs
-borborus
 bordar
 boneshave
 bodegon
@@ -16926,6 +16925,7 @@ buglosses
 bugong
 burrah
 balloonlike
+borborus
 bugout
 bugs
 bugweed
