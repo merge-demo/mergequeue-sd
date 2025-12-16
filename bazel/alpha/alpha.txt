@@ -738,7 +738,6 @@ aptote
 animine
 antivaccination
 abrade
-angaralite
 accourt
 aphid
 abdominohysterectomy
@@ -11488,6 +11487,7 @@ acaulose
 arteriolar
 adenophore
 appetites
+angaralite
 algoristic
 alderman
 astely
