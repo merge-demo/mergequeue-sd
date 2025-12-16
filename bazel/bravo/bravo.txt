@@ -7875,7 +7875,6 @@ bels
 benamed
 biblicality
 biblicism
-biblicopsychological
 biblike
 bombs
 bibliofilm
@@ -16710,6 +16709,7 @@ blinders
 bucksaw
 bedfoot
 bariatrics
+biblicopsychological
 bucktooth
 bronchovesicular
 bucktoothed
