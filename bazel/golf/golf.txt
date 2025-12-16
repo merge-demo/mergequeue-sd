@@ -8274,6 +8274,7 @@ graping
 grappa
 grandaunts
 gruff
+grothine
 gentians
 grapples
 grappling
@@ -9403,7 +9404,6 @@ gabriel
 grizzled
 genocide
 genesis
-grothine
 gazetteers
 greenleaf
 grothite
