@@ -7707,7 +7707,6 @@ erechtheus
 electropolish
 eonisms
 electronervous
-ean
 ethnolinguistic
 eftsoon
 endrins
@@ -11354,6 +11353,7 @@ eupnoeic
 enervative
 exhaustibility
 emergers
+ean
 extenders
 exigency
 ethnohistory
