@@ -579,7 +579,6 @@ examinate
 elitisms
 exobiological
 epihippus
-echt
 ecchymosed
 excommenge
 exostoses
@@ -9949,6 +9948,7 @@ endowers
 entonement
 elodea
 entreatment
+echt
 esurient
 electroform
 epilobe
