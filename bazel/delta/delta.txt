@@ -2880,7 +2880,6 @@ doveling
 disgenius
 deepest
 denticles
-dictyopteris
 decumbent
 disfurnishment
 deistically
@@ -16944,6 +16943,7 @@ deoxidate
 dreamsy
 displeasingness
 devisability
+dictyopteris
 dobber
 doless
 dzerin
