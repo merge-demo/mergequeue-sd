@@ -9640,7 +9640,6 @@ grandma
 gatefold
 guisarme
 galvanomagnetic
-goodsire
 gracileness
 gemmate
 goosewinged
@@ -9931,6 +9930,7 @@ greith
 gormandized
 gravelly
 grander
+goodsire
 grainsick
 gallop
 galiots
