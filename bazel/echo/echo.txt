@@ -11862,6 +11862,7 @@ enlace
 eructated
 easternmost
 extancy
+epiphytically
 elutes
 exceeded
 endosperm
@@ -13612,7 +13613,6 @@ expurgates
 effossion
 elinvar
 epsilon
-epiphytically
 eremurus
 enfeeble
 emamelware
