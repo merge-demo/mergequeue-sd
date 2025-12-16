@@ -1342,6 +1342,7 @@ draftsperson
 dompt
 damagement
 dart
+dicephalous
 dauntingness
 discerners
 duelli
@@ -12921,7 +12922,6 @@ discolor
 disaffectedness
 differed
 disoperculate
-dicephalous
 demons
 decatholicize
 dosimetrician
