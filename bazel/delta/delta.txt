@@ -2009,6 +2009,7 @@ desugars
 decaedron
 decaffeinate
 disformity
+desolations
 decaffeinize
 disregardable
 dasypodidae
@@ -5835,7 +5836,6 @@ dermatocoptic
 deprecable
 deprecating
 doorbrand
-desolations
 diachoresis
 domal
 demeaning
