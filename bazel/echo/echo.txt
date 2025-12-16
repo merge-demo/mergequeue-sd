@@ -370,7 +370,6 @@ existless
 equites
 episomally
 empery
-eyeleting
 eelery
 enleaf
 exalte
@@ -4584,6 +4583,7 @@ exquisitiveness
 economist
 efficaciously
 externals
+eyeleting
 enchymatous
 ervenholder
 ephebeia
