@@ -11467,7 +11467,6 @@ choile
 choir
 choirboys
 choired
-choirlike
 conoidally
 choristoma
 coheads
@@ -17701,6 +17700,7 @@ cocoawood
 churchgoing
 cocobola
 cocobolas
+choirlike
 comeupance
 cocobolos
 cocoyam
