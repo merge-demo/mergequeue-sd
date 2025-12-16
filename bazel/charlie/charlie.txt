@@ -1180,7 +1180,6 @@ concaves
 champignons
 calculator
 calculatory
-calculators
 chorically
 calculer
 causationist
@@ -16775,6 +16774,7 @@ cycadophyte
 cloverroot
 crepitus
 clovewort
+calculators
 castling
 chinalike
 coauditor
