@@ -6113,7 +6113,6 @@ catsos
 carloadings
 catspaw
 catstane
-catstep
 catstick
 coordination
 ciderkin
@@ -17893,6 +17892,7 @@ cowweed
 coediting
 coeditors
 cocoanuts
+catstep
 coedits
 coeducationalism
 coeducationalize
