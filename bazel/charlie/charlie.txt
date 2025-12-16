@@ -6414,7 +6414,6 @@ cauterism
 carafe
 correcter
 conchfish
-cauterizer
 cauterizes
 caution
 cautionary
@@ -19355,6 +19354,7 @@ celesta
 colorblind
 characid
 cartomancies
+cauterizer
 colorcasting
 colorcasts
 colorectitis
