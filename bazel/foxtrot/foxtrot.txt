@@ -7768,6 +7768,7 @@ facer
 fanfaronade
 flanes
 firearms
+frankness
 foremast
 fritters
 fidicula
@@ -10643,7 +10644,6 @@ friandise
 fruitbearing
 foremark
 fusc
-frankness
 fiddlededee
 frogstool
 filtrability
