@@ -12399,7 +12399,6 @@ deplantation
 drybrush
 disheriting
 decemstriate
-deforms
 declivate
 dishevelled
 dishevelling
@@ -12776,6 +12775,7 @@ drollish
 desertions
 decafid
 depicts
+deforms
 dhoni
 disulphonic
 diffusedness
