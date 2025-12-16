@@ -10930,7 +10930,6 @@ cartelism
 cokers
 crost
 ceramic
-chiromantic
 crudites
 coalition
 challa
@@ -13973,6 +13972,7 @@ cipherer
 cipherhood
 ciphering
 ciphertexts
+chiromantic
 carbonated
 cyphomandra
 cyphonism
