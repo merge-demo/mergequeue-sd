@@ -2319,7 +2319,6 @@ episteme
 electrocolloidal
 edulcoration
 exhaustable
-electroconvulsive
 engorged
 egoistic
 exergonic
@@ -8242,6 +8241,7 @@ eseptate
 enweave
 eleostearate
 epistlers
+electroconvulsive
 elderhood
 ethylin
 escribe
