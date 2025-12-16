@@ -860,7 +860,6 @@ dubiosity
 devoicing
 disorchard
 dankishness
-discardable
 delesseria
 developability
 dannebrog
@@ -2244,6 +2243,7 @@ danes
 dishelm
 dedan
 decopperize
+discardable
 deceitfulness
 debase
 dinoflagellatae
