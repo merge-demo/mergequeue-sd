@@ -2875,6 +2875,7 @@ autarchical
 anthemas
 agonium
 abidal
+angiosymphysis
 acronymizing
 anchorage
 adessive
@@ -12834,7 +12835,6 @@ angiorrhea
 armorwise
 ammocoetid
 angioscope
-angiosymphysis
 anopia
 antiatoms
 ailantine
