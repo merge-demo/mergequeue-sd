@@ -7482,6 +7482,7 @@ electrosynthesis
 ethylate
 epibatholithic
 electrodepositor
+estivates
 enviously
 estoil
 externate
@@ -10782,7 +10783,6 @@ eurodollar
 eleanor
 expurgatory
 ethide
-estivates
 euphemizer
 emanation
 endleaves
