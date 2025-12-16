@@ -4011,6 +4011,7 @@ delegacy
 domiculture
 dysrhythmia
 delegate
+disgusted
 doorsill
 delegates
 delegateship
@@ -12638,7 +12639,6 @@ downers
 desmocytoma
 disker
 dystomic
-disgusted
 dumplings
 dextroses
 didy
