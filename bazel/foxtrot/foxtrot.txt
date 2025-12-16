@@ -1093,7 +1093,6 @@ feedlots
 farrel
 figuresome
 faculae
-fontinalaceous
 fam
 fungus
 fishback
@@ -8550,6 +8549,7 @@ futuristically
 foreseeing
 fard
 fulgid
+fontinalaceous
 flacourtia
 fished
 flapped
