@@ -748,6 +748,7 @@ gravitater
 gilders
 gestapos
 gerim
+gametogony
 gunbearer
 geologers
 galvanopuncture
@@ -10674,7 +10675,6 @@ gliding
 gonagra
 gaussian
 gasolines
-gametogony
 gladius
 galp
 gurgoyle
