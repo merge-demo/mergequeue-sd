@@ -2173,7 +2173,6 @@ encrisp
 eldest
 eventuate
 engulfment
-eldrich
 eldritch
 enchased
 eulogy
@@ -7513,6 +7512,7 @@ epauliere
 ectoprocta
 exocarp
 experienceable
+eldrich
 exion
 encephalitogenic
 eroticomaniac
