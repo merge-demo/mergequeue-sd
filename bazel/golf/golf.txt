@@ -3190,6 +3190,7 @@ growthful
 guardiancy
 germina
 glutael
+grunerite
 geotechnic
 graplin
 geraniaceae
@@ -7457,7 +7458,6 @@ granuliferous
 gabbler
 glossist
 grabbier
-grunerite
 gourmandizer
 grapplement
 gomerals
