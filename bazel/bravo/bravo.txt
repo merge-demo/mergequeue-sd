@@ -830,7 +830,6 @@ baga
 biniodide
 biochron
 bromodeoxyuridine
-burnishers
 billikin
 bet
 bacillar
@@ -17603,6 +17602,7 @@ bowdlerized
 burring
 bearlet
 burglarizing
+burnishers
 bradykinetic
 bulldozes
 backster
