@@ -15576,6 +15576,7 @@ coxcombries
 countering
 clatterer
 crucifier
+coracle
 clattery
 captainly
 clattering
@@ -24823,7 +24824,6 @@ charissa
 clubby
 coracii
 coryzas
-coracle
 coracobrachial
 clipeus
 calcimeter

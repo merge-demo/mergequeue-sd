@@ -1385,7 +1385,6 @@ endowing
 erasions
 ericoid
 entosterna
-excoct
 encashable
 enzymes
 efflorescing
@@ -11166,6 +11165,7 @@ ectatic
 evacuator
 evaded
 earthlier
+excoct
 evades
 evadingly
 egre
