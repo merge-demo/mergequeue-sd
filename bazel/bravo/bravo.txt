@@ -3167,7 +3167,6 @@ belove
 basiarachnitis
 bailing
 brazening
-bashment
 barcan
 balkanizing
 basiarachnoiditis
@@ -12508,6 +12507,7 @@ bonhomies
 boni
 bony
 burtonize
+bashment
 boniata
 bloodshot
 barnage
