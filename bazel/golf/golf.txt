@@ -9412,6 +9412,7 @@ gazetteers
 greenleaf
 grothite
 glumiflorae
+gumma
 guatoan
 gonof
 glissandi
@@ -10721,7 +10722,6 @@ grided
 gu
 gamgee
 grams
-gumma
 gunship
 gismondine
 gastrolytic

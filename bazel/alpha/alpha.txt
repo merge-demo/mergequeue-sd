@@ -7941,6 +7941,7 @@ adorningly
 aristippus
 aleppo
 alerce
+armours
 alerse
 agglutinates
 adati
@@ -16772,7 +16773,6 @@ anteaters
 antiorthodox
 aphanitic
 aphetize
-armours
 adiposity
 aphidivorous
 aphidolysin
