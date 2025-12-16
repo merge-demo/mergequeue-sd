@@ -335,6 +335,7 @@ fayles
 forestaffs
 fimbricated
 furcal
+flounces
 fayumic
 francisc
 forkful
@@ -3292,7 +3293,6 @@ fiddlestick
 frambesia
 farsight
 fivescore
-flounces
 ferrelled
 fortier
 factitious

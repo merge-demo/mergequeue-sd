@@ -6611,6 +6611,7 @@ coutel
 cebidae
 chlorophyllan
 contributors
+coruco
 cebil
 ceboids
 chondritis
@@ -25952,7 +25953,6 @@ corton
 cacoeconomy
 convolute
 colley
-coruco
 cima
 circuitousness
 chlamydoselachus
