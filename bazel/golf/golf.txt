@@ -1630,7 +1630,6 @@ glassteel
 gravitational
 grimly
 grimines
-gastricism
 glycolipid
 gaskin
 grists
@@ -9611,6 +9610,7 @@ graphite
 growliest
 grylle
 gnathobdellida
+gastricism
 goudy
 gunbarrel
 grimmiaceous
