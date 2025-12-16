@@ -9287,6 +9287,7 @@ civy
 carcoon
 calligram
 cerris
+confusedly
 custos
 chauk
 calodaemon
@@ -22143,7 +22144,6 @@ confucius
 crambambuli
 confusability
 circummured
-confusedly
 confusedness
 confuser
 chickee
