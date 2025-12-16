@@ -7979,7 +7979,6 @@ acrophobia
 amelioratory
 afterword
 acritical
-amatungula
 archidium
 acacatechol
 alethoscope
@@ -8679,6 +8678,7 @@ alephzero
 automatonlike
 alleyway
 alchitran
+amatungula
 abled
 attractancy
 anarchs
