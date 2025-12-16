@@ -3555,7 +3555,6 @@ entamoeba
 encyclopaediac
 entrez
 effusive
-equivalents
 enchainement
 ensuable
 eyeliner
@@ -10161,6 +10160,7 @@ easeful
 encoders
 estoque
 executives
+equivalents
 ethernet
 extrahazardous
 emancipation
