@@ -4608,7 +4608,6 @@ gutturalized
 gilim
 graphometry
 glim
-goala
 goobers
 grinter
 gladiole
@@ -8112,6 +8111,7 @@ guidebooks
 glyoxalin
 gobs
 genically
+goala
 gorsedd
 grimed
 gastrolavage
