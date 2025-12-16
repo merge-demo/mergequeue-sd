@@ -4293,6 +4293,7 @@ facsimilist
 fleers
 fibroma
 fiancee
+flashiest
 follicule
 fibster
 fenland
@@ -5136,7 +5137,6 @@ familiarised
 fict
 furnishment
 furculae
-flashiest
 fermerer
 famulli
 fragrancies
