@@ -3548,6 +3548,7 @@ captaincies
 caprioled
 captainry
 captainship
+cephaloclast
 counterpetition
 communistically
 chaotically
@@ -7341,7 +7342,6 @@ cephalochord
 cowmen
 cephalochordal
 cephalochordata
-cephaloclast
 camanchaca
 cephalocone
 canulate
