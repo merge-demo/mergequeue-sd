@@ -1660,7 +1660,6 @@ gaffed
 granulometric
 goldarned
 gardeen
-gryphon
 grungiest
 gastrocoel
 gamuts
@@ -2131,6 +2130,7 @@ galla
 globosity
 gaudete
 graced
+gryphon
 glycoluric
 gazellelike
 gaviae
