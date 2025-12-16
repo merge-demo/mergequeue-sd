@@ -2767,6 +2767,7 @@ gallused
 glanditerous
 gramophonist
 gonangia
+gadaria
 glaister
 girling
 genteelize
@@ -5534,7 +5535,6 @@ gloomingly
 garnishment
 geophilidae
 gentlemanship
-gadaria
 gastroparietal
 gazingly
 garring
