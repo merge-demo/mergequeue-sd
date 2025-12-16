@@ -9003,7 +9003,6 @@ allosyndetic
 autoregulatory
 aureolas
 allosome
-allosteric
 allotee
 allotelluric
 allothigenetically
@@ -15462,6 +15461,7 @@ aslantwise
 antimedicine
 anaptomorphidae
 antimedievalism
+allosteric
 agpaite
 antimedievally
 antimelancholic
