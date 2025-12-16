@@ -2952,6 +2952,7 @@ geocyclic
 gnat
 galvanised
 gorsy
+gummage
 gynaecocracies
 gunfighters
 genecological
@@ -6367,7 +6368,6 @@ gam
 groceries
 geotropism
 goety
-gummage
 gymnolaemata
 gloriosa
 gippo
