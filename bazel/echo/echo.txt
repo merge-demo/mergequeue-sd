@@ -5291,6 +5291,7 @@ endosclerite
 extrahepatic
 eurybathic
 enclosers
+entre
 endoscope
 endoscopes
 equivocalities
@@ -6953,7 +6954,6 @@ esophago
 ecthlipses
 ensaint
 ecophysiology
-entre
 elwood
 estrous
 entreasuring
