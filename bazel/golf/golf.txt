@@ -752,7 +752,6 @@ gilders
 gestapos
 gerim
 gunbearer
-gerkin
 geologers
 galvanopuncture
 gummaker
@@ -9313,6 +9312,7 @@ glucuronic
 goyana
 gurge
 gathering
+gerkin
 gangliate
 galactophagous
 gunj
