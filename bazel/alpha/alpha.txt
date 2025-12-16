@@ -3180,7 +3180,6 @@ amphogenic
 ableptical
 achtel
 advolution
-active
 academising
 aweather
 ahungered
@@ -9752,6 +9751,7 @@ amadous
 androkinin
 ahluwalia
 alethiological
+active
 antipyresis
 amoving
 amah

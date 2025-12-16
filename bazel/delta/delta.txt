@@ -7469,7 +7469,6 @@ demobbing
 detur
 deturpate
 decomposability
-demurity
 dopster
 downtowner
 deuced
@@ -15728,6 +15727,7 @@ dakota
 dendrochronologist
 diphosphid
 denunciation
+demurity
 deescalation
 disintegrates
 dewools
