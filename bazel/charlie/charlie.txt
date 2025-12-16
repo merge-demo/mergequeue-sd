@@ -14033,7 +14033,6 @@ cyprinoidean
 chasten
 cypriots
 cyproterone
-cypseliform
 cypseliformes
 chiriana
 cryptostomate
@@ -16822,6 +16821,7 @@ clubhaul
 correctant
 cupflower
 confirmity
+cypseliform
 conred
 caravanned
 chokecherry
