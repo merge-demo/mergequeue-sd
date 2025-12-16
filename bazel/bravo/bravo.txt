@@ -6512,6 +6512,7 @@ bepart
 beacher
 bepimpling
 bilgiest
+biotech
 bepraiser
 benzocaine
 bituminizing
@@ -14748,7 +14749,6 @@ bestraddle
 bilgewater
 bacquet
 browbound
-biotech
 braziletto
 belletristic
 brazilite
