@@ -9734,7 +9734,6 @@ buildingless
 boatie
 byssoid
 buckskin
-bedragglement
 bissonata
 besing
 bistate
@@ -15265,6 +15264,7 @@ bridgebuilder
 bridgehead
 bridgemaking
 blinis
+bedragglement
 bayous
 bejan
 bridgemaster
