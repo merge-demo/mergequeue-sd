@@ -7680,7 +7680,6 @@ densimetrically
 depicting
 devil
 disciplinary
-devildom
 druery
 dealerdom
 deviled
@@ -9100,6 +9099,7 @@ drassidae
 dichondraceae
 daleman
 dragomanish
+devildom
 didacticism
 defile
 doundake

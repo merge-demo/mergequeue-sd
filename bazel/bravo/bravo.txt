@@ -7953,6 +7953,7 @@ bushido
 buibui
 biblus
 boanbura
+belfast
 balistraria
 benders
 beryllium
@@ -11671,7 +11672,6 @@ bolivias
 bobbinite
 bobbish
 bais
-belfast
 bobcats
 binmen
 buddles
