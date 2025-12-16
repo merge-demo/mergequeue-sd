@@ -19943,7 +19943,6 @@ apperceived
 animalculism
 astrocytomata
 arterialized
-anemochoric
 abstrusenesses
 alleluiah
 antileukemic
@@ -24276,6 +24275,7 @@ alliteral
 alters
 asphaltlike
 avoue
+anemochoric
 asterospondylic
 aussies
 amphotericin
