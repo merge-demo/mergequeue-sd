@@ -10086,7 +10086,6 @@ chevachee
 chevage
 careened
 columnwise
-cheval
 chevalet
 chevalets
 chevalier
@@ -22399,6 +22398,7 @@ conylene
 conrey
 ceric
 cree
+cheval
 calends
 conines
 coning
