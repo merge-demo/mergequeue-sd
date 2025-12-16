@@ -5912,6 +5912,7 @@ depressurize
 disentraced
 dere
 defeatee
+doubters
 depreter
 depriment
 deprint
@@ -16046,7 +16047,6 @@ doublures
 diaphote
 doaty
 dopinesses
-doubters
 demi
 decorability
 doubtous
