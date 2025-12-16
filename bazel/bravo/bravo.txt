@@ -4306,7 +4306,6 @@ brachialis
 bogtrotter
 becalming
 biaural
-beakiest
 bulkheaded
 braquemard
 blusteringly
@@ -9891,6 +9890,7 @@ bismer
 blockers
 bewhisper
 bassinets
+beakiest
 biffin
 bitterer
 broth
