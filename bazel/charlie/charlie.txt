@@ -13844,7 +13844,6 @@ carnationed
 chainer
 councilwoman
 churoya
-cynipoid
 cynism
 cyanocarbonic
 cinnabar
@@ -29883,6 +29882,7 @@ crosscutting
 crosse
 crossed
 crossers
+cynipoid
 crossest
 catalpas
 crossette
