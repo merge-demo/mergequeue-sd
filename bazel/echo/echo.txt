@@ -5122,7 +5122,6 @@ eigh
 eumerogenetic
 enteroparalysis
 effluviate
-encryptions
 expression
 endodontology
 enneagynous
@@ -7178,6 +7177,7 @@ enderon
 erythropoietic
 electrotropic
 eupnoeas
+encryptions
 exudate
 enthronize
 eyalet
