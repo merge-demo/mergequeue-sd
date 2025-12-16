@@ -8991,7 +8991,6 @@ giveaway
 gumbolike
 glaucopis
 grievable
-grievance
 gunwales
 gearbox
 germinating
@@ -9957,6 +9956,7 @@ gulleting
 guardable
 guardedness
 gastroparalysis
+grievance
 greening
 gathered
 geoids
