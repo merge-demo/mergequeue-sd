@@ -6258,7 +6258,6 @@ friendlike
 frankeniaceous
 fecit
 fluidified
-fluoarsenate
 ferromagnet
 flummeries
 fld
@@ -7218,6 +7217,7 @@ frolicks
 fiscalized
 forfeits
 frizzlers
+fluoarsenate
 formulate
 footpaces
 fifer
