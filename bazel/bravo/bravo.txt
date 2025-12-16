@@ -3587,6 +3587,7 @@ bazigar
 babas
 boutade
 ballyragged
+balsamer
 bridelace
 banilad
 bathukolpian
@@ -15765,7 +15766,6 @@ bihalve
 bifurcated
 barebones
 baksheeshes
-balsamer
 bimaculated
 bourguignonne
 biocentric
