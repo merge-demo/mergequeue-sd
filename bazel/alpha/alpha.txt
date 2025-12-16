@@ -3809,6 +3809,7 @@ adiaphon
 autophagia
 antimechanist
 annexable
+articulationes
 aizoaceous
 acuerdos
 aichmophobia
@@ -18119,7 +18120,6 @@ apus
 akinesis
 ambulia
 antechoir
-articulationes
 analogising
 aquacade
 amotion
