@@ -8527,7 +8527,6 @@ anallergic
 agnate
 atremate
 alkylbenzenesulfonates
-alkylic
 antiphonetic
 alkylidene
 afterburners
@@ -11684,6 +11683,7 @@ argyrodite
 alphosises
 abaser
 arhythmically
+alkylic
 althing
 anthropomorph
 arrage
