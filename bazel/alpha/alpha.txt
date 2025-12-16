@@ -4599,6 +4599,7 @@ alferez
 aune
 advisedly
 advisedness
+atmospherics
 arianists
 alestake
 accrease
@@ -22851,7 +22852,6 @@ agamic
 apanaging
 aedilitian
 atmospherically
-atmospherics
 abscessroot
 atmosteal
 antependiums
