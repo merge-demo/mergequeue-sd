@@ -1196,7 +1196,6 @@ brownstones
 buttinskies
 bakersfield
 bakes
-bakeshop
 bakie
 bicirrose
 bakingly
@@ -4033,6 +4032,7 @@ beamed
 bedrock
 beamers
 beamfilling
+bakeshop
 beeware
 bumboatman
 bivalvous
