@@ -4494,7 +4494,6 @@ fashioned
 foreloop
 fishspear
 fluffier
-fountainwise
 faldage
 frangulin
 fogus
@@ -10333,6 +10332,7 @@ focometer
 frustrated
 franc
 fikey
+fountainwise
 friendless
 forcible
 fraternise
