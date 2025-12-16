@@ -291,7 +291,6 @@ geobotany
 gymnogen
 ganjas
 gynaecian
-gargoylism
 granulative
 gaist
 gulpingly
@@ -10226,6 +10225,7 @@ grammaticize
 gayeties
 gooneys
 graze
+gargoylism
 guarantees
 gtd
 giustamente
