@@ -2463,6 +2463,7 @@ acmatic
 asparagus
 amphisbaenidae
 acme
+asterial
 acquiring
 americana
 adipic
@@ -25124,7 +25125,6 @@ areography
 axinite
 axiolite
 alimentiveness
-asterial
 antiascetic
 affirmers
 advective
