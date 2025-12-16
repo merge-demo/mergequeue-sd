@@ -638,7 +638,6 @@ guruships
 gerodontia
 gasometry
 gestatorial
-ghostlify
 gnarled
 grueling
 grecophil
@@ -7339,6 +7338,7 @@ germanify
 gardener
 grainless
 gossamered
+ghostlify
 galega
 gossamers
 galloglass
