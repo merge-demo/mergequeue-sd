@@ -133,7 +133,6 @@ guerdonable
 geryonid
 guelf
 gadwalls
-girth
 gigantology
 gaelic
 gynostegia
@@ -619,6 +618,7 @@ gallisin
 gunslingers
 gillie
 geophysicist
+girth
 gigartina
 glide
 gradatory

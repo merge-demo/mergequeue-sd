@@ -5781,7 +5781,6 @@ episode
 encloser
 enray
 ephoi
-effluvia
 enemying
 environing
 elephant
@@ -13013,6 +13012,7 @@ efflate
 expedience
 engrossment
 exotropism
+effluvia
 elopement
 epopee
 endochondral
