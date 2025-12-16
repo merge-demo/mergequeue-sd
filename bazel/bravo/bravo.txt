@@ -1482,7 +1482,6 @@ beerhouse
 ballad
 bloedite
 barillas
-bartholinitis
 beflounce
 ballade
 bespottedness
@@ -5069,6 +5068,7 @@ befezzed
 broiderer
 befile
 bebathe
+bartholinitis
 befilth
 bathoses
 befire
