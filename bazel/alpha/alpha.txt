@@ -6048,7 +6048,6 @@ alcyonoid
 algodon
 agible
 agiel
-angor
 acknowledger
 agilawood
 asbestosis
@@ -8430,6 +8429,7 @@ advertency
 assoin
 aortoptosis
 aspidosperma
+angor
 alkahestica
 arabana
 arcadia
