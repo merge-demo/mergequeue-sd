@@ -680,7 +680,6 @@ exclusivist
 earthsets
 electrotrephine
 ecraseurs
-esocyclic
 ened
 ecology
 eromania
@@ -10159,6 +10158,7 @@ equivalents
 ethernet
 extrahazardous
 emancipation
+esocyclic
 escrowed
 emmarbled
 electrotelegraphic
