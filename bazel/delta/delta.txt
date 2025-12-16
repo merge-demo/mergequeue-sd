@@ -5009,7 +5009,6 @@ demurrant
 driveling
 demonstratedly
 divisibly
-dramaturgical
 dename
 denaries
 denarinarii
@@ -13947,6 +13946,7 @@ derrid
 dystonic
 dissociable
 dacha
+dramaturgical
 dystopian
 dystopias
 dolichosaur
