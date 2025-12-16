@@ -1514,7 +1514,6 @@ basted
 batterdock
 ballads
 balete
-baralipton
 bloodmonger
 blackware
 ballas
@@ -4521,6 +4520,7 @@ bosons
 bilixanthin
 becuiba
 becurl
+baralipton
 bibliotherapy
 bondland
 betokenment
