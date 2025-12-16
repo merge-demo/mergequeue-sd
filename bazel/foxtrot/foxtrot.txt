@@ -1817,7 +1817,6 @@ fluidify
 featureful
 featurelessness
 featureliness
-furrows
 figureheadship
 fellahin
 firebreaks
@@ -10312,6 +10311,7 @@ foss
 footcandles
 forewarning
 fiaunt
+furrows
 fraenula
 floodlighted
 foredoing
