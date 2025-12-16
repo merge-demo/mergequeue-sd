@@ -1225,7 +1225,6 @@ acanthomas
 acanthomeridae
 acanthopanax
 agriot
-aculeata
 anlia
 acanthophorous
 aboded
@@ -6977,6 +6976,7 @@ araneologist
 appropriately
 akron
 amygdules
+aculeata
 anagrammatised
 aberrator
 adores
