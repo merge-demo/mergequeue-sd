@@ -7722,6 +7722,7 @@ ethinamate
 eggshells
 executable
 epidiascope
+epicurish
 engraff
 ecce
 epichilia
@@ -10214,7 +10215,6 @@ eo
 eptatretidae
 exactingly
 eudorina
-epicurish
 estafet
 evectic
 economical
