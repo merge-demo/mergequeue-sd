@@ -3726,6 +3726,7 @@ gabbling
 gaugership
 grumpier
 ghostly
+glaciometer
 gaura
 guerison
 gnoses
@@ -5740,7 +5741,6 @@ geniality
 graveldiver
 glossemic
 gaia
-glaciometer
 giga
 gorilline
 gesundheit
