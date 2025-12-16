@@ -4191,7 +4191,6 @@ androgenous
 ancestrian
 adoperate
 ammonals
-anticrotalic
 aphrasia
 archhumbug
 adjag
@@ -14334,6 +14333,7 @@ alkahests
 adrop
 augustinianism
 affableness
+anticrotalic
 anthesterin
 antiqued
 anthicidae
