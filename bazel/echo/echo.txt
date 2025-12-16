@@ -894,7 +894,6 @@ escalation
 electrotonic
 emplaces
 ehlite
-extravagated
 exarillate
 eyelashes
 ectromelus
@@ -13306,6 +13305,7 @@ eminences
 ethicalities
 effloresces
 eclipsareon
+extravagated
 extracosmic
 extogenous
 encephalodialysis
