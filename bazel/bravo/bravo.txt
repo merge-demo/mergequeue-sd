@@ -5803,7 +5803,6 @@ bimetallism
 berengelite
 bonasa
 bellhouse
-belli
 buckstone
 bellyache
 biremes
@@ -14907,6 +14906,7 @@ blash
 brachypinacoid
 bewrap
 brevi
+belli
 blastful
 baedeker
 boobook
