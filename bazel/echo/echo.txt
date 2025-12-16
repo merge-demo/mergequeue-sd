@@ -5164,7 +5164,6 @@ euchres
 echeloning
 enchanter
 expedition
-endogenous
 epiblema
 enlistment
 electo
@@ -11912,6 +11911,7 @@ enhypostatic
 entrepreneurship
 epiphytes
 emissivity
+endogenous
 exceptless
 emends
 escalades
