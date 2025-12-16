@@ -16513,7 +16513,6 @@ caffiso
 compensations
 cloysome
 cleistothecia
-chondrolipoma
 cloisonless
 chancering
 cloisonn
@@ -21009,6 +21008,7 @@ considerer
 carouser
 cyclian
 compupil
+chondrolipoma
 cauponate
 crassier
 civical
