@@ -9200,7 +9200,6 @@ damascenes
 discase
 dermomuscular
 doeling
-diedric
 debruising
 deuteromorphic
 divarication
@@ -16289,6 +16288,7 @@ dca
 decentralization
 disentomb
 dropman
+diedric
 downier
 downiest
 dictator
