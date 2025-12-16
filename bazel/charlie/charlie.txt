@@ -124,7 +124,6 @@ cabineting
 codshead
 cabinetmaking
 capacitated
-cabinetted
 coumalic
 chordophone
 clitelline
@@ -4096,6 +4095,7 @@ cardiagram
 cardiagraphy
 cardial
 chekist
+cabinetted
 cardialgy
 caryl
 coevals
