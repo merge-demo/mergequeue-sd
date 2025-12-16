@@ -11721,6 +11721,7 @@ arbalester
 anaetiological
 actinophorous
 alida
+alrighty
 axises
 alban
 amigo
@@ -22345,7 +22346,6 @@ algaeologist
 autopsychology
 astrobiologies
 adret
-alrighty
 astrobotany
 astrochemistry
 aurignacian
