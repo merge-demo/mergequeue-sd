@@ -4666,7 +4666,6 @@ dithyrambos
 diphthongous
 dimissory
 dapple
-dreamsiness
 disintoxicate
 demythologization
 diplomatize
@@ -10522,6 +10521,7 @@ downfalling
 disaccordant
 demonetized
 delapsion
+dreamsiness
 digonoporous
 depthless
 danging
