@@ -7775,6 +7775,7 @@ bacchae
 brooch
 bill
 bhutanese
+birdman
 bimilllennia
 bagpipes
 babuism
@@ -14407,7 +14408,6 @@ brainwood
 brairded
 bratticed
 barrowcoat
-birdman
 betrayals
 breamed
 biometrist
