@@ -6259,7 +6259,6 @@ gopura
 goatstone
 gaum
 goatweed
-germinate
 guerrillaism
 genitures
 gelfomino
@@ -6427,6 +6426,7 @@ girlchild
 goitral
 guam
 goodyism
+germinate
 gamboges
 galuth
 gaine
