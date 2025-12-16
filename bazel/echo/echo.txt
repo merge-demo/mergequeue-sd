@@ -401,6 +401,7 @@ exomphalus
 entocondyle
 elfish
 exposits
+ebeneous
 ebulliometer
 exacerbation
 ebullioscopic
@@ -13569,7 +13570,6 @@ exsolving
 epochs
 exposedness
 energies
-ebeneous
 extumescence
 ectadenia
 egeria
