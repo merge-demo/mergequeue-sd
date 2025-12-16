@@ -2787,7 +2787,6 @@ electroluminescent
 eustatic
 evenhanded
 epiplastron
-enaluron
 elymi
 eliza
 eosins
@@ -12681,6 +12680,7 @@ errantries
 eligible
 emunctory
 ecliptically
+enaluron
 exprobrate
 esotericist
 erie
