@@ -1289,7 +1289,6 @@ garetta
 gerbils
 gnawingly
 gargalize
-guttles
 grump
 government
 gulliver
@@ -2617,6 +2616,7 @@ geiger
 goutte
 garabato
 galluot
+guttles
 glisters
 genesial
 gymnastics
