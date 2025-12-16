@@ -5020,7 +5020,6 @@ aumil
 aeronomical
 anisogametic
 aeronomics
-anthropopathia
 armrest
 amphisbaenid
 argentate
@@ -22641,6 +22640,7 @@ athecae
 alarge
 appender
 acrodus
+anthropopathia
 ablepharus
 atheistically
 acetabulous
