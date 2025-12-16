@@ -12862,6 +12862,7 @@ churinga
 churingas
 churl
 convoys
+capataces
 campgrounds
 curmurring
 churlier
@@ -14411,7 +14412,6 @@ centiare
 carate
 crosscrosslet
 charades
-capataces
 cirrocumulative
 chasmogamic
 cirrocumulous
