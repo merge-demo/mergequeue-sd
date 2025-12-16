@@ -5124,6 +5124,7 @@ grittier
 gunman
 gambogian
 garboards
+griding
 guilelessly
 glareproof
 griskin
@@ -8972,7 +8973,6 @@ gesso
 germless
 gastrodidymus
 gridelin
-griding
 gasped
 galvo
 greyhens
