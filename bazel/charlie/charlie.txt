@@ -3224,6 +3224,7 @@ caboclos
 capilli
 capilliculture
 cogracious
+chaoua
 clunks
 cosmoid
 caducicorn
@@ -8672,7 +8673,6 @@ campholide
 credibilities
 chaotic
 coccoid
-chaoua
 catastaltic
 callans
 citronelle
