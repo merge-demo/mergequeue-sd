@@ -2134,6 +2134,7 @@ fosterling
 fluer
 fidepromissor
 filtered
+furnaced
 fuligulinae
 flaws
 finfoots
@@ -6026,7 +6027,6 @@ foreheater
 floral
 floralize
 floras
-furnaced
 focusless
 freakish
 frottage
