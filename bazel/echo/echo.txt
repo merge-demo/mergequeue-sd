@@ -7443,6 +7443,7 @@ ephemeroptera
 eigne
 extrafocal
 eyess
+errorless
 extracivically
 evertor
 ephetae
@@ -12286,7 +12287,6 @@ exempted
 exemption
 essenhout
 entremess
-errorless
 exemptions
 ephemerist
 eviternal
