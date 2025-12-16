@@ -3114,7 +3114,6 @@ globigerine
 gearksutite
 gleanable
 gubat
-gibbol
 geophilid
 gymnasisia
 groined
@@ -3452,6 +3451,7 @@ gesithcundman
 gesling
 gudrun
 gymkhanas
+gibbol
 gretel
 gehey
 geodes

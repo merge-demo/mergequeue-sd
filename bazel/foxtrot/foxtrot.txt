@@ -1403,7 +1403,6 @@ fermatas
 frith
 freezer
 fatnesses
-furaciousness
 fatshedera
 foodlessness
 forges
@@ -1671,6 +1670,7 @@ fearedness
 fluidizes
 fathometer
 frypan
+furaciousness
 faucets
 flatworm
 fieldmice
