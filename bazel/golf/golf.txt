@@ -4766,7 +4766,6 @@ gudemother
 gainstand
 gastriloquy
 garua
-galactite
 glick
 genethliatic
 giantlike
@@ -9284,6 +9283,7 @@ gizzened
 gayly
 gastrectasia
 grotesqueness
+galactite
 greenhearted
 grobian
 gesithcund

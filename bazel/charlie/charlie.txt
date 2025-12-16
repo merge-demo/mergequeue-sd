@@ -20023,6 +20023,7 @@ comment
 cattlegate
 commentable
 catchments
+cotenants
 commentarialism
 corky
 chatoyance
@@ -26379,7 +26380,6 @@ circumsaturnian
 continuous
 cotenancy
 cotenant
-cotenants
 chrismatories
 cotenure
 concaved
