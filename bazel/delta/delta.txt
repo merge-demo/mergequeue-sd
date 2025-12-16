@@ -92,7 +92,6 @@ dognapped
 dactylomegaly
 dactylopore
 dustyfoot
-dactylopteridae
 disclaimant
 dicotyls
 dripper
@@ -18247,6 +18246,7 @@ dale
 dippy
 deuterogamist
 draffs
+dactylopteridae
 divot
 distream
 dorsimedian
