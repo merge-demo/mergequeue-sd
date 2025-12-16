@@ -88,6 +88,7 @@ flunkeyhood
 flocklike
 forme
 filching
+foxfish
 faces
 folkright
 flattening
@@ -6150,7 +6151,6 @@ fulminations
 frondigerous
 fontinalaceae
 fearnought
-foxfish
 fn
 frustration
 fetidity
