@@ -5911,6 +5911,7 @@ depressurize
 disentraced
 dere
 defeatee
+deplaned
 doubters
 depreter
 depriment
@@ -7298,7 +7299,6 @@ drownding
 despondency
 denegate
 dessa
-deplaned
 dipneumona
 demifarthing
 decarbonating
