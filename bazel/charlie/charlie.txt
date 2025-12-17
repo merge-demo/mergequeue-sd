@@ -6963,6 +6963,7 @@ cenizo
 codable
 cosmozoism
 capitellar
+conchs
 cenobies
 cenobites
 cenobitic
@@ -21317,7 +21318,6 @@ cowboys
 conchostraca
 corotated
 computed
-conchs
 conchubar
 cryptonymic
 coplots

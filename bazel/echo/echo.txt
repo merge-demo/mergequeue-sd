@@ -670,6 +670,7 @@ ebriated
 esteros
 epithelial
 ecol
+eidolic
 ethnogeny
 enchronicle
 earthed
@@ -12899,7 +12900,6 @@ echea
 euryaleae
 erythropenia
 engr
-eidolic
 eosaurus
 enticingly
 expeditiousness
