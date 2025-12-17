@@ -3345,6 +3345,7 @@ epichorial
 embarkations
 epitomize
 embarkment
+equalising
 embarks
 equipage
 exteroceptor
@@ -13978,7 +13979,6 @@ espagnolette
 eudaemonistic
 eyepoint
 entoplastic
-equalising
 erythromania
 embrangling
 eisegetic
