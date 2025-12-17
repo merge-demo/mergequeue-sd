@@ -15707,7 +15707,6 @@ antipacifistic
 aplobasalt
 angriest
 antipacifists
-antigun
 adenosarcomas
 aaliis
 aquaphobia
@@ -20797,6 +20796,7 @@ afshar
 athyreosis
 aspiculate
 angico
+antigun
 assimilated
 autophobia
 alienors
