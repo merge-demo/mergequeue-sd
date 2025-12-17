@@ -4442,7 +4442,6 @@ endolabyrinthitis
 encephalomyelopathy
 encenter
 ensilage
-endolithic
 encephalartos
 encephalasthenia
 evincible
@@ -5759,6 +5758,7 @@ envelopment
 extirp
 extracloacal
 englut
+endolithic
 emhpasizing
 encored
 eyot
