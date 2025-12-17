@@ -3876,7 +3876,6 @@ fieldball
 floria
 firmnesses
 fanglomerate
-farleu
 fimbrillate
 fertilisable
 fany
@@ -7028,6 +7027,7 @@ frittered
 fora
 fondues
 forestress
+farleu
 frescoist
 fictionistic
 fusees
