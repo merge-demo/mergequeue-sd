@@ -3862,6 +3862,7 @@ favous
 forelady
 fimbriating
 frizette
+faerie
 focalising
 fulgurous
 feces
@@ -9758,7 +9759,6 @@ fatigability
 fishworm
 farfel
 fluentness
-faerie
 foresettled
 flyspeck
 flummoxed
