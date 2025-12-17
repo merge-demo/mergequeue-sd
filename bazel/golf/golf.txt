@@ -128,7 +128,6 @@ glacises
 gallantize
 granulize
 gageable
-gospodar
 guerdonable
 geryonid
 guelf
@@ -8352,6 +8351,7 @@ galvanoglyphy
 glucofrangulin
 gedecktwork
 geast
+gospodar
 gulfing
 geoblast
 gaize
