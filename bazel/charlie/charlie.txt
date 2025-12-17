@@ -5477,7 +5477,6 @@ casuals
 casuariiformes
 chloramide
 civetlike
-casuarina
 cantraips
 casuarius
 chamaecyparis
@@ -18971,6 +18970,7 @@ cocainization
 cercosporella
 contraflow
 collectivists
+casuarina
 collegese
 collectivities
 charonic
