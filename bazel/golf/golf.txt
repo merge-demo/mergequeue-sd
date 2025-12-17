@@ -1328,7 +1328,6 @@ goldsmiths
 garishly
 galligaskins
 glycosine
-growingupness
 garlandless
 ganocephalan
 guillotiner
@@ -4859,6 +4858,7 @@ guideway
 gypaetus
 griffinism
 gynecidal
+growingupness
 generalized
 garlicwort
 glades
