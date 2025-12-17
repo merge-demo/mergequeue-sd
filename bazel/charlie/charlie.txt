@@ -13903,6 +13903,7 @@ computerize
 cynomorium
 cynomorphic
 caber
+collapsable
 chloroanemia
 cynophilic
 climatotherapy
@@ -22847,7 +22848,6 @@ coxcombically
 conservativeness
 chittering
 choisya
-collapsable
 conservatoires
 conservator
 conservatory

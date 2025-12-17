@@ -3705,6 +3705,7 @@ forcipulate
 folder
 fillable
 frownless
+fructified
 flippers
 flavorlessness
 featherers
@@ -10721,7 +10722,6 @@ forbore
 frumpishly
 foreyear
 follyer
-fructified
 fascistize
 filagree
 fringelike
