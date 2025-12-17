@@ -2884,6 +2884,7 @@ fractioning
 fettlings
 farcin
 freighted
+frondose
 fackins
 fungiferous
 fistulate
@@ -10330,7 +10331,6 @@ ferrado
 fantasized
 floppies
 frondlet
-frondose
 focometer
 frustrated
 franc
