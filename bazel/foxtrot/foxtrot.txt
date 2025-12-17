@@ -8481,7 +8481,6 @@ formelt
 ferritic
 fountaineer
 filmsetter
-fortin
 fastnacht
 frondesce
 flowerist
@@ -8755,6 +8754,7 @@ frankfort
 freddo
 feministic
 forbiddable
+fortin
 flogged
 followership
 fortuuned
