@@ -12481,7 +12481,6 @@ admensuration
 algesis
 armchairs
 abarambo
-anecdotage
 antiprimer
 astart
 ajowan
@@ -12496,6 +12495,7 @@ anechoic
 amazed
 adar
 augurship
+anecdotage
 anelectrode
 appui
 anelectrotonus
