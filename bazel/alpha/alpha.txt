@@ -8406,6 +8406,7 @@ apocentricity
 alphabeting
 attribution
 ayllu
+amaritude
 asternia
 algenib
 anthropophagic
@@ -9883,7 +9884,6 @@ amarine
 amarity
 aplotomy
 armillas
-amaritude
 amarthritis
 autosomatognosis
 aeciospore
