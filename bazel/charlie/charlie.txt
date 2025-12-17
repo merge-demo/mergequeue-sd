@@ -5806,6 +5806,7 @@ cojoin
 cheveys
 callicarpa
 coeldership
+chenopod
 coyotillo
 catechumenal
 catechumenism
@@ -9931,7 +9932,6 @@ californiana
 chenille
 cascado
 consumable
-chenopod
 colocasia
 catacombic
 criollo

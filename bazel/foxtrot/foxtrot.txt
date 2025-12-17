@@ -3198,7 +3198,6 @@ fickle
 fixage
 frapler
 fruits
-fiches
 findjan
 feracious
 fusilade
@@ -3998,6 +3997,7 @@ flunk
 fingerprint
 ferric
 furazolidone
+fiches
 frivolize
 fluorosis
 fishery
