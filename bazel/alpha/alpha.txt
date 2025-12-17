@@ -1664,7 +1664,6 @@ actualities
 accrued
 accruement
 accruer
-anatta
 adiabatic
 accrues
 accruing
@@ -3196,6 +3195,7 @@ activism
 aetiologically
 activities
 amoristic
+anatta
 allogenic
 archipelagos
 alcoholized
