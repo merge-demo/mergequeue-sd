@@ -943,7 +943,6 @@ gooseries
 glycyphyllin
 gravidas
 gamogamy
-gastriloquism
 gitanemuck
 gunstone
 gamophagy
@@ -2636,6 +2635,7 @@ genethlic
 goatee
 glossosteresis
 genetics
+gastriloquism
 goosey
 gastrolysis
 gudgeoned
