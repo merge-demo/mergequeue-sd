@@ -5675,7 +5675,6 @@ germanics
 gubernacular
 geyserine
 gingalls
-glow
 gastralgic
 growsome
 grubbiest
@@ -5953,6 +5952,7 @@ globuliform
 gabion
 gaylussacia
 geonyctinastic
+glow
 germy
 glumes
 gorman
