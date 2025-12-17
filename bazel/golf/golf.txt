@@ -285,7 +285,6 @@ gaintwist
 giglot
 geobotany
 gymnogen
-ganjas
 gouldian
 gynaecian
 granulative
@@ -4629,6 +4628,7 @@ galbulae
 galipoipin
 gamboge
 gnaphalium
+ganjas
 gymnanthes
 gluttonism
 gnathobase
