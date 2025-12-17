@@ -6334,6 +6334,7 @@ calycular
 causal
 candystick
 causality
+chicnesses
 causally
 causans
 cyphellate
@@ -24607,7 +24608,6 @@ copyrighter
 chrisms
 copis
 cowling
-chicnesses
 coattended
 cumaru
 caedmonic
