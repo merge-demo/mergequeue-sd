@@ -11654,6 +11654,7 @@ anabrotic
 anacoluthons
 alow
 archurger
+automatics
 anacreontically
 anacrogynae
 amba
@@ -21772,7 +21773,6 @@ awesomely
 amphitheater
 asserter
 adscription
-automatics
 agrise
 archegonium
 assertingly
