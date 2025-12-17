@@ -4461,6 +4461,7 @@ episematic
 earlock
 esthesiophysiology
 elsewhat
+enthralldom
 exophthalmus
 enforcing
 exterminator
@@ -9543,7 +9544,6 @@ effulgence
 edestan
 ecphoria
 expressing
-enthralldom
 emigrated
 emptory
 expediente
