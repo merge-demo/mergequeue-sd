@@ -4664,7 +4664,6 @@ frivoling
 futharcs
 fetichic
 filmgoer
-faust
 flybelts
 fulani
 faeroe
@@ -7219,6 +7218,7 @@ footpaces
 fifer
 foolocracy
 factionaries
+faust
 fairer
 farers
 falderols
