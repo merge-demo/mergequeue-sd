@@ -10567,7 +10567,6 @@ anotia
 amidulin
 abnegating
 absinthiating
-amyelencephalous
 actionizing
 anovulatory
 apomictically
@@ -21946,6 +21945,7 @@ antinationalist
 athericerous
 accommodator
 associationalist
+amyelencephalous
 abakas
 amphimorula
 associationistic
