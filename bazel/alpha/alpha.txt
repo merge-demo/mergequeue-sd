@@ -7545,6 +7545,7 @@ alnitham
 albuminising
 albuminize
 arrested
+aromatising
 anchovies
 albuminofibrin
 albuminoid
@@ -19884,7 +19885,6 @@ autotomized
 aimful
 aposelene
 arithmomania
-aromatising
 accessable
 armilla
 astraphobia
