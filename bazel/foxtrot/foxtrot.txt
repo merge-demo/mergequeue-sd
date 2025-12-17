@@ -3688,7 +3688,6 @@ flourishes
 flaying
 furnacer
 financiered
-freshener
 finicking
 follying
 filioque
@@ -9549,6 +9548,7 @@ forche
 fyrd
 figitidae
 fishwives
+freshener
 felicitate
 fotched
 fursemide
