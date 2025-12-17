@@ -10375,7 +10375,6 @@ derelictly
 degeneracy
 dioramic
 diordinal
-duplet
 disgregation
 dipotassic
 delim
@@ -16607,6 +16606,7 @@ denotative
 donjon
 dikdiks
 decapitates
+duplet
 derout
 denotations
 dialuric
