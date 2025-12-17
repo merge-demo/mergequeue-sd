@@ -544,6 +544,7 @@ detort
 damageous
 deaccessions
 deliber
+didrachma
 dao
 damagers
 damalic
@@ -15677,7 +15678,6 @@ daws
 docile
 dunce
 dartrose
-didrachma
 defatted
 decollator
 disrobers
