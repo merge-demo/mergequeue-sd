@@ -6170,7 +6170,6 @@ goa
 gadsbud
 gauche
 glaziery
-grihastha
 genovino
 groveling
 geminiform
@@ -9389,6 +9388,7 @@ graphomaniacal
 ginkgoaceae
 griots
 gurly
+grihastha
 genotypic
 gesticulating
 grosshead
