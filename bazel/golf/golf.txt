@@ -5928,7 +5928,6 @@ glebe
 ging
 glamorizations
 ginkgoales
-gleesomeness
 guereba
 gymnospermous
 goitrous
@@ -9062,6 +9061,7 @@ girasole
 gaffle
 gimcracky
 grilse
+gleesomeness
 glossitis
 grimaced
 gulose
