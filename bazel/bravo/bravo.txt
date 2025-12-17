@@ -3937,6 +3937,7 @@ beautification
 bariums
 batrachospermum
 boreens
+bitumed
 barbeiro
 beaminess
 brocatel
@@ -6906,7 +6907,6 @@ burgundian
 bepray
 bazaar
 bedrugging
-bitumed
 brandywine
 besetters
 besew
