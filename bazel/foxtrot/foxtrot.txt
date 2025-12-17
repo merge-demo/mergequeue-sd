@@ -2319,7 +2319,6 @@ fensive
 faulkland
 favoring
 flippest
-furner
 fluoroscopes
 falbalas
 frillings
@@ -9231,6 +9230,7 @@ fishbed
 foraneous
 facts
 featherer
+furner
 frayedness
 fidging
 flagmaking
