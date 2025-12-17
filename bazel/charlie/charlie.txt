@@ -3297,7 +3297,6 @@ corregimiento
 capitoline
 capitolium
 crabbit
-capitula
 crumbiest
 capitulant
 ceja
@@ -12857,6 +12856,7 @@ churchwoman
 churchwomen
 churel
 colombina
+capitula
 churidars
 cyclized
 cupidity
