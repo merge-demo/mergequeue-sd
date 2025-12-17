@@ -2633,6 +2633,7 @@ bellying
 bable
 bribeable
 barling
+bedabble
 bluestone
 bertholletia
 barghest
@@ -4543,7 +4544,6 @@ biradiated
 bathroot
 bater
 bool
-bedabble
 beagles
 barricadoed
 biggening
