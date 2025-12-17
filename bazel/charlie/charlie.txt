@@ -5063,7 +5063,6 @@ carvership
 chimu
 cytozoon
 carves
-carvestrene
 carving
 curses
 carvoeira
@@ -27081,6 +27080,7 @@ coccule
 counterreflected
 counterremonstrant
 counterreplied
+carvestrene
 clypeastroida
 cladocerous
 counterreplies
