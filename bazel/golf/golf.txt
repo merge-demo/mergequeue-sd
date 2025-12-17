@@ -1961,7 +1961,6 @@ glamor
 gnomonical
 gimbal
 geology
-geranic
 goring
 grubroot
 glut
@@ -8834,6 +8833,7 @@ glaciologic
 grazed
 geranomorphae
 grossularia
+geranic
 grossest
 gauntleting
 germain
