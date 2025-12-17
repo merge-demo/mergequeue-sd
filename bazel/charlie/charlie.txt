@@ -7850,7 +7850,6 @@ cessantly
 cessative
 cessavit
 cessed
-cesser
 cesses
 cuttle
 cessible
@@ -15361,6 +15360,7 @@ concentered
 chavel
 cen
 clappe
+cesser
 conidiiferous
 clapper
 clapperclaw
