@@ -4299,7 +4299,6 @@ deporting
 dichotomous
 digallate
 designatory
-delustering
 deceleration
 delved
 declarations
@@ -17944,6 +17943,7 @@ dosage
 dactyliography
 delimitate
 defibrinate
+delustering
 dys
 duftite
 disamenity
