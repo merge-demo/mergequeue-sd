@@ -10360,7 +10360,6 @@ firs
 fleing
 flumerin
 feigning
-foxgloves
 foliation
 filmer
 frontbencher
@@ -10743,6 +10742,7 @@ fail
 focuses
 flat
 felup
+foxgloves
 fomentation
 footrope
 fleeing
