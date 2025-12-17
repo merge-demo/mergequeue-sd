@@ -10041,7 +10041,6 @@ dimpsy
 dimwittedly
 demodulation
 detailer
-demist
 deck
 disordain
 decemfoliolate
@@ -13760,6 +13759,7 @@ dacryolin
 drank
 dissoul
 droopiness
+demist
 ditrochous
 disspirit
 disspread
