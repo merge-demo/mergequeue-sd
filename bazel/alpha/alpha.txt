@@ -1104,7 +1104,6 @@ agnatically
 abune
 acromimia
 ausubo
-aburton
 artemisia
 atestine
 amphioxidae
@@ -22070,6 +22069,7 @@ atik
 actings
 archaicism
 asyngamic
+aburton
 anaplasmosis
 astatines
 astatize
