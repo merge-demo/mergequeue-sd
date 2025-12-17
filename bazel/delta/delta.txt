@@ -3408,6 +3408,7 @@ differentness
 dichotomic
 disinhuming
 darer
+decinormal
 deflecting
 deflectionize
 dampnesses
@@ -12481,7 +12482,6 @@ decimalize
 disillusionments
 diaphanousness
 disgorge
-decinormal
 discomycetes
 dana
 den
