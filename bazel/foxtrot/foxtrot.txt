@@ -3375,6 +3375,7 @@ familistic
 featishly
 foreyards
 fusilades
+foliary
 fastigate
 fopling
 fossilification
@@ -6852,7 +6853,6 @@ fourhanded
 fabled
 furomonazole
 fisherwoman
-foliary
 frescoers
 format
 favoringly
