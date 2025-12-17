@@ -14744,7 +14744,6 @@ couriers
 calocarpum
 citizeness
 citizenish
-coneen
 citizenism
 countercarte
 citizenized
@@ -15410,6 +15409,7 @@ clarifiant
 clarificant
 clarification
 clarifier
+coneen
 clarifiers
 chiefry
 clarifying
