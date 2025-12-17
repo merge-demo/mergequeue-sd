@@ -12569,7 +12569,6 @@ andrenid
 angka
 alulae
 archpatriarch
-arithmocracy
 arvo
 anencephalus
 anorexigenic
@@ -15047,6 +15046,7 @@ anaglyptics
 anticritical
 astrose
 anasarcas
+arithmocracy
 attestant
 anticrochet
 antipewism
