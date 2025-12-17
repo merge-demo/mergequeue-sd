@@ -11229,7 +11229,6 @@ blearier
 basks
 blouses
 bloviated
-blowballs
 bhaktis
 blowbys
 benzophenanthroline
@@ -14710,6 +14709,7 @@ braving
 bravissimo
 boulevards
 bifolium
+blowballs
 brahminist
 bravuras
 benthonic
