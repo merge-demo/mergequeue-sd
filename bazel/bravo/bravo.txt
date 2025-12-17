@@ -10221,7 +10221,6 @@ benzo
 betattering
 boyd
 breakpoints
-beparse
 barothermohygrograph
 blacklists
 brainer
@@ -17936,6 +17935,7 @@ bisinuate
 benignant
 bushmasters
 bagwoman
+beparse
 bushongo
 bangle
 bedsides
