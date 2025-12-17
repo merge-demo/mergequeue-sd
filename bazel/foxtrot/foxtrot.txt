@@ -3002,7 +3002,6 @@ fundamentally
 flirts
 flaggelation
 forbs
-furiousness
 favorableness
 faceoff
 fossiform
@@ -9582,6 +9581,7 @@ forensic
 floreta
 frontopontine
 fizzed
+furiousness
 fichus
 friableness
 frizzing
