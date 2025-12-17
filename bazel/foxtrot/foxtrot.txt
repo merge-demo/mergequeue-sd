@@ -564,7 +564,6 @@ fliskier
 fallen
 ferny
 furriered
-falling
 flichtering
 faradized
 fylgjur
@@ -11395,6 +11394,7 @@ flushness
 fourposter
 fleak
 fiddles
+falling
 functionlessness
 frosk
 feater
