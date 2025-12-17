@@ -7016,7 +7016,6 @@ gunpowdery
 gapes
 glad
 gossipry
-garrat
 graviers
 gladdener
 gasthauses
@@ -7793,6 +7792,7 @@ grainiest
 gipseian
 greeny
 grubworm
+garrat
 gulleys
 graveling
 geologising
