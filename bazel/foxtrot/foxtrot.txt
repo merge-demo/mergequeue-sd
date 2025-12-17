@@ -1765,6 +1765,7 @@ farfet
 farsalah
 frize
 forlorn
+forbore
 foundery
 frivolously
 fetid
@@ -10718,7 +10719,6 @@ flavedo
 fetter
 filao
 forecount
-forbore
 frumpishly
 foreyear
 follyer
