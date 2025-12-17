@@ -4225,6 +4225,7 @@ fallotomy
 firelight
 flab
 feistier
+firstship
 felicide
 footsoldier
 footsies
@@ -7439,7 +7440,6 @@ faience
 firefall
 floperoo
 forevalue
-firstship
 forbarred
 flying
 forcibility
