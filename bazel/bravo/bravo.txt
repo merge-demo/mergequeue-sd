@@ -1726,6 +1726,7 @@ baluba
 berogue
 baluch
 broquery
+bdelloura
 bonnyclabber
 baronnes
 becollier
@@ -3924,7 +3925,6 @@ boarts
 booksellerish
 bocstaff
 brickbats
-bdelloura
 bisected
 bassette
 baloo
