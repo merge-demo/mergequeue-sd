@@ -2158,7 +2158,6 @@ decapitations
 disassemble
 downfall
 dicecup
-decalcomanias
 decapodal
 dawn
 draggletailedly
@@ -11190,6 +11189,7 @@ disoppilate
 decanted
 deglaciation
 depopulate
+decalcomanias
 disbars
 disbase
 dani
