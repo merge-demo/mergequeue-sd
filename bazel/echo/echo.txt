@@ -7202,7 +7202,6 @@ embrave
 economese
 evolutionally
 epicurize
-excrescences
 eohippus
 eohippuses
 electronegativity
@@ -8668,6 +8667,7 @@ enjoyed
 esthesiogenic
 elastometry
 enhallow
+excrescences
 electroencephalograph
 equisided
 equisignal
