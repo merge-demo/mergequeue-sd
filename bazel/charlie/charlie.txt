@@ -5127,7 +5127,6 @@ coolly
 cascrom
 colonoscope
 caesarship
-case
 casease
 concipiency
 caseases
@@ -18473,6 +18472,7 @@ collat
 cohibit
 cohibition
 cohibitor
+case
 cohitre
 chandlering
 cohobator
