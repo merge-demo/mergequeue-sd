@@ -2213,7 +2213,6 @@ electricize
 electriferous
 energumen
 enmass
-epitaphist
 epilating
 elongated
 equally
@@ -9469,6 +9468,7 @@ escry
 ensepulchre
 escribientes
 escrime
+epitaphist
 embryoferous
 epiphanising
 escript
