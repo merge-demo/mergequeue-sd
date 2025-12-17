@@ -3186,7 +3186,6 @@ growthful
 guardiancy
 germina
 glutael
-grunerite
 geotechnic
 graplin
 geraniaceae
@@ -8052,6 +8051,7 @@ ghain
 genteelish
 gesning
 gentlewoman
+grunerite
 granivore
 grannam
 gybes
