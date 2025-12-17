@@ -3823,7 +3823,6 @@ gouaree
 gaul
 gygis
 gibstaff
-greyhound
 gratefulness
 greyling
 gabbard
@@ -8946,6 +8945,7 @@ giantisms
 grieko
 gecked
 genista
+greyhound
 gatsby
 gyration
 greund

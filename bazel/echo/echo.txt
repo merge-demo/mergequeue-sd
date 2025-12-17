@@ -1268,6 +1268,7 @@ effectiveness
 epopoean
 eesome
 escuages
+edifices
 explicatively
 ericophyte
 efface
@@ -4396,7 +4397,6 @@ effervesces
 emicate
 exactus
 echards
-edifices
 epidermal
 embreach
 emanates
