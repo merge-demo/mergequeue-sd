@@ -7320,6 +7320,7 @@ cephalate
 cephalhematoma
 coracovertebral
 cephalic
+cypressroot
 chequering
 cephalina
 cephaline
@@ -27600,7 +27601,6 @@ covite
 catchpennies
 coarser
 cognoscitively
-cypressroot
 cow
 chesteine
 cyanidin
