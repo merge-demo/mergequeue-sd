@@ -1608,6 +1608,7 @@ burletta
 butyrous
 balloted
 ballotist
+basotho
 ballots
 ballottement
 baronage
@@ -11524,7 +11525,6 @@ budless
 bordellos
 blurredly
 beatifying
-basotho
 besweatered
 beauteously
 borane
