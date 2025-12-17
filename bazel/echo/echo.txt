@@ -6521,6 +6521,7 @@ exciter
 entente
 enterocentesis
 erythorbate
+esoterist
 ethnohistorian
 equivalved
 epipolism
@@ -9581,7 +9582,6 @@ elaeoblastic
 epiphenomenalism
 enchiridions
 euphuistically
-esoterist
 evildoers
 expertism
 eventlessness
