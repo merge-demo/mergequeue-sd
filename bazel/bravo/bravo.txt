@@ -1865,7 +1865,6 @@ beshrew
 bretwaldadom
 balant
 brooded
-bandle
 blastoff
 bushcraft
 breadwinners
@@ -13972,6 +13971,7 @@ bracelet
 bracer
 barrelfuls
 briquet
+bandle
 bracery
 blankeel
 belaboured
