@@ -4296,7 +4296,6 @@ clerked
 caret
 caretake
 caretaker
-caretakers
 caretaking
 chastisers
 chondrosteous
@@ -16620,6 +16619,7 @@ closeouts
 closer
 chlorophyllose
 chrysler
+caretakers
 checkerwise
 closers
 closes
