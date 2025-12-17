@@ -10687,6 +10687,7 @@ dissipating
 depicted
 durned
 draws
+definitude
 derivable
 declinometer
 downstreet
@@ -17462,7 +17463,6 @@ delphacid
 desectionalize
 drouthier
 defame
-definitude
 datums
 deertongue
 delegatee
