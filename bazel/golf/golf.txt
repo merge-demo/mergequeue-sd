@@ -690,7 +690,6 @@ glycerizin
 gowlan
 grass
 gals
-gastroenterologically
 grimoire
 gloved
 galumphs
@@ -4121,6 +4120,7 @@ goneoclinic
 gipsywort
 gulgul
 gratifiedly
+gastroenterologically
 gilder
 glycerogelatin
 giraffish
