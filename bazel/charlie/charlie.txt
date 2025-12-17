@@ -10599,7 +10599,6 @@ chylomicron
 chylopericardium
 chylophylly
 chylophyllous
-celestas
 crunchily
 chylophyllously
 cabalistically
@@ -29985,6 +29984,7 @@ cytinus
 crotaphitic
 crotaphytus
 crotch
+celestas
 citicism
 crotcheteer
 crotcheting
