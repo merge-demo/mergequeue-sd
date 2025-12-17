@@ -3676,6 +3676,7 @@ economite
 eyelast
 eolipile
 episiohematoma
+euros
 eulogizing
 eutaxitic
 etuvee
@@ -9049,7 +9050,6 @@ electrothermostatic
 ennobled
 eschalots
 engnessang
-euros
 erythrolytic
 equitangential
 expulse

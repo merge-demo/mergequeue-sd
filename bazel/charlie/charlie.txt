@@ -10763,7 +10763,6 @@ consequents
 casinet
 chinkara
 chinker
-chinkerinchee
 chinky
 ctenidia
 chinkier
@@ -18299,6 +18298,7 @@ cogitate
 combed
 campal
 cogglety
+chinkerinchee
 culdee
 coggly
 chatteration
