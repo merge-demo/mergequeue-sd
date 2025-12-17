@@ -6594,6 +6594,7 @@ groyne
 goulan
 ghostwrite
 gingivolabial
+gauntest
 glucosid
 gynandrian
 gelsemin
@@ -10096,7 +10097,6 @@ galivanting
 glore
 gudgeon
 grobianism
-gauntest
 graecize
 glamourless
 gainings
