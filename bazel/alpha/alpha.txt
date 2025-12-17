@@ -2911,7 +2911,6 @@ areographically
 acrosomes
 autolimnetic
 aneurysms
-anapsid
 aphotaxis
 ammoniureted
 acrux
@@ -14434,6 +14433,7 @@ anthracomancy
 anthracomarti
 ambulancing
 analepsis
+anapsid
 albuminone
 antagonizable
 antiprelatism
