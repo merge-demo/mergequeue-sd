@@ -833,7 +833,6 @@ donnert
 daddy
 downpours
 danic
-dingthrift
 dwell
 dams
 drivelling
@@ -3076,6 +3075,7 @@ dollyway
 deescalate
 deeses
 deemphasize
+dingthrift
 documentational
 dorsoapical
 diester
