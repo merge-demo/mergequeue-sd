@@ -5415,7 +5415,6 @@ flecky
 fricasseing
 fosterite
 furole
-flyswat
 figuration
 forthbringer
 formable
@@ -5477,6 +5476,7 @@ flex
 fusionless
 firefighter
 forevow
+flyswat
 firearmed
 fatalisms
 fley
