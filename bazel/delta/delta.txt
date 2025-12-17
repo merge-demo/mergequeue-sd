@@ -8338,7 +8338,6 @@ disruptable
 dioestrum
 disincline
 duchies
-dialed
 depredation
 disvouch
 decalobate
@@ -9863,6 +9862,7 @@ diluvium
 draconically
 dextrality
 dimastigate
+dialed
 deli
 divergences
 damyankee
