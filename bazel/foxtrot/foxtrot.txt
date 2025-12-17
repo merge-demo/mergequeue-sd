@@ -6506,6 +6506,7 @@ fakes
 flustery
 filiciform
 fondnesses
+forwelk
 foster
 fario
 factionist
@@ -8799,7 +8800,6 @@ fjerding
 falcopern
 fliped
 foolheadedness
-forwelk
 foenngreek
 flossification
 fondlike

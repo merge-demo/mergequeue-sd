@@ -3393,7 +3393,6 @@ blushing
 bulletmaker
 bastardism
 blather
-bastardized
 bastardizes
 bastardliness
 birimose
@@ -10720,6 +10719,7 @@ begging
 brushup
 bharata
 bossship
+bastardized
 birdbrained
 baldberry
 beggarism
