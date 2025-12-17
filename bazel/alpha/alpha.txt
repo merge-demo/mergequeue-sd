@@ -5245,7 +5245,6 @@ affectionally
 affectionateness
 anemographic
 affections
-affectious
 affective
 advocacies
 affectivity
@@ -22264,6 +22263,7 @@ atropinize
 alnath
 anvasser
 adeption
+affectious
 amsath
 anaesthesia
 ariette
