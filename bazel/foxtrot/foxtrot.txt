@@ -1118,7 +1118,6 @@ fleabites
 flatiron
 foretime
 farsightedness
-forkedly
 faciocervical
 flatwoods
 foes
@@ -1330,6 +1329,7 @@ flyable
 factionally
 frantically
 fluxible
+forkedly
 fartherer
 feest
 features
