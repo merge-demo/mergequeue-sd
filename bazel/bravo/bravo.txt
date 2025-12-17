@@ -5549,6 +5549,7 @@ bagnette
 barrette
 bedbug
 bloodguiltless
+baloch
 blackeners
 brutified
 brominism
@@ -16910,7 +16911,6 @@ bombardon
 beeve
 bussu
 beudanite
-baloch
 bugginess
 bookmonger
 bugara
