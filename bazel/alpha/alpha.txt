@@ -818,6 +818,7 @@ abrood
 abrook
 aiel
 atrabiliary
+acanthosis
 abruptio
 acropolises
 anathematising
@@ -8492,7 +8493,6 @@ antinomy
 acetophenone
 amebocyte
 autophyllogeny
-acanthosis
 alkapton
 alkaptone
 ascent
