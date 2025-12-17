@@ -6608,7 +6608,6 @@ graphalloy
 goldsmithery
 good
 grus
-gurglets
 galipidine
 ghats
 gonophorous
@@ -7226,6 +7225,7 @@ germanish
 gambit
 gonoblastidial
 grabbler
+gurglets
 globulose
 gallanted
 graminifolious
