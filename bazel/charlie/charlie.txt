@@ -5873,7 +5873,6 @@ chimer
 caudaite
 catenate
 crooisite
-catenating
 catenation
 capomo
 compositorial
@@ -20081,6 +20080,7 @@ centifolious
 cristispira
 cribella
 commies
+catenating
 crouke
 chrysalides
 cincturing
