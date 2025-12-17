@@ -14208,6 +14208,7 @@ clumplike
 ccesser
 circumforaneous
 chamma
+cupules
 circumfulgent
 circumfuse
 celanese
@@ -31216,7 +31217,6 @@ convertible
 catnep
 ceratophyte
 ceramicists
-cupules
 curvatures
 convulsible
 chickenhood
