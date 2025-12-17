@@ -5402,7 +5402,6 @@ excantation
 earthtongue
 endpoints
 endrudge
-extrabulbar
 ecderonic
 endseal
 endshake
@@ -14061,6 +14060,7 @@ emulsibility
 extravaganza
 eutectoid
 extravaginal
+extrabulbar
 electrify
 exteroceptist
 eyeable
