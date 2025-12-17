@@ -2123,7 +2123,6 @@ decamethonium
 decametric
 decanal
 decancellate
-dominator
 decancellated
 disciplinarian
 debaser
@@ -2422,6 +2421,7 @@ donny
 dripstick
 disaffects
 decima
+dominator
 decimalism
 dueling
 disinfeudation

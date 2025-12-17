@@ -4540,7 +4540,6 @@ carbine
 cephalogenesis
 carnallite
 colluvies
-churchshot
 carnalness
 cascabels
 conidial
@@ -28719,6 +28718,7 @@ creosote
 casasia
 curran
 cribriform
+churchshot
 cole
 creosotes
 creosotic
