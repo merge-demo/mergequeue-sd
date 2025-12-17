@@ -846,7 +846,6 @@ garewaite
 gloriousness
 gemologies
 greeing
-gastromyxorrhea
 gire
 geometrician
 grammaticality
@@ -6698,6 +6697,7 @@ giantism
 gastroscopies
 graptolithida
 gallflies
+gastromyxorrhea
 grillwork
 gimlets
 geomalic
