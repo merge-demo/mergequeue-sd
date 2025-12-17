@@ -5663,6 +5663,7 @@ crook
 choraleon
 cataphrygian
 cataphrygianism
+contrair
 cataplane
 cataplasia
 conepate
@@ -10766,7 +10767,6 @@ ctenidia
 chinkier
 cleverality
 catalytically
-contrair
 chinks
 concameration
 cilicious
