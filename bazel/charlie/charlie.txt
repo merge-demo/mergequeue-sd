@@ -11030,6 +11030,7 @@ chiselmouth
 chisels
 chisled
 clarkeites
+catechus
 conichalcite
 chistka
 chit
@@ -28612,7 +28613,6 @@ crossbowmen
 coccogonium
 condisciple
 chally
-catechus
 cremation
 cremationism
 cremationist
