@@ -3297,7 +3297,6 @@ electrized
 embadomonas
 eats
 embain
-egglike
 epanthous
 ethylenediamine
 equipollentness
@@ -6993,6 +6992,7 @@ electrotitration
 endosteomas
 effigiating
 estated
+egglike
 emetines
 extradialectal
 economising
