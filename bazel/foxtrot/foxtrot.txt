@@ -991,6 +991,7 @@ flaffer
 fleshhood
 friarbird
 fares
+fenestella
 feats
 foxish
 fastigated
@@ -3410,7 +3411,6 @@ fustanella
 floc
 flecker
 featherlike
-fenestella
 forestate
 fielders
 forset
