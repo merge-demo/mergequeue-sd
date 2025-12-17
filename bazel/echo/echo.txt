@@ -11704,7 +11704,6 @@ escolar
 enfolding
 eventualities
 eliding
-exaltation
 erenow
 explanator
 enterocoele
@@ -12418,6 +12417,7 @@ envisionment
 epistyle
 erythrocytometry
 experient
+exaltation
 eyer
 ergometer
 erinaceus
