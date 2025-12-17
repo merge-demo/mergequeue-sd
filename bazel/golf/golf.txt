@@ -364,6 +364,7 @@ glovelike
 galactotrophy
 goodhumoredness
 grandeeism
+gunstocks
 gynobasic
 gelded
 galangin
@@ -3296,7 +3297,6 @@ geriatrist
 goxes
 gaius
 german
-gunstocks
 graminiferous
 germanification
 gadso
