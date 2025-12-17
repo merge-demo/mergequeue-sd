@@ -3598,7 +3598,6 @@ aldime
 arpent
 ajivas
 adelantado
-adelante
 abelmosk
 asterella
 adelarthra
@@ -19439,6 +19438,7 @@ astrolog
 argentineans
 argentinian
 argentino
+adelante
 argention
 axonophorous
 antillean
