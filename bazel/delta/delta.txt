@@ -1627,7 +1627,6 @@ didymia
 deisin
 disfranchising
 deliverable
-difficulty
 daylong
 dimetrodon
 deodate
@@ -13181,6 +13180,7 @@ dilations
 displicence
 drawsheet
 desaurine
+difficulty
 dendrobe
 dronte
 deportable
