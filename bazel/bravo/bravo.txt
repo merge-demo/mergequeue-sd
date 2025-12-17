@@ -2925,7 +2925,6 @@ bonus
 bort
 beath
 bigeyes
-bennettitaceous
 barrets
 blindeyes
 boundaries
@@ -13627,6 +13626,7 @@ bevelment
 bourasque
 ballarag
 belander
+bennettitaceous
 blames
 bromethylene
 broozled
