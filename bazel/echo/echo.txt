@@ -5299,6 +5299,7 @@ endoscopies
 epipodia
 endoskeletons
 evaders
+enew
 embaphium
 ethenyl
 endosomes
@@ -8084,7 +8085,6 @@ exradius
 epididymite
 enteradenography
 earaches
-enew
 exhumator
 episclera
 ell
