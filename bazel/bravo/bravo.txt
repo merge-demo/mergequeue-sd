@@ -1403,7 +1403,6 @@ bewreak
 bepuffed
 barmbrack
 branned
-baleys
 baleise
 bougainvillaea
 beslave
@@ -8663,6 +8662,7 @@ barbecues
 bilos
 biloxi
 barbells
+baleys
 bestream
 bitterish
 benshea
