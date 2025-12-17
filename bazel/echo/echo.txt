@@ -2224,6 +2224,7 @@ extemporization
 eudiometry
 extruded
 enchantments
+experimentist
 exormia
 enbloc
 endolymph
@@ -13146,7 +13147,6 @@ effronted
 earthborn
 extollation
 embolomycotic
-experimentist
 extracathedral
 emulsify
 efoveolate
