@@ -873,7 +873,6 @@ ghatti
 gymnophiona
 guerrilla
 gametangia
-gerontomorphosis
 geminal
 gotha
 gametocyst
@@ -8164,6 +8163,7 @@ glazier
 gemmiparous
 grapeless
 gumlah
+gerontomorphosis
 guillem
 geotaxy
 groomsmen
