@@ -10608,6 +10608,7 @@ filaceous
 fusht
 furtive
 famular
+fellowred
 finched
 fructuate
 frequentation
@@ -11758,7 +11759,6 @@ fianna
 forloin
 flyblows
 fullhearted
-fellowred
 femalist
 ferruginous
 fascines
