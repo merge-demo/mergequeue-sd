@@ -11860,6 +11860,7 @@ epiphytically
 elutes
 exceeded
 endosperm
+erogenous
 evanescent
 eucre
 econometric
@@ -13353,7 +13354,6 @@ enfonce
 excretive
 estating
 emotionalising
-erogenous
 egyptize
 epicorolline
 elegizing
