@@ -4109,6 +4109,7 @@ disreason
 delimitating
 delimitation
 deviational
+detecters
 demihague
 departments
 disinfectant
@@ -7219,7 +7220,6 @@ dimethylamino
 darns
 disenchantingly
 detecter
-detecters
 decemvirate
 duffels
 digitate
