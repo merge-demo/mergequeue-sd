@@ -1908,6 +1908,7 @@ federalism
 fykes
 fecalith
 frightfulness
+frictional
 frithborh
 fixure
 fades
@@ -11504,7 +11505,6 @@ frow
 forethoughtless
 forespecified
 fuscin
-frictional
 fuscohyaline
 furthered
 foretopmen
