@@ -8263,6 +8263,7 @@ grossulariaceae
 guerrillaship
 graphophonic
 glycoprotein
+guidonian
 grinderies
 guerdonless
 graphotype
@@ -9736,7 +9737,6 @@ gastrogenic
 goldeneyes
 goodwills
 gargantuan
-guidonian
 georgiana
 gambades
 greyhounds
