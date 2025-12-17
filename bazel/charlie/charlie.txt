@@ -1472,6 +1472,7 @@ chicks
 crapes
 commercializes
 calisthenics
+chloranaemia
 cephalins
 calite
 calyx
@@ -8742,7 +8743,6 @@ cirsium
 chapes
 clinicians
 chapiter
-chloranaemia
 chapitral
 chaplain
 chaplaincies
