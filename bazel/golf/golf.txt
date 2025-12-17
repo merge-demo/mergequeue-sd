@@ -1328,6 +1328,7 @@ ganoine
 goanese
 guslee
 greenhouse
+gospellike
 goldsmiths
 garishly
 galligaskins
@@ -8660,7 +8661,6 @@ garlopa
 geobiologic
 galvaniser
 grossulaceous
-gospellike
 gigartinales
 gummic
 gonocalycine
