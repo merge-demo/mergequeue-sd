@@ -766,6 +766,7 @@ gaulter
 gutter
 gluck
 gutturize
+galchic
 galvanothermometer
 galliformes
 ginneries
@@ -4731,7 +4732,6 @@ gauping
 geisothermal
 glycerate
 gigged
-galchic
 gifting
 gelatia
 giraffes
