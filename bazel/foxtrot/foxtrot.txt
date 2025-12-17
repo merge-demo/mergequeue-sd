@@ -3124,7 +3124,6 @@ franciscans
 facile
 finca
 flip
-fences
 fibroins
 founderous
 fairlead
@@ -3509,6 +3508,7 @@ flatulent
 fute
 flirters
 flyweight
+fences
 fleetingly
 frivolized
 fernland
