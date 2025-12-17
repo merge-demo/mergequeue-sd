@@ -1206,7 +1206,6 @@ extrascripturality
 epit
 enneastyle
 eel
-electrosherardizing
 escalade
 externity
 eelboat
@@ -11288,6 +11287,7 @@ endue
 eliquated
 empyrean
 evaporations
+electrosherardizing
 eclairissement
 earthian
 ethicals
