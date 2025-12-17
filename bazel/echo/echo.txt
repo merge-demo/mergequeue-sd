@@ -3302,6 +3302,7 @@ embain
 egglike
 epanthous
 ethylenediamine
+equipollentness
 extranormal
 emballonuridae
 eulachons
@@ -4959,7 +4960,6 @@ eightscore
 endenization
 ecarte
 escritorial
-equipollentness
 eumoirous
 exhibitional
 endenize
