@@ -12087,7 +12087,6 @@ expostulation
 extollingly
 erepsin
 escuage
-enflames
 exploit
 editress
 eartag
@@ -13537,6 +13536,7 @@ execrating
 extemporarily
 exscutellate
 extravagancy
+enflames
 elflock
 eutaxie
 excitements
