@@ -16762,6 +16762,7 @@ cystirrhea
 carding
 criophoros
 clover
+coltskin
 chiloplasty
 cloverlay
 citizen
@@ -24444,7 +24445,6 @@ coories
 coos
 counterpractice
 coosers
-coltskin
 coost
 curves
 coosuc
