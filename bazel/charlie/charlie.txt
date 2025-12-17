@@ -6011,6 +6011,7 @@ catspaws
 cathograph
 celia
 cathography
+ceraunogram
 critics
 centraliser
 collatress
@@ -6518,7 +6519,6 @@ canmaker
 cavilers
 cavilingly
 craftsmen
-ceraunogram
 conrectorship
 catharticalness
 caviller
