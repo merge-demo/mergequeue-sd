@@ -1468,7 +1468,6 @@ calisayas
 clave
 chicks
 crapes
-calistheneum
 commercializes
 calisthenics
 cephalins
@@ -22808,6 +22807,7 @@ consents
 catchiness
 causticized
 combinableness
+calistheneum
 cheirotherium
 consequent
 ciconian
