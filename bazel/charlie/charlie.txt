@@ -7135,6 +7135,7 @@ chloranthaceae
 centrad
 central
 chevelure
+confessionalist
 cestraciontidae
 centralise
 centralised
@@ -13386,7 +13387,6 @@ copelatae
 cicurate
 coffered
 cicuta
-confessionalist
 classifications
 cicutoxin
 calyptrogen
