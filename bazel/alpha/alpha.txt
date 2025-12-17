@@ -1776,7 +1776,6 @@ actualist
 abuse
 aceacenaphthene
 anthony
-anticosine
 asphyxies
 aglipayano
 arabis
@@ -6623,6 +6622,7 @@ antibaryon
 albi
 americanumancestors
 annite
+anticosine
 actinometers
 anaesthesiology
 aigialosauridae
