@@ -8069,7 +8069,6 @@ bartend
 bagroom
 bicornute
 beshadow
-bicorporate
 banyai
 belleeks
 bacteriohemolysin
@@ -17252,6 +17251,7 @@ bawlers
 bimethyl
 badgers
 bolographically
+bicorporate
 bumblers
 botulinuses
 bootlaces
