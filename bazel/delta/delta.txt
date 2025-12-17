@@ -3475,6 +3475,7 @@ defoamed
 diacetylmorphine
 damozels
 defoamer
+disencharm
 dryer
 despotisms
 dishlike
@@ -12003,7 +12004,6 @@ dowd
 disenchantments
 disenchantress
 depluming
-disencharm
 doctrix
 disenclose
 daint
