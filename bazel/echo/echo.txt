@@ -9859,7 +9859,6 @@ exiles
 estimable
 empiricists
 electrobiologically
-electrologist
 endothrix
 estimate
 exponents
@@ -10170,6 +10169,7 @@ ethicoaesthetic
 ethicopolitical
 emoter
 ethicoreligious
+electrologist
 erased
 elytriform
 etesian
