@@ -1962,6 +1962,7 @@ debunks
 disedify
 divinatory
 dermohumeral
+doftberry
 disyllabism
 deburr
 divulgatory
@@ -12050,7 +12051,6 @@ disentail
 deprecatively
 disentangle
 dissensious
-doftberry
 dentine
 disentanglement
 decollete
