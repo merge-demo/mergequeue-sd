@@ -5943,6 +5943,7 @@ enframing
 enigma
 enigmas
 enjambements
+enscrolls
 eighty
 enigmata
 eluvial
@@ -8314,7 +8315,6 @@ exarchate
 eagling
 epitheme
 evangelise
-enscrolls
 eternizing
 eland
 endocyemate
