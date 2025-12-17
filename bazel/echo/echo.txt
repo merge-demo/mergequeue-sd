@@ -1026,7 +1026,6 @@ eagerly
 exsheath
 edged
 eidolon
-expiscatory
 edger
 edgeshot
 edgeway
@@ -7510,6 +7509,7 @@ electromyographical
 exstemporaneous
 epauliere
 ectoprocta
+expiscatory
 exocarp
 experienceable
 eldrich
