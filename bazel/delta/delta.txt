@@ -592,6 +592,7 @@ downweight
 desmopathologist
 dicyclopentadienyliron
 dehydroretinol
+distitle
 develin
 drawboy
 demifusion
@@ -5313,7 +5314,6 @@ doctrinarianism
 droud
 ducks
 distincter
-distitle
 dijudicated
 defiant
 desecate
