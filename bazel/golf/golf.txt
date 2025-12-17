@@ -3742,7 +3742,6 @@ guayacan
 graduations
 glabellae
 gasterothecal
-gallein
 glinse
 goonie
 geometdecrne
@@ -10579,6 +10578,7 @@ guillemot
 graverobber
 gumtree
 gambetta
+gallein
 grandmaster
 goustie
 gemmiest
