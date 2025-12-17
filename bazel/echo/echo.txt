@@ -3888,7 +3888,6 @@ evader
 encinillo
 eccentrometer
 enstate
-emory
 exopathic
 estella
 eccentric
@@ -7784,6 +7783,7 @@ eburnean
 epigyne
 endotoxic
 ectodynamomorphic
+emory
 extenuation
 echolalia
 exodermis
