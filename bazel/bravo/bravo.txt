@@ -2521,7 +2521,6 @@ beltways
 bloodberry
 bardel
 barylalia
-beleaped
 blens
 bactrian
 backtalk
@@ -5913,6 +5912,7 @@ belotte
 bowden
 bechancing
 benzalcyanhydrin
+beleaped
 bagatine
 beden
 backswordmen
