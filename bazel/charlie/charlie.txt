@@ -2376,7 +2376,6 @@ canap
 consummator
 cutlasses
 cabriole
-cubitocutaneous
 compliments
 canapina
 canards
@@ -13289,6 +13288,7 @@ cyclonology
 cycloolefin
 consertal
 corallita
+cubitocutaneous
 chirred
 cacciatore
 colob
