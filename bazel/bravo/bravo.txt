@@ -10724,7 +10724,6 @@ begging
 brushup
 bharata
 bossship
-bangiaceous
 birdbrained
 baldberry
 beggarism
@@ -14747,6 +14746,7 @@ brazil
 bylines
 bestraddle
 bilgewater
+bangiaceous
 bacquet
 browbound
 braziletto
