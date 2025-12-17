@@ -630,7 +630,6 @@ caelometer
 cresson
 caenogenetic
 costume
-crimpers
 circumscript
 coralline
 caenostyly
@@ -4222,6 +4221,7 @@ chamomile
 carditis
 carditises
 cardium
+crimpers
 chervante
 continual
 chopin
