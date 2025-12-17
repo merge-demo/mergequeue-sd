@@ -3487,6 +3487,7 @@ exanthematous
 ergographic
 emboweled
 ethanamide
+exogenism
 electrosurgically
 eschewance
 extortionary
@@ -11668,7 +11669,6 @@ eyeball
 erept
 eyedropper
 embracers
-exogenism
 exaggerate
 electrize
 etiotropic
