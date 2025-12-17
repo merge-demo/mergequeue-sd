@@ -11948,7 +11948,6 @@ ensampler
 ecoid
 extracostal
 endotheliolysin
-epicedial
 esmeraldan
 epanagoge
 eructating
@@ -12971,6 +12970,7 @@ epicentrums
 equanimously
 expecter
 expecting
+epicedial
 expectingly
 enzym
 encephalopyosis
