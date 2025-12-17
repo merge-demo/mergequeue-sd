@@ -7346,6 +7346,7 @@ embue
 exstipulate
 epeiric
 exciseman
+ensign
 enunciate
 ecclesiastically
 embowerment
@@ -11645,7 +11646,6 @@ exacting
 electroirrigation
 eruca
 electivity
-ensign
 eburnian
 exaction
 enfire
