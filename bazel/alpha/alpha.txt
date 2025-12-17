@@ -12591,7 +12591,6 @@ anepigraphous
 algae
 amorists
 anepithymia
-awnlike
 ardennite
 appenditious
 aligns
@@ -19629,6 +19628,7 @@ alloclase
 apophorometer
 aridian
 aridity
+awnlike
 admonishes
 analogies
 aridities
