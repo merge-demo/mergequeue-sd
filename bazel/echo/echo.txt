@@ -5993,6 +5993,7 @@ electricalness
 embolomerism
 electrodynamism
 exhortative
+extractability
 ensandal
 estampedero
 erosion
@@ -13842,7 +13843,6 @@ equivocation
 evaporize
 ethionic
 ellasar
-extractability
 eluated
 enmities
 eyestrings
