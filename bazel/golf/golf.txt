@@ -427,7 +427,6 @@ goober
 gair
 guests
 glucic
-gamosepalous
 gardenable
 gammexane
 grapefruits
@@ -6431,6 +6430,7 @@ gaine
 glucocorticord
 grasswidowhood
 goitrogenic
+gamosepalous
 galibi
 glossopteris
 golaseccan
