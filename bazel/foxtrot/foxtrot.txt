@@ -8148,7 +8148,6 @@ fooster
 farmland
 foison
 fire
-flexo
 featherpate
 flatcaps
 faithful
@@ -11579,6 +11578,7 @@ fusillading
 feuage
 furzechat
 fluence
+flexo
 fruitlike
 foretalking
 fthm
