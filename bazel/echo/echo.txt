@@ -3358,7 +3358,6 @@ ethnarchy
 emetophobia
 ephoral
 erinize
-embassadress
 elaine
 embassy
 excreta
@@ -12554,6 +12553,7 @@ enherit
 entryman
 eft
 eucosia
+embassadress
 exmeridian
 exoascaceous
 exoascales
