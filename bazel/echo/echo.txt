@@ -6060,7 +6060,6 @@ eelpot
 enliveningly
 evertebrate
 excruciate
-escutcheon
 encounters
 epilator
 enlightenedly
@@ -12988,6 +12987,7 @@ enneahedria
 exculpate
 endosecretory
 etatisms
+escutcheon
 evanescenrly
 equivale
 epiboly
