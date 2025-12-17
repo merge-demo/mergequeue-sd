@@ -5429,6 +5429,7 @@ frigefact
 fleabiting
 fledgeling
 fiendhead
+foredooming
 foxfinger
 fetis
 fragmentize
@@ -9805,7 +9806,6 @@ firedamps
 fragmentary
 flowoff
 fattens
-foredooming
 fleck
 faddist
 firefang
