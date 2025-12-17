@@ -2933,6 +2933,7 @@ gobiiformes
 gro
 gwiniad
 glitter
+gabionage
 gabbled
 geocerite
 gubernation
@@ -9426,7 +9427,6 @@ gingivoglossitis
 gramps
 gingerliness
 glycollide
-gabionage
 groupies
 ghastfully
 grouchiness
