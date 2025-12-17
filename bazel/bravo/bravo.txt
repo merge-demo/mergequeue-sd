@@ -7529,6 +7529,7 @@ biathlon
 bedgery
 bevenom
 bever
+bouchette
 barleducs
 blemishment
 burses
@@ -13468,7 +13469,6 @@ belime
 barometrography
 blundered
 bielid
-bouchette
 bichromate
 beleft
 boisterousness
