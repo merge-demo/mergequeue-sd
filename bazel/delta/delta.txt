@@ -7164,6 +7164,7 @@ diductor
 drawboring
 deerkill
 desulphurize
+dimastigate
 depauperate
 depullulation
 diplospondylism
@@ -9860,7 +9861,6 @@ denty
 diluvium
 draconically
 dextrality
-dimastigate
 dialed
 deli
 divergences
