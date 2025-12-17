@@ -5624,7 +5624,6 @@ baptistery
 bima
 bridelike
 belate
-babbittess
 belating
 belauded
 bullseye
@@ -13103,6 +13102,7 @@ borrel
 borreria
 brunel
 bandoliered
+babbittess
 bonanzas
 borrowable
 barocyclonometer
