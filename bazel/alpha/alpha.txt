@@ -6579,7 +6579,6 @@ auxetically
 aldebaranium
 ayatollah
 aiblins
-antileptic
 aidance
 apostasy
 aidant
@@ -24046,6 +24045,7 @@ archaeography
 azoblack
 adversaries
 anjou
+antileptic
 antic
 autocorrosion
 archispermae
