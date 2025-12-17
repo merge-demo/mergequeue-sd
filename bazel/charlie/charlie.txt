@@ -4547,6 +4547,7 @@ cascabels
 conidial
 carnaptious
 congratulate
+clockmaking
 carnaria
 carnassial
 carnate
@@ -16443,7 +16444,6 @@ clocker
 clockhouse
 clockless
 cuon
-clockmaking
 crewer
 clockwatcher
 clockwise
