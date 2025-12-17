@@ -11083,6 +11083,7 @@ breakfasts
 barrooms
 buoyance
 bodikin
+benchers
 backbreaking
 bakongo
 berengena
@@ -15197,7 +15198,6 @@ backstrip
 bucketing
 balneal
 bestrewn
-benchers
 bridale
 basehearted
 bridally
