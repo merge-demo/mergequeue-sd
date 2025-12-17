@@ -708,7 +708,6 @@ grassmen
 germanistic
 gawn
 gladdest
-grissen
 gersdorffite
 gentianic
 gor
@@ -4243,6 +4242,7 @@ galvayne
 gigantosaurus
 gastropore
 gonidiose
+grissen
 gonorrheic
 ghibelline
 gynaecium

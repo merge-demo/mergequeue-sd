@@ -3762,6 +3762,7 @@ bawdstrot
 blephillia
 batwing
 baysmelt
+bumboat
 beswitch
 bioenvironmental
 betatrons
@@ -17260,7 +17261,6 @@ bumbo
 begum
 blueball
 blaewort
-bumboat
 biguttulate
 batling
 boltings
