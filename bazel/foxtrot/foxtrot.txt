@@ -5462,6 +5462,7 @@ flexuosely
 floatative
 foggy
 fleering
+formula
 faunal
 figurativeness
 formulator
@@ -8796,7 +8797,6 @@ forechurch
 foreguidance
 flunking
 fjerding
-formula
 falcopern
 fliped
 foolheadedness

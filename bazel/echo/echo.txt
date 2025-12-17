@@ -3175,7 +3175,6 @@ educive
 extroversively
 eludible
 enswathes
-enfollow
 eluents
 elul
 epidemic
@@ -3459,6 +3458,7 @@ epilogized
 emirates
 eproboscidea
 endow
+enfollow
 elate
 ensphering
 encarpi
