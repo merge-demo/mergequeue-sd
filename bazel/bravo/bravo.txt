@@ -5119,6 +5119,7 @@ bander
 bhangs
 bombshells
 beflour
+barometz
 beflowered
 biotas
 batta
@@ -17483,7 +17484,6 @@ bioecologist
 buqshas
 bown
 brambrack
-barometz
 buicks
 babyhood
 buran
