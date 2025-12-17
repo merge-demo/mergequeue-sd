@@ -3060,6 +3060,7 @@ equiangularity
 epicalyces
 even
 encomiums
+enthrone
 ecdysones
 echinorhinidae
 etheriidae
@@ -7917,7 +7918,6 @@ exudates
 expectation
 exordia
 epimandibular
-enthrone
 epimanikia
 eolopile
 estragol
