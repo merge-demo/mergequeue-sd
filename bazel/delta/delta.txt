@@ -2766,7 +2766,6 @@ disfeatured
 defeaters
 decorticated
 disparages
-dacryelcosis
 daemonurgy
 decortication
 dematerialization
@@ -17634,6 +17633,7 @@ desmodium
 disillusionize
 disannulled
 dinners
+dacryelcosis
 dsname
 dsri
 defeminization
