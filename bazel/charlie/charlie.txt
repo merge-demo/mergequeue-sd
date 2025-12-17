@@ -5543,6 +5543,7 @@ clacked
 catacoustics
 cwms
 catacromyodian
+confiture
 ceratothecal
 cardiological
 catadicrotic
@@ -7202,7 +7203,6 @@ clivia
 cavaedia
 centriole
 chalazogam
-confiture
 codebreak
 chymous
 chalcotrichite
