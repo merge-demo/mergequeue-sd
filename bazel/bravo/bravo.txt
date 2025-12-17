@@ -5094,7 +5094,6 @@ beflagged
 broidering
 bodymaking
 beflagging
-babery
 bentwood
 borani
 byplace
@@ -13731,6 +13730,7 @@ brachydactyly
 bait
 bounty
 bowback
+babery
 bushment
 brazes
 bootlickers
