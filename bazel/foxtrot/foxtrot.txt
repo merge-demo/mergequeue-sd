@@ -5983,6 +5983,7 @@ fantaisie
 fisk
 fundatrix
 filleter
+fastball
 fanwright
 ferguson
 favism
@@ -6945,7 +6946,6 @@ fanakalo
 fulgurite
 formalisation
 forbode
-fastball
 felicitations
 foxlike
 farthingales
