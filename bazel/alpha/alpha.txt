@@ -991,7 +991,6 @@ abstaining
 abstains
 antiserum
 assis
-ammodyte
 atlantomastoid
 astron
 abstemiousness
@@ -3280,6 +3279,7 @@ acus
 atrabile
 anisotropism
 atresy
+ammodyte
 acetanion
 army
 azimin
