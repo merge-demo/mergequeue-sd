@@ -282,7 +282,6 @@ fadmongering
 flooders
 fairly
 folk
-flakily
 fourierite
 foreshortening
 ford
@@ -7891,6 +7890,7 @@ fustian
 frithbot
 forbear
 foreran
+flakily
 feudists
 fascination
 forereach
