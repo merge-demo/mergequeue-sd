@@ -2751,6 +2751,7 @@ gaedelian
 grooms
 genoise
 gormandising
+glaciable
 gentiopicrin
 girths
 gorgers
@@ -3396,7 +3397,6 @@ gondolier
 gnatling
 gorkun
 galbe
-glaciable
 gainor
 guttulate
 gymnoceratous
