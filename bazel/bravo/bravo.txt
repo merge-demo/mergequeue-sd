@@ -5395,7 +5395,6 @@ bloodripeness
 briquets
 babelic
 begulf
-blastomycotic
 bakshish
 begummed
 biolite
@@ -8042,6 +8041,7 @@ bullescene
 biconic
 biconically
 biconnected
+blastomycotic
 boildown
 brighid
 bayberry
