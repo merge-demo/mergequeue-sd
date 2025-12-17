@@ -3185,6 +3185,7 @@ freshment
 footballist
 firma
 fauns
+fissury
 forellenstein
 ficaries
 flouse
@@ -11460,7 +11461,6 @@ furrowing
 furrowlike
 forewish
 furcately
-fissury
 ferntickle
 furrure
 foreglimpse
