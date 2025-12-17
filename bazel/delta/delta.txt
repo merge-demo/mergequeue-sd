@@ -7749,7 +7749,6 @@ dogmatization
 deadweight
 deviser
 devising
-direption
 detailism
 diglyph
 devisor
@@ -13530,6 +13529,7 @@ distributival
 devaluation
 darlings
 divergence
+direption
 disseminations
 digredient
 dismeasured
