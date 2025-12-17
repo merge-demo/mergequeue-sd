@@ -17554,7 +17554,6 @@ corvina
 cacoxene
 coccidiosis
 coccidium
-coccidology
 coccids
 coccygean
 cornify
@@ -20484,6 +20483,7 @@ compatibility
 compatibilities
 cainism
 condors
+coccidology
 compatible
 clouts
 compatibleness
