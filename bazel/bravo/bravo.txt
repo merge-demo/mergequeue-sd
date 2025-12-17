@@ -401,7 +401,6 @@ blesbuck
 betipple
 bailor
 brigadier
-bearcat
 babbled
 backouts
 bheesties
@@ -9936,6 +9935,7 @@ brisure
 blastoporal
 babblative
 bana
+bearcat
 bowstrung
 bedrivelling
 bituminoid
