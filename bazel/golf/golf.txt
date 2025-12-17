@@ -235,6 +235,7 @@ gail
 gundy
 glowfly
 graffiti
+galiots
 gabbles
 gestatorium
 golpe
@@ -9930,7 +9931,6 @@ grander
 goodsire
 grainsick
 gallop
-galiots
 glamorizing
 gaslights
 groundnut
