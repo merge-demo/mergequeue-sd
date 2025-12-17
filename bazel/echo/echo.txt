@@ -2611,6 +2611,7 @@ esophagism
 electrotactic
 eyra
 emmanuel
+enfeoff
 emborder
 electrotechnician
 exports
@@ -9393,7 +9394,6 @@ elutriated
 exostosed
 epipodium
 escharotic
-enfeoff
 eschatological
 enaliosauria
 epistemonical
