@@ -6262,6 +6262,7 @@ enrockment
 enroll
 enrollee
 extraorbitally
+encephaloma
 embryologies
 efformative
 earmarking
@@ -9551,7 +9552,6 @@ expediente
 excurse
 esculent
 egocentristic
-encephaloma
 enchasers
 esoethmoiditis
 exornation
