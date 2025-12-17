@@ -1078,6 +1078,7 @@ dedecorate
 defuses
 decanoyl
 downpour
+duodenojejunostomy
 defluxion
 datiscaceae
 dhyal
@@ -14890,7 +14891,6 @@ dodecahedral
 doctorate
 dieselization
 dodecahydrate
-duodenojejunostomy
 divata
 deploys
 disanimating
