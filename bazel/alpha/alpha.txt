@@ -5898,6 +5898,7 @@ archsnob
 agents
 ageometrical
 advisor
+anglicanisms
 absence
 anophyte
 ages
@@ -12894,7 +12895,6 @@ avenger
 asteraceous
 anglian
 apportionment
-anglicanisms
 antispiritual
 abscise
 arverni
