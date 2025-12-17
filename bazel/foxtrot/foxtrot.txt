@@ -2606,7 +2606,6 @@ frivol
 filigreed
 flutework
 ferio
-farandmen
 foraminated
 folkfree
 ferruginating
@@ -8739,6 +8738,7 @@ fordoing
 foredecks
 foreleech
 flocculator
+farandmen
 footlog
 fellatee
 faultsman
