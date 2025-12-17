@@ -15741,6 +15741,7 @@ archaeocyathus
 acromania
 anaesthesiologist
 antipathetic
+aroids
 antimodernism
 autostability
 antipathetical
@@ -21168,7 +21169,6 @@ aseismic
 alkannin
 apocryphate
 arboriculturist
-aroids
 affirmingly
 aselar
 associator
