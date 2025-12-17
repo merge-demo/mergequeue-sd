@@ -2777,7 +2777,6 @@ fraze
 festivity
 forker
 feston
-flatly
 fluorimeter
 forgift
 fistulized
@@ -10561,6 +10560,7 @@ featherier
 frowziest
 frowzled
 firebases
+flatly
 fresh
 falding
 fibration
