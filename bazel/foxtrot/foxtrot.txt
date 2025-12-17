@@ -8825,7 +8825,6 @@ falcinellus
 frogfish
 fosse
 fetchers
-flotillas
 fossage
 fanlight
 female
@@ -10079,6 +10078,7 @@ frondiform
 feudatary
 firster
 foredecree
+flotillas
 formalise
 fearfulness
 feodary

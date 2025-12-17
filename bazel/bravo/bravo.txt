@@ -7770,7 +7770,6 @@ blockages
 bacchae
 brooch
 bill
-bhutanese
 birdman
 bimilllennia
 bagpipes
@@ -13687,6 +13686,7 @@ backus
 balneatory
 boutefeu
 bouteria
+bhutanese
 buns
 boutylka
 boutique
