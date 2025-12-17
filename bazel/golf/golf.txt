@@ -1221,7 +1221,6 @@ goodeniaceae
 galavants
 gramy
 gruffly
-gambler
 gonakie
 grues
 grackles
@@ -7588,6 +7587,7 @@ gheraoes
 grille
 glycosaemia
 gambians
+gambler
 gunfought
 grab
 guanamine
