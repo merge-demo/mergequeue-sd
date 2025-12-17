@@ -1394,7 +1394,6 @@ essenced
 ebrious
 endpiece
 entodermal
-epipodialia
 entoretina
 erythrocytolytic
 espoused
@@ -7242,6 +7241,7 @@ embetter
 etonian
 endurableness
 echeneidid
+epipodialia
 effigial
 eosinic
 ergatogynous
