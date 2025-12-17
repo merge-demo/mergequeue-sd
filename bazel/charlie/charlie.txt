@@ -11861,6 +11861,7 @@ chordamesodermal
 chordamesodermic
 celandine
 chordate
+collide
 chorded
 chordee
 choriso
@@ -26412,7 +26413,6 @@ catalyzing
 cotyledons
 cypraea
 cotylophora
-collide
 cotylopubic
 catatonics
 criminalist
