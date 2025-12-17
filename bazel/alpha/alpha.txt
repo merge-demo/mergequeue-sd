@@ -9707,7 +9707,6 @@ amphiblastic
 alurgite
 autocephalic
 asepalous
-altiplanicie
 aphthonite
 antennule
 anglicans
@@ -11830,6 +11829,7 @@ alamanni
 antinational
 antiatonement
 animalisation
+altiplanicie
 arecolin
 analytique
 analyzability
