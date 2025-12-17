@@ -4436,7 +4436,6 @@ decayers
 demeore
 divisionist
 deincrustant
-decap
 dependant
 demerit
 demiluster
@@ -7336,6 +7335,7 @@ dreariment
 daysman
 duecentos
 doctrinist
+decap
 doyen
 deterrence
 disprejudice
