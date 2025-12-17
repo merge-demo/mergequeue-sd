@@ -10500,7 +10500,6 @@ fatness
 frutescent
 frostings
 fanzine
-finises
 fervencies
 floggable
 felsosphaerite
@@ -11168,6 +11167,7 @@ forefather
 funereally
 fiddly
 force
+finises
 furls
 figged
 frowy

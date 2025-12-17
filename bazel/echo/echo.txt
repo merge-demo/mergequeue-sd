@@ -2182,7 +2182,6 @@ engrailing
 enthraldom
 emotionist
 elysee
-electic
 ethnal
 electioneer
 elaphurine
@@ -12619,6 +12618,7 @@ exoderm
 elohistic
 eranthemum
 extramurally
+electic
 emeus
 empory
 elephantidae
