@@ -769,6 +769,7 @@ earthmaking
 exodus
 epeira
 eurytopic
+escuages
 encephalography
 enter
 euplotid
@@ -1267,7 +1268,6 @@ epicranius
 effectiveness
 epopoean
 eesome
-escuages
 explicatively
 ericophyte
 efface
