@@ -19398,7 +19398,6 @@ chimaeridae
 cephalopagus
 carbohydrazide
 cup
-chasty
 colormaker
 cornicing
 colorman
@@ -31647,6 +31646,7 @@ curvometer
 cheeker
 crabber
 carduelis
+chasty
 conscripttion
 chieftainship
 curvulate
