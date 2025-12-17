@@ -3346,6 +3346,7 @@ frowsiest
 flotsam
 fluorescer
 fulmined
+figureheadless
 foreheaded
 fulcruming
 faker
@@ -5748,7 +5749,6 @@ fungistatic
 fractuosity
 furrings
 fels
-figureheadless
 fisher
 foredeserved
 filmslide
