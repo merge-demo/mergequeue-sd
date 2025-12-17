@@ -8158,7 +8158,6 @@ decasualize
 detribalize
 disruptively
 deferrization
-diachronic
 dipleurule
 daer
 darger
@@ -13774,6 +13773,7 @@ dissuades
 dissuading
 determinations
 docoglossa
+diachronic
 defections
 disturbedly
 disenchants
