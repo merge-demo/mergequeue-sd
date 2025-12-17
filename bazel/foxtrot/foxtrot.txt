@@ -7419,6 +7419,7 @@ flake
 finks
 flinging
 forereport
+fractious
 forceless
 fasciolar
 flagellariaceae
@@ -8298,7 +8299,6 @@ fluidism
 fortunate
 flirting
 farmings
-fractious
 feists
 flump
 forehoof
