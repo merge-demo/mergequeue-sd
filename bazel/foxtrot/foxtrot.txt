@@ -405,7 +405,6 @@ fronde
 farcy
 frislet
 faq
-firetrap
 frustraneous
 fribbled
 fasciae
@@ -7038,6 +7037,7 @@ flagellate
 fumade
 freespace
 fondus
+firetrap
 freetrader
 feases
 fermentum
