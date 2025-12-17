@@ -4911,6 +4911,7 @@ ecliptics
 estrada
 emulatress
 endeavour
+elusively
 endamaging
 estreated
 ericeticolous
@@ -13319,7 +13320,6 @@ explosively
 explosiveness
 equipt
 electromyograph
-elusively
 eyewear
 encomendero
 ephoralty
