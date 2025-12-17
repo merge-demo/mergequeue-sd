@@ -6549,6 +6549,7 @@ arienzo
 ahuaca
 acridane
 ahull
+arenae
 ascomata
 anacrustic
 airward
@@ -20993,7 +20994,6 @@ armorless
 ascensionist
 ascaridol
 ascensions
-arenae
 archgenethliac
 axeman
 ascertain
