@@ -3212,7 +3212,6 @@ basilect
 belays
 bloodwit
 begunk
-beautifying
 bisalt
 bote
 blottesquely
@@ -18162,6 +18161,7 @@ bosses
 biogenase
 butyrometer
 barometrically
+beautifying
 barrio
 butyrometric
 botchwork
