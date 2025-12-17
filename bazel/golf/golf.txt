@@ -317,7 +317,6 @@ gynophore
 goujons
 galactocele
 gymnopaedic
-guised
 guitguit
 galactogenetic
 gappiest
@@ -4401,6 +4400,7 @@ guz
 glottochronology
 ginglymostomoid
 gondi
+guised
 gardened
 gerund
 galvanoscope
