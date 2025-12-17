@@ -7294,7 +7294,6 @@ defecters
 defecation
 donnie
 dress
-diphthongia
 diphthongization
 determinated
 driftwood
@@ -11304,6 +11303,7 @@ dyarchical
 dimethyldiketone
 dimmable
 discarded
+diphthongia
 dulceness
 dalliers
 drainageway
