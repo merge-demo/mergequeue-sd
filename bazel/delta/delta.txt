@@ -2859,7 +2859,6 @@ dustier
 decubital
 dezincked
 daur
-desiring
 diaclasis
 decubiti
 deculturate
@@ -3566,6 +3565,7 @@ descendence
 discredence
 derivably
 drumlin
+desiring
 defunction
 deul
 disfrock
