@@ -2923,7 +2923,6 @@ bloodybones
 billowed
 bonus
 beath
-battalias
 bigeyes
 bennettitaceous
 barrets
@@ -10090,6 +10089,7 @@ blabbing
 blabmouth
 bravadoism
 bludgeoneer
+battalias
 beamish
 behave
 blackamoors
