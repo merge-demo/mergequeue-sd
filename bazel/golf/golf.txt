@@ -2240,6 +2240,7 @@ gastrotome
 glottology
 gefulltefish
 galax
+gynecic
 gonidiogenous
 goblet
 grunted
@@ -10523,7 +10524,6 @@ gramenite
 gregal
 geyserite
 gaggers
-gynecic
 globosely
 goupin
 graveman
