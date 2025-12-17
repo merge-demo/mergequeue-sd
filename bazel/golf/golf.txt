@@ -5661,7 +5661,6 @@ gastrasthenia
 game
 gunstick
 glueman
-granma
 genuflectory
 granadilla
 gowkedness
@@ -10313,6 +10312,7 @@ gourmet
 guitarist
 gelandelaufer
 gentlewomanish
+granma
 gibblegabble
 gastrulating
 guitarists
