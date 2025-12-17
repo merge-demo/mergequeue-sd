@@ -3208,7 +3208,6 @@ craked
 conubium
 citruses
 capewise
-capework
 capful
 clistogastra
 cotillon
@@ -23197,6 +23196,7 @@ constructive
 constructively
 constructivism
 constructivist
+capework
 circumstantiable
 constructor
 catabolic
