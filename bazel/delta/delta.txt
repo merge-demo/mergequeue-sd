@@ -7754,7 +7754,6 @@ deadweight
 deviser
 devising
 detailism
-diglyph
 devisor
 decrier
 dowie
@@ -18338,6 +18337,7 @@ disrupted
 duodecimole
 dithionic
 duodecimos
+diglyph
 duodedena
 dasi
 dinah
