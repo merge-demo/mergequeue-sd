@@ -5184,7 +5184,6 @@ casernes
 costumery
 caserns
 cases
-caseum
 cordis
 caseworks
 caseworm
@@ -7533,6 +7532,7 @@ cercises
 cercocebus
 cercolabes
 cercomonad
+caseum
 cercomonadidae
 cercopid
 cercopithecid
