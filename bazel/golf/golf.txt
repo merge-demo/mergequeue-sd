@@ -5052,7 +5052,6 @@ ganders
 gastaldo
 gallingness
 grovels
-garibaldi
 glider
 gonocheme
 garavance
@@ -10799,6 +10798,7 @@ gazelles
 guids
 gawky
 gesellschaften
+garibaldi
 glycocoll
 gutterspout
 ghostlily
