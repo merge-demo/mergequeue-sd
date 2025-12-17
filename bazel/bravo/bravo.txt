@@ -5842,7 +5842,6 @@ blacklisted
 boozily
 bellyland
 bilinigrin
-bellylike
 bellyman
 biunique
 biogenetical
@@ -6270,6 +6269,7 @@ brandsolder
 becassine
 bentgrass
 benthos
+bellylike
 bumelia
 besmiling
 brachycatalectic
