@@ -20483,7 +20483,6 @@ absey
 astate
 alaunian
 axers
-adjectivally
 agrarian
 auctary
 arterying
@@ -21253,6 +21252,7 @@ archantagonist
 ashling
 appraised
 abrogator
+adjectivally
 auction
 atoxic
 apparail
