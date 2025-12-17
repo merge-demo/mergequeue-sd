@@ -221,6 +221,7 @@ cabrillas
 cabrit
 cabs
 comprend
+cochleated
 cabstands
 cabuya
 celebrators
@@ -5341,7 +5342,6 @@ cassocks
 chamberlain
 cuspidated
 cassons
-cochleated
 chariotway
 cynodont
 cassowary
