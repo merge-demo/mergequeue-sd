@@ -4074,7 +4074,6 @@ beaning
 bromoacetone
 branchier
 brachylogies
-bradyacousia
 beano
 bagge
 blokes
@@ -12502,6 +12501,7 @@ boniata
 bloodshot
 barnage
 balsamroot
+bradyacousia
 bourgeoning
 brails
 bridehead
