@@ -2321,7 +2321,6 @@ asmear
 anacamptically
 acidoses
 antiradically
-afternoon
 acidosteophyte
 arecuna
 aul
@@ -24397,6 +24396,7 @@ alembics
 auksinai
 autosyndesis
 appreciable
+afternoon
 antisuffragist
 acetylenation
 autostyly
