@@ -6576,7 +6576,6 @@ epiphragm
 enterocoela
 eructed
 execrate
-epaleaceous
 easterliness
 enteroepiplocele
 eudemonistical
@@ -12708,6 +12707,7 @@ embloom
 exenterating
 emboweling
 engramma
+epaleaceous
 exopod
 epigraphist
 embus
