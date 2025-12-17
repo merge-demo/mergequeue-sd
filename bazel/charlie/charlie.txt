@@ -12751,6 +12751,7 @@ communalisation
 chumpish
 convertibleness
 chumps
+chiffon
 chums
 cruth
 chumship
@@ -30784,7 +30785,6 @@ canisiana
 cloudbursts
 charonian
 contineu
-chiffon
 carcerate
 culicoides
 cursedest

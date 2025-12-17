@@ -1701,7 +1701,6 @@ gastrojejunostomy
 glaciation
 gloated
 glaucin
-gussie
 goblinish
 governmentally
 granatite
@@ -8826,6 +8825,7 @@ goodenoviaceae
 gablock
 glaiket
 gasterophilus
+gussie
 glycins
 gonogenesis
 gregariously
