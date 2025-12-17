@@ -52,7 +52,6 @@ gibbon
 glauconia
 griller
 gluemaking
-gablewindowed
 gogga
 gonidiophore
 galeenies
@@ -5284,6 +5283,7 @@ gab
 gunter
 gorgonzola
 gamecraft
+gablewindowed
 garten
 gentilic
 gammer
