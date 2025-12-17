@@ -16379,7 +16379,6 @@ criniparous
 conditivia
 cochleare
 cliv
-cliver
 clivers
 clivis
 clivus
@@ -27370,6 +27369,7 @@ courter
 cozily
 chilblain
 courtesan
+cliver
 citriculturist
 courtesanship
 courtesy
