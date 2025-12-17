@@ -1010,7 +1010,6 @@ forritsome
 fontanges
 faying
 filmsets
-foreshop
 fucuses
 foreplan
 formate
@@ -1407,6 +1406,7 @@ fatnesses
 fatshedera
 foodlessness
 forges
+foreshop
 fatsia
 formy
 fatsoes
