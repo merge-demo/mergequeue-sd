@@ -3226,6 +3226,7 @@ forel
 fosterable
 fictionalize
 fourcher
+fuzzed
 foots
 friers
 flexionless
@@ -8626,7 +8627,6 @@ fir
 fittings
 ferretto
 flamefishes
-fuzzed
 finnochio
 flukeless
 functionate
