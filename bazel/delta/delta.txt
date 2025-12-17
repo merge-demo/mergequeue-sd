@@ -1317,7 +1317,6 @@ dolf
 daltonic
 defial
 deoxidizers
-disjunctions
 deludingly
 delftware
 draconism
@@ -5985,6 +5984,7 @@ domajigger
 diagraphics
 diamagnetize
 diagrammitically
+disjunctions
 depthlessness
 diobols
 demonetization

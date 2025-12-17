@@ -7222,7 +7222,6 @@ gloze
 grater
 gonial
 gratin
-globosite
 gymnocarpous
 gizzen
 galahad
@@ -10314,6 +10313,7 @@ gentlewomanish
 granma
 gibblegabble
 gastrulating
+globosite
 guitarists
 grossularite
 galvanomagnet
