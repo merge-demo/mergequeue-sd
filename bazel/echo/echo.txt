@@ -6574,6 +6574,7 @@ egyptianism
 expulsatory
 epiphragm
 enterocoela
+ethnicity
 eructed
 execrate
 easterliness
@@ -8160,7 +8161,6 @@ excalfaction
 episiotomies
 episkeletal
 enroots
-ethnicity
 episodical
 earsh
 episodically
