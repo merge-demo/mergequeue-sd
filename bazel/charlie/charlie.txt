@@ -10944,6 +10944,7 @@ chironym
 caecum
 chironomid
 chastised
+clotting
 chaparajos
 chironomus
 cosmologies
@@ -16697,7 +16698,6 @@ cyanus
 carts
 consonantalized
 clotty
-clotting
 characterful
 cloture
 clotured
