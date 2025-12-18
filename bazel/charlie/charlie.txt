@@ -29867,6 +29867,7 @@ crossbelt
 collectability
 crossbill
 crossbite
+cuttail
 capiatur
 curriculums
 crossbow
@@ -31870,7 +31871,6 @@ cheers
 cuttage
 caccabis
 crowfooted
-cuttail
 cirrhosis
 cursement
 cutterhead
