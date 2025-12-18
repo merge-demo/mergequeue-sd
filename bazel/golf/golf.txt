@@ -2644,6 +2644,7 @@ gurgeon
 goatsbane
 greatest
 guaraguao
+giantess
 gospodipoda
 grouted
 gaufferer
@@ -9781,7 +9782,6 @@ gradino
 goonda
 gelatinous
 gonochorismus
-giantess
 geic
 gean
 gelidities
