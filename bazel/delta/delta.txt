@@ -11719,7 +11719,6 @@ discoach
 discoverable
 distilland
 disworth
-dorms
 discoverer
 decancellation
 discoverture
@@ -13101,6 +13100,7 @@ diocese
 disperple
 diadem
 deflourish
+dorms
 decurved
 didactive
 dispersedness
