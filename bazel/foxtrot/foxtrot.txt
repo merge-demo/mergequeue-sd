@@ -4880,7 +4880,6 @@ formalness
 followable
 fulgora
 flails
-feuilletonism
 furoic
 fourteen
 fraughtage
@@ -8376,6 +8375,7 @@ formicative
 forklift
 flebile
 forklike
+feuilletonism
 forswornness
 finickily
 foundations
