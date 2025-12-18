@@ -878,6 +878,7 @@ fulfillers
 fireworks
 fieldpiece
 folliculose
+fissipeda
 footworks
 florivorous
 feverfews
@@ -6317,7 +6318,6 @@ frilal
 forebridge
 fiddlery
 fumatories
-fissipeda
 frags
 fluidity
 flack
