@@ -11046,6 +11046,7 @@ amorph
 antibenzaldoxime
 athelia
 anglicanism
+alkide
 ascensiontide
 anarthropodous
 amorphia
@@ -11171,7 +11172,6 @@ artifices
 aquatinting
 avolation
 amphibole
-alkide
 addictive
 analgesis
 aromatizer
