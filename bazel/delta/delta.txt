@@ -4322,7 +4322,6 @@ divisiveness
 demagnetising
 diacranteric
 decomposes
-dhoney
 deplores
 demagnetizing
 devilbird
@@ -11725,6 +11724,7 @@ deplume
 discradle
 delfts
 deprivation
+dhoney
 dockhands
 detectable
 dyscrasic
