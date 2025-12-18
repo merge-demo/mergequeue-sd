@@ -782,7 +782,6 @@ backcomb
 begod
 browniness
 bldr
-baetulus
 beshrewing
 boothose
 batrachophobia
@@ -13278,6 +13277,7 @@ becrimson
 botella
 botels
 bebrave
+baetulus
 buss
 barometry
 both

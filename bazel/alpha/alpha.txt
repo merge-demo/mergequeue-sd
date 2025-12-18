@@ -4108,7 +4108,6 @@ admits
 admittance
 admitted
 agitpunkt
-ardoise
 ampliation
 allocates
 admitters
@@ -4373,6 +4372,7 @@ agazed
 aktiebolag
 antickt
 aterian
+ardoise
 atelectasis
 adsmithing
 adelocerous
