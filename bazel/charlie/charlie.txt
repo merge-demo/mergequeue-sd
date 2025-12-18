@@ -1163,6 +1163,7 @@ calcsinter
 chinnam
 cranioclasis
 calcspars
+corsie
 cotwal
 crunches
 chilopoda
@@ -28048,7 +28049,6 @@ chemosynthetically
 crambos
 crambus
 cramel
-corsie
 crammed
 crammel
 consolidating
