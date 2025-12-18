@@ -5223,7 +5223,6 @@ gnosticizer
 gunated
 glouted
 gaposis
-galore
 gemara
 gentianose
 grateman
@@ -5493,6 +5492,7 @@ geomorphogenist
 gonadic
 gandhiism
 gliffy
+galore
 grid
 gasoline
 glirine
