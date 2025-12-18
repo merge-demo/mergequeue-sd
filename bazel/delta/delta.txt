@@ -478,7 +478,6 @@ dilleniaceous
 deutochloride
 dolichoglossus
 dismayingly
-danaidae
 daledh
 dandelions
 dankali
@@ -1509,6 +1508,7 @@ defraudment
 deacetylating
 doarium
 deked
+danaidae
 deaconate
 demigorge
 delphinoidea
