@@ -2879,6 +2879,7 @@ diskos
 discretively
 disposure
 dangle
+diasporas
 disjointedness
 doveling
 disgenius
@@ -15295,7 +15296,6 @@ dialler
 diffuse
 declassing
 discerner
-diasporas
 destructivism
 dolphin
 dustiness
