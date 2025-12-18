@@ -8540,7 +8540,6 @@ dethrone
 dewbeam
 definiens
 didacts
-diaphanometric
 dampishness
 debateful
 daimonion
@@ -17455,6 +17454,7 @@ digitizer
 drouking
 deprehension
 deforcer
+diaphanometric
 drouth
 dopas
 delphacid
