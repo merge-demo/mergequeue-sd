@@ -8555,7 +8555,6 @@ diaphysis
 dracontiasis
 druggists
 diaphone
-diaphones
 dexterously
 drys
 deflex
@@ -16261,6 +16260,7 @@ dyspneal
 damaskeening
 draughtswomanship
 deforest
+diaphones
 deteriorate
 downface
 downstair
