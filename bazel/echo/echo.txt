@@ -1615,6 +1615,7 @@ eidograph
 eclogues
 esthiomenus
 eases
+eloise
 eligent
 elboic
 evectional
@@ -3104,7 +3105,6 @@ etioporphyrin
 editorializers
 ectotropic
 embalms
-eloise
 epidermidalization
 exocoelom
 epigonousepigons
