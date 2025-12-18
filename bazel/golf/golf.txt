@@ -6754,7 +6754,6 @@ gametophore
 gaultherase
 gagging
 grannie
-gripped
 geneticist
 georgic
 gulash
@@ -10532,6 +10531,7 @@ goggles
 giftling
 galleriidae
 gyrational
+gripped
 gimmicks
 goalee
 guadua
