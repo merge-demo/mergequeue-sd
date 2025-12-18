@@ -10644,6 +10644,7 @@ calcaemia
 chime
 chimeral
 chanteys
+craterless
 chimeric
 coptic
 calci
@@ -28292,7 +28293,6 @@ cratering
 comatik
 craterkin
 chromites
-craterless
 craterlet
 craterlike
 covariance
