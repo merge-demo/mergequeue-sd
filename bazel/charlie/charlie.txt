@@ -1329,7 +1329,6 @@ crewless
 cravatted
 crab
 costliest
-contrist
 cesarolite
 caliburno
 chivalrous
@@ -3147,6 +3146,7 @@ coenospecifically
 craterid
 cristatella
 cape
+contrist
 chequerboard
 capeadores
 capelan
