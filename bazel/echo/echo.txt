@@ -844,7 +844,6 @@ endonucleolus
 entailed
 ectomorph
 ectoparasite
-exemptionist
 euxanthic
 ectoparasitica
 exhumating
@@ -8596,6 +8595,7 @@ ergasia
 equilibrious
 extraliminal
 erectly
+exemptionist
 equilibriums
 etherialization
 equimodal
