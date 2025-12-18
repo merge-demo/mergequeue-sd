@@ -9,6 +9,7 @@ gabber
 gabbers
 gobi
 guepard
+gusty
 grasswork
 gratuities
 gabelles
@@ -7892,7 +7893,6 @@ groggiest
 gilbertage
 gameful
 grandams
-gusty
 generic
 gramophonic
 gruelling
