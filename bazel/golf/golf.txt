@@ -10097,7 +10097,6 @@ glore
 gudgeon
 grobianism
 graecize
-glamourless
 gainings
 gloomingly
 gramophonically
@@ -10256,6 +10255,7 @@ gowpin
 gweduck
 gobbet
 gunless
+glamourless
 guillotinist
 glutaraldehyde
 ginzo
