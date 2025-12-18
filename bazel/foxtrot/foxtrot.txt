@@ -6149,7 +6149,6 @@ fontinalaceae
 fearnought
 fn
 frustration
-fetidity
 fantom
 fluoroscopists
 frequented
@@ -11054,6 +11053,7 @@ flappers
 fungated
 funambulator
 feels
+fetidity
 faunological
 flinty
 fizzers

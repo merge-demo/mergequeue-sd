@@ -1716,7 +1716,6 @@ eyepiece
 enrapturer
 everard
 extg
-embattle
 emule
 exhbn
 epigraphic
@@ -7686,6 +7685,7 @@ ecgonine
 erythrine
 enfevered
 epidemiography
+embattle
 elytroplastic
 epeirogeny
 equilibration
