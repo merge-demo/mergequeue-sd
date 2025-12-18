@@ -3581,6 +3581,7 @@ fenceful
 florigraphy
 forspoken
 feddan
+fels
 flapjacks
 fussle
 fairbanks
@@ -5745,7 +5746,6 @@ furnage
 fungistatic
 fractuosity
 furrings
-fels
 figureheadless
 fisher
 foredeserved
