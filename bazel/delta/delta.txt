@@ -673,7 +673,6 @@ drachms
 divorcement
 decapitalize
 damped
-desquamated
 dukely
 deafen
 dudgeons
@@ -14970,6 +14969,7 @@ disarmature
 disobstruct
 domestics
 dogberry
+desquamated
 dogberryism
 dubbeh
 dogboat

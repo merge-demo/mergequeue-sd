@@ -2909,6 +2909,7 @@ epistoler
 ekronite
 entomology
 elidible
+evase
 etagere
 epistasy
 educationally
@@ -12348,7 +12349,6 @@ enurny
 equilobate
 eupepsies
 edgeling
-evase
 expects
 exhibitors
 excrescencies
