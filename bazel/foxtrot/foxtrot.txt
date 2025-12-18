@@ -1520,7 +1520,6 @@ filmmaking
 foulards
 foci
 filibeg
-flauntiness
 forepiece
 faunish
 fleecing
@@ -2514,6 +2513,7 @@ fiatconfirmatio
 fanam
 feeler
 frugivorous
+flauntiness
 fibromembranous
 filamentule
 freebee
