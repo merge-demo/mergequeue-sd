@@ -15159,6 +15159,7 @@ ataxonomic
 azimine
 antienzyme
 antiepiscopal
+archdean
 arigue
 antiestablishment
 auriscopic
@@ -21561,7 +21562,6 @@ aristarchies
 amalgamator
 actinula
 arthemis
-archdean
 arrowroot
 asphodel
 aspy
