@@ -160,7 +160,6 @@ fifthly
 folden
 fellaheen
 facks
-forefront
 fletcherize
 fumitories
 foremostly
@@ -6253,6 +6252,7 @@ friendlike
 frankeniaceous
 fecit
 fluidified
+forefront
 ferromagnet
 flummeries
 fld
