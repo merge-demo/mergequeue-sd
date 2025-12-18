@@ -4615,7 +4615,6 @@ fistwise
 fit
 fontally
 fitchee
-fibrocalcareous
 filagrees
 ferring
 flowmanostat
@@ -7307,6 +7306,7 @@ facers
 fishergirl
 fourgon
 flushermen
+fibrocalcareous
 fumitory
 favelloid
 farceuse
