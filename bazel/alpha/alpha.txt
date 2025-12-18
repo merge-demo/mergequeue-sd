@@ -293,7 +293,6 @@ apelet
 abdom
 autoserotherapy
 arian
-arsines
 anolian
 abdominalian
 appurtenances
@@ -1153,6 +1152,7 @@ alogically
 acacia
 albuminous
 acacian
+arsines
 acacias
 apparitions
 adjuratory
