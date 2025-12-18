@@ -443,6 +443,7 @@ glandlike
 gloating
 graphologic
 gaping
+geodetic
 galeid
 genny
 gyms
@@ -624,7 +625,6 @@ gradatory
 guenepe
 guideline
 gramineal
-geodetic
 grottowork
 graithly
 gardencraft
