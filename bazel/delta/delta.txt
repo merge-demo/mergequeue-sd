@@ -1297,7 +1297,6 @@ dauber
 distinguishingly
 dauberies
 dramatic
-dumpings
 diastaltic
 decoloured
 daubreite
@@ -9221,6 +9220,7 @@ dieing
 deprovincialize
 dagged
 dramshops
+dumpings
 derat
 dyeings
 discontented
