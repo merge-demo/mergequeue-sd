@@ -1940,6 +1940,7 @@ euthamia
 earthen
 etherialize
 exteriorate
+enquires
 elastics
 exothermal
 economizing
@@ -4681,7 +4682,6 @@ emplaced
 exponentiating
 encircle
 embrowned
-enquires
 emittent
 elocutive
 entryway
