@@ -1714,7 +1714,6 @@ farouk
 flourless
 foodservices
 faviform
-feasibly
 fashionmonger
 flighted
 fascio
@@ -6617,6 +6616,7 @@ fingerstone
 fascioliasis
 foible
 flagrante
+feasibly
 fundholder
 flapperism
 flirtier
