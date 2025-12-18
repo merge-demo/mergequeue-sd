@@ -8811,6 +8811,7 @@ bubonic
 buffaloed
 bink
 binna
+bumpology
 bowering
 brilliants
 binned
@@ -17305,7 +17306,6 @@ boreholes
 bumpers
 blazons
 bumpkin
-bumpology
 borschts
 bumptious
 boltstrake
