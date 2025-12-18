@@ -3903,6 +3903,7 @@ appeasers
 anisoyl
 adital
 aporrhoea
+antagony
 aquacades
 ansae
 arthrosyrinx
@@ -13950,7 +13951,6 @@ antae
 antaean
 agriotypidae
 alvelos
-antagony
 auscultator
 antiprestidigitation
 anamniota
