@@ -1013,6 +1013,7 @@ drillmasters
 draughtsmen
 disquietudes
 driven
+detrivorous
 displanted
 donacidae
 darkly
@@ -7440,7 +7441,6 @@ defilable
 disequilibriums
 densitometry
 disseised
-detrivorous
 dervish
 damn
 doggereled

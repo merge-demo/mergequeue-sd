@@ -5505,7 +5505,6 @@ forecasting
 fossed
 fretwork
 fratching
-foraged
 fleshy
 fillet
 ferally
@@ -10864,6 +10863,7 @@ fantasizing
 footholds
 fallings
 fossors
+foraged
 flavor
 frizzy
 frowardly
