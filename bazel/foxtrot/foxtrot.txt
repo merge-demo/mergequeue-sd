@@ -1874,6 +1874,7 @@ feedwater
 fineries
 fallow
 fewer
+frankeniaceous
 fecundize
 flintier
 foredoom
@@ -6245,7 +6246,6 @@ freewheelers
 farmtown
 flapdragon
 friendlike
-frankeniaceous
 fecit
 fluidified
 forefront
