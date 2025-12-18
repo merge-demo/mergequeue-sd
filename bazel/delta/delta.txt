@@ -9250,6 +9250,7 @@ drawcard
 digitaliform
 diemakers
 duckie
+desensitize
 dehumidifying
 dossils
 dimnesses
@@ -13636,7 +13637,6 @@ diedral
 dissimilate
 disacquaintance
 dissimilative
-desensitize
 dangered
 decentralizationist
 dandyishly
