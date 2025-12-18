@@ -9355,7 +9355,6 @@ dismembering
 dixy
 differentiant
 daggy
-differentiate
 dioscoreaceous
 differentiator
 defalcates
@@ -13294,6 +13293,7 @@ distillate
 destuffing
 daintier
 dustpoint
+differentiate
 dispurvey
 disputability
 dolichocephali
