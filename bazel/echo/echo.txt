@@ -1588,7 +1588,6 @@ exsanguine
 egromancy
 egurgitate
 egurgitated
-euphonon
 explanatively
 elchee
 ehretiaceae
@@ -5965,6 +5964,7 @@ erogenic
 encoronet
 enisled
 enisles
+euphonon
 echinoderidae
 expeditated
 ejectors
