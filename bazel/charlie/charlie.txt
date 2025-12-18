@@ -10159,6 +10159,7 @@ codworm
 croisard
 coussinet
 chia
+commercialise
 chyack
 chianti
 chiao
@@ -29099,7 +29100,6 @@ crinites
 capriccettos
 crinitory
 craniota
-commercialise
 carryover
 capered
 curine
