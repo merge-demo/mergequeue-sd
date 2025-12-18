@@ -1172,7 +1172,6 @@ fallals
 fungistatically
 fascine
 forehatchway
-ferreous
 fishmeals
 furring
 fascintatingly
@@ -5703,6 +5702,7 @@ flype
 feodaries
 funiculi
 forkmen
+ferreous
 faldworth
 federalizing
 forfeitures
