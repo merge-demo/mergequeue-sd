@@ -7860,7 +7860,6 @@ furcellate
 fractionisation
 fungify
 favorite
-focusing
 fatiguable
 fellen
 findings
@@ -9846,6 +9845,7 @@ foredestine
 foxily
 funnelform
 fibrosarcoma
+focusing
 forefelt
 flexibleness
 flinger

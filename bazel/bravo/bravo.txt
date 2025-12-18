@@ -15341,7 +15341,6 @@ blondine
 bevomited
 bother
 brachypterous
-bandhu
 brigantia
 brigantines
 brigatry
@@ -16831,6 +16830,7 @@ bucketman
 black
 baillonella
 buffier
+bandhu
 buffiest
 blighties
 birdcalls
