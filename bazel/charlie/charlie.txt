@@ -23020,6 +23020,7 @@ consonantness
 consonants
 collapsibility
 conscriptive
+clergess
 cutty
 consonate
 consonous
@@ -26392,7 +26393,6 @@ cinderlike
 coterie
 ciminite
 centipoise
-clergess
 coterminousness
 cotes
 cycloidian
