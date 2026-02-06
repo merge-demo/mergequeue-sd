@@ -728,7 +728,6 @@ emblematised
 extoled
 effaces
 endermatic
-effascinate
 exuvium
 ecotype
 ecotipically
@@ -1455,6 +1454,7 @@ exposal
 embolium
 embarrased
 etui
+effascinate
 epizootically
 effused
 extemporaneously
