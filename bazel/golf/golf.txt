@@ -5785,6 +5785,7 @@ goings
 gleeds
 gish
 grimmish
+greenswarded
 grumes
 gloomy
 grapsoid
@@ -8797,7 +8798,6 @@ greensickness
 greenstone
 gange
 golems
-greenswarded
 greenware
 giveth
 greenwoods
