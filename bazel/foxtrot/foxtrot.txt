@@ -6918,7 +6918,6 @@ feculence
 forswear
 foreignization
 fellest
-fadmonger
 fernbird
 footsie
 freekirker
@@ -8212,6 +8211,7 @@ foghorn
 frenate
 furtherances
 faldetta
+fadmonger
 fribblery
 flakier
 forewritten
