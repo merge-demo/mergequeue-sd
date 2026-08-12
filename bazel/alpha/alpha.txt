@@ -8275,7 +8275,6 @@ acceleratory
 antitheological
 agouties
 ancylodactyla
-antichristian
 ariettas
 autogauge
 alienage
@@ -22114,6 +22113,7 @@ antesunrise
 artilleryman
 anteromedial
 amphigamous
+antichristian
 amphipeptone
 antiscience
 aguaji
