@@ -11347,6 +11347,7 @@ amphithyron
 apetalies
 amphithura
 amphipnous
+adequate
 ayuntamientos
 aniba
 apochae
@@ -11509,7 +11510,6 @@ amusement
 artificership
 anagennesis
 alodiality
-adequate
 aerometry
 agglomerant
 anisettes
