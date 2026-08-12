@@ -4884,6 +4884,7 @@ beechen
 broadcloth
 bloomage
 bomarea
+binately
 beechwood
 bright
 bourbons
@@ -18197,7 +18198,6 @@ bohereen
 bibliothecary
 bremely
 butsu
-binately
 brushiest
 brigbote
 boredness
