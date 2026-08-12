@@ -6830,7 +6830,6 @@ freelancer
 folderols
 foveiform
 forepretended
-fjelds
 frette
 freeing
 foraminiferan
@@ -10498,6 +10497,7 @@ fatness
 frutescent
 frostings
 fanzine
+fjelds
 fervencies
 floggable
 felsosphaerite
