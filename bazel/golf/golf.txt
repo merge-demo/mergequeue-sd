@@ -5765,6 +5765,7 @@ grieshuckle
 girasols
 gyrolite
 geologize
+granting
 gawks
 gammons
 galloperdix
@@ -9526,7 +9527,6 @@ gyred
 grimp
 giftbook
 gymnosporous
-granting
 guiltiness
 gentilitious
 graals
