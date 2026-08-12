@@ -10286,7 +10286,6 @@ akkadist
 asyllabia
 arcticize
 anemious
-agricolite
 amelanchier
 avarice
 argus
@@ -19583,6 +19582,7 @@ actinobacillus
 arguments
 amorosa
 auriculated
+agricolite
 arguslike
 alexipharmic
 aegyrite
