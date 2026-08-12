@@ -2143,7 +2143,6 @@ elderliness
 exponentiated
 expect
 enchurch
-epimyocardial
 eths
 electrovalently
 emphasising
@@ -3411,6 +3410,7 @@ ekhimi
 eversporting
 evocable
 expiative
+epimyocardial
 eleutherosepalous
 ennuis
 expediters
